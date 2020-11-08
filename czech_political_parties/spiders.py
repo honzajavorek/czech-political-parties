@@ -9,17 +9,6 @@ TYPE_MAPPING = {
     'Politické hnutí': 'movement',
 }
 
-KEY_MAPPING = {
-    'Název hnutí:': 'name',
-    'Název strany:': 'name',
-    'Zkratka hnutí:': 'code',
-    'Zkratka strany:': 'code',
-    'Číslo registrace:': 'reg_number',
-    'Identifikační číslo:': 'id',
-    'Adresa sídla:': 'address',
-    'Den registrace:': 'reg_date',
-}
-
 
 class CzechPoliticalPartiesSpider(scrapy.Spider):
     name = 'czech-political-parties'
@@ -41,10 +30,10 @@ class CzechPoliticalPartiesSpider(scrapy.Spider):
 
     def parse_item(self, response):
         type_ = response.css('#vypisRejstrik h3')[0]
-        item = dict(type=TYPE_MAPPING[extract_text(type_)])
+        rows = response.css('#vypisRejstrik tr')
 
         data = {}
-        for tr in response.css('#vypisRejstrik tr'):
+        for tr in rows:
             try:
                 key, value = tr.css('td')
             except ValueError:
@@ -52,15 +41,31 @@ class CzechPoliticalPartiesSpider(scrapy.Spider):
             else:
                 key, value = extract_text(key), extract_text(value)
                 data[key] = value
-        data = {new_key: data[key] for key, new_key in KEY_MAPPING.items()
-                if key in data}
 
-        item = {**item, **data}
-        item['name'] = item['name'].strip('"„”“')
-        item['code'] = item['code'].strip('"„”“')
-        item['id'] = None if item['id'] == 'None' else item['id']
-        item['reg_date'] = arrow.get(item['reg_date'], 'M/D/YYYY').date()
-        yield item
+        heading = None
+        people = []
+        for tr in rows:
+            try:
+                heading = tr.css('h3::text').get().strip()
+            except AttributeError:
+                if heading == 'Osoby':
+                    role, person = tr.css('td')
+                    role, person = extract_text(role), extract_text(person)
+                    people.append({
+                        'name': person.splitlines()[0].strip(),
+                        'role': role.lower().rstrip(':'),
+                    })
+
+        yield {
+            'name': (data.get('Název strany:') or data['Název hnutí:']).strip('"„”“'),
+            'code': (data.get('Zkratka strany:') or data['Zkratka hnutí:']).strip('"„”“'),
+            'id': None if data['Identifikační číslo:'] == 'None' else data['Identifikační číslo:'],
+            'reg_number': data['Číslo registrace:'],
+            'reg_date': arrow.get(data['Den registrace:'], 'M/D/YYYY').date(),
+            'address': data['Adresa sídla:'],
+            'people': people,
+            'type': TYPE_MAPPING[extract_text(type_)],
+        }
 
 
 def extract_text(td):
