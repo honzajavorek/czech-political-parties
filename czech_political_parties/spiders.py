@@ -54,7 +54,7 @@ class CzechPoliticalPartiesSpider(scrapy.Spider):
                     role, person = extract_text(role), extract_text(person)
                     people.append({
                         'name': person.splitlines()[0].strip(),
-                        'role': role.lower().rstrip(':'),
+                        'role': role.rstrip(':'),
                     })
                 if heading == 'Aktuální stav':
                     is_active = False
