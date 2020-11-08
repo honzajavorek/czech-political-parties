@@ -18,7 +18,9 @@ class SortedJsonItemExporter(BaseItemExporter):
         self.items.append(dict(self._get_serialized_fields(item)))
 
     def finish_exporting(self):
-        data = self.encoder.encode(sorted(self.items,
-                                          key=itemgetter('reg_date'),
-                                          reverse=True))
+        data = self.encoder.encode(sorted(self.items, key=sort_key))
         self.file.write(to_bytes(data, self.encoding))
+
+
+def sort_key(item):
+    return (-1 * item['reg_date'].toordinal(), item['name'])
