@@ -1,0 +1,3773 @@
+[
+    {
+        "type": "movement",
+        "name": "SENIOŘI 21",
+        "code": "SENIOŘI",
+        "reg_number": "MV-140218-4/OV-2020",
+        "id": "09607684",
+        "address": "708 00 Ostrava, Slavíkova 1390/4",
+        "reg_date": "2020-10-15"
+    },
+    {
+        "type": "party",
+        "name": "O vás pro vás",
+        "code": "OVPV",
+        "reg_number": "MV-184938-6/OV-2019",
+        "id": "09363149",
+        "address": "370 06 České Budějovice, Pohůrecká 414/3",
+        "reg_date": "2020-07-27"
+    },
+    {
+        "type": "party",
+        "name": "VIZE - národní socialisté",
+        "code": "VIZENS",
+        "reg_number": "MV-110176-5/OV-2020",
+        "id": "09352741",
+        "address": "411 56 Bohušovice nad Ohří, U Stadionu 297",
+        "reg_date": "2020-07-22"
+    },
+    {
+        "type": "movement",
+        "name": "Nezávislá kandidátka",
+        "code": "NeKa",
+        "reg_number": "MV-104612-6/OV-2020",
+        "id": "09340718",
+        "address": "594 01 Velké Meziříčí, Markova 1964/4",
+        "reg_date": "2020-07-17"
+    },
+    {
+        "type": "movement",
+        "name": "PÍSEK SOBĚ – sdružení nezávislých kandidátů",
+        "code": "PÍSEK SOBĚ",
+        "reg_number": "MV-105370-2/OV-2020",
+        "id": "09318739",
+        "address": "397 01 Písek, Tyršova 681/38",
+        "reg_date": "2020-07-09"
+    },
+    {
+        "type": "movement",
+        "name": "Mladí pro Pardubický kraj",
+        "code": "MPK",
+        "reg_number": "MV-94675-5/OV-2020",
+        "id": "09301020",
+        "address": "538 36 Žumberk 132",
+        "reg_date": "2020-07-01"
+    },
+    {
+        "type": "movement",
+        "name": "ZA OBČANY",
+        "code": "ZA OBČANY",
+        "reg_number": "MV- 84656-5/OV-2020",
+        "id": "09244263",
+        "address": "516 01 Rychnov nad Kněžnou, Staré náměstí 68",
+        "reg_date": "2020-06-12"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí Idealisté",
+        "code": "Idealisté",
+        "reg_number": "MV-90266-2/OV-2020",
+        "id": "09233229",
+        "address": "638 00 Brno, Soběšická 1472/128A",
+        "reg_date": "2020-06-09"
+    },
+    {
+        "type": "movement",
+        "name": "Alternativa pro nezávislé kandidáty 2020 - ANK 2020",
+        "code": "ANK 2020",
+        "reg_number": "MV-86632-2/OV-2020",
+        "id": "09227041",
+        "address": "708 00 Ostrava, Slavíkova 6068/18",
+        "reg_date": "2020-06-08"
+    },
+    {
+        "type": "movement",
+        "name": "Budoucnost",
+        "code": "Budoucnost",
+        "reg_number": "MV-72216-4/OV-2020",
+        "id": "09182004",
+        "address": "130 00 Praha, Čajkovského 1671/25",
+        "reg_date": "2020-05-22"
+    },
+    {
+        "type": "movement",
+        "name": "Patrioti Olomouckého kraje",
+        "code": "POK",
+        "reg_number": "MV-29908-2/VS-2020",
+        "id": "08960909",
+        "address": "779 00 Olomouc, Chválkovická 109/14",
+        "reg_date": "2020-02-18"
+    },
+    {
+        "type": "movement",
+        "name": "Změna 2020",
+        "code": "Z 2020",
+        "reg_number": "MV-153319-4/VS-2019",
+        "id": "08773297",
+        "address": "375 01 Týn nad Vltavou, Bohunická 535",
+        "reg_date": "2019-12-13"
+    },
+    {
+        "type": "movement",
+        "name": "Společně pro kraj",
+        "code": "SproK",
+        "reg_number": "MV-104993-4/VS-2019",
+        "id": "08431345",
+        "address": "561 51 Letohrad, Komenského 275",
+        "reg_date": "2019-08-19"
+    },
+    {
+        "type": "movement",
+        "name": "Trikolóra hnutí občanů",
+        "code": "Trikolóra",
+        "reg_number": "MV-82512-4/VS-2019",
+        "id": "08288909",
+        "address": "118 00 Praha, Malostranské náměstí 5/28",
+        "reg_date": "2019-06-25"
+    },
+    {
+        "type": "movement",
+        "name": "Jednotní",
+        "code": "JEDNOTNÍ",
+        "reg_number": "MV-38864-3/VS-2019",
+        "id": "07991070",
+        "address": "708 00 Ostrava, Alšovo náměstí 691/4",
+        "reg_date": "2019-03-15"
+    },
+    {
+        "type": "movement",
+        "name": "LIST JAROMÍRA SOUKUPA",
+        "code": "LJS",
+        "reg_number": "MV-38597-4/VS-2019",
+        "id": "07991291",
+        "address": "147 00 Praha, Mikuleckého 1311/8",
+        "reg_date": "2019-03-15"
+    },
+    {
+        "type": "party",
+        "name": "JSI PRO? Jistota Solidarita Investice pro budoucnost",
+        "code": "JSI PRO?",
+        "reg_number": "MV-29782-5/VS-2019",
+        "id": "07990197",
+        "address": "602 00 Brno, Příkop 6",
+        "reg_date": "2019-03-14"
+    },
+    {
+        "type": "movement",
+        "name": "TVŮJ KANDIDÁT",
+        "code": "TUJKA",
+        "reg_number": "MV-33601-4/VS-2019",
+        "id": "07986858",
+        "address": "120 00 Praha, Ječná 529/29",
+        "reg_date": "2019-03-14"
+    },
+    {
+        "type": "movement",
+        "name": "Pro Česko",
+        "code": "PROČ",
+        "reg_number": "MV-27075-4/VS-2019",
+        "id": "07979754",
+        "address": "530 02 Pardubice, třída Míru 70",
+        "reg_date": "2019-03-12"
+    },
+    {
+        "type": "party",
+        "name": "INSTITUT",
+        "code": "IN",
+        "reg_number": "MV-16230-6/VS-2019",
+        "id": "07972733",
+        "address": "186 00 Praha, Pernerova 250/19",
+        "reg_date": "2019-03-11"
+    },
+    {
+        "type": "movement",
+        "name": "HLAS",
+        "code": "Hlas",
+        "reg_number": "MV-25390-2/VS-2019",
+        "id": "07921331",
+        "address": "170 00 Praha, Dělnická 213/12",
+        "reg_date": "2019-02-22"
+    },
+    {
+        "type": "movement",
+        "name": "Evropa společně",
+        "code": "ESO",
+        "reg_number": "MV-17573-2/VS-2019",
+        "id": "07882467",
+        "address": "149 00 Praha, K jezeru 482/18",
+        "reg_date": "2019-02-11"
+    },
+    {
+        "type": "movement",
+        "name": "PRVNÍ REPUBLIKA",
+        "code": "NÁRODOVCI",
+        "reg_number": "MV-126625-4/VS-2018",
+        "id": "07671008",
+        "address": "460 15 Liberec, Vlčí vrch 673/30",
+        "reg_date": "2018-11-26"
+    },
+    {
+        "type": "party",
+        "name": "Moravská a Slezská pirátská strana",
+        "code": "MS Piráti",
+        "reg_number": "MV-87779-11/VS-2018",
+        "id": "07374275",
+        "address": "736 01 *Havířov, Želivského 1338/3",
+        "reg_date": "2018-08-16"
+    },
+    {
+        "type": "movement",
+        "name": "Vinohrady společně",
+        "code": "VS",
+        "reg_number": "MV-77727-7/VS-2018",
+        "id": "07324758",
+        "address": "628 00 Brno, Prušánecká  4173/14",
+        "reg_date": "2018-07-27"
+    },
+    {
+        "type": "movement",
+        "name": "DOST JE DOST ! Občané za svá práva",
+        "code": "Dost je Dost !",
+        "reg_number": "MV-74478-6/VS-2018",
+        "id": "07307977",
+        "address": "140 00 Praha, Pod vilami  756/14",
+        "reg_date": "2018-07-23"
+    },
+    {
+        "type": "movement",
+        "name": "Naše Obec",
+        "code": "NAŠE",
+        "reg_number": "MV- 74479-4/VS-2018",
+        "id": "07312946",
+        "address": "109 00 Praha, Boloňská 602",
+        "reg_date": "2018-07-23"
+    },
+    {
+        "type": "movement",
+        "name": "VIZE pro Česko",
+        "code": "VIZE",
+        "reg_number": "MV-78360-2/VS-2018",
+        "id": "07301600",
+        "address": "253 01 Chýně, Modřínová 496",
+        "reg_date": "2018-07-18"
+    },
+    {
+        "type": "movement",
+        "name": "Alternativa pro Vás",
+        "code": "ApV",
+        "reg_number": "MV-78356-2/VS-2018",
+        "id": "07289731",
+        "address": "284 03 Kutná Hora, Starosedlecká 14",
+        "reg_date": "2018-07-16"
+    },
+    {
+        "type": "movement",
+        "name": "Čisté Budějovice",
+        "code": "ČiB",
+        "reg_number": "MV-75589-2/VS-2018",
+        "id": "07290853",
+        "address": "370 01 České Budějovice, Bachmačská 372/1",
+        "reg_date": "2018-07-16"
+    },
+    {
+        "type": "movement",
+        "name": "Nezávislí – Naše Čtrnáctka",
+        "code": "NN14",
+        "reg_number": "MV-75588-4/VS-2018",
+        "id": "07286210",
+        "address": "198 00 Praha, Na obrátce 636/4",
+        "reg_date": "2018-07-12"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí 2018",
+        "code": "H2018",
+        "reg_number": "MV-71489-4/VS-2018",
+        "id": "07283202",
+        "address": "350 02 Cheb, Blanická 166/20",
+        "reg_date": "2018-07-11"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí nezávislých, PRO-Kdyňsko",
+        "code": "PRO-Kdyňsko",
+        "reg_number": "MV-73180-4/VS-2018",
+        "id": "07283652",
+        "address": "345 06 Kdyně, Rýzmberská 702",
+        "reg_date": "2018-07-11"
+    },
+    {
+        "type": "movement",
+        "name": "Vize národních socialistů",
+        "code": "VIZE-NS",
+        "reg_number": "MV-74505-4/VS-2018",
+        "id": "07283911",
+        "address": "411 56 Bohušovice nad Ohří, U Stadionu 297",
+        "reg_date": "2018-07-11"
+    },
+    {
+        "type": "movement",
+        "name": "ANO, vytrollíme europarlament",
+        "code": "EU TROLL",
+        "reg_number": "MV-66648-4/VS-2018",
+        "id": "07266782",
+        "address": "627 00 Brno, Bučovická 937/8",
+        "reg_date": "2018-07-03"
+    },
+    {
+        "type": "movement",
+        "name": "KOLONÁDA – HNUTÍ PATRIOTŮ",
+        "code": "KOLONÁDA",
+        "reg_number": "MV-72006-2/VS-2018",
+        "id": "07247311",
+        "address": "360 01 Karlovy Vary, Moskevská 946/10",
+        "reg_date": "2018-06-27"
+    },
+    {
+        "type": "movement",
+        "name": "Společně pro Strakonice",
+        "code": "SPS",
+        "reg_number": "MV-68072-2-/VS-2018",
+        "id": "07230052",
+        "address": "386 01 Strakonice, Mikoláše Alše 780",
+        "reg_date": "2018-06-21"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí PRO Hodonín",
+        "code": "PRO-HOD",
+        "reg_number": "MV-59343-4/VS-2018",
+        "id": "07223471",
+        "address": "695 01 Hodonín, Na Pískách 4117/4",
+        "reg_date": "2018-06-19"
+    },
+    {
+        "type": "party",
+        "name": "Sdružení pro Místní Správu",
+        "code": "SMS",
+        "reg_number": "MV-64441-4/VS-2018",
+        "id": "07218443",
+        "address": "190 11 Praha, Podnikatelská 539",
+        "reg_date": "2018-06-18"
+    },
+    {
+        "type": "movement",
+        "name": "JAUNER Československo 2018",
+        "code": "JAUNER",
+        "reg_number": "MV-50831-13/VS-2018",
+        "id": "07213328",
+        "address": "779 00 Olomouc, Partyzánská 698/6A",
+        "reg_date": "2018-06-14"
+    },
+    {
+        "type": "movement",
+        "name": "Brno Plus",
+        "code": "Brno+",
+        "reg_number": "MV-58861-4/VS-2018",
+        "id": "07204752",
+        "address": "625 00 Brno, Ukrajinská 544/17",
+        "reg_date": "2018-06-12"
+    },
+    {
+        "type": "movement",
+        "name": "ŽIVÁ PRAHA 5",
+        "code": "ŽP5",
+        "reg_number": "MV-57244-4/VS-2018",
+        "id": "07202059",
+        "address": "150 00 Praha, Vrchlického 886/76",
+        "reg_date": "2018-06-11"
+    },
+    {
+        "type": "movement",
+        "name": "Klidné město",
+        "code": "KM",
+        "reg_number": "MV-63155-2/VS-2018",
+        "id": "07196989",
+        "address": "251 01 Říčany, Ruská 1813/8",
+        "reg_date": "2018-06-08"
+    },
+    {
+        "type": "movement",
+        "name": "Brněnští senioři",
+        "code": "BSen",
+        "reg_number": "MV-60585-2/VS-2018",
+        "id": "07195389",
+        "address": "614 00 Brno, Cacovická 1595/66A",
+        "reg_date": "2018-06-07"
+    },
+    {
+        "type": "movement",
+        "name": "Slezská pro život",
+        "code": "Slezská",
+        "reg_number": "MV-56551-4/VS-2018",
+        "id": "07174101",
+        "address": "710 00 Ostrava, U Staré elektrárny 1881/2",
+        "reg_date": "2018-05-31"
+    },
+    {
+        "type": "movement",
+        "name": "Marek Hilšer do Senátu",
+        "code": "MHS",
+        "reg_number": "MV-50348-4/VS-2018",
+        "id": "07157029",
+        "address": "118 00 Praha, Pohořelec 110/26",
+        "reg_date": "2018-05-25"
+    },
+    {
+        "type": "movement",
+        "name": "Za lepší Střekov",
+        "code": "ZLS",
+        "reg_number": "MV-52447-4/VS-2018",
+        "id": "07156871",
+        "address": "400 03 Ústí nad Labem, Purkyňova 1022/53",
+        "reg_date": "2018-05-25"
+    },
+    {
+        "type": "movement",
+        "name": "OBYČEJNÍ LIDÉ",
+        "code": "OL",
+        "reg_number": "MV-55200-2/VS-2018",
+        "id": "07152931",
+        "address": "102 00 Praha, Selská 36/6",
+        "reg_date": "2018-05-24"
+    },
+    {
+        "type": "movement",
+        "name": "spOLečně",
+        "code": "spOL",
+        "reg_number": "MV-51813-2/VS-2018",
+        "id": "07118317",
+        "address": "779 00 Olomouc, Školní 182/4",
+        "reg_date": "2018-05-11"
+    },
+    {
+        "type": "movement",
+        "name": "LEČO – LEPŠÍ A ČISTÁ OSTRAVA",
+        "code": "LEČO",
+        "reg_number": "MV-39396-2/VS-2018",
+        "id": "01963384",
+        "address": "700 30 Ostrava, Plzeňská 2621/2",
+        "reg_date": "2018-04-11"
+    },
+    {
+        "type": "movement",
+        "name": "Moravské zemské hnutí",
+        "code": "MZH",
+        "reg_number": "MV-16414-4/VS-2018",
+        "id": "07027761",
+        "address": "380 01 Dačice, Na Vyhlídce 89",
+        "reg_date": "2018-04-09"
+    },
+    {
+        "type": "movement",
+        "name": "Národní obroda",
+        "code": "NOB",
+        "reg_number": "MV-5095-6/VS-2018",
+        "id": "06893376",
+        "address": "101 00 Praha, Korunní 2569/108",
+        "reg_date": "2018-02-23"
+    },
+    {
+        "type": "movement",
+        "name": "Občané městských částí Opavy",
+        "code": "OMČO",
+        "reg_number": "MV-142464-4/VS-2017",
+        "id": "06860176",
+        "address": "747 73 Opava, Novosvětská 121/28",
+        "reg_date": "2018-02-13"
+    },
+    {
+        "type": "movement",
+        "name": "SENÁTOR 21",
+        "code": "SEN 21",
+        "reg_number": "MV-133520-6/VS-2017",
+        "id": "06695205",
+        "address": "150 00 Praha, Štefánikova 1/65",
+        "reg_date": "2017-12-19"
+    },
+    {
+        "type": "movement",
+        "name": "Havířovský družstevník",
+        "code": "HD",
+        "reg_number": "MV-115930-4/VS-2017",
+        "id": "06576095",
+        "address": "735 64 Havířov, Hornosušská 1041/2",
+        "reg_date": "2017-11-02"
+    },
+    {
+        "type": "movement",
+        "name": "Tak jo!",
+        "code": "TJ.",
+        "reg_number": "MV-96373-5/VS-2017",
+        "id": "06342582",
+        "address": "143 00 Praha, Na Cikorce 1607/18",
+        "reg_date": "2017-08-11"
+    },
+    {
+        "type": "party",
+        "name": "Radostné Česko",
+        "code": "RČ",
+        "reg_number": "MV-94196-4/VS-2017",
+        "id": "06339875",
+        "address": "104 00 Praha, Saturnova 1197/1",
+        "reg_date": "2017-08-10"
+    },
+    {
+        "type": "movement",
+        "name": "Unie Hrdosti, Aktivity, Vlastenectví, Empatie a Lidskosti 2017",
+        "code": "Unie H.A.V.E.L.17",
+        "reg_number": "MV-93734-4/VS-2017",
+        "id": "06335233",
+        "address": "181 00 Praha, Čimická 269/102",
+        "reg_date": "2017-08-09"
+    },
+    {
+        "type": "movement",
+        "name": "SPORTOVCI",
+        "code": "SPORTOVCI",
+        "reg_number": "MV-86138-2/VS-2017",
+        "id": "06286950",
+        "address": "679 22 Lipůvka 319",
+        "reg_date": "2017-07-20"
+    },
+    {
+        "type": "movement",
+        "name": "Občané za spokojené bydlení",
+        "code": "OSB",
+        "reg_number": "MV-59313-4/VS-2017",
+        "id": "06118658",
+        "address": "120 00 Praha, Blanická 1787/22",
+        "reg_date": "2017-05-19"
+    },
+    {
+        "type": "party",
+        "name": "Podporujeme občanskou kandidátku PRAHA SOBĚ",
+        "code": "PRAHA SOBĚ",
+        "reg_number": "MV-49387-4/VS-2017",
+        "id": "06070108",
+        "address": "170 00 Praha, Šmeralova 198/25",
+        "reg_date": "2017-05-03"
+    },
+    {
+        "type": "movement",
+        "name": "BEZPEČNOST, ODPOVĚDNOST, SOLIDARITA",
+        "code": "BOS",
+        "reg_number": "MV-44645-4/VS-2017",
+        "id": "06048099",
+        "address": "500 02 Hradec Králové, Veverkova 1343/1",
+        "reg_date": "2017-04-25"
+    },
+    {
+        "type": "party",
+        "name": "Strana nezávislosti České republiky",
+        "code": "SNČR",
+        "reg_number": "MV-41233-3/VS-2017",
+        "id": "05989175",
+        "address": "118 00 Praha, Thunovská 183/18",
+        "reg_date": "2017-04-04"
+    },
+    {
+        "type": "movement",
+        "name": "CESTA ODPOVĚDNÉ SPOLEČNOSTI",
+        "code": "CESTA",
+        "reg_number": "MV-160151-4/VS-2016",
+        "id": "05754577",
+        "address": "102 00 Praha, Gercenova 856/3",
+        "reg_date": "2017-01-27"
+    },
+    {
+        "type": "movement",
+        "name": "ProMOST",
+        "code": "ProMOST",
+        "reg_number": "MV-155357-4/VS-2016",
+        "id": "01870360",
+        "address": "434 01 Most, Jakuba Arbesa 2600/1",
+        "reg_date": "2016-12-15"
+    },
+    {
+        "type": "party",
+        "name": "REALISTÉ",
+        "code": "REAL",
+        "reg_number": "MV-155359-5/VS-2016",
+        "id": "05632595",
+        "address": "140 00 Praha, Pod višňovkou 1661/33",
+        "reg_date": "2016-12-15"
+    },
+    {
+        "type": "movement",
+        "name": "PLUS",
+        "code": "PLUS",
+        "reg_number": "MV-153951-2/VS-2016",
+        "id": "05598966",
+        "address": "130 00 Praha, Řehořova 992/10",
+        "reg_date": "2016-11-30"
+    },
+    {
+        "type": "party",
+        "name": "Občanská demokratická aliance",
+        "code": "ODA",
+        "reg_number": "MV-96933-7/VS-2016",
+        "id": "05402450",
+        "address": "110 00 Praha, Masarykovo nábřeží 235/28",
+        "reg_date": "2016-09-19"
+    },
+    {
+        "type": "movement",
+        "name": "Evolution-Mind",
+        "code": "EM",
+        "reg_number": "MV-120248-2/VS-2016",
+        "id": "05391628",
+        "address": "190 16 Praha, Malešovská 1650",
+        "reg_date": "2016-09-14"
+    },
+    {
+        "type": "movement",
+        "name": "NEZÁVISLÍ KANDIDÁTI DO SENÁTU",
+        "code": "NSK",
+        "reg_number": "MV-90401-4/VS-2016",
+        "id": "05266009",
+        "address": "538 43 Třemošnice, Lipovec 47",
+        "reg_date": "2016-07-26"
+    },
+    {
+        "type": "movement",
+        "name": "NOVÁ GENERACE",
+        "code": "NG",
+        "reg_number": "MV-82149-4/VS-2016",
+        "id": "05183774",
+        "address": "370 01 České Budějovice, Rudolfovská tř. 132/71",
+        "reg_date": "2016-06-21"
+    },
+    {
+        "type": "movement",
+        "name": "Politické hnutí PRO 2016",
+        "code": "PRO2016",
+        "reg_number": "MV-69530-4/VS-2016",
+        "id": "05177111",
+        "address": "370 01 České Budějovice, Radniční 133/1",
+        "reg_date": "2016-06-17"
+    },
+    {
+        "type": "movement",
+        "name": "JIHOČEŠTÍ HASIČI",
+        "code": "JHas",
+        "reg_number": "MV-76079-4/VS-2016",
+        "id": "05164966",
+        "address": "397 01 Albrechtice nad Vltavou, Jehnědno 20",
+        "reg_date": "2016-06-14"
+    },
+    {
+        "type": "party",
+        "name": "ALTERNATIVA PRO ČESKOU POLITIKU",
+        "code": "A",
+        "reg_number": "MV-77770-2/VS-2016",
+        "id": "05133807",
+        "address": "170 00 Praha, Veverkova 1229/9",
+        "reg_date": "2016-06-02"
+    },
+    {
+        "type": "party",
+        "name": "Alternativa pro Česko",
+        "code": "APČ",
+        "reg_number": "MV-76071-4/VS-2016",
+        "id": "05138337",
+        "address": "110 00 Praha, Kaprova 42/14",
+        "reg_date": "2016-06-02"
+    },
+    {
+        "type": "party",
+        "name": "Bystrčáci",
+        "code": "BST",
+        "reg_number": "MV-68575-4/VS-2016",
+        "id": "05103487",
+        "address": "635 00 Brno, Kuršova 978/3",
+        "reg_date": "2016-05-23"
+    },
+    {
+        "type": "movement",
+        "name": "Sdružení nezávislých kandidátů 1 – Starostové našeho kraje",
+        "code": "SNK1 - Starostové našeho kraje",
+        "reg_number": "MV-70811-2/VS-2016",
+        "id": "05081068",
+        "address": "360 01 Sadov 1",
+        "reg_date": "2016-05-13"
+    },
+    {
+        "type": "movement",
+        "name": "OBČANÉ PRO OLOMOUCKÝ KRAJ – volba OK",
+        "code": "VOLK",
+        "reg_number": "MV-60667-4/VS-2016",
+        "id": "05079055",
+        "address": "779 00 Olomouc, Horní náměstí 14/17",
+        "reg_date": "2016-05-12"
+    },
+    {
+        "type": "party",
+        "name": "Dobrá volba 2016",
+        "code": "DV 2016",
+        "reg_number": "MV-54510-2/VS-2016",
+        "id": "04997841",
+        "address": "739 12 Čeladná 592",
+        "reg_date": "2016-04-15"
+    },
+    {
+        "type": "movement",
+        "name": "Vaše Ústí",
+        "code": "VÚ",
+        "reg_number": "MV-28619-4/VS-2016",
+        "id": "04997808",
+        "address": "403 31 Ústí nad Labem, Sibiřská 372",
+        "reg_date": "2016-04-15"
+    },
+    {
+        "type": "movement",
+        "name": "JsmePRO!",
+        "code": "JsmePRO!",
+        "reg_number": "MV-29331-4/VS-2016",
+        "id": "04889321",
+        "address": "415 01 Teplice, Novoveská 3091",
+        "reg_date": "2016-03-09"
+    },
+    {
+        "type": "party",
+        "name": "Sdružení pro republiku - Republikánská strana Československa Miroslava Sládka",
+        "code": "SPR-RSČ Miroslava Sládka",
+        "reg_number": "MV-14644-5/VS-2016",
+        "id": "04814002",
+        "address": "612 00 Brno, Štefánikova 119/50",
+        "reg_date": "2016-02-15"
+    },
+    {
+        "type": "party",
+        "name": "KOMUNISTICKÁ STRANA ČECH, MORAVY A SLEZSKA",
+        "code": "KSČMS",
+        "reg_number": "MV-182663-4/VS-2015",
+        "id": "04807898",
+        "address": "746 01 Opava, Dostojevského 2132/24",
+        "reg_date": "2016-02-11"
+    },
+    {
+        "type": "movement",
+        "name": "PRO! Ústecký kraj",
+        "code": "PRO! ÚK",
+        "reg_number": "MV-5836-4/VS-2016",
+        "id": "04756339",
+        "address": "430 01 Chomutov, Spořická 4751",
+        "reg_date": "2016-01-27"
+    },
+    {
+        "type": "movement",
+        "name": "Slušní lidé",
+        "code": "SL",
+        "reg_number": "MV-172837-4/VS-2015",
+        "id": "04755685",
+        "address": "612 00 Brno, Štefánikova 119/50",
+        "reg_date": "2016-01-27"
+    },
+    {
+        "type": "movement",
+        "name": "Změna pro lidi",
+        "code": "ZpL/ZPL",
+        "reg_number": "MV-10804-2/VS-2016",
+        "id": "04756291",
+        "address": "710 00 Ostrava, Hladnovská 2078/20",
+        "reg_date": "2016-01-27"
+    },
+    {
+        "type": "movement",
+        "name": "Česká národní fronta",
+        "code": "ČNF",
+        "reg_number": "MV-178137-4/VS-2015",
+        "id": "04690753",
+        "address": "703 00 Ostrava, Obránců míru 208/12",
+        "reg_date": "2016-01-05"
+    },
+    {
+        "type": "party",
+        "name": "Agrární demokratická strana",
+        "code": "ADS",
+        "reg_number": "MV-167950-4/VS-2015",
+        "id": "04627695",
+        "address": "330 16 Všeruby 323",
+        "reg_date": "2015-12-09"
+    },
+    {
+        "type": "movement",
+        "name": "VOK - Volba pro kraj",
+        "code": "VOK",
+        "reg_number": "MV-169487-4/VS-2015",
+        "id": "04616421",
+        "address": "362 35 Abertamy, Jáchymovská 151",
+        "reg_date": "2015-12-03"
+    },
+    {
+        "type": "movement",
+        "name": "HNUTÍ OBČANŮ KRAJE",
+        "code": "HOK",
+        "reg_number": "MV-128844-5/VS-2015",
+        "id": "04537556",
+        "address": "539 01 Hlinsko, Rataje 1008",
+        "reg_date": "2015-11-04"
+    },
+    {
+        "type": "party",
+        "name": "Národ Sobě",
+        "code": "NáS",
+        "reg_number": "MV-139215-4/VS-2015",
+        "id": "04510526",
+        "address": "621 00 Brno, Žitná 1475/5",
+        "reg_date": "2015-10-23"
+    },
+    {
+        "type": "movement",
+        "name": "PRO - Poctivě Rozumně Odpovědně",
+        "code": "PROP",
+        "reg_number": "MV-83013-8/VS-2015",
+        "id": "04277422",
+        "address": "252 18 Ptice 113",
+        "reg_date": "2015-07-28"
+    },
+    {
+        "type": "movement",
+        "name": "Svoboda a přímá demokracie (SPD)",
+        "code": "SPD",
+        "reg_number": "MV-71628-4/VS-2015",
+        "id": "04134940",
+        "address": "110 00 Praha, Rytířská 410/6",
+        "reg_date": "2015-06-02"
+    },
+    {
+        "type": "party",
+        "name": "Národní zájmy",
+        "code": "NZ",
+        "reg_number": "MV-52560-5/VS-2015",
+        "id": "04001800",
+        "address": "160 00 Praha, Heinemannova 2695/6",
+        "reg_date": "2015-04-17"
+    },
+    {
+        "type": "movement",
+        "name": "PRO občané",
+        "code": "HPO",
+        "reg_number": "MV-15810-4/VS-2015",
+        "id": "03826341",
+        "address": "108 00 Praha, Průmyslová 566/5",
+        "reg_date": "2015-02-24"
+    },
+    {
+        "type": "party",
+        "name": "KOMUNISTICKÁ STRANA ČESKÁ 21",
+        "code": "KSČ 21",
+        "reg_number": "MV-122836-7/VS-2014",
+        "id": "03531759",
+        "address": "779 00 Olomouc, Karafiátová 298/1",
+        "reg_date": "2014-10-30"
+    },
+    {
+        "type": "movement",
+        "name": "DOMA",
+        "code": "DOMA",
+        "reg_number": "MV-97630-6/VS-2014",
+        "id": "03254658",
+        "address": "500 03 Hradec Králové, Buzulucká 1106/18",
+        "reg_date": "2014-07-31"
+    },
+    {
+        "type": "party",
+        "name": "Moderní společnost",
+        "code": "MODES",
+        "reg_number": "MV-99055-4/VS-2014",
+        "id": "03254747",
+        "address": "792 01 Bruntál, Horní 1562/9",
+        "reg_date": "2014-07-31"
+    },
+    {
+        "type": "movement",
+        "name": "PROZMĚNU",
+        "code": "PZ",
+        "reg_number": "MV-94190-6/VS-2014",
+        "id": "03254763",
+        "address": "792 01 Bruntál, tř. Osvobození 767/21",
+        "reg_date": "2014-07-31"
+    },
+    {
+        "type": "movement",
+        "name": "Pro regiony občanům",
+        "code": "Hnutí PROČ",
+        "reg_number": "MV-97625-4/VS-2014",
+        "id": "03254704",
+        "address": "436 01 Litvínov, Rooseveltova 2148",
+        "reg_date": "2014-07-31"
+    },
+    {
+        "type": "movement",
+        "name": "Solidarita, Vlast a Zákon",
+        "code": "SVAZ",
+        "reg_number": "MV-99058-4/VS-2014",
+        "id": "03254755",
+        "address": "594 01 Velké Meziříčí, Třebíčská 1299/56",
+        "reg_date": "2014-07-31"
+    },
+    {
+        "type": "movement",
+        "name": "Šance pro Duchcov",
+        "code": "ŠpD",
+        "reg_number": "MV-101160-4/VS-2014",
+        "id": "03251501",
+        "address": "419 01 Duchcov, Jungmannova 1337/24A",
+        "reg_date": "2014-07-31"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí občanů Prahy",
+        "code": "HOP",
+        "reg_number": "MV-99060-4/VS-2014",
+        "id": "03247856",
+        "address": "186 00 Praha, Březinova 492/13",
+        "reg_date": "2014-07-30"
+    },
+    {
+        "type": "movement",
+        "name": "Volyně v dolyně",
+        "code": "VvD",
+        "reg_number": "MV-96459-4/VS-2014",
+        "id": "03247686",
+        "address": "387 01 Volyně 12",
+        "reg_date": "2014-07-30"
+    },
+    {
+        "type": "movement",
+        "name": "Alternativa pro Českou republiku 2017",
+        "code": "APAČI 2017",
+        "reg_number": "MV-99769-4/VS-2014",
+        "id": "03244750",
+        "address": "180 00 Praha, Primátorská 296/38",
+        "reg_date": "2014-07-29"
+    },
+    {
+        "type": "party",
+        "name": "RESTART",
+        "code": "RESTART",
+        "reg_number": "MV-95010-4/VS-2014",
+        "id": "03244741",
+        "address": "384 22 Lipovice 37",
+        "reg_date": "2014-07-29"
+    },
+    {
+        "type": "movement",
+        "name": "Hradecký demokratický klub",
+        "code": "HDK",
+        "reg_number": "MV-94210-4/VS-2014",
+        "id": "03204723",
+        "address": "500 03 Hradec Králové, Šimkova 1223/2A",
+        "reg_date": "2014-07-25"
+    },
+    {
+        "type": "movement",
+        "name": "TŘINÁCTKA",
+        "code": "13tka",
+        "reg_number": "MV-92153-4/VS-2014",
+        "id": "03231763",
+        "address": "155 00 Praha, U jezera 2032/32",
+        "reg_date": "2014-07-24"
+    },
+    {
+        "type": "movement",
+        "name": "NOVÁ PLZEŇ s Jiřím Strobachem",
+        "code": "NPJS",
+        "reg_number": "MV-92350-4/VS-2014",
+        "id": "03219208",
+        "address": "330 27 Vejprnice, Na Hruškách 1032",
+        "reg_date": "2014-07-22"
+    },
+    {
+        "type": "movement",
+        "name": "OBČANÉ SPOLU - NEZÁVISLÍ",
+        "code": "OSN",
+        "reg_number": "MV-92158-4/VS-2014",
+        "id": "03221083",
+        "address": "738 01 Frýdek-Místek, 8. pěšího pluku 2380",
+        "reg_date": "2014-07-22"
+    },
+    {
+        "type": "movement",
+        "name": "SPOLEHNUTÍ - SPOLEČNÉ HNUTÍ ČESKOLIPANŮ",
+        "code": "SPOLEHNUTÍ",
+        "reg_number": "MV-93290-4/VS-2014",
+        "id": "03221199",
+        "address": "470 01 Česká Lípa, Bratří Čapků 2870",
+        "reg_date": "2014-07-22"
+    },
+    {
+        "type": "movement",
+        "name": "Společnost proti developerské výstavbě v Prokopském údolí",
+        "code": "SPDV",
+        "reg_number": "MV-86511-4/VS-2014",
+        "id": "03217116",
+        "address": "152 00 Praha, K Dalejím 1180/6",
+        "reg_date": "2014-07-21"
+    },
+    {
+        "type": "movement",
+        "name": "ProOlomouc",
+        "code": "ProOl",
+        "reg_number": "MV-87222-4/VS-2014",
+        "id": "03204669",
+        "address": "779 00 Olomouc, Na zákopě 322/62",
+        "reg_date": "2014-07-16"
+    },
+    {
+        "type": "movement",
+        "name": "Veřejné zájmy",
+        "code": "VZ",
+        "reg_number": "MV-76782-6/VS-2014",
+        "id": "03204561",
+        "address": "312 00 Plzeň, Ke Kukačce 798/10",
+        "reg_date": "2014-07-16"
+    },
+    {
+        "type": "party",
+        "name": "iČesko",
+        "code": "iČesko",
+        "reg_number": "MV-93640-4/VS-2014",
+        "id": "03206211",
+        "address": "140 00 Praha, Na Topolce 1348/7",
+        "reg_date": "2014-07-16"
+    },
+    {
+        "type": "movement",
+        "name": "Karviňáci s Adámkem",
+        "code": "Karviňáci",
+        "reg_number": "MV-82138-4/VS-2014",
+        "id": "03194540",
+        "address": "734 01 Karviná, Kirovova 2309/1",
+        "reg_date": "2014-07-14"
+    },
+    {
+        "type": "movement",
+        "name": "Plzeň pro sport",
+        "code": "PPPS",
+        "reg_number": "MV-86506-4/VS-2014",
+        "id": "03184820",
+        "address": "323 00 Plzeň, Krašovská 1729/16",
+        "reg_date": "2014-07-09"
+    },
+    {
+        "type": "movement",
+        "name": "SMĚR - česká cesta",
+        "code": "SMĚR - CS",
+        "reg_number": "MV-90450-3/VS-2014",
+        "id": "03185010",
+        "address": "468 22 Loužnice 64",
+        "reg_date": "2014-07-09"
+    },
+    {
+        "type": "movement",
+        "name": "Spravedlivá občanská společnost",
+        "code": "SPOS",
+        "reg_number": "MV-82147-4/VS-2014",
+        "id": "03185231",
+        "address": "387 01 Volyně, Pod Malsičkou 593",
+        "reg_date": "2014-07-09"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí Praha-Kunratice",
+        "code": "HPK",
+        "reg_number": "MV-83580-4/VS-2014",
+        "id": "03174531",
+        "address": "148 00 Praha, Vožická 982/25",
+        "reg_date": "2014-07-07"
+    },
+    {
+        "type": "movement",
+        "name": "NEZÁVISLÍ PRO PRAHU 10 - HNUTÍ PRO LEPŠÍ DESÍTKU",
+        "code": "NPP10-HPLD",
+        "reg_number": "MV-82740-4/VS-2014",
+        "id": "03174697",
+        "address": "149 00 Praha, Nad úpadem 413/23",
+        "reg_date": "2014-07-07"
+    },
+    {
+        "type": "movement",
+        "name": "Frýdečané a Místečané",
+        "code": "FraM",
+        "reg_number": "MV-66587-4/VS-2014",
+        "id": "03168786",
+        "address": "738 01 Frýdek-Místek, F. Čejky 434",
+        "reg_date": "2014-07-03"
+    },
+    {
+        "type": "movement",
+        "name": "Podpora občanů",
+        "code": "Podpora",
+        "reg_number": "MV-79530-4/VS-2014",
+        "id": "03170624",
+        "address": "250 01 Brandýs nad Labem, V olšinkách  1734",
+        "reg_date": "2014-07-03"
+    },
+    {
+        "type": "movement",
+        "name": "Město pro vás",
+        "code": "MPV",
+        "reg_number": "MV-75061-4/VS-2014",
+        "id": "03162125",
+        "address": "269 01 Rakovník, Dukel. hrdinů 1909",
+        "reg_date": "2014-07-02"
+    },
+    {
+        "type": "movement",
+        "name": "Mladoboleslavské hnutí nezávislých",
+        "code": "MBN",
+        "reg_number": "MV-86489-2/VS-2014",
+        "id": "03156583",
+        "address": "293 01 Mladá Boleslav, Jaselská 167/22",
+        "reg_date": "2014-07-01"
+    },
+    {
+        "type": "movement",
+        "name": "Karlovaráci",
+        "code": "KVC",
+        "reg_number": "MV-77440-4/VS-2014",
+        "id": "03152952",
+        "address": "360 06 Karlovy Vary, Chebská 355/49",
+        "reg_date": "2014-06-30"
+    },
+    {
+        "type": "movement",
+        "name": "Ostravské fórum",
+        "code": "OF",
+        "reg_number": "MV-86491-2/VS-2014",
+        "id": "03150704",
+        "address": "710 00 Ostrava, Hladnovská 1255/23",
+        "reg_date": "2014-06-27"
+    },
+    {
+        "type": "movement",
+        "name": "Ta naše Třebíč",
+        "code": "TnT",
+        "reg_number": "MV-84873-2/VS-2014",
+        "id": "03143848",
+        "address": "674 01 Třebíč, Modřínová 302/8",
+        "reg_date": "2014-06-26"
+    },
+    {
+        "type": "movement",
+        "name": "Žít Brno",
+        "code": "ŽTB",
+        "reg_number": "MV-62081-6/VS-2014",
+        "id": "03136922",
+        "address": "613 00 Brno, Zemědělská 1714/72",
+        "reg_date": "2014-06-25"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí SOL",
+        "code": "SOL",
+        "reg_number": "MV-75060-4/VS-2014",
+        "id": "03116603",
+        "address": "638 00 Brno, Ježkova 242/8",
+        "reg_date": "2014-06-18"
+    },
+    {
+        "type": "movement",
+        "name": "Otevřená radnice",
+        "code": "Hora 2014",
+        "reg_number": "MV-32096-8/VS-2014",
+        "id": "03116492",
+        "address": "180 00 Praha, Bednářská 1025/3",
+        "reg_date": "2014-06-18"
+    },
+    {
+        "type": "movement",
+        "name": "Občané patrioti",
+        "code": "OPAT",
+        "reg_number": "MV-70189-4/VS-2014",
+        "id": "03099598",
+        "address": "326 00 Plzeň, Barrandova 404/28",
+        "reg_date": "2014-06-12"
+    },
+    {
+        "type": "party",
+        "name": "PATRIOT 2014",
+        "code": "PATRIOT 2014",
+        "reg_number": "MV-67070-5/VS-2014",
+        "id": "03100448",
+        "address": "738 01 Frýdek-Místek, 8. pěšího pluku 81",
+        "reg_date": "2014-06-12"
+    },
+    {
+        "type": "movement",
+        "name": "Pévéčko",
+        "code": "PV",
+        "reg_number": "MV-76380-2/VS-2014",
+        "id": "03091805",
+        "address": "796 01 Prostějov, Brněnská 1442/47",
+        "reg_date": "2014-06-11"
+    },
+    {
+        "type": "movement",
+        "name": "Čistý kraj",
+        "code": "ČiKR",
+        "reg_number": "MV-70940-4/VS-2014",
+        "id": "03094553",
+        "address": "400 11 Ústí nad Labem, Pincova 2971/13",
+        "reg_date": "2014-06-11"
+    },
+    {
+        "type": "movement",
+        "name": "Politické Hnutí Vítkovice",
+        "code": "PHV",
+        "reg_number": "MV-73590-2/VS-2014",
+        "id": "03080935",
+        "address": "703 00 Ostrava, Nerudova 499/23",
+        "reg_date": "2014-06-06"
+    },
+    {
+        "type": "movement",
+        "name": "SPOLU",
+        "code": "SPOLU",
+        "reg_number": "MV-56588-8/VS-2014",
+        "id": "03080901",
+        "address": "621 00 Brno, Odlehlá 176/21",
+        "reg_date": "2014-06-06"
+    },
+    {
+        "type": "movement",
+        "name": "NOVÝ SEVER",
+        "code": "NS",
+        "reg_number": "MV-59511-5/VS-2014",
+        "id": "03016242",
+        "address": "430 04 Chomutov, Březenecká 4689",
+        "reg_date": "2014-05-21"
+    },
+    {
+        "type": "party",
+        "name": "HRADEČTÍ PATRIOTI",
+        "code": "HP",
+        "reg_number": "MV-54359-4/VS-2014",
+        "id": "02985349",
+        "address": "500 03 Hradec Králové, Pouchovská  1272",
+        "reg_date": "2014-05-14"
+    },
+    {
+        "type": "movement",
+        "name": "Občanské hnutí Můj domov",
+        "code": "Můj domov",
+        "reg_number": "MV-55020-5/VS-2014",
+        "id": "02970554",
+        "address": "466 04 Jablonec nad Nisou, Pražského povstání 3686/19",
+        "reg_date": "2014-05-06"
+    },
+    {
+        "type": "movement",
+        "name": "PRO PLZEŇ",
+        "code": "PRO PLZEŇ",
+        "reg_number": "MV-41669-4/VS-2014",
+        "id": "02885573",
+        "address": "323 00 Plzeň, Úněšovská 2205/17",
+        "reg_date": "2014-04-10"
+    },
+    {
+        "type": "movement",
+        "name": "Politické hnutí OBRODA",
+        "code": "Obroda",
+        "reg_number": "MV-24837-6/VS-2014",
+        "id": "02827964",
+        "address": "110 00 Praha, Školská 694/32",
+        "reg_date": "2014-03-27"
+    },
+    {
+        "type": "movement",
+        "name": "ÚSTECKÉ FÓRUM OBČANŮ",
+        "code": "UFO",
+        "reg_number": "MV-23318-4/VS-2014",
+        "id": "02790840",
+        "address": "400 01 Ústí nad Labem, Rembrandtova 382/6",
+        "reg_date": "2014-03-19"
+    },
+    {
+        "type": "movement",
+        "name": "HNUTÍ SOCIÁLNĚ SLABÝCH",
+        "code": "HSS",
+        "reg_number": "MV-110544-4/VS-2013",
+        "id": "02750180",
+        "address": "793 24 Karlova Studánka 12",
+        "reg_date": "2014-03-10"
+    },
+    {
+        "type": "party",
+        "name": "Toryové",
+        "code": "TOR",
+        "reg_number": "MV-16009-4/VS-2014",
+        "id": "02749947",
+        "address": "169 00 Praha, Bělohorská 193/149",
+        "reg_date": "2014-03-10"
+    },
+    {
+        "type": "party",
+        "name": "Jižní Město - náš domov",
+        "code": "JM-ND",
+        "reg_number": "MV-29010-2/VS-2014",
+        "id": "02733552",
+        "address": "149 00 Praha, Mokrá 1284/13A",
+        "reg_date": "2014-03-05"
+    },
+    {
+        "type": "movement",
+        "name": "Pražané.cz",
+        "code": "Pražané",
+        "reg_number": "MV-22772-4/VS-2014",
+        "id": "02718707",
+        "address": "110 00 Praha, Vladislavova 1747/16",
+        "reg_date": "2014-02-28"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí dobrých proměn",
+        "code": "HDP",
+        "reg_number": "MV-20651-2/VS-2014",
+        "id": "02674831",
+        "address": "551 01 Jaroměř, nám. Československé armády 31",
+        "reg_date": "2014-02-19"
+    },
+    {
+        "type": "party",
+        "name": "Občanská konzervativní strana",
+        "code": "O.K. strana",
+        "reg_number": "MV-15241-4/VS-2014",
+        "id": "02666235",
+        "address": "149 00 Praha, Zimákova 2355/11",
+        "reg_date": "2014-02-17"
+    },
+    {
+        "type": "party",
+        "name": "evropani.cz",
+        "code": "evropani",
+        "reg_number": "MV-17186-4/VS-2014",
+        "id": "71443690",
+        "address": "165 00 Praha, Vysokoškolská 522/5",
+        "reg_date": "2014-02-12"
+    },
+    {
+        "type": "party",
+        "name": "Patrioti České republiky",
+        "code": "Patrioti ČR",
+        "reg_number": "MV-8204-6/VS-2014",
+        "id": "71443681",
+        "address": "181 00 Praha, Řešovská 519/1",
+        "reg_date": "2014-02-10"
+    },
+    {
+        "type": "movement",
+        "name": "Alternativa pro Plzeň",
+        "code": "APPlzeň.cz",
+        "reg_number": "MV-144082-4/VS-2013",
+        "id": "71443673",
+        "address": "326 00 Plzeň, Mikulášské náměstí 495/10",
+        "reg_date": "2014-01-07"
+    },
+    {
+        "type": "party",
+        "name": "Republika",
+        "code": "Republika",
+        "reg_number": "MV-132677-4/VS-2013",
+        "id": "71443665",
+        "address": "110 00 Praha, Senovážné náměstí  978/23",
+        "reg_date": "2013-11-25"
+    },
+    {
+        "type": "party",
+        "name": "ANTIBURSÍK - STOP EKOTERORU !",
+        "code": "ABS",
+        "reg_number": "MV-134648-4/VS-2013",
+        "id": "71443657",
+        "address": "130 00 Praha, Slezská 1736/99",
+        "reg_date": "2013-11-15"
+    },
+    {
+        "type": "movement",
+        "name": "Naše Město F-M",
+        "code": "NMFM",
+        "reg_number": "MV-128257-4/VS-2013",
+        "id": "71443649",
+        "address": "738 01 Frýdek-Místek, Josefa Václava Sládka 35",
+        "reg_date": "2013-11-12"
+    },
+    {
+        "type": "party",
+        "name": "Náš Prostějov",
+        "code": "NPV",
+        "reg_number": "MV-112640-4/VS-2013",
+        "id": "71443631",
+        "address": "796 01 Prostějov, Újezd 2167/23",
+        "reg_date": "2013-10-01"
+    },
+    {
+        "type": "party",
+        "name": "Liberálně ekologická strana",
+        "code": "LES",
+        "reg_number": "MV-107842-4/VS-2013",
+        "id": "71443606",
+        "address": "118 00 Praha, Sněmovní 174/7",
+        "reg_date": "2013-09-05"
+    },
+    {
+        "type": "movement",
+        "name": "Zlín 21",
+        "code": "Z21",
+        "reg_number": "MV-100236-4/VS-2013",
+        "id": "71443614",
+        "address": "760 01 Zlín, Filmová 174",
+        "reg_date": "2013-09-05"
+    },
+    {
+        "type": "movement",
+        "name": "Ústečané",
+        "code": "Ú",
+        "reg_number": "MV-103900-4/VS-2013",
+        "id": "71443622",
+        "address": "400 01 Ústí nad Labem, Mírové náměstí 2442/6",
+        "reg_date": "2013-09-05"
+    },
+    {
+        "type": "party",
+        "name": "Romská demokratická strana",
+        "code": "RDS",
+        "reg_number": "MV-75465-7/VS-2013",
+        "id": "71443592",
+        "address": "470 06 Česká Lípa, Zhořelecká 2504",
+        "reg_date": "2013-08-14"
+    },
+    {
+        "type": "party",
+        "name": "Nový směr",
+        "code": "NOS",
+        "reg_number": "MV-82350-4/VS-2012",
+        "id": "71443584",
+        "address": "463 02 Liberec, Tolstého 279",
+        "reg_date": "2013-06-26"
+    },
+    {
+        "type": "party",
+        "name": "Úsvit - Národní Koalice",
+        "code": "Úsvit",
+        "reg_number": "MV-60042-6/VS-2013",
+        "id": "71443576",
+        "address": "160 00 Praha, Velflíkova 1428/4",
+        "reg_date": "2013-06-19"
+    },
+    {
+        "type": "movement",
+        "name": "Pro Prahu",
+        "code": "HPP",
+        "reg_number": "MV-75567-2/VS-2013",
+        "id": "71443568",
+        "address": "110 00 Praha, Panská 891/5",
+        "reg_date": "2013-06-17"
+    },
+    {
+        "type": "movement",
+        "name": "Pardubice pro lidi",
+        "code": "PPL",
+        "reg_number": "MV-55441-4/VS-2013",
+        "id": "71443550",
+        "address": "530 06 Pardubice, Pražská 71",
+        "reg_date": "2013-05-20"
+    },
+    {
+        "type": "party",
+        "name": "Strana důchodců Františka Burdy",
+        "code": "SDFB",
+        "reg_number": "MV-80389-4/VS-2010",
+        "id": "71443541",
+        "address": "396 01 Humpolec, Lipnická 1209",
+        "reg_date": "2013-05-09"
+    },
+    {
+        "type": "party",
+        "name": "Občané České republiky",
+        "code": "OČR",
+        "reg_number": "MV-36922-4/VS-2013",
+        "id": "71443533",
+        "address": "162 00 Praha, Křenova 438/7",
+        "reg_date": "2013-04-22"
+    },
+    {
+        "type": "movement",
+        "name": "Sdružení nezávislých občanů Prahy",
+        "code": "SNOP",
+        "reg_number": "MV-31993-5/VS-2013",
+        "id": "71443525",
+        "address": "155 00 Praha, Ordovická 1311/3",
+        "reg_date": "2013-03-22"
+    },
+    {
+        "type": "movement",
+        "name": "Občanská sounáležitost",
+        "code": "OS",
+        "reg_number": "MV-146804-4/VS-2012",
+        "id": "71443517",
+        "address": "301 00 Plzeň, Heyrovského 482/42",
+        "reg_date": "2013-01-14"
+    },
+    {
+        "type": "movement",
+        "name": "Zdraví Sport Prosperita",
+        "code": "PRO Zdraví",
+        "reg_number": "MV-145991-2/VS-2012",
+        "id": "71443509",
+        "address": "400 11 Ústí nad Labem, Na Vyhlídce 2340/11",
+        "reg_date": "2012-12-21"
+    },
+    {
+        "type": "party",
+        "name": "Zemští Demokraté",
+        "code": "ZEDEM",
+        "reg_number": "MV-81350-4/VS-2012",
+        "id": "71443495",
+        "address": "642 00 Brno, Pražská 674/156",
+        "reg_date": "2012-10-19"
+    },
+    {
+        "type": "party",
+        "name": "Česká strana selského rozumu",
+        "code": "Čssr",
+        "reg_number": "MV-83875-4/VS-2012",
+        "id": "71443487",
+        "address": "468 25 Zásada 207",
+        "reg_date": "2012-08-06"
+    },
+    {
+        "type": "party",
+        "name": "Hnutí FAIR PLAY",
+        "code": "HnutiFairPlay.cz",
+        "reg_number": "MV-83873-4/VS-2012",
+        "id": "71443479",
+        "address": "106 00 Praha, Žirovnická 3133/6",
+        "reg_date": "2012-08-03"
+    },
+    {
+        "type": "party",
+        "name": "Volba lidu 21.století",
+        "code": "VL21",
+        "reg_number": "MV-75093-4/VS-2012",
+        "id": "71443461",
+        "address": "370 01 České Budějovice, Žižkova tř. 309/12",
+        "reg_date": "2012-08-03"
+    },
+    {
+        "type": "party",
+        "name": "Nová budoucnost pro Liberecký kraj",
+        "code": "NBPLK",
+        "reg_number": "MV-81800-4/VS-2012",
+        "id": "71443452",
+        "address": "466 01 Jablonec nad Nisou, Široká 4860/10",
+        "reg_date": "2012-08-02"
+    },
+    {
+        "type": "movement",
+        "name": "Starostové pro občany",
+        "code": "STO",
+        "reg_number": "MV-77160-4/VS-2012",
+        "id": "71443444",
+        "address": "675 34 Police 131",
+        "reg_date": "2012-07-27"
+    },
+    {
+        "type": "movement",
+        "name": "za Morální Očistu Regionu",
+        "code": "M.O.R.",
+        "reg_number": "MV-80301-2/VS-2012",
+        "id": "71443436",
+        "address": "763 02 Zlín, 1. máje 613",
+        "reg_date": "2012-07-24"
+    },
+    {
+        "type": "movement",
+        "name": "PATRIOTI",
+        "code": "PATRIOTI",
+        "reg_number": "MV-77900-4/VS-2012",
+        "id": "71443410",
+        "address": "547 01 Náchod, Vítkova 368",
+        "reg_date": "2012-07-20"
+    },
+    {
+        "type": "party",
+        "name": "Strana Češi",
+        "code": "Češi",
+        "reg_number": "MV-78880-2/VS-2012",
+        "id": "71443428",
+        "address": "100 00 Praha, Žernovská 1316/6",
+        "reg_date": "2012-07-20"
+    },
+    {
+        "type": "movement",
+        "name": "ZVUK 12",
+        "code": "ZVUK 12",
+        "reg_number": "MV-75845-4/VS-2012",
+        "id": "71443401",
+        "address": "767 01 Kroměříž, Postoupky 245",
+        "reg_date": "2012-07-17"
+    },
+    {
+        "type": "movement",
+        "name": "PRO",
+        "code": "PRO",
+        "reg_number": "MV-78460-2/VS-2012",
+        "id": "71443398",
+        "address": "150 00 Praha, náměstí Kinských  741/6",
+        "reg_date": "2012-07-16"
+    },
+    {
+        "type": "movement",
+        "name": "Středočeši2012.cz",
+        "code": "S2012",
+        "reg_number": "MV-67346-7/VS-2012",
+        "id": "71443380",
+        "address": "253 01 Hostivice, Fibichova 389",
+        "reg_date": "2012-07-12"
+    },
+    {
+        "type": "movement",
+        "name": "HOZK",
+        "code": "HOZK",
+        "reg_number": "MV-64747-4/VS-2012",
+        "id": "71443371",
+        "address": "104 00 Praha, Václava Trojana 1540/13",
+        "reg_date": "2012-06-19"
+    },
+    {
+        "type": "movement",
+        "name": "politické hnutí Změna",
+        "code": "Změna",
+        "reg_number": "MV-57571-5/VS-2012",
+        "id": "71443363",
+        "address": "460 07 Liberec, 1. máje 97/25",
+        "reg_date": "2012-06-08"
+    },
+    {
+        "type": "movement",
+        "name": "VÝCHODOČEŠI",
+        "code": "VČ",
+        "reg_number": "MV-29726-4/VS-2012",
+        "id": "71443355",
+        "address": "508 01 Holovousy 37",
+        "reg_date": "2012-05-31"
+    },
+    {
+        "type": "party",
+        "name": "Strana konzervativní pravice - Řád národa",
+        "code": "SKP - ŘN",
+        "reg_number": "MV-58052-4/VS-2012",
+        "id": "71443347",
+        "address": "356 01 Sokolov, Boženy Němcové 703",
+        "reg_date": "2012-05-29"
+    },
+    {
+        "type": "movement",
+        "name": "ANO 2011",
+        "code": "ANO",
+        "reg_number": "MV-48831-4/VS-2012",
+        "id": "71443339",
+        "address": "149 00 Praha, Babická 2329/2",
+        "reg_date": "2012-05-11"
+    },
+    {
+        "type": "party",
+        "name": "Strana rovných příležitostí",
+        "code": "SRP",
+        "reg_number": "MV-126300-4/VS-2011",
+        "id": "71443321",
+        "address": "439 42 Postoloprty, Hálkova 37",
+        "reg_date": "2011-12-19"
+    },
+    {
+        "type": "movement",
+        "name": "JIHOČEŠI 2012",
+        "code": "JIH 12",
+        "reg_number": "MV-127700-4/VS-2011",
+        "id": "71443312",
+        "address": "398 55 Kovářov 63",
+        "reg_date": "2011-12-07"
+    },
+    {
+        "type": "party",
+        "name": "Strana přátel časopisu MAXIM a jejich přátel za maximální svobodu projevu, za vybudování mocné armády a za život bez zbytečných omezení a zákazů",
+        "code": "MAXIM",
+        "reg_number": "MV-68841-10/VS-2010",
+        "id": "71443304",
+        "address": "373 01 Tři Sekery 73",
+        "reg_date": "2011-11-22"
+    },
+    {
+        "type": "party",
+        "name": "Národní socialisté",
+        "code": "NÁR.SOC.",
+        "reg_number": "MV-115880-4/VS-2011",
+        "id": "71443291",
+        "address": "155 00 Praha, Radlická 505/58",
+        "reg_date": "2011-11-01"
+    },
+    {
+        "type": "party",
+        "name": "Strana Globální Odpovědnosti",
+        "code": "SGO",
+        "reg_number": "MV-90990-8/VS-2011",
+        "id": "71443282",
+        "address": "190 00 Praha, Kolbenova 635/18",
+        "reg_date": "2011-11-01"
+    },
+    {
+        "type": "movement",
+        "name": "ALIANCE NÁRODNÍCH SIL",
+        "code": "ANS",
+        "reg_number": "MV-75240-2/VS-2011",
+        "id": "71443274",
+        "address": "120 00 Praha, Legerova 1854/22",
+        "reg_date": "2011-07-04"
+    },
+    {
+        "type": "party",
+        "name": "NÁRODNÍ FRONTA",
+        "code": "NF",
+        "reg_number": "MV-37556-4/VS-2011",
+        "id": "71443266",
+        "address": "161 00 Praha, Ciolkovského 853/1",
+        "reg_date": "2011-05-09"
+    },
+    {
+        "type": "party",
+        "name": "Lidové fórum",
+        "code": "LF",
+        "reg_number": "MV-26160-6/VS-2011",
+        "id": "71443258",
+        "address": "615 00 Brno, Šaldova 380/3",
+        "reg_date": "2011-04-21"
+    },
+    {
+        "type": "party",
+        "name": "Česká Suverenita",
+        "code": "ČS",
+        "reg_number": "MV-2810-5/VS-2011",
+        "id": "71443240",
+        "address": "170 00 Praha , U Průhonu  1201/23",
+        "reg_date": "2011-01-21"
+    },
+    {
+        "type": "movement",
+        "name": "Naše Beskydy",
+        "code": "NBeskydy",
+        "reg_number": "MV-69530-6/VS-2010",
+        "id": "71443223",
+        "address": "744 01 Frenštát pod Radhoštěm, Potoční 646",
+        "reg_date": "2010-08-02"
+    },
+    {
+        "type": "movement",
+        "name": "Sdružení nezávislých Holešovska",
+        "code": "SNH",
+        "reg_number": "MV-69191-6/VS-2010",
+        "id": "71443231",
+        "address": "769 01 Holešov, Dlažánky 310/6",
+        "reg_date": "2010-08-02"
+    },
+    {
+        "type": "movement",
+        "name": "Občanské hnutí pro Mimoň",
+        "code": "OHM",
+        "reg_number": "MV-69910-6/VS-2010",
+        "id": "71443193",
+        "address": "471 24 Mimoň, Okrouhlická 95",
+        "reg_date": "2010-07-29"
+    },
+    {
+        "type": "movement",
+        "name": "Ostravak",
+        "code": "Ostravak",
+        "reg_number": "MV-67190-6/VS-2010",
+        "id": "71443215",
+        "address": "702 00 Ostrava, Brandlova 1267/6",
+        "reg_date": "2010-07-29"
+    },
+    {
+        "type": "party",
+        "name": "Česká strana regionů",
+        "code": "ČSR",
+        "reg_number": "MV-68061-6/VS-2010",
+        "id": "71443207",
+        "address": "530 03 Pardubice, Na Drážce 1539",
+        "reg_date": "2010-07-29"
+    },
+    {
+        "type": "movement",
+        "name": "Občané pro Budějovice",
+        "code": "HOPB",
+        "reg_number": "MV-69909-4/VS-2010",
+        "id": "71443185",
+        "address": "370 04 České Budějovice, Puklicova 995/1",
+        "reg_date": "2010-07-22"
+    },
+    {
+        "type": "party",
+        "name": "VLASTENECKÁ STRANA",
+        "code": "VS",
+        "reg_number": "MV- 54543-8/VS-2010",
+        "id": "71443169",
+        "address": "470 01 Česká Lípa, Sokolská 270/8",
+        "reg_date": "2010-07-21"
+    },
+    {
+        "type": "movement",
+        "name": "Zdravé Hradiště",
+        "code": "ZH",
+        "reg_number": "MV-69200-5/VS-2010",
+        "id": "71443177",
+        "address": "686 05 Uherské Hradiště, Sadová 893/4",
+        "reg_date": "2010-07-21"
+    },
+    {
+        "type": "movement",
+        "name": "Desítka pro domácí",
+        "code": "DPD",
+        "reg_number": "MV-63894-6/VS-2010",
+        "id": "71443142",
+        "address": "101 00 Praha, Bulharská 1401/38",
+        "reg_date": "2010-07-20"
+    },
+    {
+        "type": "party",
+        "name": "Konzervativní aliance 2014",
+        "code": "KA14",
+        "reg_number": "MV-65866-6/VS-2010",
+        "id": "71443151",
+        "address": "150 00 Praha, Ostrovského 253/3",
+        "reg_date": "2010-07-20"
+    },
+    {
+        "type": "movement",
+        "name": "Společnost pro Třinec",
+        "code": "SpT",
+        "reg_number": "MV-68451-6/VS-2010",
+        "id": "71340092",
+        "address": "739 61 Třinec, ul. 1. máje  129",
+        "reg_date": "2010-07-19"
+    },
+    {
+        "type": "party",
+        "name": "ZaRegion",
+        "code": "ZaRegion",
+        "reg_number": "MV-67617-5/VS-2010",
+        "id": "71340084",
+        "address": "418 01 Bílina, Seifertova 4/7",
+        "reg_date": "2010-07-16"
+    },
+    {
+        "type": "movement",
+        "name": "Bílinští sociální demokraté a nezávislí",
+        "code": "BSDN",
+        "reg_number": "MV-66764-4/VS-2010",
+        "id": "71340068",
+        "address": "418 01 Bílina, Želivského 63/13",
+        "reg_date": "2010-07-15"
+    },
+    {
+        "type": "movement",
+        "name": "OSMA - občané svému městu",
+        "code": "OSMA",
+        "reg_number": "MV-67614-4/VS-2010",
+        "id": "71340076",
+        "address": "503 11 Hradec Králové, Postranní 659/8",
+        "reg_date": "2010-07-15"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí O co jim jde?!",
+        "code": "OCJJ",
+        "reg_number": "MV-64740-6/VS-2010",
+        "id": "71340017",
+        "address": "360 01 Karlovy Vary, Plzeňská 1428/105",
+        "reg_date": "2010-07-13"
+    },
+    {
+        "type": "movement",
+        "name": "Pražané za svá práva",
+        "code": "PP",
+        "reg_number": "MV-64742-6/VS-2010",
+        "id": "71340050",
+        "address": "160 00 Praha, Rooseveltova 444/5",
+        "reg_date": "2010-07-13"
+    },
+    {
+        "type": "movement",
+        "name": "Strakonická Veřejnost",
+        "code": "SV",
+        "reg_number": "MV-57411-6/VS-2010",
+        "id": "71340009",
+        "address": "386 01 Strakonice, Velké náměstí 142",
+        "reg_date": "2010-07-08"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí nezávislých za všestranný rozvoj Slatiny",
+        "code": "HNVRS",
+        "reg_number": "MV-63899-4/VS-2010",
+        "id": "71339990",
+        "address": "627 00 Brno, Tuřanka 1260/1",
+        "reg_date": "2010-06-29"
+    },
+    {
+        "type": "movement",
+        "name": "Jundrováci",
+        "code": "Jundrováci",
+        "reg_number": "MV-57011-6/VS-2010",
+        "id": "71339965",
+        "address": "637 00 Brno, Jasanová 756/7",
+        "reg_date": "2010-06-28"
+    },
+    {
+        "type": "movement",
+        "name": "Královopolští patrioti",
+        "code": "KPP",
+        "reg_number": "MV-58309-6/VS-2010",
+        "id": "71339973",
+        "address": "612 00 Brno, Kociánka 67/18",
+        "reg_date": "2010-06-28"
+    },
+    {
+        "type": "party",
+        "name": "Strana demokratické obnovy",
+        "code": "SDeO",
+        "reg_number": "MV-61571-6/VS-2010",
+        "id": "71339981",
+        "address": "405 02 Děčín, Stoliční 1205/6",
+        "reg_date": "2010-06-28"
+    },
+    {
+        "type": "party",
+        "name": "ČESKÁ NEZÁVISLÁ",
+        "code": "ČNEZ",
+        "reg_number": "MV-58578-6/VS-2010",
+        "id": "71339931",
+        "address": "417 23 Košťany, Rakouské domy 526",
+        "reg_date": "2010-06-25"
+    },
+    {
+        "type": "party",
+        "name": "SDRUŽENÍ PRO REPUBLIKU - REPUBLIKÁNSKÁ STRANA ČECH, MORAVY A SLEZSKA",
+        "code": "SPR-RSČMS",
+        "reg_number": "MV-57833-6/VS-2010",
+        "id": "71339922",
+        "address": "690 06 Břeclav, Lednická 554/32",
+        "reg_date": "2010-06-24"
+    },
+    {
+        "type": "movement",
+        "name": "Nezávislí pro Bílinu",
+        "code": "NEZÁVISLÍ - BÍLINA",
+        "reg_number": "MV-52855-6/VS-2010",
+        "id": "71339914",
+        "address": "418 01 Bílina, Jižní 305",
+        "reg_date": "2010-06-10"
+    },
+    {
+        "type": "movement",
+        "name": "Občané městu, město občanům",
+        "code": "OMMO",
+        "reg_number": "MV-53627-6/VS-2010",
+        "id": "71339906",
+        "address": "434 01 Most, Moskevská 1463/37",
+        "reg_date": "2010-06-09"
+    },
+    {
+        "type": "movement",
+        "name": "Volím Orlovou",
+        "code": "VO",
+        "reg_number": "MV-53132-5/VS-2010",
+        "id": "71339892",
+        "address": "735 14 Orlová, Ke Studánce 354",
+        "reg_date": "2010-05-31"
+    },
+    {
+        "type": "movement",
+        "name": "NÁŠ HLUČÍN",
+        "code": "NH",
+        "reg_number": "MV-47758-6/VS-2010",
+        "id": "71339884",
+        "address": "748 01 Hlučín, Ostravská  1923/3",
+        "reg_date": "2010-05-25"
+    },
+    {
+        "type": "movement",
+        "name": "Ženy za Brod",
+        "code": "ŽB",
+        "reg_number": "MV-42277-6/VS-2010",
+        "id": "71339850",
+        "address": "580 01 Havlíčkův Brod, Prokopa Holého 787",
+        "reg_date": "2010-05-10"
+    },
+    {
+        "type": "party",
+        "name": "Nová budoucnost",
+        "code": "NB",
+        "reg_number": "MV-40546-6/VS-2010",
+        "id": "71339841",
+        "address": "466 05 Jablonec nad Nisou, Podhorská 635/85",
+        "reg_date": "2010-04-30"
+    },
+    {
+        "type": "party",
+        "name": "POLITIKA TRADIČNÍCH HODNOT",
+        "code": "PTH",
+        "reg_number": "MV-38916-6/VS-2010",
+        "id": "71339833",
+        "address": "197 00 Praha, Jilemnická 655/4",
+        "reg_date": "2010-04-23"
+    },
+    {
+        "type": "movement",
+        "name": "Pro Třebíč",
+        "code": "ProTR",
+        "reg_number": "MV-35568-6/VS-2010",
+        "id": "71339809",
+        "address": "674 01 Třebíč, Obránců míru 489/20",
+        "reg_date": "2010-04-20"
+    },
+    {
+        "type": "party",
+        "name": "VOLBA PRO KLADNO",
+        "code": "VPK",
+        "reg_number": "MV-29900-8/VS-2010",
+        "id": "71339817",
+        "address": "272 01 Kladno , Na Stráni  613",
+        "reg_date": "2010-04-20"
+    },
+    {
+        "type": "party",
+        "name": "Nový Impuls",
+        "code": "NI",
+        "reg_number": "MV-24612-6/VS-2010",
+        "id": "71339779",
+        "address": "765 02 Otrokovice, Hlavní 1250",
+        "reg_date": "2010-04-06"
+    },
+    {
+        "type": "party",
+        "name": "Victoria.cz",
+        "code": "Victoria",
+        "reg_number": "MV-97320-9/VS-2009",
+        "id": "71339761",
+        "address": "360 09 Karlovy Vary, Kvapilova 419/5",
+        "reg_date": "2010-03-01"
+    },
+    {
+        "type": "party",
+        "name": "Strana Práv Občanů ZEMANOVCI",
+        "code": "SPOZ",
+        "reg_number": "MV-87478-6/VS-2009",
+        "id": "71339752",
+        "address": "101 00 Praha, Nad Vinným potokem 1148/4",
+        "reg_date": "2009-12-08"
+    },
+    {
+        "type": "party",
+        "name": "STOP",
+        "code": "STOP",
+        "reg_number": "MV-52636-8/VS-2009",
+        "id": "71339744",
+        "address": "628 00 Brno, Podbělová 2716/4",
+        "reg_date": "2009-08-05"
+    },
+    {
+        "type": "party",
+        "name": "Česká realistická strana",
+        "code": "ČRS",
+        "reg_number": "MV-42789-6/VS-2009",
+        "id": "71339736",
+        "address": "612 00 Brno, Hudcova 367/78b",
+        "reg_date": "2009-06-30"
+    },
+    {
+        "type": "party",
+        "name": "TOP 09",
+        "code": "TOP 09",
+        "reg_number": "MV-43744-6/VS-2009",
+        "id": "71339728",
+        "address": "110 00 Praha, Opletalova 1603/57",
+        "reg_date": "2009-06-26"
+    },
+    {
+        "type": "party",
+        "name": "Česká pirátská strana",
+        "code": "Piráti",
+        "reg_number": "MV-39553-7/VS-2009",
+        "id": "71339698",
+        "address": "128 00 Praha, Na Moráni 360/3",
+        "reg_date": "2009-06-17"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí Za Telefonování Zdarma",
+        "code": "HZTZ.CZ",
+        "reg_number": "MV-32981-8/VS-2009",
+        "id": "71339680",
+        "address": "466 01 Jablonec nad Nisou, Máchova 766/29",
+        "reg_date": "2009-06-15"
+    },
+    {
+        "type": "party",
+        "name": "OBČANÉ.CZ",
+        "code": "Občané",
+        "reg_number": "MV-23857-4/VS-2009",
+        "id": "71339671",
+        "address": "140 21 Praha, 5. května 1640/65",
+        "reg_date": "2009-04-20"
+    },
+    {
+        "type": "party",
+        "name": "ČESKÝ POLITICKÝ STŘED",
+        "code": "ČPST",
+        "reg_number": "MV-21271-4/VS-2009",
+        "id": "71339663",
+        "address": "110 00 Praha, Václavské náměstí 846/1",
+        "reg_date": "2009-03-24"
+    },
+    {
+        "type": "party",
+        "name": "Strana soukromníků České republiky",
+        "code": "Soukromníci",
+        "reg_number": "MV-15624-6/VS-2009",
+        "id": "71339655",
+        "address": "534 01 Holice, náměstí T. G. Masaryka 24",
+        "reg_date": "2009-03-13"
+    },
+    {
+        "type": "party",
+        "name": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT",
+        "code": "DSZ - ZA PRÁVA ZVÍŘAT",
+        "reg_number": "MV-14845-4/VS-2009",
+        "id": "71339647",
+        "address": "345 34 Klenčí pod Čerchovem 34",
+        "reg_date": "2009-03-10"
+    },
+    {
+        "type": "party",
+        "name": "Svobodní",
+        "code": "Svobodní",
+        "reg_number": "MV-4812-4/VS-2009",
+        "id": "71339612",
+        "address": "120 00 Praha, Perucká 2196/14",
+        "reg_date": "2009-02-06"
+    },
+    {
+        "type": "party",
+        "name": "Libertas.cz",
+        "code": "Libertas",
+        "reg_number": "MV-1495-2/VS-2009",
+        "id": "71339604",
+        "address": "110 00 Praha, Dlouhá 616/12",
+        "reg_date": "2009-01-13"
+    },
+    {
+        "type": "movement",
+        "name": "Mírové hnutí 2007",
+        "code": "MH-2007",
+        "reg_number": "MV-45910-17/VS-2008",
+        "id": "71339591",
+        "address": "170 04 Praha , AS Tusarova  60",
+        "reg_date": "2008-12-10"
+    },
+    {
+        "type": "party",
+        "name": "Lidé a Politika",
+        "code": "LAP",
+        "reg_number": "MV-77334-9/VS-2008",
+        "id": "71339582",
+        "address": "252 26 Třebotov, Kosoř 1",
+        "reg_date": "2008-11-27"
+    },
+    {
+        "type": "party",
+        "name": "Liga spořádaných lidí",
+        "code": "LSL",
+        "reg_number": "MV-82670-5/VS-2008",
+        "id": "71339574",
+        "address": "263 01 Dobříš, U Ovčína 1452",
+        "reg_date": "2008-11-24"
+    },
+    {
+        "type": "party",
+        "name": "Evropská demokratická strana",
+        "code": "EDS",
+        "reg_number": "MV-83369-5/VS-2008",
+        "id": "71339566",
+        "address": "160 00 Praha, Na baště sv. Jiří 259/9",
+        "reg_date": "2008-11-19"
+    },
+    {
+        "type": "party",
+        "name": "Strana pro ekologii a zdraví",
+        "code": "SEZ",
+        "reg_number": "MV-56390-10/VS-2008",
+        "id": "71339531",
+        "address": "403 40 Ústí nad Labem 86",
+        "reg_date": "2008-09-18"
+    },
+    {
+        "type": "party",
+        "name": "Evropští demokraté za právo, morálku a spravedlnost",
+        "code": "ED-MS",
+        "reg_number": "MV-59412-4/VS-2008",
+        "id": "71339523",
+        "address": "620 00 Brno, V aleji 263/105",
+        "reg_date": "2008-07-24"
+    },
+    {
+        "type": "party",
+        "name": "Nezávislí starostové",
+        "code": "NEST",
+        "reg_number": "MV-59411-3/VS-2008",
+        "id": "71339515",
+        "address": "664 51 Šlapanice, Dlouhá 560/22",
+        "reg_date": "2008-07-18"
+    },
+    {
+        "type": "party",
+        "name": "Strana podnikatelů a živnostníků",
+        "code": "SPŽ",
+        "reg_number": "MV-11513-5/VS-2008",
+        "id": "71339507",
+        "address": "120 00 Praha, Jaromírova 663/42",
+        "reg_date": "2008-07-10"
+    },
+    {
+        "type": "movement",
+        "name": "Severočeši.cz",
+        "code": "S.cz",
+        "reg_number": "MV-30869/VS-2008",
+        "id": "71339493",
+        "address": "400 01 Ústí nad Labem, Pařížská 538/19",
+        "reg_date": "2008-04-14"
+    },
+    {
+        "type": "movement",
+        "name": "Starostové pro Liberecký kraj",
+        "code": "SLK",
+        "reg_number": "MV-26612-4/VS-2008",
+        "id": "71339485",
+        "address": "463 34 Hrádek nad Nisou, Turistická 197",
+        "reg_date": "2008-04-10"
+    },
+    {
+        "type": "party",
+        "name": "ALTERNATIVA",
+        "code": "ALTERNATIVA",
+        "reg_number": "MV-27031-4/VS-2008",
+        "id": "71339451",
+        "address": "360 01 Karlovy Vary, Jiráskova 1375/11",
+        "reg_date": "2008-04-02"
+    },
+    {
+        "type": "movement",
+        "name": "Doktoři (za uzdravení společnosti)",
+        "code": "Doktoři",
+        "reg_number": "MV-26710-2/VS-2008",
+        "id": "71339442",
+        "address": "362 21 Nejdek 158",
+        "reg_date": "2008-03-21"
+    },
+    {
+        "type": "movement",
+        "name": "Demokracie",
+        "code": "DK",
+        "reg_number": "MV-12633-1/VS-2008",
+        "id": "71339434",
+        "address": "793 23 Karlovice 287",
+        "reg_date": "2008-02-05"
+    },
+    {
+        "type": "movement",
+        "name": "Klíčové hnutí",
+        "code": "KH",
+        "reg_number": "MV-246-2/VS-2008",
+        "id": "71339426",
+        "address": "120 00 Praha, Ječná 529/29",
+        "reg_date": "2008-01-04"
+    },
+    {
+        "type": "party",
+        "name": "Republikánská strana Čech, Moravy a Slezska",
+        "code": "RSČMS",
+        "reg_number": "VS-5155/SDR/1-2007",
+        "id": "71339418",
+        "address": "293 06 Kosmonosy, Boleslavská 294/52",
+        "reg_date": "2007-06-14"
+    },
+    {
+        "type": "movement",
+        "name": "NESPOKOJENÍ OBČANÉ!",
+        "code": "NO!",
+        "reg_number": "VS-9637/SDR/1-2006",
+        "id": "27053024",
+        "address": "430 21 Chomutov, Nerudova 63/16",
+        "reg_date": "2007-01-26"
+    },
+    {
+        "type": "party",
+        "name": "Strana Svobody",
+        "code": "Str. Svob.",
+        "reg_number": "VS-5480/SDR/1-2006",
+        "id": "27041492",
+        "address": "324 00 Plzeň, Habrmannova 2115/39",
+        "reg_date": "2006-08-25"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí pro Prahu 11",
+        "code": "HPP 11",
+        "reg_number": "VS-5823/SDR/1-2006",
+        "id": "27039145",
+        "address": "149 00 Praha, Zakouřilova 776/82",
+        "reg_date": "2006-08-10"
+    },
+    {
+        "type": "movement",
+        "name": "ZVON",
+        "code": "PHZ",
+        "reg_number": "VS-5424/SDR/1-2006",
+        "id": "27040178",
+        "address": "293 01 Mladá Boleslav, Staroměstské náměstí 25/13",
+        "reg_date": "2006-08-08"
+    },
+    {
+        "type": "movement",
+        "name": "Volba pro Mladou Boleslav",
+        "code": "VpMB",
+        "reg_number": "VS-5662/SDR/1-2006",
+        "id": "27040097",
+        "address": "293 01 Mladá Boleslav, Blahoslavova 186/8",
+        "reg_date": "2006-08-04"
+    },
+    {
+        "type": "party",
+        "name": "HLAVU VZHŮRU - volební blok",
+        "code": "HLAVU VZHŮRU",
+        "reg_number": "VS-5552/SDR/1-2006",
+        "id": "27038611",
+        "address": "109 00 Praha , Za Zahradami  391/9",
+        "reg_date": "2006-07-28"
+    },
+    {
+        "type": "movement",
+        "name": "MĚSTO I MLÁDEŽI",
+        "code": "MIM",
+        "reg_number": "VS-5256/SDR/1-2006",
+        "id": "27038530",
+        "address": "390 02 Tábor, Husovo nám. 529/6",
+        "reg_date": "2006-07-26"
+    },
+    {
+        "type": "movement",
+        "name": "Mimoňská obroda",
+        "code": "OHMO",
+        "reg_number": "VS-4994/SDR/1-2006",
+        "id": "27038378",
+        "address": "471 24 Mimoň, Tyršovo náměstí 158",
+        "reg_date": "2006-07-25"
+    },
+    {
+        "type": "party",
+        "name": "SEMILÁCI",
+        "code": "PSS",
+        "reg_number": "VS-5074/SDR/1-2006",
+        "id": "27038131",
+        "address": "513 01 Semily, Riegrovo náměstí 16",
+        "reg_date": "2006-07-25"
+    },
+    {
+        "type": "party",
+        "name": "Zlínské sdružení živnostníků a podnikatelů",
+        "code": "ZSŽP",
+        "reg_number": "VS-5116/SDR/1-2006",
+        "id": "27038459",
+        "address": "760 01 Zlín, Vodní 2985",
+        "reg_date": "2006-07-25"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí za lepší bydlení",
+        "code": "HZLB",
+        "reg_number": "VS-4418/SDR/1-2006",
+        "id": "27038211",
+        "address": "738 01 Frýdek-Místek, Družstevní 844",
+        "reg_date": "2006-07-21"
+    },
+    {
+        "type": "party",
+        "name": "Občansko demokratické sdružení Zlín",
+        "code": "ODSZ",
+        "reg_number": "VS-5179/SDR/1-2006",
+        "id": "27038025",
+        "address": "760 01 Zlín, Nadhumení 304",
+        "reg_date": "2006-07-21"
+    },
+    {
+        "type": "movement",
+        "name": "Patrioti - hnutí za lepší Ústí n.L.",
+        "code": "P-HLÚ",
+        "reg_number": "VS-5117/SDR/1-2006",
+        "id": "27038297",
+        "address": "400 01 Ústí nad Labem, Moskevská 1590/38",
+        "reg_date": "2006-07-21"
+    },
+    {
+        "type": "movement",
+        "name": "Alternativa pro občany",
+        "code": "AO",
+        "reg_number": "VS-4775/SDR/1-2006",
+        "id": "27038050",
+        "address": "403 31 Ústí nad Labem, U Fary 208",
+        "reg_date": "2006-07-19"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí LEPŠÍ ŘEPY",
+        "code": "HLŘ",
+        "reg_number": "VS-4739/SDR/1-2006",
+        "id": "27038106",
+        "address": "163 00 Praha, Španielova 1273/42",
+        "reg_date": "2006-07-07"
+    },
+    {
+        "type": "movement",
+        "name": "Karlovarská občanská alternativa",
+        "code": "KOA",
+        "reg_number": "VS-4429/SDR/1-2006",
+        "id": "27034321",
+        "address": "360 01 Karlovy Vary, Zámecký vrch 674/37",
+        "reg_date": "2006-06-21"
+    },
+    {
+        "type": "movement",
+        "name": "Nestraníci",
+        "code": "NK",
+        "reg_number": "VS-3350/SDR/1-2006",
+        "id": "27034500",
+        "address": "565 01 Choceň, K. H. Borovského 672",
+        "reg_date": "2006-05-29"
+    },
+    {
+        "type": "movement",
+        "name": "Klub sociálně demokratické orientace",
+        "code": "KSDO",
+        "reg_number": "VS-3405/SDR/1-2006",
+        "id": "27033511",
+        "address": "466 01 Jablonec nad Nisou, Jarní 2970/14",
+        "reg_date": "2006-05-23"
+    },
+    {
+        "type": "party",
+        "name": "Sedma - strana pro Slatiňany, Škrovád, Trpišov, Kunčí, Presy, Podhůru a Kochánovice",
+        "code": "Sedma",
+        "reg_number": "VS-9145/SDR/1-2005",
+        "id": "27026922",
+        "address": "538 21 Slatiňany, Vítězství 387",
+        "reg_date": "2006-03-20"
+    },
+    {
+        "type": "party",
+        "name": "4 VIZE - www.4vize.cz",
+        "code": "4 VIZE",
+        "reg_number": "VS-1708/SDR/1-2006",
+        "id": "27023842",
+        "address": "252 64 Velké Přílepy, Máchova 685",
+        "reg_date": "2006-03-08"
+    },
+    {
+        "type": "movement",
+        "name": "Zelení",
+        "code": "Z",
+        "reg_number": "VS-300/SDR/1-2006",
+        "id": "27022196",
+        "address": "143 00 Praha, Semická 2026/14",
+        "reg_date": "2006-01-23"
+    },
+    {
+        "type": "party",
+        "name": "Strana občanské sebeobrany",
+        "code": "S.O.S. PRAHA",
+        "reg_number": "VS-85/SDR/1-2006",
+        "id": "27018661",
+        "address": "118 00 Praha , Loretánské náměstí 108/2",
+        "reg_date": "2006-01-17"
+    },
+    {
+        "type": "party",
+        "name": "Česká strana národně socialistická",
+        "code": "ČSNS 2005",
+        "reg_number": "VS-5708/SDR/1-2005",
+        "id": "27015904",
+        "address": "250 73 Podolanka, 1. máje 86",
+        "reg_date": "2005-12-21"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí pro Těšín",
+        "code": "HpT",
+        "reg_number": "VS-6819/SDR/1-2005",
+        "id": "27014193",
+        "address": "737 01 Český Těšín, Masarykovy sady 94/13",
+        "reg_date": "2005-10-25"
+    },
+    {
+        "type": "party",
+        "name": "Chci svou šanci",
+        "code": "CISN",
+        "reg_number": "VS-2828/SDR/1-2005",
+        "id": "27000206",
+        "address": "118 00 Praha, Pohořelec 110/26",
+        "reg_date": "2005-05-05"
+    },
+    {
+        "type": "party",
+        "name": "NEZÁVISLÍ DEMOKRATÉ",
+        "code": "NEZ/DEM",
+        "reg_number": "VS-2691/SDR/1-2005",
+        "id": "26996502",
+        "address": "110 00 Praha, Dlouhá 616/12",
+        "reg_date": "2005-05-05"
+    },
+    {
+        "type": "party",
+        "name": "STRANA ROVNOST ŠANCÍ",
+        "code": "SRŠ",
+        "reg_number": "VS-1703/SDR/1-2005",
+        "id": "26997665",
+        "address": "181 00 Praha, Dolákova 528/34",
+        "reg_date": "2005-04-19"
+    },
+    {
+        "type": "party",
+        "name": "Romská demokratická sociální strana",
+        "code": "RDSS",
+        "reg_number": "VS-9626/SDR/1-2004",
+        "id": "26993741",
+        "address": "100 40 Praha, U Stavoservisu 527/1",
+        "reg_date": "2005-03-22"
+    },
+    {
+        "type": "movement",
+        "name": "Folklor i Společnost",
+        "code": "FiS",
+        "reg_number": "VS-8954/SDR/1-2004",
+        "id": "26986311",
+        "address": "637 00 Brno, Pivoňkova 530/11",
+        "reg_date": "2004-12-30"
+    },
+    {
+        "type": "movement",
+        "name": "Občanské demokratické hnutí",
+        "code": "ODH",
+        "reg_number": "VS-9017/SDR/1-2003",
+        "id": "26679850",
+        "address": "407 47 Varnsdorf, Národní  1133",
+        "reg_date": "2004-11-03"
+    },
+    {
+        "type": "movement",
+        "name": "Fair play - HNPD",
+        "code": "HNPD",
+        "reg_number": "VS-6010/SDR/1-2004",
+        "id": "26673851",
+        "address": "739 91 Jablunkov, Plk. Velebnovského 70",
+        "reg_date": "2004-08-31"
+    },
+    {
+        "type": "movement",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "code": "STAN",
+        "reg_number": "VS-5908/SDR/1-2004",
+        "id": "26673908",
+        "address": "118 00 Praha, Malostranské náměstí  266/5",
+        "reg_date": "2004-08-19"
+    },
+    {
+        "type": "party",
+        "name": "Strana drobných živnostníků a podnikatelů",
+        "code": "SDŽP",
+        "reg_number": "VS-5747/SDR/-2004",
+        "id": "26673339",
+        "address": "569 07 Radiměř 424",
+        "reg_date": "2004-08-17"
+    },
+    {
+        "type": "party",
+        "name": "Evropská strana důstojného stáří",
+        "code": "ESDS",
+        "reg_number": "VS-5108/SDR/1-2004",
+        "id": "26668904",
+        "address": "110 00 Praha, Ve Smečkách 597/32",
+        "reg_date": "2004-07-02"
+    },
+    {
+        "type": "party",
+        "name": "NEZÁVISLÁ VOLBA",
+        "code": "NV",
+        "reg_number": "VS-4582/SDR/1-2004",
+        "id": "26668980",
+        "address": "772 00 Olomouc, Zámečnická 497/3A",
+        "reg_date": "2004-07-02"
+    },
+    {
+        "type": "movement",
+        "name": "Správný směr",
+        "code": "SPS",
+        "reg_number": "VS-4040/SDR/1-2004",
+        "id": "26667843",
+        "address": "760 01 Zlín, třída Tomáše Bati 2597",
+        "reg_date": "2004-06-25"
+    },
+    {
+        "type": "movement",
+        "name": "Svobodná občanská samospráva",
+        "code": "SvOS",
+        "reg_number": "VS-4550/SDR/1-2004",
+        "id": "26668874",
+        "address": "696 03 Dubňany, Hodonínská 314",
+        "reg_date": "2004-06-22"
+    },
+    {
+        "type": "party",
+        "name": "Viktor Kožený - Občanská federální demokracie",
+        "code": "OFD",
+        "reg_number": "VS-1962/SDR/1-2004",
+        "id": "26660709",
+        "address": "145 01 Praha, Ohradní 1159/65",
+        "reg_date": "2004-04-01"
+    },
+    {
+        "type": "party",
+        "name": "Strana státu přímé demokracie - Strana práce",
+        "code": "SSPD-SP",
+        "reg_number": "VS-1709/SDR/1-2004",
+        "id": "26658356",
+        "address": "712 00 Ostrava, Vdovská 696/36",
+        "reg_date": "2004-03-23"
+    },
+    {
+        "type": "party",
+        "name": "Demokratická Unie České republiky",
+        "code": "DEUČR",
+        "reg_number": "VS-10482/SDR/1-2003",
+        "id": "26652161",
+        "address": "400 01 Ústí nad Labem, Všebořická 603/46",
+        "reg_date": "2004-02-09"
+    },
+    {
+        "type": "movement",
+        "name": "Starostové a osobnosti pro Moravu",
+        "code": "SOM",
+        "reg_number": "VS-9837/SDR/1-2003",
+        "id": "26652242",
+        "address": "602 00 Brno, Střední 396/12",
+        "reg_date": "2004-02-09"
+    },
+    {
+        "type": "party",
+        "name": "Dělnická strana sociální spravedlnosti",
+        "code": "DSSS",
+        "reg_number": "VS-706/SDR/1-2004",
+        "id": "26650797",
+        "address": "161 00 Praha, Ciolkovského 853/1",
+        "reg_date": "2004-01-29"
+    },
+    {
+        "type": "party",
+        "name": "Blok proti islamizaci – Obrana domova",
+        "code": "BPI",
+        "reg_number": "VS-3332/SDR/1-2003",
+        "id": "26628601",
+        "address": "586 01 Jihlava, Znojemská 2380/82",
+        "reg_date": "2003-05-06"
+    },
+    {
+        "type": "party",
+        "name": "Všeobecná občanská strana",
+        "code": "VOS",
+        "reg_number": "VS-10/SDR/1-2003",
+        "id": "26626047",
+        "address": "735 41 Petřvald, Dolní 706",
+        "reg_date": "2003-04-07"
+    },
+    {
+        "type": "party",
+        "name": "Dělnická strana",
+        "code": "DS",
+        "reg_number": "VS-7089/SDR/1-2002",
+        "id": "26614278",
+        "address": "161 00 Praha 6, Ciolkovského  853",
+        "reg_date": "2002-12-20"
+    },
+    {
+        "type": "party",
+        "name": "Národní strana",
+        "code": "NS",
+        "reg_number": "VS-3640/SDR/1-2002",
+        "id": "26607701",
+        "address": "110 00 Praha , Senovážné náměstí 978/23",
+        "reg_date": "2002-10-31"
+    },
+    {
+        "type": "party",
+        "name": "Helax - Ostrava se baví",
+        "code": "HOB",
+        "reg_number": "VS-4979/SDR/1-2002",
+        "id": "26600978",
+        "address": "702 00 Ostrava, Stodolní 876/8",
+        "reg_date": "2002-08-21"
+    },
+    {
+        "type": "party",
+        "name": "Sociálně demokratická aliance nezávislých",
+        "code": "SDAN",
+        "reg_number": "VS-4876/SDR/1-2002",
+        "id": "26599295",
+        "address": "120 00 Praha, Žitná 657/13",
+        "reg_date": "2002-08-20"
+    },
+    {
+        "type": "movement",
+        "name": "MĚSTO LIDEM",
+        "code": "ML",
+        "reg_number": "VS-4880/SDR/1-2002",
+        "id": "26598647",
+        "address": "408 01 Rumburk, Pražská 451/14",
+        "reg_date": "2002-08-08"
+    },
+    {
+        "type": "movement",
+        "name": "Nezávislí pro Prahu",
+        "code": "NPP",
+        "reg_number": "VS-4470/SDR/1-2002",
+        "id": "26600781",
+        "address": "110 00 Praha, Panská 891/5",
+        "reg_date": "2002-07-31"
+    },
+    {
+        "type": "party",
+        "name": "Jirkov 21. století",
+        "code": "J 21 S",
+        "reg_number": "VS-4142/SDR/1-2001",
+        "id": "26600218",
+        "address": "431 11 Jirkov, Krušnohorská 1661",
+        "reg_date": "2002-07-26"
+    },
+    {
+        "type": "party",
+        "name": "Věci veřejné",
+        "code": "VV",
+        "reg_number": "VS-4623/SDR/1-2002",
+        "id": "26599643",
+        "address": "140 00 Praha, Jaurisova 515/4",
+        "reg_date": "2002-07-22"
+    },
+    {
+        "type": "party",
+        "name": "Spojení demokraté - Sdružení nezávislých",
+        "code": "SD-SN",
+        "reg_number": "VS-4585/SDR/1-2002",
+        "id": "26595940",
+        "address": "140 00 Praha, Lounských 791/10",
+        "reg_date": "2002-07-18"
+    },
+    {
+        "type": "party",
+        "name": "Starostové pro kraj",
+        "code": "Starostové",
+        "reg_number": "VS-2402/SDR/1-2002",
+        "id": "26592118",
+        "address": "400 01 Ústí nad Labem, Vaníčkova 835/9",
+        "reg_date": "2002-04-22"
+    },
+    {
+        "type": "party",
+        "name": "Konzervativní a sociální hnutí",
+        "code": "KSH",
+        "reg_number": "VS-1560/SDR/1-2002",
+        "id": "26590018",
+        "address": "272 04 Kladno, Vašíčkova 505",
+        "reg_date": "2002-04-12"
+    },
+    {
+        "type": "party",
+        "name": "Balbínova poetická strana",
+        "code": "BPS",
+        "reg_number": "VS-1933/SDR/1-2002",
+        "id": "26587840",
+        "address": "120 00 Praha, Balbínova 323/6",
+        "reg_date": "2002-04-08"
+    },
+    {
+        "type": "party",
+        "name": "Volba pro budoucnost",
+        "code": "VPB",
+        "reg_number": "VS-1777/SDR/1-2002",
+        "id": "26587891",
+        "address": "320 00 Plzeň, Klatovská 128",
+        "reg_date": "2002-03-28"
+    },
+    {
+        "type": "party",
+        "name": "Liberálové.CZ",
+        "code": "LIB",
+        "reg_number": "VS-1429/SDR/1-2002",
+        "id": "26586908",
+        "address": "158 00 Praha - Košíře, Jinonická  804/80",
+        "reg_date": "2002-03-21"
+    },
+    {
+        "type": "party",
+        "name": "ROZUMNÍ – Petr Hannig – za spravedlnost a životní jistoty",
+        "code": "Rozumní",
+        "reg_number": "VS-756/SDR/2002",
+        "id": "26585979",
+        "address": "118 00 Praha, Nerudova 253/11",
+        "reg_date": "2002-03-05"
+    },
+    {
+        "type": "movement",
+        "name": "SONOB - sdružení ochrany nájemníků a ostatního bydlení",
+        "code": "SONOB",
+        "reg_number": "VS-4561/SDR/1-2002",
+        "id": "26599210",
+        "address": "118 00 Praha, Saská 520/3",
+        "reg_date": "2002-02-19"
+    },
+    {
+        "type": "movement",
+        "name": "Tábor 2020",
+        "code": "T2020",
+        "reg_number": "VS-709/SDR/1-2002",
+        "id": "26582406",
+        "address": "390 01 Tábor, Pražská 223/6",
+        "reg_date": "2002-02-14"
+    },
+    {
+        "type": "party",
+        "name": "Naděje",
+        "code": "N",
+        "reg_number": "VS-145/SDR/1-2002",
+        "id": "26582112",
+        "address": "110 00 Praha, Na poříčí 1041/12",
+        "reg_date": "2002-01-25"
+    },
+    {
+        "type": "party",
+        "name": "Cesta změny",
+        "code": "CZ",
+        "reg_number": "VS-5215/SDR/1-2001",
+        "id": "26543621",
+        "address": "150 00 Praha, Švédská 1538/22",
+        "reg_date": "2001-10-22"
+    },
+    {
+        "type": "party",
+        "name": "Aktiv nezávislých občanů",
+        "code": "ANEO",
+        "reg_number": "VS/1-1/5889/2000",
+        "id": "26517400",
+        "address": "614 00 Brno, Vranovská 217/19",
+        "reg_date": "2001-01-04"
+    },
+    {
+        "type": "party",
+        "name": "Sebeobrana voličů - Váš hlas nepodpoří financování planých řečí, ale zdravotnictví Vašeho obvodu",
+        "code": "SeVo",
+        "reg_number": "VS/1-1/5036/2000",
+        "id": "70906467",
+        "address": "326 00 Plzeň, Slovanská alej 1892/17",
+        "reg_date": "2000-09-20"
+    },
+    {
+        "type": "party",
+        "name": "Strana občanského porozumění",
+        "code": "SOP",
+        "reg_number": "VS/1-1/5041/2000",
+        "id": "70867208",
+        "address": "460 01 Liberec, Dr. Milady Horákové 339/12",
+        "reg_date": "2000-09-04"
+    },
+    {
+        "type": "party",
+        "name": "Strana svobodných severu",
+        "code": "SSS",
+        "reg_number": "VS/1-1/4990/2000",
+        "id": "70867194",
+        "address": "460 06 Liberec, Zelené údolí 1038",
+        "reg_date": "2000-08-25"
+    },
+    {
+        "type": "party",
+        "name": "SNK Evropští demokraté",
+        "code": "SNK ED",
+        "reg_number": "VS/1-1/4900/2000",
+        "id": "70869553",
+        "address": "530 21 Pardubice, Pernštýnské náměstí 117",
+        "reg_date": "2000-08-24"
+    },
+    {
+        "type": "party",
+        "name": "Akce za skutečnou demokracii",
+        "code": "AZSD",
+        "reg_number": "VS/1-1/4491/2000",
+        "id": "69982732",
+        "address": "301 58 Plzeň, Částkova 2215/50",
+        "reg_date": "2000-08-23"
+    },
+    {
+        "type": "party",
+        "name": "Republikáni Miroslava Sládka",
+        "code": "RMS",
+        "reg_number": "VS/1-13793/2000",
+        "id": "70436312",
+        "address": "623 00 Brno, Ulička 831/1",
+        "reg_date": "2000-07-12"
+    },
+    {
+        "type": "movement",
+        "name": "Nestraníci pro Moravu",
+        "code": "NPM",
+        "reg_number": "VS/1-1/741/815/2000",
+        "id": "70907277",
+        "address": "635 00 Brno, Kubíčkova 1115/8",
+        "reg_date": "2000-03-06"
+    },
+    {
+        "type": "party",
+        "name": "Unie pro Evropu",
+        "code": "UPE",
+        "reg_number": "VS/1-1/606/2000",
+        "id": "70804532",
+        "address": "301 55 Plzeň, Jeletová 2",
+        "reg_date": "2000-02-16"
+    },
+    {
+        "type": "movement",
+        "name": "Nové hnutí",
+        "code": "NH.",
+        "reg_number": "VS/1-1/4632/99",
+        "id": "70946566",
+        "address": "252 25 Jinočany, Náměstí 5. května 24",
+        "reg_date": "1999-09-20"
+    },
+    {
+        "type": "movement",
+        "name": "KONZERVATIVNÍ ALTERNATIVA",
+        "code": "KOAL",
+        "reg_number": "VS/1-1/4424/1999",
+        "id": "70226709",
+        "address": "180 00 Praha, Primátorská 296/38",
+        "reg_date": "1999-09-01"
+    },
+    {
+        "type": "movement",
+        "name": "Českobudějovická nezávislá nová volba",
+        "code": "ČbNNV",
+        "reg_number": "VS/2088/2159/99",
+        "id": "69103852",
+        "address": "370 05 České Budějovice, Vltavské nábř. 526/7",
+        "reg_date": "1999-04-09"
+    },
+    {
+        "type": "party",
+        "name": "NÁRODNÍ PROSPERITA",
+        "code": "NP",
+        "reg_number": "VS/1-1/4958/98/r",
+        "id": "69347565",
+        "address": "466 01 Jablonec nad Nisou, Skřivánčí 1982/26",
+        "reg_date": "1999-03-22"
+    },
+    {
+        "type": "party",
+        "name": "Aliance nezávislých občanů",
+        "code": "ANO",
+        "reg_number": "VS/1-1/5029/98",
+        "id": null,
+        "address": "702 00 Ostrava, Na hradbách  4",
+        "reg_date": "1998-09-08"
+    },
+    {
+        "type": "movement",
+        "name": "Unie pro sport a zdraví",
+        "code": "USZ",
+        "reg_number": "VS/1-1/4875/98",
+        "id": "68954263",
+        "address": "460 01 Liberec, Jablonecká 88/18",
+        "reg_date": "1998-09-03"
+    },
+    {
+        "type": "movement",
+        "name": "Sdružení pro sport a zdraví",
+        "code": "SSZ",
+        "reg_number": "VS/1-1/4511/98",
+        "id": "68975201",
+        "address": "434 01 Most, U Stadionu 1563/2",
+        "reg_date": "1998-09-01"
+    },
+    {
+        "type": "movement",
+        "name": "1. Sdružení nezávislých kandidátů města Tábor",
+        "code": "1 SNK",
+        "reg_number": "VS/1-1/4943/98-R",
+        "id": "70932611",
+        "address": "390 01 Tábor, Varšavská 2742/6",
+        "reg_date": "1998-08-31"
+    },
+    {
+        "type": "movement",
+        "name": "Nezávislé sdružení občanů Blanska",
+        "code": "NSOB",
+        "reg_number": "VS/1-1/4671/98",
+        "id": "65764561",
+        "address": "678 01 Blansko, Svitavská 425/8",
+        "reg_date": "1998-08-24"
+    },
+    {
+        "type": "movement",
+        "name": "Občanská liga FORUM",
+        "code": "OLF",
+        "reg_number": "VS/1-1/4813/98",
+        "id": "69061564",
+        "address": "184 00 Praha , Hrušovanské nám. 1",
+        "reg_date": "1998-08-24"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí pro Havířov",
+        "code": "HPH",
+        "reg_number": "VS/1-1/4436/98",
+        "id": "68321457",
+        "address": "736 01 Havířov, Opletalova 1218/8B",
+        "reg_date": "1998-08-06"
+    },
+    {
+        "type": "movement",
+        "name": "MÍSTNÍ HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST",
+        "code": "HNHRM",
+        "reg_number": "VS/1-1/4524/98",
+        "id": "68455941",
+        "address": "407 52 Varnsdorf 243",
+        "reg_date": "1998-08-05"
+    },
+    {
+        "type": "party",
+        "name": "Pravá volba pro Plzeň",
+        "code": "PVP",
+        "reg_number": "VS/1-1/4207/98",
+        "id": "68782888",
+        "address": "300 00 Plzeň, Na Mazinách 112/16",
+        "reg_date": "1998-07-14"
+    },
+    {
+        "type": "party",
+        "name": "Demokratická regionální strana",
+        "code": "DRS",
+        "reg_number": "VS/1-1/3602/1998/r",
+        "id": "68435631",
+        "address": "460 01 Liberec , Štefánikovo nám.  780/5",
+        "reg_date": "1998-06-23"
+    },
+    {
+        "type": "party",
+        "name": "Volba pro město",
+        "code": "VPM",
+        "reg_number": "VS/1-1/4420/4551/98",
+        "id": "68210396",
+        "address": "500 03 Hradec Králové, Orlická 163/18",
+        "reg_date": "1998-06-07"
+    },
+    {
+        "type": "movement",
+        "name": "Zlínské hnutí nezávislých",
+        "code": "ZHN",
+        "reg_number": "VS/1-1/1826/98",
+        "id": "68684011",
+        "address": "760 01 Zlín, Benešovo nábřeží 3686",
+        "reg_date": "1998-05-21"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí za prosperitu Brna",
+        "code": "HPB",
+        "reg_number": "VS/1-1/2255/1998",
+        "id": null,
+        "address": "624 00 Brno, Jundrovská 1035/33",
+        "reg_date": "1998-05-04"
+    },
+    {
+        "type": "party",
+        "name": "Demokratická liga",
+        "code": "DL",
+        "reg_number": "VS/1577/1706/98",
+        "id": "69056811",
+        "address": "110 00 Praha, V jámě 639/12",
+        "reg_date": "1998-04-23"
+    },
+    {
+        "type": "party",
+        "name": "Alternativa 2000",
+        "code": "A 2000",
+        "reg_number": "VS/1-1/1565/98/r",
+        "id": null,
+        "address": "718 00 Ostrava, Střádalů 26/73",
+        "reg_date": "1998-03-30"
+    },
+    {
+        "type": "party",
+        "name": "Strana konzervativní smlouvy",
+        "code": "SKS",
+        "reg_number": "VS/1-1/1398/98/r",
+        "id": "67981291",
+        "address": "120 00 Praha, Římská 678/26",
+        "reg_date": "1998-03-12"
+    },
+    {
+        "type": "party",
+        "name": "Občanská koalice - Politický klub",
+        "code": "OK",
+        "reg_number": "II/s-OVS/1-1298/98/r",
+        "id": "67984207",
+        "address": "120 00 Praha 2, Náměstí míru  9",
+        "reg_date": "1998-02-27"
+    },
+    {
+        "type": "party",
+        "name": "Strana pro otevřenou společnost",
+        "code": "SOS",
+        "reg_number": "II/s-OVS/1-896/1998",
+        "id": "68346859",
+        "address": "737 01 Český Těšín, Nádražní 16/10",
+        "reg_date": "1998-02-23"
+    },
+    {
+        "type": "party",
+        "name": "Unie svobody - Demokratická unie",
+        "code": "US-DEU",
+        "reg_number": "OVS/1-355/419/98/r",
+        "id": "67777708",
+        "address": "120 00 Praha, Rumunská 1798/1",
+        "reg_date": "1998-01-22"
+    },
+    {
+        "type": "party",
+        "name": "Strana venkova - spojené občanské síly",
+        "code": "SV SOS",
+        "reg_number": "II/s-OS/3939/96",
+        "id": "65992105",
+        "address": "106 00 Praha, Práčská 1881/14",
+        "reg_date": "1996-10-02"
+    },
+    {
+        "type": "party",
+        "name": "Humanistická strana",
+        "code": "HS",
+        "reg_number": "II/s-OS/1-3747/96",
+        "id": "65990391",
+        "address": "128 00 Praha , Na slupi 5",
+        "reg_date": "1996-09-12"
+    },
+    {
+        "type": "party",
+        "name": "Volte Pravý Blok - stranu za snadnou a rychlou ODVOLATELNOST politiků a státních úředníků PŘÍMO OBČANY, za NÍZKÉ daně, VYROVNANÝ rozpočet, MINIMALIZACI byrokracie, SPRAVEDLIVOU a NEZKORUMPOVANOU policii a justici, REFERENDA  a PŘÍMOU demokracii WWW.CIBULKA.NET, kandidující s nejlepším protikriminálním programem PŘÍMÉ demokracie a hlubokého národního, duchovního a mravního obrození VY NEVĚŘÍTE POLITIKŮM A JEJICH NOVINÁŘŮM? NO KONEČNĚ! VĚŘME SAMI SOBĚ!!! - ale i s mnoha dalšími DŮVODY, proč bychom měli jít tentokrát VŠICHNI K VOLBÁM, ale - pokud nechceme být ZNOVU obelháni, podvedeni a okradeni - NEVOLIT ŽÁDNOU PARLAMENTNÍ TUNEL - STRANU vládnoucí (post) komunistické RUSKO - ČESKÉ totalitní FÍZLOKRACIE a jejich likvidační protinárodní politiku ČÍM HŮŘE, TÍM LÉPE!!! - jenž žádá  o volební podporu VŠECHNY ČESKÉ OBČANY a daňové poplatníky, kteří chtějí změnit dnešní kriminální poměry, jejichž jsme všichni obětí, v jejich pravý opak! V BOJI MEZI DOBREM A ZLEM, PRAVDOU A LŽÍ, NELZE BÝT NEUTRÁLNÍ A PŘESTO ZŮSTAT SLUŠNÝ!!! Proto děkujeme za Vaši podporu!!! Nevěříte-li na pokoru u popravčí káry, zdá-li se vám naše kandidátka málo dokonalá nebo postrádáte-li na ní zástupce své obce nebo města a přitom MÁTE ODVAHU v této válce Lidí Dobra s vládnoucími Lidmi Zla povstat z jimi naordinovaného občanského bezvědomí, kterým nás ničí a dnešní DEMOKRATURU, SKRYTOU TOTALITU a OTROKÁŘSTVÍ VYŠŠÍHO ŘÁDU zásadním způsobem změnit, KANDIDUJTE ZA NÁS!!! Kontakt: Volte Pravý Blok www.cibulka.net, PO BOX 595, 170 00 Praha 7",
+        "code": "Volte Pravý Blok www.cibulka.net",
+        "reg_number": "II/s-OS/1-1371/96",
+        "id": "64933911",
+        "address": "170 00 Praha, Janovského 985/15",
+        "reg_date": "1996-03-29"
+    },
+    {
+        "type": "party",
+        "name": "Strana Přírodního Zákona",
+        "code": "Přírodní",
+        "reg_number": "II/s-OS/1-1760/95",
+        "id": null,
+        "address": "Praha",
+        "reg_date": "1995-12-07"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí proti kriminalitě",
+        "code": "HPK",
+        "reg_number": "II/s-OS/1-739/95",
+        "id": "61984744",
+        "address": "Praha",
+        "reg_date": "1995-11-06"
+    },
+    {
+        "type": "party",
+        "name": "Mladí demokraté",
+        "code": "MD",
+        "reg_number": "II/S-OS/1-185/95",
+        "id": "64328287",
+        "address": "Brno, Josefská 15",
+        "reg_date": "1995-09-16"
+    },
+    {
+        "type": "party",
+        "name": "Komunistická strana Československa",
+        "code": "KSČ",
+        "reg_number": "II/S-OS/1-920/95",
+        "id": "63110156",
+        "address": "182 00 Praha, Štíbrova 1216/12",
+        "reg_date": "1995-03-10"
+    },
+    {
+        "type": "party",
+        "name": "Živnostenská strana",
+        "code": "ŽS",
+        "reg_number": "II/s-OS/1-89/95",
+        "id": "62934414",
+        "address": "120 00 Praha 2, Londýnská  52",
+        "reg_date": "1995-01-31"
+    },
+    {
+        "type": "movement",
+        "name": "Sdružení nezávislých kandidátů města České Budějovice",
+        "code": "SNKČB",
+        "reg_number": "II/s-OS/1-904/94",
+        "id": "60075872",
+        "address": "České Budějovice, 0",
+        "reg_date": "1994-09-12"
+    },
+    {
+        "type": "movement",
+        "name": "NEZÁVISLÍ",
+        "code": "NEZ",
+        "reg_number": "II/s-OS/1-881/94",
+        "id": "60458399",
+        "address": "709 00 Ostrava, Raisova 1066/6",
+        "reg_date": "1994-09-08"
+    },
+    {
+        "type": "movement",
+        "name": "Iniciativa občanů",
+        "code": "IO",
+        "reg_number": "II/s-OS/1-754/94",
+        "id": "68403500",
+        "address": "110 00 Praha, Provaznická 400/9",
+        "reg_date": "1994-08-25"
+    },
+    {
+        "type": "movement",
+        "name": "Pražané Praze",
+        "code": "PP",
+        "reg_number": "II/s-OS/1-602/94",
+        "id": "60449047",
+        "address": "Praha , 0",
+        "reg_date": "1994-06-24"
+    },
+    {
+        "type": "party",
+        "name": "Moravané, pro zachování Moravy se při sčítání lidu 2021 opět přihlasme k moravské národnosti",
+        "code": "Moravané",
+        "reg_number": "II/s-OS/1-462/94",
+        "id": "60556625",
+        "address": "660 87 Brno, Malinovského náměstí 603/4",
+        "reg_date": "1994-06-01"
+    },
+    {
+        "type": "party",
+        "name": "Moravská demokratická strana",
+        "code": "MODS",
+        "reg_number": "II/s-OS/1-461/94",
+        "id": "65842626",
+        "address": "602 00 Brno, Starobrněnská 690/20",
+        "reg_date": "1994-04-26"
+    },
+    {
+        "type": "party",
+        "name": "Demokratická unie",
+        "code": "DEU",
+        "reg_number": "II/s-OS/1-207/94",
+        "id": "61379999",
+        "address": "190 14 Praha, U trativodu 358",
+        "reg_date": "1994-03-07"
+    },
+    {
+        "type": "party",
+        "name": "Národní demokracie",
+        "code": "ND",
+        "reg_number": "II/s-OS/1-7643/93",
+        "id": "69345473",
+        "address": "272 01 Kladno, U tržnice 1979",
+        "reg_date": "1994-03-02"
+    },
+    {
+        "type": "movement",
+        "name": "Východoevropské národnostní politické hnutí v ČR",
+        "code": "VENPH",
+        "reg_number": "II/s-OS/-2384/93",
+        "id": "49742035",
+        "address": "Sokolov, 0",
+        "reg_date": "1994-02-24"
+    },
+    {
+        "type": "party",
+        "name": "Česká pravice",
+        "code": "ČP",
+        "reg_number": "VS/1-2069/93",
+        "id": "60457333",
+        "address": "128 00 Praha, Slavojova 579/9",
+        "reg_date": "1994-01-07"
+    },
+    {
+        "type": "party",
+        "name": "Československá strana socialistická",
+        "code": "ČSS",
+        "reg_number": "VS/1-7045/93",
+        "id": "49628763",
+        "address": "750 00 Přerov, Palackého 77/1",
+        "reg_date": "1993-12-17"
+    },
+    {
+        "type": "party",
+        "name": "Levice",
+        "code": "Levice",
+        "reg_number": "VS/1-1447/93",
+        "id": "49628089",
+        "address": "101 00 Praha, Přípotoční 869/19",
+        "reg_date": "1993-08-18"
+    },
+    {
+        "type": "party",
+        "name": "Masarykova demokratická strana",
+        "code": "MDS",
+        "reg_number": "VSC/1-786/92",
+        "id": "60456400",
+        "address": "750 02 Přerov, Alšova 2891/2A",
+        "reg_date": "1992-05-25"
+    },
+    {
+        "type": "party",
+        "name": "Česká strana národně sociální",
+        "code": "ČSNS",
+        "reg_number": "VSC/1-754/92",
+        "id": "00442721",
+        "address": "251 66 Mirošovice, Spojovací 78",
+        "reg_date": "1992-03-25"
+    },
+    {
+        "type": "movement",
+        "name": "Demokraté 92",
+        "code": "D 92",
+        "reg_number": "VSC/1-406/92",
+        "id": "45248541",
+        "address": "Praha",
+        "reg_date": "1992-03-13"
+    },
+    {
+        "type": "party",
+        "name": "Strana podnikatelů, živnostníků a rolníků České republiky",
+        "code": "SPŽRČR",
+        "reg_number": "VSC/1-294/92",
+        "id": "44991657",
+        "address": "120 00 Praha, Mikovcova 476/10",
+        "reg_date": "1992-03-06"
+    },
+    {
+        "type": "movement",
+        "name": "Republikáni",
+        "code": "REP",
+        "reg_number": "VSC/1-160/92",
+        "id": "70962022",
+        "address": "170 00 Praha, Kamenická 361/3",
+        "reg_date": "1992-02-20"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí za sociální spravedlnost",
+        "code": "HSS",
+        "reg_number": "VSC/1-108/1992",
+        "id": "45247927",
+        "address": "Praha",
+        "reg_date": "1992-02-17"
+    },
+    {
+        "type": "party",
+        "name": "Strana zdravotně postižených, důchodců a sociálně slabých občanů",
+        "code": "SZP-DO",
+        "reg_number": "VS/1-239/92",
+        "id": "48136395",
+        "address": "190 00 Praha 9, Tupolevova 465",
+        "reg_date": "1992-02-11"
+    },
+    {
+        "type": "party",
+        "name": "KDU-ČSL",
+        "code": "KDU-ČSL",
+        "reg_number": "VSC/1-3692/91",
+        "id": "00442704",
+        "address": "120 00 Praha, Karlovo náměstí 317/5",
+        "reg_date": "1991-11-12"
+    },
+    {
+        "type": "party",
+        "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+        "code": "Monarchiste.cz",
+        "reg_number": "VSC/1-3275/91",
+        "id": "44266740",
+        "address": "110 00 Praha, Rybná 716/24",
+        "reg_date": "1991-08-29"
+    },
+    {
+        "type": "party",
+        "name": "Občanská demokratická strana",
+        "code": "ODS",
+        "reg_number": "VS/1-870/91",
+        "id": "16192656",
+        "address": "110 00 Praha, Truhlářská 1106/9",
+        "reg_date": "1991-03-18"
+    },
+    {
+        "type": "party",
+        "name": "Národně demokratická strana",
+        "code": "NDS",
+        "reg_number": "VS/1-681/91",
+        "id": "16193334",
+        "address": "141 00 Praha, Dunická 3143/4",
+        "reg_date": "1991-03-04"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí angažovaných Romů",
+        "code": "HAR",
+        "reg_number": "VSP/1-342/91",
+        "id": "15271471",
+        "address": "370 00 České Budějovice, Pražská 1",
+        "reg_date": "1991-01-30"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí 90",
+        "code": "H 90",
+        "reg_number": "VSP/1-3848/90",
+        "id": null,
+        "address": "102 00 Praha, Azalková 1216/29",
+        "reg_date": "1991-01-24"
+    },
+    {
+        "type": "party",
+        "name": "Politická strana žen a matek Československa",
+        "code": "NEUVEDENA",
+        "reg_number": "VSP/1-400/91",
+        "id": null,
+        "address": "",
+        "reg_date": "1991-01-18"
+    },
+    {
+        "type": "party",
+        "name": "Komunistická strana Čech a Moravy",
+        "code": "KSČM",
+        "reg_number": "VSP/1-3076/90",
+        "id": "00496936",
+        "address": "110 00 Praha, Politických vězňů 1531/9",
+        "reg_date": "1990-11-28"
+    },
+    {
+        "type": "party",
+        "name": "Moravská národní strana",
+        "code": "MNS",
+        "reg_number": "VSP/1-2256/90",
+        "id": "15526453",
+        "address": "Brno",
+        "reg_date": "1990-09-28"
+    },
+    {
+        "type": "party",
+        "name": "Strana drobných podnikatelů",
+        "code": "SDP",
+        "reg_number": "VSP/4-2289/90",
+        "id": null,
+        "address": "160 00 Praha, Bubenečská 382/43",
+        "reg_date": "1990-09-26"
+    },
+    {
+        "type": "party",
+        "name": "Pravá alternativa",
+        "code": "PA",
+        "reg_number": "VSP/1-2197/90",
+        "id": "70954411",
+        "address": "250 87 Mochov, 5. května 67",
+        "reg_date": "1990-09-14"
+    },
+    {
+        "type": "party",
+        "name": "Asociace Radikálů za Spojené státy evropské",
+        "code": "AR",
+        "reg_number": "VSP/1-1561/90",
+        "id": "00674621",
+        "address": "Praha, 0",
+        "reg_date": "1990-06-06"
+    },
+    {
+        "type": "movement",
+        "name": "Klub angažovaných nestraníků",
+        "code": "KAN",
+        "reg_number": "VSP/1-1271/90",
+        "id": "00539996",
+        "address": "152 00 Praha, Klínecká 1224/14",
+        "reg_date": "1990-05-07"
+    },
+    {
+        "type": "party",
+        "name": "Strana demokratické levice",
+        "code": "SDL",
+        "reg_number": "AVS/1-985/90",
+        "id": null,
+        "address": "Praha",
+        "reg_date": "1990-04-09"
+    },
+    {
+        "type": "party",
+        "name": "Strana obrany kultury",
+        "code": "SOK",
+        "reg_number": "AVS/1-997/90",
+        "id": null,
+        "address": "Praha",
+        "reg_date": "1990-04-09"
+    },
+    {
+        "type": "movement",
+        "name": "Občanská společenská aktivita",
+        "code": "OSA",
+        "reg_number": "AVS/1-954/90",
+        "id": "00499650",
+        "address": "Praha , Žitná",
+        "reg_date": "1990-04-05"
+    },
+    {
+        "type": "party",
+        "name": "Strana moravského venkova",
+        "code": "SMV",
+        "reg_number": "AVS/1-928/90",
+        "id": "44940017",
+        "address": "Šumperk, 0",
+        "reg_date": "1990-04-05"
+    },
+    {
+        "type": "party",
+        "name": "Strana evropského domu",
+        "code": "SED",
+        "reg_number": "AVS/1-885/90",
+        "id": "00542636",
+        "address": "Brno",
+        "reg_date": "1990-03-29"
+    },
+    {
+        "type": "party",
+        "name": "Permanentní opozicí za demokracii",
+        "code": "POZDE",
+        "reg_number": "AVS/1-652/90",
+        "id": "00507121",
+        "address": "Praha",
+        "reg_date": "1990-03-28"
+    },
+    {
+        "type": "party",
+        "name": "Strana svobodných demokratů",
+        "code": "SSD",
+        "reg_number": "AVS/1-850/90",
+        "id": "00499668",
+        "address": "110 00 Praha, Novotného lávka 200/5",
+        "reg_date": "1990-03-26"
+    },
+    {
+        "type": "party",
+        "name": "Demokratická strana Československa",
+        "code": "DSČ",
+        "reg_number": "AVS/-792/90",
+        "id": "48548278",
+        "address": "101 00 Praha, Košická 70/10",
+        "reg_date": "1990-03-21"
+    },
+    {
+        "type": "movement",
+        "name": "Celostátní aktiv občanů",
+        "code": "CAO",
+        "reg_number": "AVS/1-75/90",
+        "id": "00505978",
+        "address": "Praha 1",
+        "reg_date": "1990-03-20"
+    },
+    {
+        "type": "party",
+        "name": "Demokratická unie zdraví a sportu",
+        "code": "DUZS",
+        "reg_number": "AVS/1-790/90",
+        "id": null,
+        "address": "Jablonec nad Nisou",
+        "reg_date": "1990-03-20"
+    },
+    {
+        "type": "party",
+        "name": "Agrární strana",
+        "code": "AS",
+        "reg_number": "AVS/1-363/90",
+        "id": "00571644",
+        "address": "110 00 Praha, Klimentská 1209/14",
+        "reg_date": "1990-03-16"
+    },
+    {
+        "type": "party",
+        "name": "Konzervativní strana",
+        "code": "KONS",
+        "reg_number": "AVS/1-714/90",
+        "id": "15271960",
+        "address": "110 00 Praha, Rybná 716/24",
+        "reg_date": "1990-03-16"
+    },
+    {
+        "type": "party",
+        "name": "Republikánská strana",
+        "code": "RS",
+        "reg_number": "AVS/1-3928/622/90",
+        "id": "49466127",
+        "address": "Brno, 0",
+        "reg_date": "1990-03-16"
+    },
+    {
+        "type": "party",
+        "name": "Republikánská strana zemědělského a malorolnického lidu",
+        "code": "RSZML",
+        "reg_number": "AVS/1-739/90",
+        "id": "49280872",
+        "address": "619 00 Brno, Staré náměstí 279/28A",
+        "reg_date": "1990-03-15"
+    },
+    {
+        "type": "party",
+        "name": "Strana za životní jistoty",
+        "code": "SŽJ",
+        "reg_number": "AVS/1-720/90",
+        "id": "00499421",
+        "address": "120 00 Praha, Trojická 437/20",
+        "reg_date": "1990-03-14"
+    },
+    {
+        "type": "movement",
+        "name": "Hnutí zemědělců",
+        "code": "HZ",
+        "reg_number": "AVS/1-653/90",
+        "id": "00222101",
+        "address": "Praha",
+        "reg_date": "1990-03-09"
+    },
+    {
+        "type": "movement",
+        "name": "Organizace nezávislých Rumunů",
+        "code": "ONR",
+        "reg_number": "AVS/1-626/90",
+        "id": "00490521",
+        "address": "Ostrava",
+        "reg_date": "1990-03-07"
+    },
+    {
+        "type": "party",
+        "name": "Republikánská unie",
+        "code": "RU",
+        "reg_number": "AVS/1-594/90",
+        "id": "00499200",
+        "address": "110 00 Praha, Široká 65/14",
+        "reg_date": "1990-03-06"
+    },
+    {
+        "type": "party",
+        "name": "Občanská demokratická aliance",
+        "code": "ODA",
+        "reg_number": "AVS/1-569/90",
+        "id": "00409731",
+        "address": "140 00 Praha, U Společenské zahrady 319/6",
+        "reg_date": "1990-03-05"
+    },
+    {
+        "type": "party",
+        "name": "Romská občanská iniciativa ČR",
+        "code": "ROI ČR",
+        "reg_number": "AVS/1-2042/245/90",
+        "id": "00499757",
+        "address": "100 00 Praha, Pod strašnickou vinicí 183/6",
+        "reg_date": "1990-03-02"
+    },
+    {
+        "type": "movement",
+        "name": "COEXISTENTIA",
+        "code": "COEX",
+        "reg_number": "AVS/1-514/90",
+        "id": "00494887",
+        "address": "737 01 Český Těšín, Střelniční 209/28",
+        "reg_date": "1990-02-27"
+    },
+    {
+        "type": "party",
+        "name": "Československá strana Humanistické Internacionály",
+        "code": "ČSHI",
+        "reg_number": "AVS/1-526/90",
+        "id": null,
+        "address": "Ostrava",
+        "reg_date": "1990-02-27"
+    },
+    {
+        "type": "party",
+        "name": "Sdružení pro republiku - Republikánská strana Československa",
+        "code": "SPR-RSČ",
+        "reg_number": "AVS/1-301/90",
+        "id": "00536687",
+        "address": "293 06 Kosmonosy, Boleslavská 294/52",
+        "reg_date": "1990-02-26"
+    },
+    {
+        "type": "party",
+        "name": "Nezávislá iniciativa (NEI)",
+        "code": "NEI",
+        "reg_number": "AVS/1-466/90",
+        "id": "00409421",
+        "address": "160 00 Praha, U Vorlíků 367/3",
+        "reg_date": "1990-02-22"
+    },
+    {
+        "type": "party",
+        "name": "Podnikatelsko živnostenská strana",
+        "code": "PŽS",
+        "reg_number": "AVS/1-99/1990",
+        "id": "00409332",
+        "address": "120 00 Praha, Jaromírova 663/42",
+        "reg_date": "1990-02-12"
+    },
+    {
+        "type": "party",
+        "name": "Česká strana sociálně demokratická",
+        "code": "ČSSD",
+        "reg_number": "AVS/1-83/90",
+        "id": "00409171",
+        "address": "110 00 Praha, Hybernská 1033/7",
+        "reg_date": "1990-02-09"
+    },
+    {
+        "type": "party",
+        "name": "Strana zelených",
+        "code": "Zelení",
+        "reg_number": "AVS/1-260/90",
+        "id": "00409740",
+        "address": "130 00 Praha, náměstí Winstona Churchilla 1800/2",
+        "reg_date": "1990-02-03"
+    },
+    {
+        "type": "party",
+        "name": "Liberálně demokratická strana",
+        "code": "LDS",
+        "reg_number": "AVS/1-208/90",
+        "id": "00409251",
+        "address": "Praha",
+        "reg_date": "1990-01-31"
+    }
+]
