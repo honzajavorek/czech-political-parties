@@ -44,6 +44,7 @@ class CzechPoliticalPartiesSpider(scrapy.Spider):
 
         heading = None
         people = []
+        is_active = True
         for tr in rows:
             try:
                 heading = tr.css('h3::text').get().strip()
@@ -55,6 +56,8 @@ class CzechPoliticalPartiesSpider(scrapy.Spider):
                         'name': person.splitlines()[0].strip(),
                         'role': role.lower().rstrip(':'),
                     })
+                if heading == 'Aktuální stav':
+                    is_active = False
 
         yield {
             'name': (data.get('Název strany:') or data['Název hnutí:']).strip('"„”“'),
@@ -65,6 +68,7 @@ class CzechPoliticalPartiesSpider(scrapy.Spider):
             'address': data['Adresa sídla:'],
             'people': people,
             'type': TYPE_MAPPING[extract_text(type_)],
+            'is_active': is_active,
         }
 
 
