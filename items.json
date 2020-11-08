@@ -7,7 +7,8 @@
         "reg_date": "2020-10-15",
         "address": "708 00 Ostrava, Slavíkova 1390/4",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "O vás pro vás",
@@ -22,7 +23,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "VIZE - národní socialisté",
@@ -41,7 +43,8 @@
                 "role": "výkonný tajemník"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Nezávislá kandidátka",
@@ -56,7 +59,8 @@
                 "role": "předsedkyně"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "PÍSEK SOBĚ – sdružení nezávislých kandidátů",
@@ -66,7 +70,8 @@
         "reg_date": "2020-07-09",
         "address": "397 01 Písek, Tyršova 681/38",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Mladí pro Pardubický kraj",
@@ -97,7 +102,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "ZA OBČANY",
@@ -112,7 +118,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Hnutí Idealisté",
@@ -122,7 +129,8 @@
         "reg_date": "2020-06-09",
         "address": "638 00 Brno, Soběšická 1472/128A",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Alternativa pro nezávislé kandidáty 2020 - ANK 2020",
@@ -145,7 +153,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Budoucnost",
@@ -164,7 +173,8 @@
                 "role": "spolupředsedkyně"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Patrioti Olomouckého kraje",
@@ -187,7 +197,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Změna 2020",
@@ -210,7 +221,8 @@
                 "role": "2. místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Společně pro kraj",
@@ -241,7 +253,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Trikolóra hnutí občanů",
@@ -256,7 +269,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Jednotní",
@@ -271,7 +285,8 @@
                 "role": "předsedkyně"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "LIST JAROMÍRA SOUKUPA",
@@ -281,7 +296,8 @@
         "reg_date": "2019-03-15",
         "address": "147 00 Praha, Mikuleckého 1311/8",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "JSI PRO? Jistota Solidarita Investice pro budoucnost",
@@ -304,7 +320,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "TVŮJ KANDIDÁT",
@@ -319,7 +336,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Pro Česko",
@@ -342,7 +360,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "INSTITUT",
@@ -357,7 +376,8 @@
                 "role": "předsedkyně"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "HLAS",
@@ -388,7 +408,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Evropa společně",
@@ -403,7 +424,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "PRVNÍ REPUBLIKA",
@@ -418,7 +440,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Moravská a Slezská pirátská strana",
@@ -441,7 +464,8 @@
                 "role": "místopředsedkyně"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Vinohrady společně",
@@ -464,7 +488,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "DOST JE DOST ! Občané za svá práva",
@@ -487,7 +512,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Naše Obec",
@@ -506,7 +532,8 @@
                 "role": "1. místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "VIZE pro Česko",
@@ -529,7 +556,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Alternativa pro Vás",
@@ -560,7 +588,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Čisté Budějovice",
@@ -575,7 +604,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Nezávislí – Naše Čtrnáctka",
@@ -598,7 +628,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Hnutí 2018",
@@ -621,7 +652,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Hnutí nezávislých, PRO-Kdyňsko",
@@ -636,7 +668,8 @@
                 "role": "předsedkyně"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Vize národních socialistů",
@@ -655,7 +688,8 @@
                 "role": "výkonná tajemnice"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "ANO, vytrollíme europarlament",
@@ -678,7 +712,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "KOLONÁDA – HNUTÍ PATRIOTŮ",
@@ -709,7 +744,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Společně pro Strakonice",
@@ -728,7 +764,8 @@
                 "role": "místopředsedkyně"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Hnutí PRO Hodonín",
@@ -751,7 +788,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Sdružení pro Místní Správu",
@@ -766,7 +804,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "JAUNER Československo 2018",
@@ -781,7 +820,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Brno Plus",
@@ -804,7 +844,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "ŽIVÁ PRAHA 5",
@@ -823,7 +864,8 @@
                 "role": "místopředsedkyně"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Klidné město",
@@ -842,7 +884,8 @@
                 "role": "místopředsedkyně"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Brněnští senioři",
@@ -865,7 +908,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Slezská pro život",
@@ -884,7 +928,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Marek Hilšer do Senátu",
@@ -907,7 +952,8 @@
                 "role": "člen předsednictva"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Za lepší Střekov",
@@ -926,7 +972,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "OBYČEJNÍ LIDÉ",
@@ -936,7 +983,8 @@
         "reg_date": "2018-05-24",
         "address": "102 00 Praha, Selská 36/6",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "spOLečně",
@@ -967,7 +1015,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "LEČO – LEPŠÍ A ČISTÁ OSTRAVA",
@@ -986,7 +1035,8 @@
                 "role": "místopředsedkyně"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Moravské zemské hnutí",
@@ -1025,7 +1075,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Národní obroda",
@@ -1048,7 +1099,8 @@
                 "role": "výkonný místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Občané městských částí Opavy",
@@ -1079,7 +1131,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "SENÁTOR 21",
@@ -1094,7 +1147,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Havířovský družstevník",
@@ -1121,7 +1175,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Tak jo!",
@@ -1131,7 +1186,8 @@
         "reg_date": "2017-08-11",
         "address": "143 00 Praha, Na Cikorce 1607/18",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Radostné Česko",
@@ -1150,7 +1206,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Unie Hrdosti, Aktivity, Vlastenectví, Empatie a Lidskosti 2017",
@@ -1165,7 +1222,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "SPORTOVCI",
@@ -1184,7 +1242,8 @@
                 "role": "výkonný tajemník"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Občané za spokojené bydlení",
@@ -1203,7 +1262,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Podporujeme občanskou kandidátku PRAHA SOBĚ",
@@ -1222,7 +1282,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "BEZPEČNOST, ODPOVĚDNOST, SOLIDARITA",
@@ -1253,7 +1314,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Strana nezávislosti České republiky",
@@ -1276,7 +1338,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "CESTA ODPOVĚDNÉ SPOLEČNOSTI",
@@ -1315,7 +1378,8 @@
                 "role": "člen předsednictva"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "ProMOST",
@@ -1346,7 +1410,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "REALISTÉ",
@@ -1365,7 +1430,8 @@
                 "role": "tajemník"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "PLUS",
@@ -1388,7 +1454,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Občanská demokratická aliance",
@@ -1423,7 +1490,8 @@
                 "role": "členka"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Evolution-Mind",
@@ -1438,7 +1506,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "NEZÁVISLÍ KANDIDÁTI DO SENÁTU",
@@ -1453,7 +1522,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "NOVÁ GENERACE",
@@ -1468,7 +1538,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Politické hnutí PRO 2016",
@@ -1499,7 +1570,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "JIHOČEŠTÍ HASIČI",
@@ -1514,7 +1586,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "ALTERNATIVA PRO ČESKOU POLITIKU",
@@ -1545,7 +1618,8 @@
                 "role": "3. místopředsedkyně"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Alternativa pro Česko",
@@ -1560,7 +1634,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Bystrčáci",
@@ -1575,7 +1650,8 @@
                 "role": "předsedkyně"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Sdružení nezávislých kandidátů 1 – Starostové našeho kraje",
@@ -1590,7 +1666,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "OBČANÉ PRO OLOMOUCKÝ KRAJ – volba OK",
@@ -1605,7 +1682,8 @@
                 "role": "předsedkyně"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Dobrá volba 2016",
@@ -1628,7 +1706,8 @@
                 "role": "2. místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Vaše Ústí",
@@ -1643,7 +1722,8 @@
                 "role": "předsedkyně"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "JsmePRO!",
@@ -1666,7 +1746,8 @@
                 "role": "člen a pokladník"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Sdružení pro republiku - Republikánská strana Československa Miroslava Sládka",
@@ -1681,7 +1762,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "KOMUNISTICKÁ STRANA ČECH, MORAVY A SLEZSKA",
@@ -1704,7 +1786,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "PRO! Ústecký kraj",
@@ -1719,7 +1802,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Slušní lidé",
@@ -1742,7 +1826,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Změna pro lidi",
@@ -1765,7 +1850,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Česká národní fronta",
@@ -1800,7 +1886,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Agrární demokratická strana",
@@ -1819,7 +1906,8 @@
                 "role": "statutární místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "VOK - Volba pro kraj",
@@ -1838,7 +1926,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "HNUTÍ OBČANŮ KRAJE",
@@ -1861,7 +1950,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Národ Sobě",
@@ -1888,7 +1978,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "PRO - Poctivě Rozumně Odpovědně",
@@ -1898,7 +1989,8 @@
         "reg_date": "2015-07-28",
         "address": "252 18 Ptice 113",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Svoboda a přímá demokracie (SPD)",
@@ -1913,7 +2005,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Národní zájmy",
@@ -1928,7 +2021,8 @@
                 "role": "sekretář"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "PRO občané",
@@ -1955,7 +2049,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "KOMUNISTICKÁ STRANA ČESKÁ 21",
@@ -1978,7 +2073,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "DOMA",
@@ -2001,7 +2097,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Moderní společnost",
@@ -2024,7 +2121,8 @@
                 "role": "členka"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "PROZMĚNU",
@@ -2043,7 +2141,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Pro regiony občanům",
@@ -2062,7 +2161,8 @@
                 "role": "pokladník"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Solidarita, Vlast a Zákon",
@@ -2085,7 +2185,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Šance pro Duchcov",
@@ -2100,7 +2201,8 @@
                 "role": "předsedkyně"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Hnutí občanů Prahy",
@@ -2110,7 +2212,8 @@
         "reg_date": "2014-07-30",
         "address": "186 00 Praha, Březinova 492/13",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Volyně v dolyně",
@@ -2149,7 +2252,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Alternativa pro Českou republiku 2017",
@@ -2168,7 +2272,8 @@
                 "role": "výkonný místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "RESTART",
@@ -2178,7 +2283,8 @@
         "reg_date": "2014-07-29",
         "address": "384 22 Lipovice 37",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Hradecký demokratický klub",
@@ -2209,7 +2315,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "TŘINÁCTKA",
@@ -2232,7 +2339,8 @@
                 "role": "místopředsedkyně"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "NOVÁ PLZEŇ s Jiřím Strobachem",
@@ -2263,7 +2371,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "OBČANÉ SPOLU - NEZÁVISLÍ",
@@ -2282,7 +2391,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "SPOLEHNUTÍ - SPOLEČNÉ HNUTÍ ČESKOLIPANŮ",
@@ -2321,7 +2431,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Společnost proti developerské výstavbě v Prokopském údolí",
@@ -2340,7 +2451,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "ProOlomouc",
@@ -2355,7 +2467,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Veřejné zájmy",
@@ -2382,7 +2495,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "iČesko",
@@ -2401,7 +2515,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Karviňáci s Adámkem",
@@ -2420,7 +2535,8 @@
                 "role": "místopředsedkyně"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Plzeň pro sport",
@@ -2430,7 +2546,8 @@
         "reg_date": "2014-07-09",
         "address": "323 00 Plzeň, Krašovská 1729/16",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "SMĚR - česká cesta",
@@ -2449,7 +2566,8 @@
                 "role": "výkonný tajemník"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Spravedlivá občanská společnost",
@@ -2459,7 +2577,8 @@
         "reg_date": "2014-07-09",
         "address": "387 01 Volyně, Pod Malsičkou 593",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Hnutí Praha-Kunratice",
@@ -2498,7 +2617,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "NEZÁVISLÍ PRO PRAHU 10 - HNUTÍ PRO LEPŠÍ DESÍTKU",
@@ -2521,7 +2641,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Frýdečané a Místečané",
@@ -2540,7 +2661,8 @@
                 "role": "místopředsedkyně"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Podpora občanů",
@@ -2587,7 +2709,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Město pro vás",
@@ -2602,7 +2725,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Mladoboleslavské hnutí nezávislých",
@@ -2633,7 +2757,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Karlovaráci",
@@ -2664,7 +2789,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Ostravské fórum",
@@ -2703,7 +2829,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Ta naše Třebíč",
@@ -2726,7 +2853,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Žít Brno",
@@ -2749,7 +2877,8 @@
                 "role": "2. místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Hnutí SOL",
@@ -2788,7 +2917,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Otevřená radnice",
@@ -2815,7 +2945,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Občané patrioti",
@@ -2838,7 +2969,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "PATRIOT 2014",
@@ -2861,7 +2993,8 @@
                 "role": "2. místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Pévéčko",
@@ -2876,7 +3009,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Čistý kraj",
@@ -2903,7 +3037,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Politické Hnutí Vítkovice",
@@ -2918,7 +3053,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "SPOLU",
@@ -2941,7 +3077,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "NOVÝ SEVER",
@@ -2964,7 +3101,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "HRADEČTÍ PATRIOTI",
@@ -2987,7 +3125,8 @@
                 "role": "pokladník"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Občanské hnutí Můj domov",
@@ -3006,7 +3145,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "PRO PLZEŇ",
@@ -3045,7 +3185,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Politické hnutí OBRODA",
@@ -3064,7 +3205,8 @@
                 "role": "místopředsedkyně"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "ÚSTECKÉ FÓRUM OBČANŮ",
@@ -3083,7 +3225,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "HNUTÍ SOCIÁLNĚ SLABÝCH",
@@ -3102,7 +3245,8 @@
                 "role": "výkonný místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Toryové",
@@ -3125,7 +3269,8 @@
                 "role": "hlavní pokladník"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Jižní Město - náš domov",
@@ -3152,7 +3297,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Pražané.cz",
@@ -3167,7 +3313,8 @@
                 "role": "předsedkyně"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Hnutí dobrých proměn",
@@ -3190,7 +3337,8 @@
                 "role": "2. místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Občanská konzervativní strana",
@@ -3205,7 +3353,8 @@
                 "role": "předsedkyně"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "evropani.cz",
@@ -3236,7 +3385,8 @@
                 "role": "tajemník"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Patrioti České republiky",
@@ -3263,7 +3413,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Alternativa pro Plzeň",
@@ -3278,7 +3429,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Republika",
@@ -3317,7 +3469,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "ANTIBURSÍK - STOP EKOTERORU !",
@@ -3332,7 +3485,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Naše Město F-M",
@@ -3379,7 +3533,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Náš Prostějov",
@@ -3389,7 +3544,8 @@
         "reg_date": "2013-10-01",
         "address": "796 01 Prostějov, Újezd 2167/23",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Liberálně ekologická strana",
@@ -3404,7 +3560,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Zlín 21",
@@ -3427,7 +3584,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Ústečané",
@@ -3450,7 +3608,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Romská demokratická strana",
@@ -3465,7 +3624,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Nový směr",
@@ -3496,7 +3656,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Úsvit - Národní Koalice",
@@ -3511,7 +3672,8 @@
                 "role": "sekretář"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Pro Prahu",
@@ -3550,7 +3712,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Pardubice pro lidi",
@@ -3565,7 +3728,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Strana důchodců Františka Burdy",
@@ -3584,7 +3748,8 @@
                 "role": "místopředsedkyně"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Občané České republiky",
@@ -3623,7 +3788,8 @@
                 "role": "členka"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Sdružení nezávislých občanů Prahy",
@@ -3642,7 +3808,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Občanská sounáležitost",
@@ -3657,7 +3824,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Zdraví Sport Prosperita",
@@ -3680,7 +3848,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Zemští Demokraté",
@@ -3699,7 +3868,8 @@
                 "role": "1.místopředsedkyně"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Česká strana selského rozumu",
@@ -3718,7 +3888,8 @@
                 "role": "místopředsedkyně"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Hnutí FAIR PLAY",
@@ -3733,7 +3904,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Volba lidu 21.století",
@@ -3756,7 +3928,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Nová budoucnost pro Liberecký kraj",
@@ -3771,7 +3944,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Starostové pro občany",
@@ -3798,7 +3972,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "za Morální Očistu Regionu",
@@ -3821,7 +3996,8 @@
                 "role": "2. místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "PATRIOTI",
@@ -3844,7 +4020,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Strana Češi",
@@ -3867,7 +4044,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "ZVUK 12",
@@ -3898,7 +4076,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "PRO",
@@ -3929,7 +4108,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Středočeši2012.cz",
@@ -3944,7 +4124,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "HOZK",
@@ -3967,7 +4148,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "politické hnutí Změna",
@@ -4002,7 +4184,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "VÝCHODOČEŠI",
@@ -4033,7 +4216,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Strana konzervativní pravice - Řád národa",
@@ -4048,7 +4232,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "ANO 2011",
@@ -4111,7 +4296,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Strana rovných příležitostí",
@@ -4126,7 +4312,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "JIHOČEŠI 2012",
@@ -4141,7 +4328,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Strana přátel časopisu MAXIM a jejich přátel za maximální svobodu projevu, za vybudování mocné armády a za život bez zbytečných omezení a zákazů",
@@ -4164,7 +4352,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Národní socialisté",
@@ -4203,7 +4392,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Strana Globální Odpovědnosti",
@@ -4213,7 +4403,8 @@
         "reg_date": "2011-11-01",
         "address": "190 00 Praha, Kolbenova 635/18",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "ALIANCE NÁRODNÍCH SIL",
@@ -4240,7 +4431,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "NÁRODNÍ FRONTA",
@@ -4259,7 +4451,8 @@
                 "role": "1. místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Lidové fórum",
@@ -4269,7 +4462,8 @@
         "reg_date": "2011-04-21",
         "address": "615 00 Brno, Šaldova 380/3",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Česká Suverenita",
@@ -4288,7 +4482,8 @@
                 "role": "statutární místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Naše Beskydy",
@@ -4298,7 +4493,8 @@
         "reg_date": "2010-08-02",
         "address": "744 01 Frenštát pod Radhoštěm, Potoční 646",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Sdružení nezávislých Holešovska",
@@ -4321,7 +4517,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Občanské hnutí pro Mimoň",
@@ -4344,7 +4541,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Ostravak",
@@ -4367,7 +4565,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Česká strana regionů",
@@ -4390,7 +4589,8 @@
                 "role": "pokladník"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Občané pro Budějovice",
@@ -4405,7 +4605,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "VLASTENECKÁ STRANA",
@@ -4428,7 +4629,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Zdravé Hradiště",
@@ -4443,7 +4645,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Desítka pro domácí",
@@ -4462,7 +4665,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Konzervativní aliance 2014",
@@ -4485,7 +4689,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Společnost pro Třinec",
@@ -4495,7 +4700,8 @@
         "reg_date": "2010-07-19",
         "address": "739 61 Třinec, ul. 1. máje  129",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "ZaRegion",
@@ -4510,7 +4716,8 @@
                 "role": "předsedkyně"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Bílinští sociální demokraté a nezávislí",
@@ -4525,7 +4732,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "OSMA - občané svému městu",
@@ -4535,7 +4743,8 @@
         "reg_date": "2010-07-15",
         "address": "503 11 Hradec Králové, Postranní 659/8",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Hnutí O co jim jde?!",
@@ -4558,7 +4767,8 @@
                 "role": "pokladník"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Pražané za svá práva",
@@ -4589,7 +4799,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Strakonická Veřejnost",
@@ -4620,7 +4831,8 @@
                 "role": "člen rady"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Hnutí nezávislých za všestranný rozvoj Slatiny",
@@ -4643,7 +4855,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Jundrováci",
@@ -4658,7 +4871,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Královopolští patrioti",
@@ -4673,7 +4887,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Strana demokratické obnovy",
@@ -4692,7 +4907,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "ČESKÁ NEZÁVISLÁ",
@@ -4711,7 +4927,8 @@
                 "role": "člen rr"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "SDRUŽENÍ PRO REPUBLIKU - REPUBLIKÁNSKÁ STRANA ČECH, MORAVY A SLEZSKA",
@@ -4734,7 +4951,8 @@
                 "role": "2. místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Nezávislí pro Bílinu",
@@ -4749,7 +4967,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Občané městu, město občanům",
@@ -4776,7 +4995,8 @@
                 "role": "jednatel"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Volím Orlovou",
@@ -4807,7 +5027,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "NÁŠ HLUČÍN",
@@ -4838,7 +5059,8 @@
                 "role": "člen představenstva"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Ženy za Brod",
@@ -4861,7 +5083,8 @@
                 "role": "pokladník"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Nová budoucnost",
@@ -4884,7 +5107,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "POLITIKA TRADIČNÍCH HODNOT",
@@ -4911,7 +5135,8 @@
                 "role": "člen předsednictva"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Pro Třebíč",
@@ -4934,7 +5159,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "VOLBA PRO KLADNO",
@@ -4957,7 +5183,8 @@
                 "role": "místopředseda grémia"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Nový Impuls",
@@ -4972,7 +5199,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Victoria.cz",
@@ -5051,7 +5279,8 @@
                 "role": "členka"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Strana Práv Občanů ZEMANOVCI",
@@ -5074,7 +5303,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "STOP",
@@ -5097,7 +5327,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Česká realistická strana",
@@ -5107,7 +5338,8 @@
         "reg_date": "2009-06-30",
         "address": "612 00 Brno, Hudcova 367/78b",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "TOP 09",
@@ -5178,7 +5410,8 @@
                 "role": "člen předsednictva"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Česká pirátská strana",
@@ -5209,7 +5442,8 @@
                 "role": "4. místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Hnutí Za Telefonování Zdarma",
@@ -5224,7 +5458,8 @@
                 "role": "guru"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "OBČANÉ.CZ",
@@ -5251,7 +5486,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "ČESKÝ POLITICKÝ STŘED",
@@ -5278,7 +5514,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Strana soukromníků České republiky",
@@ -5325,7 +5562,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT",
@@ -5340,7 +5578,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Svobodní",
@@ -5371,7 +5610,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Libertas.cz",
@@ -5390,7 +5630,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Mírové hnutí 2007",
@@ -5405,7 +5646,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Lidé a Politika",
@@ -5420,7 +5662,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Liga spořádaných lidí",
@@ -5447,7 +5690,8 @@
                 "role": "člen předsednictva"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Evropská demokratická strana",
@@ -5470,7 +5714,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Strana pro ekologii a zdraví",
@@ -5493,7 +5738,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Evropští demokraté za právo, morálku a spravedlnost",
@@ -5520,7 +5766,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Nezávislí starostové",
@@ -5543,7 +5790,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Strana podnikatelů a živnostníků",
@@ -5558,7 +5806,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Severočeši.cz",
@@ -5597,7 +5846,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Starostové pro Liberecký kraj",
@@ -5644,7 +5894,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "ALTERNATIVA",
@@ -5659,7 +5910,8 @@
                 "role": "manažer"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Doktoři (za uzdravení společnosti)",
@@ -5686,7 +5938,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Demokracie",
@@ -5705,7 +5958,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Klíčové hnutí",
@@ -5732,7 +5986,8 @@
                 "role": "členka"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Republikánská strana Čech, Moravy a Slezska",
@@ -5747,7 +6002,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "NESPOKOJENÍ OBČANÉ!",
@@ -5770,7 +6026,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Strana Svobody",
@@ -5780,7 +6037,8 @@
         "reg_date": "2006-08-25",
         "address": "324 00 Plzeň, Habrmannova 2115/39",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Hnutí pro Prahu 11",
@@ -5819,7 +6077,8 @@
                 "role": "členka výboru"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "ZVON",
@@ -5834,7 +6093,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Volba pro Mladou Boleslav",
@@ -5857,7 +6117,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "HLAVU VZHŮRU - volební blok",
@@ -5872,7 +6133,8 @@
                 "role": "předsedkyně"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "MĚSTO I MLÁDEŽI",
@@ -5891,7 +6153,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Mimoňská obroda",
@@ -5906,7 +6169,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "SEMILÁCI",
@@ -5929,7 +6193,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Zlínské sdružení živnostníků a podnikatelů",
@@ -5939,7 +6204,8 @@
         "reg_date": "2006-07-25",
         "address": "760 01 Zlín, Vodní 2985",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Hnutí za lepší bydlení",
@@ -5970,7 +6236,8 @@
                 "role": "člen představenstva"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Občansko demokratické sdružení Zlín",
@@ -5980,7 +6247,8 @@
         "reg_date": "2006-07-21",
         "address": "760 01 Zlín, Nadhumení 304",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Patrioti - hnutí za lepší Ústí n.L.",
@@ -6007,7 +6275,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Alternativa pro občany",
@@ -6026,7 +6295,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Hnutí LEPŠÍ ŘEPY",
@@ -6041,7 +6311,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Karlovarská občanská alternativa",
@@ -6064,7 +6335,8 @@
                 "role": "pokladník"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Nestraníci",
@@ -6087,7 +6359,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Klub sociálně demokratické orientace",
@@ -6110,7 +6383,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Sedma - strana pro Slatiňany, Škrovád, Trpišov, Kunčí, Presy, Podhůru a Kochánovice",
@@ -6125,7 +6399,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "4 VIZE - www.4vize.cz",
@@ -6140,7 +6415,8 @@
                 "role": "koordinátor"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Zelení",
@@ -6171,7 +6447,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Strana občanské sebeobrany",
@@ -6194,7 +6471,8 @@
                 "role": "vedoucí regionu praha"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Česká strana národně socialistická",
@@ -6209,7 +6487,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Hnutí pro Těšín",
@@ -6224,7 +6503,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Chci svou šanci",
@@ -6234,7 +6514,8 @@
         "reg_date": "2005-05-05",
         "address": "118 00 Praha, Pohořelec 110/26",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "NEZÁVISLÍ DEMOKRATÉ",
@@ -6249,7 +6530,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "STRANA ROVNOST ŠANCÍ",
@@ -6288,7 +6570,8 @@
                 "role": "členka"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Romská demokratická sociální strana",
@@ -6303,7 +6586,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Folklor i Společnost",
@@ -6326,7 +6610,8 @@
                 "role": "člen předsednictva"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Občanské demokratické hnutí",
@@ -6361,7 +6646,8 @@
                 "role": "člen vr"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Fair play - HNPD",
@@ -6392,7 +6678,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "STAROSTOVÉ A NEZÁVISLÍ",
@@ -6455,7 +6742,8 @@
                 "role": "členka předsednictva"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Strana drobných živnostníků a podnikatelů",
@@ -6470,7 +6758,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Evropská strana důstojného stáří",
@@ -6489,7 +6778,8 @@
                 "role": "místopředsedkyně"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "NEZÁVISLÁ VOLBA",
@@ -6508,7 +6798,8 @@
                 "role": "místopředseda pro řízení"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Správný směr",
@@ -6523,7 +6814,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Svobodná občanská samospráva",
@@ -6538,7 +6830,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Viktor Kožený - Občanská federální demokracie",
@@ -6548,7 +6841,8 @@
         "reg_date": "2004-04-01",
         "address": "145 01 Praha, Ohradní 1159/65",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Strana státu přímé demokracie - Strana práce",
@@ -6563,7 +6857,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Demokratická Unie České republiky",
@@ -6582,7 +6877,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Starostové a osobnosti pro Moravu",
@@ -6605,7 +6901,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Dělnická strana sociální spravedlnosti",
@@ -6624,7 +6921,8 @@
                 "role": "výkonný místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Blok proti islamizaci – Obrana domova",
@@ -6639,7 +6937,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Všeobecná občanská strana",
@@ -6678,7 +6977,8 @@
                 "role": "člen představenstva"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Dělnická strana",
@@ -6697,7 +6997,8 @@
                 "role": "1. místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Národní strana",
@@ -6712,7 +7013,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Helax - Ostrava se baví",
@@ -6727,7 +7029,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Sociálně demokratická aliance nezávislých",
@@ -6737,7 +7040,8 @@
         "reg_date": "2002-08-20",
         "address": "120 00 Praha, Žitná 657/13",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "MĚSTO LIDEM",
@@ -6752,7 +7056,8 @@
                 "role": "předsedkyně"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Nezávislí pro Prahu",
@@ -6767,7 +7072,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Jirkov 21. století",
@@ -6798,7 +7104,8 @@
                 "role": "členka"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Věci veřejné",
@@ -6837,7 +7144,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Spojení demokraté - Sdružení nezávislých",
@@ -6872,7 +7180,8 @@
                 "role": "členka předsednictva"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Starostové pro kraj",
@@ -6891,7 +7200,8 @@
                 "role": "statutární místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Konzervativní a sociální hnutí",
@@ -6918,7 +7228,8 @@
                 "role": "jednatel"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Balbínova poetická strana",
@@ -6949,7 +7260,8 @@
                 "role": "člen předsednictva"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Volba pro budoucnost",
@@ -6964,7 +7276,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Liberálové.CZ",
@@ -6983,7 +7296,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "ROZUMNÍ – Petr Hannig – za spravedlnost a životní jistoty",
@@ -7002,7 +7316,8 @@
                 "role": "1.místopředsedkyně"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "SONOB - sdružení ochrany nájemníků a ostatního bydlení",
@@ -7029,7 +7344,8 @@
                 "role": "člen výboru"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Tábor 2020",
@@ -7044,7 +7360,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Naděje",
@@ -7067,7 +7384,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Cesta změny",
@@ -7106,7 +7424,8 @@
                 "role": "člen vr"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Aktiv nezávislých občanů",
@@ -7129,7 +7448,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Sebeobrana voličů - Váš hlas nepodpoří financování planých řečí, ale zdravotnictví Vašeho obvodu",
@@ -7144,7 +7464,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Strana občanského porozumění",
@@ -7175,7 +7496,8 @@
                 "role": "člen předsednictva"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Strana svobodných severu",
@@ -7194,7 +7516,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "SNK Evropští demokraté",
@@ -7233,7 +7556,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Akce za skutečnou demokracii",
@@ -7248,7 +7572,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Republikáni Miroslava Sládka",
@@ -7263,7 +7588,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Nestraníci pro Moravu",
@@ -7278,7 +7604,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Unie pro Evropu",
@@ -7288,7 +7615,8 @@
         "reg_date": "2000-02-16",
         "address": "301 55 Plzeň, Jeletová 2",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Nové hnutí",
@@ -7311,7 +7639,8 @@
                 "role": "člen rvnh"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "KONZERVATIVNÍ ALTERNATIVA",
@@ -7326,7 +7655,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Českobudějovická nezávislá nová volba",
@@ -7341,7 +7671,8 @@
                 "role": "mluvčí"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "NÁRODNÍ PROSPERITA",
@@ -7372,7 +7703,8 @@
                 "role": "členka předsednictva"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Aliance nezávislých občanů",
@@ -7387,7 +7719,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Unie pro sport a zdraví",
@@ -7406,7 +7739,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Sdružení pro sport a zdraví",
@@ -7429,7 +7763,8 @@
                 "role": "manažer"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "1. Sdružení nezávislých kandidátů města Tábor",
@@ -7444,7 +7779,8 @@
                 "role": "předseda představenstva"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Nezávislé sdružení občanů Blanska",
@@ -7463,7 +7799,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Občanská liga FORUM",
@@ -7494,7 +7831,8 @@
                 "role": "člen představenstva"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Hnutí pro Havířov",
@@ -7509,7 +7847,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "MÍSTNÍ HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST",
@@ -7548,7 +7887,8 @@
                 "role": "člen řr"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Pravá volba pro Plzeň",
@@ -7571,7 +7911,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Demokratická regionální strana",
@@ -7598,7 +7939,8 @@
                 "role": "člen rpv"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Volba pro město",
@@ -7621,7 +7963,8 @@
                 "role": "členka výboru"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Zlínské hnutí nezávislých",
@@ -7652,7 +7995,8 @@
                 "role": "člen"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Hnutí za prosperitu Brna",
@@ -7667,7 +8011,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Demokratická liga",
@@ -7686,7 +8031,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Alternativa 2000",
@@ -7696,7 +8042,8 @@
         "reg_date": "1998-03-30",
         "address": "718 00 Ostrava, Střádalů 26/73",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Strana konzervativní smlouvy",
@@ -7735,7 +8082,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Občanská koalice - Politický klub",
@@ -7754,7 +8102,8 @@
                 "role": "první místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Strana pro otevřenou společnost",
@@ -7769,7 +8118,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Unie svobody - Demokratická unie",
@@ -7900,7 +8250,8 @@
                 "role": "člen rv"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Strana venkova - spojené občanské síly",
@@ -7915,7 +8266,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Humanistická strana",
@@ -7938,7 +8290,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Volte Pravý Blok - stranu za snadnou a rychlou ODVOLATELNOST politiků a státních úředníků PŘÍMO OBČANY, za NÍZKÉ daně, VYROVNANÝ rozpočet, MINIMALIZACI byrokracie, SPRAVEDLIVOU a NEZKORUMPOVANOU policii a justici, REFERENDA  a PŘÍMOU demokracii WWW.CIBULKA.NET, kandidující s nejlepším protikriminálním programem PŘÍMÉ demokracie a hlubokého národního, duchovního a mravního obrození VY NEVĚŘÍTE POLITIKŮM A JEJICH NOVINÁŘŮM? NO KONEČNĚ! VĚŘME SAMI SOBĚ!!! - ale i s mnoha dalšími DŮVODY, proč bychom měli jít tentokrát VŠICHNI K VOLBÁM, ale - pokud nechceme být ZNOVU obelháni, podvedeni a okradeni - NEVOLIT ŽÁDNOU PARLAMENTNÍ TUNEL - STRANU vládnoucí (post) komunistické RUSKO - ČESKÉ totalitní FÍZLOKRACIE a jejich likvidační protinárodní politiku ČÍM HŮŘE, TÍM LÉPE!!! - jenž žádá  o volební podporu VŠECHNY ČESKÉ OBČANY a daňové poplatníky, kteří chtějí změnit dnešní kriminální poměry, jejichž jsme všichni obětí, v jejich pravý opak! V BOJI MEZI DOBREM A ZLEM, PRAVDOU A LŽÍ, NELZE BÝT NEUTRÁLNÍ A PŘESTO ZŮSTAT SLUŠNÝ!!! Proto děkujeme za Vaši podporu!!! Nevěříte-li na pokoru u popravčí káry, zdá-li se vám naše kandidátka málo dokonalá nebo postrádáte-li na ní zástupce své obce nebo města a přitom MÁTE ODVAHU v této válce Lidí Dobra s vládnoucími Lidmi Zla povstat z jimi naordinovaného občanského bezvědomí, kterým nás ničí a dnešní DEMOKRATURU, SKRYTOU TOTALITU a OTROKÁŘSTVÍ VYŠŠÍHO ŘÁDU zásadním způsobem změnit, KANDIDUJTE ZA NÁS!!! Kontakt: Volte Pravý Blok www.cibulka.net, PO BOX 595, 170 00 Praha 7",
@@ -7953,7 +8306,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Strana Přírodního Zákona",
@@ -7968,7 +8322,8 @@
                 "role": "předsedkyně"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Hnutí proti kriminalitě",
@@ -7991,7 +8346,8 @@
                 "role": "2. místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Mladí demokraté",
@@ -8010,7 +8366,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Komunistická strana Československa",
@@ -8065,7 +8422,8 @@
                 "role": "tajemník předsednictva úv"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Živnostenská strana",
@@ -8075,7 +8433,8 @@
         "reg_date": "1995-01-31",
         "address": "120 00 Praha 2, Londýnská  52",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Sdružení nezávislých kandidátů města České Budějovice",
@@ -8102,7 +8461,8 @@
                 "role": "jednatel"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "NEZÁVISLÍ",
@@ -8141,7 +8501,8 @@
                 "role": "člen rr"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Iniciativa občanů",
@@ -8168,7 +8529,8 @@
                 "role": "člen rv"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Pražané Praze",
@@ -8199,7 +8561,8 @@
                 "role": "člen vr"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Moravané, pro zachování Moravy se při sčítání lidu 2021 opět přihlasme k moravské národnosti",
@@ -8218,7 +8581,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Moravská demokratická strana",
@@ -8233,7 +8597,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Demokratická unie",
@@ -8248,7 +8613,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Národní demokracie",
@@ -8263,7 +8629,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Východoevropské národnostní politické hnutí v ČR",
@@ -8278,7 +8645,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Česká pravice",
@@ -8293,7 +8661,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Československá strana socialistická",
@@ -8312,7 +8681,8 @@
                 "role": "tajemník"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Levice",
@@ -8355,7 +8725,8 @@
                 "role": "členka"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Masarykova demokratická strana",
@@ -8386,7 +8757,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Česká strana národně sociální",
@@ -8405,7 +8777,8 @@
                 "role": "statutární místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Demokraté 92",
@@ -8428,7 +8801,8 @@
                 "role": "člen představenstva"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Strana podnikatelů, živnostníků a rolníků České republiky",
@@ -8455,7 +8829,8 @@
                 "role": "výkonný místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Republikáni",
@@ -8465,7 +8840,8 @@
         "reg_date": "1992-02-20",
         "address": "170 00 Praha, Kamenická 361/3",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Hnutí za sociální spravedlnost",
@@ -8475,7 +8851,8 @@
         "reg_date": "1992-02-17",
         "address": "Praha",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Strana zdravotně postižených, důchodců a sociálně slabých občanů",
@@ -8490,7 +8867,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "KDU-ČSL",
@@ -8533,7 +8911,8 @@
                 "role": "místopředseda a předseda klubu poslanců"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
@@ -8596,7 +8975,8 @@
                 "role": "člen předsednictva a generální sekretář"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Občanská demokratická strana",
@@ -8643,7 +9023,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Národně demokratická strana",
@@ -8658,7 +9039,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Hnutí angažovaných Romů",
@@ -8673,7 +9055,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Hnutí 90",
@@ -8692,7 +9075,8 @@
                 "role": "1. místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Politická strana žen a matek Československa",
@@ -8702,7 +9086,8 @@
         "reg_date": "1991-01-18",
         "address": "",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Komunistická strana Čech a Moravy",
@@ -8793,7 +9178,8 @@
                 "role": "členka vv úv ksčm"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Moravská národní strana",
@@ -8803,7 +9189,8 @@
         "reg_date": "1990-09-28",
         "address": "Brno",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Strana drobných podnikatelů",
@@ -8818,7 +9205,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Pravá alternativa",
@@ -8841,7 +9229,8 @@
                 "role": "tajemník"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Asociace Radikálů za Spojené státy evropské",
@@ -8856,7 +9245,8 @@
                 "role": "tajemník"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Klub angažovaných nestraníků",
@@ -8883,7 +9273,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Strana demokratické levice",
@@ -8893,7 +9284,8 @@
         "reg_date": "1990-04-09",
         "address": "Praha",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Strana obrany kultury",
@@ -8903,7 +9295,8 @@
         "reg_date": "1990-04-09",
         "address": "Praha",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Občanská společenská aktivita",
@@ -8913,7 +9306,8 @@
         "reg_date": "1990-04-05",
         "address": "Praha , Žitná",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Strana moravského venkova",
@@ -8923,7 +9317,8 @@
         "reg_date": "1990-04-05",
         "address": "Šumperk, 0",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Strana evropského domu",
@@ -8933,7 +9328,8 @@
         "reg_date": "1990-03-29",
         "address": "Brno",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Permanentní opozicí za demokracii",
@@ -8943,7 +9339,8 @@
         "reg_date": "1990-03-28",
         "address": "Praha",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Strana svobodných demokratů",
@@ -8978,7 +9375,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Demokratická strana Československa",
@@ -8993,7 +9391,8 @@
                 "role": "sekretář"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Celostátní aktiv občanů",
@@ -9016,7 +9415,8 @@
                 "role": "tajemník"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Demokratická unie zdraví a sportu",
@@ -9026,7 +9426,8 @@
         "reg_date": "1990-03-20",
         "address": "Jablonec nad Nisou",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Agrární strana",
@@ -9049,7 +9450,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Konzervativní strana",
@@ -9088,7 +9490,8 @@
                 "role": "členka předsednictva"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Republikánská strana",
@@ -9111,7 +9514,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Republikánská strana zemědělského a malorolnického lidu",
@@ -9130,7 +9534,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Strana za životní jistoty",
@@ -9161,7 +9566,8 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Hnutí zemědělců",
@@ -9171,7 +9577,8 @@
         "reg_date": "1990-03-09",
         "address": "Praha",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Organizace nezávislých Rumunů",
@@ -9181,7 +9588,8 @@
         "reg_date": "1990-03-07",
         "address": "Ostrava",
         "people": [],
-        "type": "movement"
+        "type": "movement",
+        "is_active": false
     },
     {
         "name": "Republikánská unie",
@@ -9200,7 +9608,8 @@
                 "role": "člen předsednictva a předseda gr"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Občanská demokratická aliance",
@@ -9231,7 +9640,8 @@
                 "role": "člen"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Romská občanská iniciativa ČR",
@@ -9241,7 +9651,8 @@
         "reg_date": "1990-03-02",
         "address": "100 00 Praha, Pod strašnickou vinicí 183/6",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "COEXISTENTIA",
@@ -9256,7 +9667,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement"
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Československá strana Humanistické Internacionály",
@@ -9266,7 +9678,8 @@
         "reg_date": "1990-02-27",
         "address": "Ostrava",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Sdružení pro republiku - Republikánská strana Československa",
@@ -9281,7 +9694,8 @@
                 "role": "předseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Nezávislá iniciativa (NEI)",
@@ -9328,7 +9742,8 @@
                 "role": "členka"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Podnikatelsko živnostenská strana",
@@ -9338,7 +9753,8 @@
         "reg_date": "1990-02-12",
         "address": "120 00 Praha, Jaromírova 663/42",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     },
     {
         "name": "Česká strana sociálně demokratická",
@@ -9357,7 +9773,8 @@
                 "role": "statutární místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Strana zelených",
@@ -9384,7 +9801,8 @@
                 "role": "2. místopředseda"
             }
         ],
-        "type": "party"
+        "type": "party",
+        "is_active": true
     },
     {
         "name": "Liberálně demokratická strana",
@@ -9394,6 +9812,7 @@
         "reg_date": "1990-01-31",
         "address": "Praha",
         "people": [],
-        "type": "party"
+        "type": "party",
+        "is_active": false
     }
 ]
