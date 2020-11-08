@@ -1,6 +1,6 @@
 # 🇨🇿 czech-political-parties
 
-Tracking changes in Czech political parties
+Tracking changes in Czech political parties:
 
 - [History of changes](https://github.com/honzajavorek/czech-political-parties/commits/main/items.json)
 - [Feed of changes](https://github.com/honzajavorek/czech-political-parties/commits/main.atom) (aka RSS)
