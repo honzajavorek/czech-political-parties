@@ -1278,7 +1278,7 @@
                 "role": "předseda"
             },
             {
-                "name": "Štěpán Pudlák",
+                "name": "Martin Tománek",
                 "role": "místopředseda"
             }
         ],
@@ -4248,7 +4248,7 @@
                 "role": "předseda"
             },
             {
-                "name": "Jaroslav Faltýnek",
+                "name": "Platí od:  10/23/2020",
                 "role": "1. místopředseda"
             },
             {
@@ -4256,12 +4256,20 @@
                 "role": "místopředsedkyně"
             },
             {
+                "name": "Richard Brabec",
+                "role": "místopředseda"
+            },
+            {
                 "name": "Radek Vondráček",
                 "role": "místopředseda"
             },
             {
-                "name": "Richard Brabec",
-                "role": "místopředseda"
+                "name": "Martin Kukla",
+                "role": "člen"
+            },
+            {
+                "name": "Tomáš Macura",
+                "role": "člen"
             },
             {
                 "name": "Roman Kubíček",
@@ -4280,19 +4288,11 @@
                 "role": "člen"
             },
             {
-                "name": "Martin Kukla",
-                "role": "člen"
-            },
-            {
-                "name": "Tomáš Macura",
-                "role": "člen"
-            },
-            {
-                "name": "Jana Pastuchová",
+                "name": "Mgr. Jana Mračková Vildumetzová",
                 "role": "členka"
             },
             {
-                "name": "Mgr. Jana Mračková Vildumetzová",
+                "name": "Jana Pastuchová",
                 "role": "členka"
             }
         ],
