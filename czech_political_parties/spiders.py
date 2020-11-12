@@ -1,4 +1,5 @@
 import re
+from operator import itemgetter
 
 import arrow
 import scrapy
@@ -51,11 +52,10 @@ class CzechPoliticalPartiesSpider(scrapy.Spider):
             except AttributeError:
                 if heading == 'Osoby':
                     role, person = tr.css('td')
-                    role, person = extract_text(role), extract_text(person)
-                    people.append({
-                        'name': person.splitlines()[0].strip(),
-                        'role': role.rstrip(':'),
-                    })
+                    name = extract_text(person).splitlines()[0].strip()
+                    role = extract_text(role).rstrip(':')
+                    if not name.lower().startswith('platí od'):
+                        people.append({'name': name, 'role': role})
                 if heading == 'Aktuální stav':
                     is_active = False
 
@@ -66,7 +66,7 @@ class CzechPoliticalPartiesSpider(scrapy.Spider):
             'reg_number': data['Číslo registrace:'],
             'reg_date': arrow.get(data['Den registrace:'], 'M/D/YYYY').date(),
             'address': data['Adresa sídla:'],
-            'people': people,
+            'people': list(sorted(people, key=itemgetter('name'))),
             'type': TYPE_MAPPING[extract_text(type_)],
             'is_active': is_active,
         }
