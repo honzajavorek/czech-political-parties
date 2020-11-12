@@ -35,12 +35,12 @@
         "address": "411 56 Bohušovice nad Ohří, U Stadionu 297",
         "people": [
             {
-                "name": "Bc. Jan  Vondouš",
-                "role": "předseda"
-            },
-            {
                 "name": "Bc. Anna Voříšková",
                 "role": "výkonný tajemník"
+            },
+            {
+                "name": "Bc. Jan  Vondouš",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -90,16 +90,16 @@
                 "role": "1. místopředseda"
             },
             {
-                "name": "Martina Ročková",
-                "role": "místopředsedkyně"
+                "name": "Josef Ročeň",
+                "role": "místopředseda"
             },
             {
                 "name": "Martina Baťová",
                 "role": "místopředsedkyně"
             },
             {
-                "name": "Josef Ročeň",
-                "role": "místopředseda"
+                "name": "Martina Ročková",
+                "role": "místopředsedkyně"
             }
         ],
         "type": "movement",
@@ -141,16 +141,16 @@
         "address": "708 00 Ostrava, Slavíkova 6068/18",
         "people": [
             {
-                "name": "doc. MUDr. Peter Koliba, CSc.",
-                "role": "předseda"
-            },
-            {
                 "name": "Bc. Milena Ogurčáková",
                 "role": "místopředsedkyně"
             },
             {
                 "name": "Kateřina Šebestová",
                 "role": "členka"
+            },
+            {
+                "name": "doc. MUDr. Peter Koliba, CSc.",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -209,16 +209,16 @@
         "address": "375 01 Týn nad Vltavou, Bohunická 535",
         "people": [
             {
-                "name": "Mgr. Jiří Zimola",
-                "role": "předseda"
+                "name": "David Slepička",
+                "role": "2. místopředseda"
             },
             {
                 "name": "Ing. Stanislav Mrvka",
                 "role": "1. místopředseda"
             },
             {
-                "name": "David Slepička",
-                "role": "2. místopředseda"
+                "name": "Mgr. Jiří Zimola",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -233,14 +233,6 @@
         "address": "561 51 Letohrad, Komenského 275",
         "people": [
             {
-                "name": "Petr Fiala",
-                "role": "předseda"
-            },
-            {
-                "name": "Václav Kubín",
-                "role": "člen"
-            },
-            {
                 "name": "Jan Stránský",
                 "role": "člen"
             },
@@ -250,6 +242,14 @@
             },
             {
                 "name": "Miroslav Krčil",
+                "role": "člen"
+            },
+            {
+                "name": "Petr Fiala",
+                "role": "předseda"
+            },
+            {
+                "name": "Václav Kubín",
                 "role": "člen"
             }
         ],
@@ -308,16 +308,16 @@
         "address": "602 00 Brno, Příkop 6",
         "people": [
             {
+                "name": "Lukáš Dvořák",
+                "role": "místopředseda"
+            },
+            {
                 "name": "Petr Kováč",
                 "role": "předseda"
             },
             {
                 "name": "Šárka Konečná",
                 "role": "místopředsedkyně"
-            },
-            {
-                "name": "Lukáš Dvořák",
-                "role": "místopředseda"
             }
         ],
         "type": "party",
@@ -348,16 +348,16 @@
         "address": "530 02 Pardubice, třída Míru 70",
         "people": [
             {
-                "name": "Radek Kňava",
-                "role": "předseda"
+                "name": "Hana Filipová",
+                "role": "členka"
             },
             {
                 "name": "Lukáš Doubek",
                 "role": "místopředseda"
             },
             {
-                "name": "Hana Filipová",
-                "role": "členka"
+                "name": "Radek Kňava",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -388,24 +388,24 @@
         "address": "170 00 Praha, Dělnická 213/12",
         "people": [
             {
-                "name": "JUDr. Pavel Telička",
-                "role": "předseda"
-            },
-            {
-                "name": "PhDr. Mgr. Mona Nechvátalová",
-                "role": "1.místopředsedkyně"
-            },
-            {
-                "name": "Mgr. Martin Převrátil",
-                "role": "2. místopředseda"
-            },
-            {
                 "name": "Ing. Kateřina Novotná",
                 "role": "místopředsedkyně"
             },
             {
                 "name": "Ing. Petr Ježek",
                 "role": "místopředseda"
+            },
+            {
+                "name": "JUDr. Pavel Telička",
+                "role": "předseda"
+            },
+            {
+                "name": "Mgr. Martin Převrátil",
+                "role": "2. místopředseda"
+            },
+            {
+                "name": "PhDr. Mgr. Mona Nechvátalová",
+                "role": "1.místopředsedkyně"
             }
         ],
         "type": "movement",
@@ -500,12 +500,12 @@
         "address": "140 00 Praha, Pod vilami  756/14",
         "people": [
             {
-                "name": "Mgr. Rudolf Karel Mazáč",
-                "role": "předseda"
-            },
-            {
                 "name": "Ladislav Kunert",
                 "role": "člen"
+            },
+            {
+                "name": "Mgr. Rudolf Karel Mazáč",
+                "role": "předseda"
             },
             {
                 "name": "Václav Kraml",
@@ -524,12 +524,12 @@
         "address": "109 00 Praha, Boloňská 602",
         "people": [
             {
-                "name": "Ingr. Miroslav Buchel",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Otakar Vich",
                 "role": "1. místopředseda"
+            },
+            {
+                "name": "Ingr. Miroslav Buchel",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -544,16 +544,16 @@
         "address": "253 01 Chýně, Modřínová 496",
         "people": [
             {
-                "name": "Mgr. Libor Michálek, MPA",
-                "role": "předseda"
-            },
-            {
                 "name": "Bohuslav Zapadlo",
                 "role": "místopředseda"
             },
             {
                 "name": "Mgr. Andrea Haines",
                 "role": "členka"
+            },
+            {
+                "name": "Mgr. Libor Michálek, MPA",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -568,24 +568,24 @@
         "address": "284 03 Kutná Hora, Starosedlecká 14",
         "people": [
             {
-                "name": "Mgr. Tomáš Morawski",
-                "role": "předseda"
+                "name": "Daniela Závurková",
+                "role": "členka"
             },
             {
                 "name": "Ing. Lukáš Jelínek",
                 "role": "člen"
             },
             {
-                "name": "Václav Zimmermann",
-                "role": "člen"
-            },
-            {
-                "name": "Daniela Závurková",
-                "role": "členka"
-            },
-            {
                 "name": "Mgr. Jana Červená",
                 "role": "členka"
+            },
+            {
+                "name": "Mgr. Tomáš Morawski",
+                "role": "předseda"
+            },
+            {
+                "name": "Václav Zimmermann",
+                "role": "člen"
             }
         ],
         "type": "movement",
@@ -616,12 +616,12 @@
         "address": "198 00 Praha, Na obrátce 636/4",
         "people": [
             {
-                "name": "Soňa Tománková",
-                "role": "předsedkyně"
-            },
-            {
                 "name": "Ing. Miroslav Froněk",
                 "role": "první místopředseda"
+            },
+            {
+                "name": "Soňa Tománková",
+                "role": "předsedkyně"
             },
             {
                 "name": "Vladimír Diviš",
@@ -640,16 +640,16 @@
         "address": "350 02 Cheb, Blanická 166/20",
         "people": [
             {
-                "name": "RNDr. Gabriela Licková, Ph.D.",
-                "role": "předsedkyně"
+                "name": "Lukáš Hofrajtr",
+                "role": "člen"
             },
             {
                 "name": "Pavel Pagáč",
                 "role": "člen"
             },
             {
-                "name": "Lukáš Hofrajtr",
-                "role": "člen"
+                "name": "RNDr. Gabriela Licková, Ph.D.",
+                "role": "předsedkyně"
             }
         ],
         "type": "movement",
@@ -680,12 +680,12 @@
         "address": "411 56 Bohušovice nad Ohří, U Stadionu 297",
         "people": [
             {
-                "name": "Jan Vondrouš",
-                "role": "předseda"
-            },
-            {
                 "name": "Anna Voříšková",
                 "role": "výkonná tajemnice"
+            },
+            {
+                "name": "Jan Vondrouš",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -700,12 +700,12 @@
         "address": "627 00 Brno, Bučovická 937/8",
         "people": [
             {
-                "name": "Jiří Kyjovský",
-                "role": "předseda"
-            },
-            {
                 "name": "Antonín Capoušek",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Jiří Kyjovský",
+                "role": "předseda"
             },
             {
                 "name": "Tomáš Sus",
@@ -724,19 +724,19 @@
         "address": "360 01 Karlovy Vary, Moskevská 946/10",
         "people": [
             {
-                "name": "Ing. arch. Alexander Mikoláš",
-                "role": "předseda"
+                "name": "Bedřich Ziegler",
+                "role": "člen"
             },
             {
                 "name": "Ing. Martin Lojda",
                 "role": "člen"
             },
             {
-                "name": "Ivan Šendera",
-                "role": "člen"
+                "name": "Ing. arch. Alexander Mikoláš",
+                "role": "předseda"
             },
             {
-                "name": "Bedřich Ziegler",
+                "name": "Ivan Šendera",
                 "role": "člen"
             },
             {
@@ -780,12 +780,12 @@
                 "role": "předseda"
             },
             {
-                "name": "Petr Uřičář",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Pavel Dvořáček",
                 "role": "člen"
+            },
+            {
+                "name": "Petr Uřičář",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -832,16 +832,16 @@
         "address": "625 00 Brno, Ukrajinská 544/17",
         "people": [
             {
-                "name": "Petra Zapletalová",
-                "role": "předsedkyně"
-            },
-            {
                 "name": "Ivan Holoubek",
                 "role": "místopředseda"
             },
             {
                 "name": "Mgr. Jiří Němec",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Petra Zapletalová",
+                "role": "předsedkyně"
             }
         ],
         "type": "movement",
@@ -876,12 +876,12 @@
         "address": "251 01 Říčany, Ruská 1813/8",
         "people": [
             {
-                "name": "Ing. Vladimír Polánský",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Simona Gebauerová",
                 "role": "místopředsedkyně"
+            },
+            {
+                "name": "Ing. Vladimír Polánský",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -896,16 +896,16 @@
         "address": "614 00 Brno, Cacovická 1595/66A",
         "people": [
             {
-                "name": "Štefan Kandalec",
-                "role": "předseda"
-            },
-            {
                 "name": "Libor Matouš",
                 "role": "1. místopředseda"
             },
             {
                 "name": "Martin Kopuletý",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Štefan Kandalec",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -920,12 +920,12 @@
         "address": "710 00 Ostrava, U Staré elektrárny 1881/2",
         "people": [
             {
-                "name": "Mgr. Iveta Vojtěchovská",
-                "role": "předsedkyně"
-            },
-            {
                 "name": "Ing. Lubomír Noga, Ph.D., MBA",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Iveta Vojtěchovská",
+                "role": "předsedkyně"
             }
         ],
         "type": "movement",
@@ -944,12 +944,12 @@
                 "role": "předseda"
             },
             {
-                "name": "Mgr. Marie Tichá",
-                "role": "místopředsedkyně"
-            },
-            {
                 "name": "MUDr. Pavel Vychytil",
                 "role": "člen předsednictva"
+            },
+            {
+                "name": "Mgr. Marie Tichá",
+                "role": "místopředsedkyně"
             }
         ],
         "type": "movement",
@@ -995,24 +995,24 @@
         "address": "779 00 Olomouc, Školní 182/4",
         "people": [
             {
+                "name": "Ing. Stanislav Flek",
+                "role": "člen"
+            },
+            {
                 "name": "JUDr. Robert Runták",
                 "role": "předseda"
+            },
+            {
+                "name": "Jolana Látalová",
+                "role": "členka"
             },
             {
                 "name": "Mgr. Pavel Fryšák",
                 "role": "místopředseda"
             },
             {
-                "name": "Ing. Stanislav Flek",
-                "role": "člen"
-            },
-            {
                 "name": "Milan Hebelka",
                 "role": "člen"
-            },
-            {
-                "name": "Jolana Látalová",
-                "role": "členka"
             }
         ],
         "type": "movement",
@@ -1027,12 +1027,12 @@
         "address": "700 30 Ostrava, Plzeňská 2621/2",
         "people": [
             {
-                "name": "Oldřich Lahoda",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Alena Javorská",
                 "role": "místopředsedkyně"
+            },
+            {
+                "name": "Oldřich Lahoda",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -1047,16 +1047,8 @@
         "address": "380 01 Dačice, Na Vyhlídce 89",
         "people": [
             {
-                "name": "Mgr. Ondřej Hýsek, Ph.D.",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Vladan Ševčík",
                 "role": "místopředseda"
-            },
-            {
-                "name": "Pavel Trčala, MA",
-                "role": "člen"
             },
             {
                 "name": "JUDr. Jaroslav Kupka",
@@ -1067,12 +1059,20 @@
                 "role": "člen"
             },
             {
-                "name": "doc. PhDr. Bohuslav Klíma, CSc.",
+                "name": "Mgr. Lada Bastlová",
+                "role": "členka"
+            },
+            {
+                "name": "Mgr. Ondřej Hýsek, Ph.D.",
+                "role": "předseda"
+            },
+            {
+                "name": "Pavel Trčala, MA",
                 "role": "člen"
             },
             {
-                "name": "Mgr. Lada Bastlová",
-                "role": "členka"
+                "name": "doc. PhDr. Bohuslav Klíma, CSc.",
+                "role": "člen"
             }
         ],
         "type": "movement",
@@ -1091,12 +1091,12 @@
                 "role": "předsedkyně"
             },
             {
-                "name": "Pavel Weisgarber",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Pavel Matějný",
                 "role": "výkonný místopředseda"
+            },
+            {
+                "name": "Pavel Weisgarber",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -1111,8 +1111,8 @@
         "address": "747 73 Opava, Novosvětská 121/28",
         "people": [
             {
-                "name": "Miroslav Kořistka",
-                "role": "předseda"
+                "name": "Ing. Lumír Měch",
+                "role": "místopředseda"
             },
             {
                 "name": "Jiří Koreník",
@@ -1123,11 +1123,11 @@
                 "role": "místopředseda"
             },
             {
-                "name": "René Holuša",
-                "role": "místopředseda"
+                "name": "Miroslav Kořistka",
+                "role": "předseda"
             },
             {
-                "name": "Ing. Lumír Měch",
+                "name": "René Holuša",
                 "role": "místopředseda"
             }
         ],
@@ -1159,8 +1159,8 @@
         "address": "735 64 Havířov, Hornosušská 1041/2",
         "people": [
             {
-                "name": "Platí od:  5/20/2019",
-                "role": "předseda"
+                "name": "Jana Zamrazilová",
+                "role": "členka"
             },
             {
                 "name": "Roman Kolodziej",
@@ -1169,10 +1169,6 @@
             {
                 "name": "Václav Lolek",
                 "role": "člen"
-            },
-            {
-                "name": "Jana Zamrazilová",
-                "role": "členka"
             }
         ],
         "type": "movement",
@@ -1234,12 +1230,12 @@
         "address": "679 22 Lipůvka 319",
         "people": [
             {
-                "name": "Vlastimil  Sehnal",
-                "role": "předseda"
-            },
-            {
                 "name": "Martin Sehnal",
                 "role": "výkonný tajemník"
+            },
+            {
+                "name": "Vlastimil  Sehnal",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -1254,12 +1250,12 @@
         "address": "120 00 Praha, Blanická 1787/22",
         "people": [
             {
-                "name": "Ing. Zdeněk Michl",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Martin Jírovec",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Ing. Zdeněk Michl",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -1302,11 +1298,11 @@
                 "role": "1. místopředseda"
             },
             {
-                "name": "Jaroslav Bašta",
+                "name": "JUDr. Josef Vaněk",
                 "role": "místopředseda"
             },
             {
-                "name": "JUDr. Josef Vaněk",
+                "name": "Jaroslav Bašta",
                 "role": "místopředseda"
             },
             {
@@ -1350,6 +1346,18 @@
         "address": "102 00 Praha, Gercenova 856/3",
         "people": [
             {
+                "name": "Anita Beganyová",
+                "role": "Členka Předsednictva"
+            },
+            {
+                "name": "Antonín Baudyš",
+                "role": "Místopředseda"
+            },
+            {
+                "name": "Jan Dubanič",
+                "role": "Člen Předsednictva"
+            },
+            {
                 "name": "Jan Michael Kubín",
                 "role": "Předseda"
             },
@@ -1358,24 +1366,12 @@
                 "role": "1. Místopředseda"
             },
             {
-                "name": "Vojtěch Drahoňovský",
-                "role": "Místopředseda"
-            },
-            {
-                "name": "Antonín Baudyš",
-                "role": "Místopředseda"
-            },
-            {
-                "name": "Anita Beganyová",
-                "role": "Členka Předsednictva"
-            },
-            {
                 "name": "Oldřich Zima",
                 "role": "Členka Předsednictva"
             },
             {
-                "name": "Jan Dubanič",
-                "role": "Člen Předsednictva"
+                "name": "Vojtěch Drahoňovský",
+                "role": "Místopředseda"
             }
         ],
         "type": "movement",
@@ -1390,23 +1386,23 @@
         "address": "434 01 Most, Jakuba Arbesa 2600/1",
         "people": [
             {
-                "name": "Ing. Marek Hrvol",
-                "role": "předseda"
+                "name": "Ing. Jiří Turis",
+                "role": "člen"
             },
             {
-                "name": "Mgr. Jan Paparega",
-                "role": "1. místopředseda"
+                "name": "Ing. Marek Hrvol",
+                "role": "předseda"
             },
             {
                 "name": "Ing. Ondřej Málek",
                 "role": "místopředseda"
             },
             {
-                "name": "Petr Formánek",
-                "role": "člen"
+                "name": "Mgr. Jan Paparega",
+                "role": "1. místopředseda"
             },
             {
-                "name": "Ing. Jiří Turis",
+                "name": "Petr Formánek",
                 "role": "člen"
             }
         ],
@@ -1442,16 +1438,16 @@
         "address": "130 00 Praha, Řehořova 992/10",
         "people": [
             {
-                "name": "PhDr. Jindřich  Kadlec",
-                "role": "předseda"
-            },
-            {
                 "name": "Jiří Masopust",
                 "role": "místopředseda"
             },
             {
                 "name": "MUDr. Markéta Pekárková",
                 "role": "členka"
+            },
+            {
+                "name": "PhDr. Jindřich  Kadlec",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -1466,6 +1462,10 @@
         "address": "110 00 Praha, Masarykovo nábřeží 235/28",
         "people": [
             {
+                "name": "Ing. Jiří Staněk",
+                "role": "člen"
+            },
+            {
                 "name": "Ing. Pavel Sehnal",
                 "role": "předseda"
             },
@@ -1474,15 +1474,11 @@
                 "role": "člen"
             },
             {
-                "name": "Ing. Jiří Staněk",
+                "name": "Ing. arch. Ladislav Opletal",
                 "role": "člen"
             },
             {
                 "name": "Zdeněk Somr",
-                "role": "člen"
-            },
-            {
-                "name": "Ing. arch. Ladislav Opletal",
                 "role": "člen"
             },
             {
@@ -1550,24 +1546,24 @@
         "address": "370 01 České Budějovice, Radniční 133/1",
         "people": [
             {
-                "name": "Tibor Batthyány",
-                "role": "předseda"
-            },
-            {
-                "name": "Mgr. Bc. Radka Paulová",
-                "role": "1.místopředsedkyně"
+                "name": "Alena Šafránková",
+                "role": "místopředseda"
             },
             {
                 "name": "Ing. Hana Naiclerová, MBA.",
                 "role": "místopředsedkyně"
             },
             {
+                "name": "Mgr. Bc. Radka Paulová",
+                "role": "1.místopředsedkyně"
+            },
+            {
                 "name": "Mgr. Václav Velek",
                 "role": "místopředseda"
             },
             {
-                "name": "Alena Šafránková",
-                "role": "místopředseda"
+                "name": "Tibor Batthyány",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -1598,24 +1594,24 @@
         "address": "170 00 Praha, Veverkova 1229/9",
         "people": [
             {
-                "name": "PaedDr. Marie Kramaříková",
-                "role": "předsedkyně"
-            },
-            {
                 "name": "Dagmar Knýblová",
                 "role": "statutární místopředsedkyně"
             },
             {
-                "name": "Kamila Krejčí",
-                "role": "1.místopředsedkyně"
+                "name": "Ing. Hana  Čmielová",
+                "role": "3. místopředsedkyně"
             },
             {
                 "name": "Ing. Ivana  Némethová",
                 "role": "2. místopředsedkyně"
             },
             {
-                "name": "Ing. Hana  Čmielová",
-                "role": "3. místopředsedkyně"
+                "name": "Kamila Krejčí",
+                "role": "1.místopředsedkyně"
+            },
+            {
+                "name": "PaedDr. Marie Kramaříková",
+                "role": "předsedkyně"
             }
         ],
         "type": "party",
@@ -1694,16 +1690,16 @@
         "address": "739 12 Čeladná 592",
         "people": [
             {
-                "name": "Pavol Lukša",
-                "role": "předseda"
+                "name": "Ing. Tomáš Fodor",
+                "role": "2. místopředseda"
             },
             {
                 "name": "Mgr. René Pastrňák, Ph.D. in BA",
                 "role": "1. místopředseda"
             },
             {
-                "name": "Ing. Tomáš Fodor",
-                "role": "2. místopředseda"
+                "name": "Pavol Lukša",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -1734,16 +1730,16 @@
         "address": "415 01 Teplice, Novoveská 3091",
         "people": [
             {
+                "name": "Jindra Rücknágelová",
+                "role": "člen a pokladník"
+            },
+            {
                 "name": "Jiří Řehák",
                 "role": "předseda"
             },
             {
                 "name": "Šárka Zimová Dostálová",
                 "role": "místopředsedkyně"
-            },
-            {
-                "name": "Jindra Rücknágelová",
-                "role": "člen a pokladník"
             }
         ],
         "type": "movement",
@@ -1774,16 +1770,16 @@
         "address": "746 01 Opava, Dostojevského 2132/24",
         "people": [
             {
+                "name": "David Berger",
+                "role": "člen"
+            },
+            {
                 "name": "Ing. Iva Kalinová",
                 "role": "generální tajemník"
             },
             {
                 "name": "Zdeněk Jakš",
                 "role": "tajemník a zástupce generálního tajemníka"
-            },
-            {
-                "name": "David Berger",
-                "role": "člen"
             }
         ],
         "type": "party",
@@ -1814,16 +1810,16 @@
         "address": "612 00 Brno, Štefánikova 119/50",
         "people": [
             {
-                "name": "Zdeněk Pernica",
-                "role": "předseda"
+                "name": "Ivo Crhák",
+                "role": "místopředseda"
             },
             {
                 "name": "Radek  Pokora",
                 "role": "místopředseda"
             },
             {
-                "name": "Ivo Crhák",
-                "role": "místopředseda"
+                "name": "Zdeněk Pernica",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -1862,6 +1858,10 @@
         "address": "703 00 Ostrava, Obránců míru 208/12",
         "people": [
             {
+                "name": "Adam Šodek",
+                "role": "člen"
+            },
+            {
                 "name": "Ondřej  Vrba",
                 "role": "předseda"
             },
@@ -1871,10 +1871,6 @@
             },
             {
                 "name": "Tomáš Rehovič",
-                "role": "člen"
-            },
-            {
-                "name": "Adam Šodek",
                 "role": "člen"
             },
             {
@@ -1898,12 +1894,12 @@
         "address": "330 16 Všeruby 323",
         "people": [
             {
-                "name": "Ing. Pavel Šrámek, MBA",
-                "role": "předseda"
-            },
-            {
                 "name": "Bc. Petr Šrámek",
                 "role": "statutární místopředseda"
+            },
+            {
+                "name": "Ing. Pavel Šrámek, MBA",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -1942,12 +1938,12 @@
                 "role": "předseda"
             },
             {
-                "name": "Renáta Plíšková",
-                "role": "místopředsedkyně"
-            },
-            {
                 "name": "Petr Svoboda",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Renáta Plíšková",
+                "role": "místopředsedkyně"
             }
         ],
         "type": "movement",
@@ -1962,10 +1958,6 @@
         "address": "621 00 Brno, Žitná 1475/5",
         "people": [
             {
-                "name": "Jiří Šoltys",
-                "role": "předseda"
-            },
-            {
                 "name": "JUDr. Jaroslav Pollák",
                 "role": "místopředseda"
             },
@@ -1976,6 +1968,10 @@
             {
                 "name": "Jiří Jurnečka",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Jiří Šoltys",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -2033,20 +2029,20 @@
         "address": "108 00 Praha, Průmyslová 566/5",
         "people": [
             {
-                "name": "Václav Posířil",
-                "role": "předseda"
+                "name": "Emil Wagner",
+                "role": "místopředseda"
             },
             {
                 "name": "Martina Hrušková",
                 "role": "1.místopředsedkyně"
             },
             {
-                "name": "Emil Wagner",
+                "name": "Milan Skopový",
                 "role": "místopředseda"
             },
             {
-                "name": "Milan Skopový",
-                "role": "místopředseda"
+                "name": "Václav Posířil",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -2061,16 +2057,16 @@
         "address": "779 00 Olomouc, Karafiátová 298/1",
         "people": [
             {
-                "name": "Zdeněk Klímek",
-                "role": "generální tajemník"
+                "name": "Alois Křepský",
+                "role": "člen"
             },
             {
                 "name": "Pavel Pohludka",
                 "role": "člen"
             },
             {
-                "name": "Alois Křepský",
-                "role": "člen"
+                "name": "Zdeněk Klímek",
+                "role": "generální tajemník"
             }
         ],
         "type": "party",
@@ -2085,12 +2081,12 @@
         "address": "500 03 Hradec Králové, Buzulucká 1106/18",
         "people": [
             {
-                "name": "Jiří  Hladík",
-                "role": "předseda"
-            },
-            {
                 "name": "Jan Hýsek",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Jiří  Hladík",
+                "role": "předseda"
             },
             {
                 "name": "Leoš Kučera",
@@ -2109,12 +2105,12 @@
         "address": "792 01 Bruntál, Horní 1562/9",
         "people": [
             {
-                "name": "Jiří Krupa",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Pavla Krupová",
                 "role": "místopředsedkyně"
+            },
+            {
+                "name": "Jiří Krupa",
+                "role": "předseda"
             },
             {
                 "name": "Ludmila Hajná",
@@ -2133,12 +2129,12 @@
         "address": "792 01 Bruntál, tř. Osvobození 767/21",
         "people": [
             {
-                "name": "Radek Zatloukal",
-                "role": "předseda"
-            },
-            {
                 "name": "Jozef Hmurčík-Solár",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Radek Zatloukal",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -2153,12 +2149,12 @@
         "address": "436 01 Litvínov, Rooseveltova 2148",
         "people": [
             {
-                "name": "Miroslav Beránek",
-                "role": "předseda"
-            },
-            {
                 "name": "Dušan Belák",
                 "role": "pokladník"
+            },
+            {
+                "name": "Miroslav Beránek",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -2173,16 +2169,16 @@
         "address": "594 01 Velké Meziříčí, Třebíčská 1299/56",
         "people": [
             {
-                "name": "Miloš Komínek",
-                "role": "předseda"
-            },
-            {
                 "name": "Lenka Pestrová",
                 "role": "místopředsedkyně"
             },
             {
                 "name": "Mgr. Luděk Růžička",
                 "role": "člen"
+            },
+            {
+                "name": "Miloš Komínek",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -2224,32 +2220,32 @@
         "address": "387 01 Volyně 12",
         "people": [
             {
-                "name": "Mgr. Jana Křišťanová",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "PhDr. Zdeněk Polanský",
-                "role": "místopředseda"
-            },
-            {
-                "name": "MgA. Lukáš Černý",
-                "role": "místopředseda"
+                "name": "Ing. arch. Veronika Kovářová",
+                "role": "členka"
             },
             {
                 "name": "MUDr. Jan Kovář",
                 "role": "člen"
             },
             {
+                "name": "MgA. Lukáš Černý",
+                "role": "místopředseda"
+            },
+            {
                 "name": "Mgr. Jan Holín",
                 "role": "člen"
             },
             {
-                "name": "Ing. arch. Veronika Kovářová",
-                "role": "členka"
+                "name": "Mgr. Jana Křišťanová",
+                "role": "místopředsedkyně"
             },
             {
                 "name": "Mgr. Petra Tíková",
                 "role": "členka"
+            },
+            {
+                "name": "PhDr. Zdeněk Polanský",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -2264,12 +2260,12 @@
         "address": "180 00 Praha, Primátorská 296/38",
         "people": [
             {
-                "name": "Richard Perman",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Mgr. Luděk Nezmar, MBA",
                 "role": "výkonný místopředseda"
+            },
+            {
+                "name": "Richard Perman",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -2295,23 +2291,23 @@
         "address": "500 03 Hradec Králové, Šimkova 1223/2A",
         "people": [
             {
-                "name": "Mgr. et Mgr. Pavlína Springerová, Ph.D.",
-                "role": "předseda"
+                "name": "Ing. Petr Kubát",
+                "role": "místopředseda"
+            },
+            {
+                "name": "JUDr. Arnošt Urban",
+                "role": "místopředseda"
             },
             {
                 "name": "MUDr. Zdeněk Fink",
                 "role": "1. místopředseda"
             },
             {
-                "name": "Ing. Petr Kubát",
-                "role": "místopředseda"
+                "name": "Mgr. et Mgr. Pavlína Springerová, Ph.D.",
+                "role": "předseda"
             },
             {
                 "name": "Pharm. Dr. Jiří Sova",
-                "role": "místopředseda"
-            },
-            {
-                "name": "JUDr. Arnošt Urban",
                 "role": "místopředseda"
             }
         ],
@@ -2327,16 +2323,16 @@
         "address": "155 00 Praha, U jezera 2032/32",
         "people": [
             {
-                "name": "PaedDr. et Bc. Pavel  Petrnoušek",
-                "role": "předseda"
+                "name": "Mgr. Olga Zeinertová",
+                "role": "místopředsedkyně"
             },
             {
                 "name": "Mgr. Stanislava Andršová",
                 "role": "místopředsedkyně"
             },
             {
-                "name": "Mgr. Olga Zeinertová",
-                "role": "místopředsedkyně"
+                "name": "PaedDr. et Bc. Pavel  Petrnoušek",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -2351,11 +2347,7 @@
         "address": "330 27 Vejprnice, Na Hruškách 1032",
         "people": [
             {
-                "name": "Platí od:  7/20/2020",
-                "role": "předseda"
-            },
-            {
-                "name": "Jan Fischer",
+                "name": "Doc. MUDr. Zdeněk Novotný, CSc.",
                 "role": "místopředseda"
             },
             {
@@ -2367,7 +2359,7 @@
                 "role": "místopředseda"
             },
             {
-                "name": "Doc. MUDr. Zdeněk Novotný, CSc.",
+                "name": "Jan Fischer",
                 "role": "místopředseda"
             }
         ],
@@ -2383,12 +2375,12 @@
         "address": "738 01 Frýdek-Místek, 8. pěšího pluku 2380",
         "people": [
             {
-                "name": "Kamil  Mach, MBA.",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Patrik Salot",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Kamil  Mach, MBA.",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -2403,23 +2395,19 @@
         "address": "470 01 Česká Lípa, Bratří Čapků 2870",
         "people": [
             {
-                "name": "Jaroslav Turnhöfer",
-                "role": "předseda"
-            },
-            {
-                "name": "Petr Skokan",
-                "role": "výkonný místopředseda"
-            },
-            {
                 "name": "JUDr. Stanislav Cenek",
                 "role": "člen"
             },
             {
-                "name": "Jiří Šubrt",
-                "role": "člen"
+                "name": "Jaroslav Turnhöfer",
+                "role": "předseda"
             },
             {
-                "name": "Michal Vencovský",
+                "name": "Jiřina Mimrová",
+                "role": "členka"
+            },
+            {
+                "name": "Jiří Šubrt",
                 "role": "člen"
             },
             {
@@ -2427,8 +2415,12 @@
                 "role": "člen"
             },
             {
-                "name": "Jiřina Mimrová",
-                "role": "členka"
+                "name": "Michal Vencovský",
+                "role": "člen"
+            },
+            {
+                "name": "Petr Skokan",
+                "role": "výkonný místopředseda"
             }
         ],
         "type": "movement",
@@ -2479,11 +2471,11 @@
         "address": "312 00 Plzeň, Ke Kukačce 798/10",
         "people": [
             {
-                "name": "Roman Bakala",
-                "role": "předseda"
+                "name": "Hynek Brych",
+                "role": "člen"
             },
             {
-                "name": "Hynek Brych",
+                "name": "Ing. Jan Sazama",
                 "role": "člen"
             },
             {
@@ -2491,8 +2483,8 @@
                 "role": "člen"
             },
             {
-                "name": "Ing. Jan Sazama",
-                "role": "člen"
+                "name": "Roman Bakala",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -2507,12 +2499,12 @@
         "address": "140 00 Praha, Na Topolce 1348/7",
         "people": [
             {
-                "name": "Jan Štern",
-                "role": "předseda"
-            },
-            {
                 "name": "Alois Ullmann",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Jan Štern",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -2589,15 +2581,15 @@
         "address": "148 00 Praha, Vožická 982/25",
         "people": [
             {
-                "name": "Lenka Alinčová",
-                "role": "předsedkyně"
-            },
-            {
                 "name": "Ivan Hýža",
                 "role": "místopředseda"
             },
             {
-                "name": "Petr Rybín",
+                "name": "Ivana Kabelová",
+                "role": "členka"
+            },
+            {
+                "name": "Jaroslav Kokeš",
                 "role": "člen"
             },
             {
@@ -2605,16 +2597,16 @@
                 "role": "člen"
             },
             {
-                "name": "Jaroslav Kokeš",
-                "role": "člen"
+                "name": "Lenka Alinčová",
+                "role": "předsedkyně"
             },
             {
                 "name": "Milan Matoušek",
                 "role": "člen"
             },
             {
-                "name": "Ivana Kabelová",
-                "role": "členka"
+                "name": "Petr Rybín",
+                "role": "člen"
             }
         ],
         "type": "movement",
@@ -2629,12 +2621,12 @@
         "address": "149 00 Praha, Nad úpadem 413/23",
         "people": [
             {
-                "name": "Mgr. Bohumil Zoufalík",
-                "role": "předseda"
-            },
-            {
                 "name": "Kristýna Svobodová",
                 "role": "místopředsedkyně"
+            },
+            {
+                "name": "Mgr. Bohumil Zoufalík",
+                "role": "předseda"
             },
             {
                 "name": "Mgr. Vladislav Lipovský",
@@ -2653,12 +2645,12 @@
         "address": "738 01 Frýdek-Místek, F. Čejky 434",
         "people": [
             {
-                "name": "PhDr. Zdeněk Stolař",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Ludmila Buzková",
                 "role": "místopředsedkyně"
+            },
+            {
+                "name": "PhDr. Zdeněk Stolař",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -2673,8 +2665,28 @@
         "address": "250 01 Brandýs nad Labem, V olšinkách  1734",
         "people": [
             {
+                "name": "Alice Boudová",
+                "role": "člen"
+            },
+            {
+                "name": "Ing. Jiří  Vojta",
+                "role": "člen"
+            },
+            {
+                "name": "Ing. Michal Žižák",
+                "role": "člen"
+            },
+            {
                 "name": "Ing. Vlastimil  Picek",
                 "role": "předseda"
+            },
+            {
+                "name": "Jaroslav Dušek",
+                "role": "člen"
+            },
+            {
+                "name": "Jaroslav Selner",
+                "role": "člen"
             },
             {
                 "name": "Miluše Zahrádková",
@@ -2685,27 +2697,7 @@
                 "role": "místopředseda"
             },
             {
-                "name": "Jaroslav Dušek",
-                "role": "člen"
-            },
-            {
                 "name": "Tomáš Rejzl",
-                "role": "člen"
-            },
-            {
-                "name": "Ing. Jiří  Vojta",
-                "role": "člen"
-            },
-            {
-                "name": "Jaroslav Selner",
-                "role": "člen"
-            },
-            {
-                "name": "Ing. Michal Žižák",
-                "role": "člen"
-            },
-            {
-                "name": "Alice Boudová",
                 "role": "člen"
             }
         ],
@@ -2741,20 +2733,20 @@
                 "role": "předseda"
             },
             {
-                "name": "Mgr. Přemysl Siřínek",
-                "role": "místopředseda"
-            },
-            {
-                "name": "PhDr. Pavel Filip",
-                "role": "člen"
-            },
-            {
                 "name": "Josef Hladík",
                 "role": "člen"
             },
             {
+                "name": "Mgr. Přemysl Siřínek",
+                "role": "místopředseda"
+            },
+            {
                 "name": "Olga Kočová",
                 "role": "členka"
+            },
+            {
+                "name": "PhDr. Pavel Filip",
+                "role": "člen"
             }
         ],
         "type": "movement",
@@ -2769,12 +2761,8 @@
         "address": "360 06 Karlovy Vary, Chebská 355/49",
         "people": [
             {
-                "name": "MUDr. Josef März",
-                "role": "předseda"
-            },
-            {
-                "name": "Miroslav Vaněk",
-                "role": "místopředseda"
+                "name": "JUDr. Hana  Zemanová",
+                "role": "členka"
             },
             {
                 "name": "Jakub Žikeš",
@@ -2785,8 +2773,12 @@
                 "role": "člen"
             },
             {
-                "name": "JUDr. Hana  Zemanová",
-                "role": "členka"
+                "name": "MUDr. Josef März",
+                "role": "předseda"
+            },
+            {
+                "name": "Miroslav Vaněk",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -2801,11 +2793,11 @@
         "address": "710 00 Ostrava, Hladnovská 1255/23",
         "people": [
             {
-                "name": "Ing. Petr Kajnar",
-                "role": "předseda"
+                "name": "Bc. Věra  Racková",
+                "role": "členka"
             },
             {
-                "name": "Mgr. Michal Bayer",
+                "name": "Daniel Kaminský",
                 "role": "člen"
             },
             {
@@ -2813,7 +2805,11 @@
                 "role": "člen"
             },
             {
-                "name": "Daniel Kaminský",
+                "name": "Ing. Petr Kajnar",
+                "role": "předseda"
+            },
+            {
+                "name": "Marek Pabjan",
                 "role": "člen"
             },
             {
@@ -2821,12 +2817,8 @@
                 "role": "člen"
             },
             {
-                "name": "Marek Pabjan",
+                "name": "Mgr. Michal Bayer",
                 "role": "člen"
-            },
-            {
-                "name": "Bc. Věra  Racková",
-                "role": "členka"
             }
         ],
         "type": "movement",
@@ -2841,12 +2833,12 @@
         "address": "674 01 Třebíč, Modřínová 302/8",
         "people": [
             {
-                "name": "Ing. Martin  Svoboda",
-                "role": "předseda"
-            },
-            {
                 "name": "Bc. Pavel Krčál",
                 "role": "1. místopředseda"
+            },
+            {
+                "name": "Ing. Martin  Svoboda",
+                "role": "předseda"
             },
             {
                 "name": "Zdeněk Sedláček",
@@ -2865,16 +2857,16 @@
         "address": "613 00 Brno, Zemědělská 1714/72",
         "people": [
             {
-                "name": "Mgr. Barbora Antonová",
-                "role": "předsedkyně"
-            },
-            {
                 "name": "Bc. Matěj  Hollan",
                 "role": "1. místopředseda"
             },
             {
                 "name": "Martin Freund",
                 "role": "2. místopředseda"
+            },
+            {
+                "name": "Mgr. Barbora Antonová",
+                "role": "předsedkyně"
             }
         ],
         "type": "movement",
@@ -2889,27 +2881,27 @@
         "address": "638 00 Brno, Ježkova 242/8",
         "people": [
             {
-                "name": "Mgr. Martin  Maleček",
-                "role": "předseda"
-            },
-            {
-                "name": "PhDr. Karla Hofmannová",
-                "role": "místopředsedkyně"
-            },
-            {
                 "name": "Ing. Jiří Sekora",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Ing. Martin Cibula",
+                "role": "člen"
+            },
+            {
+                "name": "Mgr. Martin  Maleček",
+                "role": "předseda"
             },
             {
                 "name": "Mgr. Tomáš Kohoutek",
                 "role": "člen"
             },
             {
-                "name": "Prof. Michal Košut, Ph.D.",
-                "role": "člen"
+                "name": "PhDr. Karla Hofmannová",
+                "role": "místopředsedkyně"
             },
             {
-                "name": "Ing. Martin Cibula",
+                "name": "Prof. Michal Košut, Ph.D.",
                 "role": "člen"
             },
             {
@@ -2929,19 +2921,19 @@
         "address": "180 00 Praha, Bednářská 1025/3",
         "people": [
             {
-                "name": "František Oščádal",
-                "role": "předseda"
-            },
-            {
                 "name": "Filip Kahoun",
                 "role": "člen"
             },
             {
-                "name": "Marta Frýbertová",
-                "role": "členka"
+                "name": "František Oščádal",
+                "role": "předseda"
             },
             {
                 "name": "MUDr. Alice Čečilová",
+                "role": "členka"
+            },
+            {
+                "name": "Marta Frýbertová",
                 "role": "členka"
             }
         ],
@@ -3021,20 +3013,20 @@
         "address": "400 11 Ústí nad Labem, Pincova 2971/13",
         "people": [
             {
-                "name": "Milan Poláček",
-                "role": "předseda"
-            },
-            {
-                "name": "Zdeněk Novák",
-                "role": "místopředseda"
+                "name": "Jindřich Novák",
+                "role": "člen"
             },
             {
                 "name": "Martin Vrtiška",
                 "role": "výkonný tajemník"
             },
             {
-                "name": "Jindřich Novák",
-                "role": "člen"
+                "name": "Milan Poláček",
+                "role": "předseda"
+            },
+            {
+                "name": "Zdeněk Novák",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -3065,15 +3057,15 @@
         "address": "621 00 Brno, Odlehlá 176/21",
         "people": [
             {
+                "name": "Ladislav Valášek",
+                "role": "místopředseda"
+            },
+            {
                 "name": "Marek Nosek",
                 "role": "předseda"
             },
             {
                 "name": "Petr Havelka",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Ladislav Valášek",
                 "role": "místopředseda"
             }
         ],
@@ -3117,12 +3109,12 @@
                 "role": "předseda"
             },
             {
-                "name": "Jan Nymsa",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Ing. Jan  Sedunka",
                 "role": "pokladník"
+            },
+            {
+                "name": "Jan Nymsa",
+                "role": "místopředseda"
             }
         ],
         "type": "party",
@@ -3137,12 +3129,12 @@
         "address": "466 04 Jablonec nad Nisou, Pražského povstání 3686/19",
         "people": [
             {
-                "name": "Jan  Ullmann",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Jan Ullmann",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Jan  Ullmann",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -3157,32 +3149,32 @@
         "address": "323 00 Plzeň, Úněšovská 2205/17",
         "people": [
             {
-                "name": "Mgr. Radek Mráz",
-                "role": "předseda"
-            },
-            {
-                "name": "Jiří Winkelhöfer",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Michael Sinkule",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Jakub Dort",
-                "role": "místopředseda"
+                "name": "Bc. Aleš Tolar",
+                "role": "člen"
             },
             {
                 "name": "Ing. Tomáš Kotora",
                 "role": "místopředseda"
             },
             {
-                "name": "Bc. Aleš Tolar",
-                "role": "člen"
-            },
-            {
                 "name": "Irena Vítovcová",
                 "role": "členka"
+            },
+            {
+                "name": "Jakub Dort",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Jiří Winkelhöfer",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Radek Mráz",
+                "role": "předseda"
+            },
+            {
+                "name": "Michael Sinkule",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -3217,12 +3209,12 @@
         "address": "400 01 Ústí nad Labem, Rembrandtova 382/6",
         "people": [
             {
-                "name": "MUDr. Jiří Madar",
-                "role": "předseda"
-            },
-            {
                 "name": "Bc. Martin Prachař",
                 "role": "místopředseda"
+            },
+            {
+                "name": "MUDr. Jiří Madar",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -3237,12 +3229,12 @@
         "address": "793 24 Karlova Studánka 12",
         "people": [
             {
-                "name": "Ludvík Zifčák",
-                "role": "předseda"
-            },
-            {
                 "name": "František Cviček",
                 "role": "výkonný místopředseda"
+            },
+            {
+                "name": "Ludvík Zifčák",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -3257,12 +3249,12 @@
         "address": "169 00 Praha, Bělohorská 193/149",
         "people": [
             {
-                "name": "Oldřich Vojíř",
-                "role": "předseda"
-            },
-            {
                 "name": "Marek Vavrečka",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Oldřich Vojíř",
+                "role": "předseda"
             },
             {
                 "name": "Tereza Dalecká",
@@ -3281,19 +3273,19 @@
         "address": "149 00 Praha, Mokrá 1284/13A",
         "people": [
             {
-                "name": "Mgr. Dalibor  Mlejnský",
-                "role": "předseda"
-            },
-            {
                 "name": "Hana Zimová",
                 "role": "místopředsedkyně"
             },
             {
-                "name": "Rostislav Korbel",
-                "role": "místopředseda"
+                "name": "Mgr. Dalibor  Mlejnský",
+                "role": "předseda"
             },
             {
                 "name": "Petr Sýkora",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Rostislav Korbel",
                 "role": "místopředseda"
             }
         ],
@@ -3325,16 +3317,16 @@
         "address": "551 01 Jaroměř, nám. Československé armády 31",
         "people": [
             {
-                "name": "Stanislav  Rudolfský",
-                "role": "předseda"
-            },
-            {
                 "name": "Aleš Svoboda",
                 "role": "1. místopředseda"
             },
             {
                 "name": "Jan Mojžíš",
                 "role": "2. místopředseda"
+            },
+            {
+                "name": "Stanislav  Rudolfský",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -3397,20 +3389,20 @@
         "address": "181 00 Praha, Řešovská 519/1",
         "people": [
             {
-                "name": "Leoš Prokeš",
-                "role": "předseda"
-            },
-            {
-                "name": "Petr Duchek",
-                "role": "1. místopředseda"
-            },
-            {
                 "name": "Jan Neuman",
                 "role": "člen"
             },
             {
+                "name": "Leoš Prokeš",
+                "role": "předseda"
+            },
+            {
                 "name": "Mgr. Václav Šmíd",
                 "role": "člen"
+            },
+            {
+                "name": "Petr Duchek",
+                "role": "1. místopředseda"
             }
         ],
         "type": "party",
@@ -3441,28 +3433,28 @@
         "address": "110 00 Praha, Senovážné náměstí  978/23",
         "people": [
             {
-                "name": "Michal Babák",
-                "role": "předseda"
+                "name": "Antonín Cekota",
+                "role": "místopředseda"
             },
             {
                 "name": "Bohuslav Jedinák",
                 "role": "1. místopředseda"
             },
             {
-                "name": "Radka Sitarová",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "Antonín Cekota",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Jan Blažek",
                 "role": "místopředseda"
             },
             {
+                "name": "Michal Babák",
+                "role": "předseda"
+            },
+            {
                 "name": "Otto Chaloupka",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Radka Sitarová",
+                "role": "místopředsedkyně"
             },
             {
                 "name": "Zdeněk Renc",
@@ -3497,27 +3489,19 @@
         "address": "738 01 Frýdek-Místek, Josefa Václava Sládka 35",
         "people": [
             {
-                "name": "Petr Korč",
-                "role": "předseda"
+                "name": "Dalibor Horečka",
+                "role": "člen"
             },
             {
                 "name": "Ing. Jiří Kajzar",
                 "role": "místopředseda"
             },
             {
-                "name": "Mgr. Zbyněk Šostý",
-                "role": "člen"
+                "name": "Ing. Kamila Šponerová",
+                "role": "členka"
             },
             {
                 "name": "Ing. Miroslav Bártek",
-                "role": "člen"
-            },
-            {
-                "name": "Dalibor Horečka",
-                "role": "člen"
-            },
-            {
-                "name": "Tomáš  Chlebek",
                 "role": "člen"
             },
             {
@@ -3529,8 +3513,16 @@
                 "role": "člen"
             },
             {
-                "name": "Ing. Kamila Šponerová",
-                "role": "členka"
+                "name": "Mgr. Zbyněk Šostý",
+                "role": "člen"
+            },
+            {
+                "name": "Petr Korč",
+                "role": "předseda"
+            },
+            {
+                "name": "Tomáš  Chlebek",
+                "role": "člen"
             }
         ],
         "type": "movement",
@@ -3572,16 +3564,16 @@
         "address": "760 01 Zlín, Filmová 174",
         "people": [
             {
+                "name": "Ing. Tomáš Dudák",
+                "role": "člen"
+            },
+            {
                 "name": "Ing. Čestmír Vančura",
                 "role": "předseda"
             },
             {
                 "name": "Mgr. Jaroslav Juráš",
                 "role": "místopředseda"
-            },
-            {
-                "name": "Ing. Tomáš Dudák",
-                "role": "člen"
             }
         ],
         "type": "movement",
@@ -3596,16 +3588,16 @@
         "address": "400 01 Ústí nad Labem, Mírové náměstí 2442/6",
         "people": [
             {
-                "name": "Raul Cruz",
-                "role": "předseda"
-            },
-            {
                 "name": "Ladislav Alinče",
                 "role": "místopředseda"
             },
             {
                 "name": "Petr Kratochvíl",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Raul Cruz",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -3640,20 +3632,20 @@
                 "role": "předseda"
             },
             {
-                "name": "Tomáš Hnízdil",
-                "role": "1. místopředseda"
+                "name": "Martin Gumulák",
+                "role": "místopředseda"
             },
             {
                 "name": "Michal Bezucha",
                 "role": "místopředseda"
             },
             {
-                "name": "Martin Gumulák",
+                "name": "Petr Stanovský",
                 "role": "místopředseda"
             },
             {
-                "name": "Petr Stanovský",
-                "role": "místopředseda"
+                "name": "Tomáš Hnízdil",
+                "role": "1. místopředseda"
             }
         ],
         "type": "party",
@@ -3684,15 +3676,23 @@
         "address": "110 00 Praha, Panská 891/5",
         "people": [
             {
+                "name": "Jiří Koutský",
+                "role": "člen"
+            },
+            {
+                "name": "Kamil Papež",
+                "role": "člen"
+            },
+            {
+                "name": "Martin  Píša",
+                "role": "člen"
+            },
+            {
                 "name": "Mgr. Karel Fischer",
                 "role": "předseda"
             },
             {
-                "name": "Václav Drahorád",
-                "role": "výkonný místopředseda"
-            },
-            {
-                "name": "Martin  Píša",
+                "name": "Michal Fischer",
                 "role": "člen"
             },
             {
@@ -3700,16 +3700,8 @@
                 "role": "člen"
             },
             {
-                "name": "Michal Fischer",
-                "role": "člen"
-            },
-            {
-                "name": "Jiří Koutský",
-                "role": "člen"
-            },
-            {
-                "name": "Kamil Papež",
-                "role": "člen"
+                "name": "Václav Drahorád",
+                "role": "výkonný místopředseda"
             }
         ],
         "type": "movement",
@@ -3760,24 +3752,20 @@
         "address": "162 00 Praha, Křenova 438/7",
         "people": [
             {
-                "name": "Platí od:",
-                "role": "předseda"
-            },
-            {
-                "name": "Marek Veselý",
-                "role": "místopředseda"
+                "name": "Jaroslav Ježek",
+                "role": "člen"
             },
             {
                 "name": "Jindřich Kalda",
                 "role": "člen"
             },
             {
-                "name": "Jaroslav Ježek",
+                "name": "Josef Kronych",
                 "role": "člen"
             },
             {
-                "name": "Josef Kronych",
-                "role": "člen"
+                "name": "Marek Veselý",
+                "role": "místopředseda"
             },
             {
                 "name": "Petr Šimon",
@@ -3800,12 +3788,12 @@
         "address": "155 00 Praha, Ordovická 1311/3",
         "people": [
             {
-                "name": "JUDr. Ing. Petr Kučera",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Jan  Majer",
                 "role": "místopředseda"
+            },
+            {
+                "name": "JUDr. Ing. Petr Kučera",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -3836,16 +3824,16 @@
         "address": "400 11 Ústí nad Labem, Na Vyhlídce 2340/11",
         "people": [
             {
-                "name": "Mgr. Zdeněk Kubec",
-                "role": "předseda"
+                "name": "Ing. Van Sang Tran",
+                "role": "místopředseda"
             },
             {
                 "name": "MUDr. Klára Pohanková",
                 "role": "první místopředsedkyně"
             },
             {
-                "name": "Ing. Van Sang Tran",
-                "role": "místopředseda"
+                "name": "Mgr. Zdeněk Kubec",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -3860,12 +3848,12 @@
         "address": "642 00 Brno, Pražská 674/156",
         "people": [
             {
-                "name": "MVDr. Milan Dvořák, PhD.",
-                "role": "předseda"
-            },
-            {
                 "name": "Kateřina Poludová, Dis.",
                 "role": "1.místopředsedkyně"
+            },
+            {
+                "name": "MVDr. Milan Dvořák, PhD.",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -3914,20 +3902,7 @@
         "reg_number": "MV-75093-4/VS-2012",
         "reg_date": "2012-08-03",
         "address": "370 01 České Budějovice, Žižkova tř. 309/12",
-        "people": [
-            {
-                "name": "Platí od:",
-                "role": "předseda"
-            },
-            {
-                "name": "Platí od:",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Platí od:",
-                "role": "místopředseda"
-            }
-        ],
+        "people": [],
         "type": "party",
         "is_active": false
     },
@@ -3956,20 +3931,20 @@
         "address": "675 34 Police 131",
         "people": [
             {
-                "name": "Karel  Janoušek",
-                "role": "předseda"
-            },
-            {
-                "name": "Petr Bárta",
-                "role": "1. místopředseda"
-            },
-            {
                 "name": "Ing. Miroslav Kabelka",
                 "role": "místopředseda"
             },
             {
+                "name": "Karel  Janoušek",
+                "role": "předseda"
+            },
+            {
                 "name": "Miroslav Jirků",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Petr Bárta",
+                "role": "1. místopředseda"
             }
         ],
         "type": "movement",
@@ -3984,12 +3959,12 @@
         "address": "763 02 Zlín, 1. máje 613",
         "people": [
             {
-                "name": "Mgr. Eva Štauderová",
-                "role": "předsedkyně"
-            },
-            {
                 "name": "Bc. Jiřina  Gajdošíková",
                 "role": "1.místopředsedkyně"
+            },
+            {
+                "name": "Mgr. Eva Štauderová",
+                "role": "předsedkyně"
             },
             {
                 "name": "Miroslav Rafaja",
@@ -4008,12 +3983,12 @@
         "address": "547 01 Náchod, Vítkova 368",
         "people": [
             {
-                "name": "Ing. Petr  Pakosta",
-                "role": "předseda"
-            },
-            {
                 "name": "Bc. Hana Nedvědová",
                 "role": "místopředsedkyně"
+            },
+            {
+                "name": "Ing. Petr  Pakosta",
+                "role": "předseda"
             },
             {
                 "name": "Ing. Tomáš Šubert",
@@ -4036,12 +4011,12 @@
                 "role": "předseda"
             },
             {
-                "name": "Ing. Vojtěch  Sedláček",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Ing. Oldřich  Dostalík",
                 "role": "člen"
+            },
+            {
+                "name": "Ing. Vojtěch  Sedláček",
+                "role": "místopředseda"
             }
         ],
         "type": "party",
@@ -4056,20 +4031,20 @@
         "address": "767 01 Kroměříž, Postoupky 245",
         "people": [
             {
-                "name": "Jiří Kašík",
-                "role": "předseda"
-            },
-            {
-                "name": "PhDr. Ivo Frolec",
-                "role": "1. místopředseda"
-            },
-            {
                 "name": "Ing. Ivo Thurner",
                 "role": "2. místopředseda"
             },
             {
+                "name": "Jiří Kašík",
+                "role": "předseda"
+            },
+            {
                 "name": "Mgr. Pavel Stojar",
                 "role": "člen"
+            },
+            {
+                "name": "PhDr. Ivo Frolec",
+                "role": "1. místopředseda"
             },
             {
                 "name": "Stanislava Pulkrábková",
@@ -4088,12 +4063,16 @@
         "address": "150 00 Praha, náměstí Kinských  741/6",
         "people": [
             {
-                "name": "Jaroslav Nedvěd",
-                "role": "předseda"
+                "name": "Eva Pitrová",
+                "role": "členka"
             },
             {
                 "name": "Jan Kuchař",
                 "role": "1. místopředseda"
+            },
+            {
+                "name": "Jaroslav Nedvěd",
+                "role": "předseda"
             },
             {
                 "name": "Marek Kukrle",
@@ -4101,10 +4080,6 @@
             },
             {
                 "name": "Mgr. Diana Bubníková",
-                "role": "členka"
-            },
-            {
-                "name": "Eva Pitrová",
                 "role": "členka"
             }
         ],
@@ -4136,16 +4111,16 @@
         "address": "104 00 Praha, Václava Trojana 1540/13",
         "people": [
             {
-                "name": "PhDr. Martin Vacek, MBA",
-                "role": "předseda"
+                "name": "Bc. Marek  Paták",
+                "role": "místopředseda"
             },
             {
                 "name": "Ing. Mgr. Rudolf Mládek",
                 "role": "1. místopředseda"
             },
             {
-                "name": "Bc. Marek  Paták",
-                "role": "místopředseda"
+                "name": "PhDr. Martin Vacek, MBA",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -4160,15 +4135,11 @@
         "address": "460 07 Liberec, 1. máje 97/25",
         "people": [
             {
-                "name": "Jan Korytář",
-                "role": "předseda"
-            },
-            {
-                "name": "Ing. Libor  Witassek",
+                "name": "Dalibor Halátek",
                 "role": "člen"
             },
             {
-                "name": "Ing. arch. František Křelina",
+                "name": "Ing. Libor  Witassek",
                 "role": "člen"
             },
             {
@@ -4176,8 +4147,12 @@
                 "role": "člen"
             },
             {
-                "name": "Dalibor Halátek",
+                "name": "Ing. arch. František Křelina",
                 "role": "člen"
+            },
+            {
+                "name": "Jan Korytář",
+                "role": "předseda"
             },
             {
                 "name": "Jiří Římánek",
@@ -4196,24 +4171,24 @@
         "address": "508 01 Holovousy 37",
         "people": [
             {
-                "name": "Milan Maček",
-                "role": "předseda"
-            },
-            {
-                "name": "Mgr. Martina Berdychová",
-                "role": "místopředsedkyně"
+                "name": "Helena Rezková",
+                "role": "pokladník"
             },
             {
                 "name": "Ing. Ondřej Hlaváč",
                 "role": "místopředseda"
             },
             {
-                "name": "Helena Rezková",
-                "role": "pokladník"
-            },
-            {
                 "name": "Martina Lacmanová",
                 "role": "členka"
+            },
+            {
+                "name": "Mgr. Martina Berdychová",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Milan Maček",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -4248,38 +4223,6 @@
                 "role": "předseda"
             },
             {
-                "name": "Platí od:  10/23/2020",
-                "role": "1. místopředseda"
-            },
-            {
-                "name": "Jaroslava Pokorná Jermanová",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "Richard Brabec",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Radek Vondráček",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Martin Kukla",
-                "role": "člen"
-            },
-            {
-                "name": "Tomáš Macura",
-                "role": "člen"
-            },
-            {
-                "name": "Roman Kubíček",
-                "role": "člen"
-            },
-            {
-                "name": "Ladislav Okleštěk",
-                "role": "člen"
-            },
-            {
                 "name": "Jan  Volný",
                 "role": "člen"
             },
@@ -4288,12 +4231,40 @@
                 "role": "člen"
             },
             {
+                "name": "Jana Pastuchová",
+                "role": "členka"
+            },
+            {
+                "name": "Jaroslava Pokorná Jermanová",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Ladislav Okleštěk",
+                "role": "člen"
+            },
+            {
+                "name": "Martin Kukla",
+                "role": "člen"
+            },
+            {
                 "name": "Mgr. Jana Mračková Vildumetzová",
                 "role": "členka"
             },
             {
-                "name": "Jana Pastuchová",
-                "role": "členka"
+                "name": "Radek Vondráček",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Richard Brabec",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Roman Kubíček",
+                "role": "člen"
+            },
+            {
+                "name": "Tomáš Macura",
+                "role": "člen"
             }
         ],
         "type": "movement",
@@ -4340,12 +4311,12 @@
         "address": "373 01 Tři Sekery 73",
         "people": [
             {
-                "name": "Pavel Vondráček",
-                "role": "předseda"
-            },
-            {
                 "name": "Ivan Brezina",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Pavel Vondráček",
+                "role": "předseda"
             },
             {
                 "name": "Petr  Bílek",
@@ -4364,23 +4335,15 @@
         "address": "155 00 Praha, Radlická 505/58",
         "people": [
             {
-                "name": "JUDr. Jaroslav Král",
-                "role": "předseda"
-            },
-            {
-                "name": "Přemysl Votava",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Doc. PhDr. et PaedDr. Zbyněk Holub, Ph.D.",
                 "role": "místopředseda"
             },
             {
-                "name": "Stanislav Vondráček",
-                "role": "místopředseda"
+                "name": "JUDr. Jaroslav Král",
+                "role": "předseda"
             },
             {
-                "name": "PhDr. Vladimír Pelc",
+                "name": "Lukáš Bouma",
                 "role": "člen"
             },
             {
@@ -4388,8 +4351,16 @@
                 "role": "člen"
             },
             {
-                "name": "Lukáš Bouma",
+                "name": "PhDr. Vladimír Pelc",
                 "role": "člen"
+            },
+            {
+                "name": "Přemysl Votava",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Stanislav Vondráček",
+                "role": "místopředseda"
             }
         ],
         "type": "party",
@@ -4415,20 +4386,20 @@
         "address": "120 00 Praha, Legerova 1854/22",
         "people": [
             {
-                "name": "PhDr. Vladimíra Vítová, Ph.D.",
-                "role": "předsedkyně"
+                "name": "Ing. Jaroslav Drobný",
+                "role": "místopředseda"
             },
             {
                 "name": "JUDr. Karel Hais",
                 "role": "1. místopředseda"
             },
             {
-                "name": "Ing. Jaroslav Drobný",
+                "name": "Petr Kania",
                 "role": "místopředseda"
             },
             {
-                "name": "Petr Kania",
-                "role": "místopředseda"
+                "name": "PhDr. Vladimíra Vítová, Ph.D.",
+                "role": "předsedkyně"
             }
         ],
         "type": "movement",
@@ -4505,12 +4476,12 @@
         "address": "769 01 Holešov, Dlažánky 310/6",
         "people": [
             {
-                "name": "JUDr. Jarmila Pokorná",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Jaromír Tomšů",
                 "role": "místopředseda"
+            },
+            {
+                "name": "JUDr. Jarmila Pokorná",
+                "role": "předseda"
             },
             {
                 "name": "Mgr. Jarmila Růžičková",
@@ -4529,12 +4500,12 @@
         "address": "471 24 Mimoň, Okrouhlická 95",
         "people": [
             {
-                "name": "Marek Astaloš",
-                "role": "předseda"
-            },
-            {
                 "name": "Jana Pešková",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Marek Astaloš",
+                "role": "předseda"
             },
             {
                 "name": "Nina  Smolíková",
@@ -4553,16 +4524,16 @@
         "address": "702 00 Ostrava, Brandlova 1267/6",
         "people": [
             {
-                "name": "MUDr. Tomáš Málek",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Eva Schwarzová",
                 "role": "místopředsedkyně"
             },
             {
                 "name": "JUDr. Lukáš Semerák",
                 "role": "člen"
+            },
+            {
+                "name": "MUDr. Tomáš Málek",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -4581,12 +4552,12 @@
                 "role": "předseda"
             },
             {
-                "name": "Libor Hlaváč",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Klára Hlaváčová",
                 "role": "pokladník"
+            },
+            {
+                "name": "Libor Hlaváč",
+                "role": "místopředseda"
             }
         ],
         "type": "party",
@@ -4617,16 +4588,16 @@
         "address": "470 01 Česká Lípa, Sokolská 270/8",
         "people": [
             {
-                "name": "Roman Podzimek",
-                "role": "předseda"
+                "name": "JUDr. Jan Jeřábek",
+                "role": "místopředseda"
             },
             {
                 "name": "JUDr. Josef Klofáč",
                 "role": "místopředseda"
             },
             {
-                "name": "JUDr. Jan Jeřábek",
-                "role": "místopředseda"
+                "name": "Roman Podzimek",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -4657,12 +4628,12 @@
         "address": "101 00 Praha, Bulharská 1401/38",
         "people": [
             {
-                "name": "MgA. Jiří  Vrba",
-                "role": "předseda"
-            },
-            {
                 "name": "Martin Kurka",
                 "role": "místopředseda"
+            },
+            {
+                "name": "MgA. Jiří  Vrba",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -4675,20 +4646,7 @@
         "reg_number": "MV-65866-6/VS-2010",
         "reg_date": "2010-07-20",
         "address": "150 00 Praha, Ostrovského 253/3",
-        "people": [
-            {
-                "name": "Platí od:  1/31/2015",
-                "role": "předseda"
-            },
-            {
-                "name": "Platí od:  1/31/2015",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Platí od:  1/31/2015",
-                "role": "člen"
-            }
-        ],
+        "people": [],
         "type": "party",
         "is_active": true
     },
@@ -4779,12 +4737,8 @@
         "address": "160 00 Praha, Rooseveltova 444/5",
         "people": [
             {
-                "name": "Ing. Karel  Berka",
-                "role": "předseda"
-            },
-            {
-                "name": "Věra Grandeová",
-                "role": "místopředseda"
+                "name": "Bc. Dagmar Jungová",
+                "role": "člen"
             },
             {
                 "name": "Ing. Aleš Moravec",
@@ -4795,8 +4749,12 @@
                 "role": "člen"
             },
             {
-                "name": "Bc. Dagmar Jungová",
-                "role": "člen"
+                "name": "Ing. Karel  Berka",
+                "role": "předseda"
+            },
+            {
+                "name": "Věra Grandeová",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -4811,10 +4769,6 @@
         "address": "386 01 Strakonice, Velké náměstí 142",
         "people": [
             {
-                "name": "Mgr. Břetislav  Hrdlička",
-                "role": "předseda"
-            },
-            {
                 "name": "František Christelbauer",
                 "role": "místopředseda"
             },
@@ -4825,6 +4779,10 @@
             {
                 "name": "Martin Horský",
                 "role": "archivář"
+            },
+            {
+                "name": "Mgr. Břetislav  Hrdlička",
+                "role": "předseda"
             },
             {
                 "name": "Miroslav Kotrč",
@@ -4899,12 +4857,12 @@
         "address": "405 02 Děčín, Stoliční 1205/6",
         "people": [
             {
-                "name": "Mgr. Petra  Bostlová",
-                "role": "předseda a pokladník"
-            },
-            {
                 "name": "Eduard  Lažanský",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Petra  Bostlová",
+                "role": "předseda a pokladník"
             }
         ],
         "type": "party",
@@ -4979,16 +4937,16 @@
         "address": "434 01 Most, Moskevská 1463/37",
         "people": [
             {
-                "name": "Mgr. Hana Svobodová, Ph.D.",
-                "role": "předsedkyně"
+                "name": "Jiří Banovský",
+                "role": "2. místopředseda"
             },
             {
                 "name": "Marian Dancso",
                 "role": "1. místopředseda"
             },
             {
-                "name": "Jiří Banovský",
-                "role": "2. místopředseda"
+                "name": "Mgr. Hana Svobodová, Ph.D.",
+                "role": "předsedkyně"
             },
             {
                 "name": "RSDr. Vlastimil  Balín",
@@ -5011,20 +4969,20 @@
                 "role": "předseda"
             },
             {
-                "name": "Mgr. Pavla Bjalončíková",
-                "role": "místopředsedkyně"
+                "name": "Ing. Ludmila Běťáková",
+                "role": "člen"
             },
             {
                 "name": "Ing. Miroslava Šromková",
                 "role": "člen"
             },
             {
-                "name": "Ing. Ludmila Běťáková",
+                "name": "Ing. Roman Koutný",
                 "role": "člen"
             },
             {
-                "name": "Ing. Roman Koutný",
-                "role": "člen"
+                "name": "Mgr. Pavla Bjalončíková",
+                "role": "místopředsedkyně"
             }
         ],
         "type": "movement",
@@ -5051,11 +5009,11 @@
                 "role": "místopředseda"
             },
             {
-                "name": "Mgr. Pavel Lindovský",
+                "name": "Mgr. Libuše Gelnarová",
                 "role": "člen představenstva"
             },
             {
-                "name": "Mgr. Libuše Gelnarová",
+                "name": "Mgr. Pavel Lindovský",
                 "role": "člen představenstva"
             }
         ],
@@ -5071,16 +5029,16 @@
         "address": "580 01 Havlíčkův Brod, Prokopa Holého 787",
         "people": [
             {
-                "name": "PhDr. Ivana  Štrossová",
-                "role": "předsedkyně"
+                "name": "Blanka Muzikářová",
+                "role": "pokladník"
             },
             {
                 "name": "Eva  Vyoralová",
                 "role": "místopředsedkyně"
             },
             {
-                "name": "Blanka Muzikářová",
-                "role": "pokladník"
+                "name": "PhDr. Ivana  Štrossová",
+                "role": "předsedkyně"
             }
         ],
         "type": "movement",
@@ -5095,12 +5053,12 @@
         "address": "466 05 Jablonec nad Nisou, Podhorská 635/85",
         "people": [
             {
-                "name": "Petr Jonáš",
-                "role": "předseda"
-            },
-            {
                 "name": "Jan Novák",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Petr Jonáš",
+                "role": "předseda"
             },
             {
                 "name": "Petr Procházka",
@@ -5119,20 +5077,20 @@
         "address": "197 00 Praha, Jilemnická 655/4",
         "people": [
             {
-                "name": "Kateřina  Březinová",
-                "role": "předseda"
-            },
-            {
-                "name": "Martin  Bárta",
-                "role": "místopředseda"
+                "name": "Ing. Zbyněk Jankovský",
+                "role": "člen předsednictva"
             },
             {
                 "name": "Jana Martinovská",
                 "role": "člen"
             },
             {
-                "name": "Ing. Zbyněk Jankovský",
-                "role": "člen předsednictva"
+                "name": "Kateřina  Březinová",
+                "role": "předseda"
+            },
+            {
+                "name": "Martin  Bárta",
+                "role": "místopředseda"
             }
         ],
         "type": "party",
@@ -5147,16 +5105,16 @@
         "address": "674 01 Třebíč, Obránců míru 489/20",
         "people": [
             {
-                "name": "Mgr. Pavel  Pacal",
-                "role": "mluvčí"
-            },
-            {
                 "name": "Bc. Jaromíra Hanáčková",
                 "role": "mluvčí"
             },
             {
                 "name": "Ing. Jitka  Bínová",
                 "role": "člen"
+            },
+            {
+                "name": "Mgr. Pavel  Pacal",
+                "role": "mluvčí"
             }
         ],
         "type": "movement",
@@ -5171,16 +5129,16 @@
         "address": "272 01 Kladno , Na Stráni  613",
         "people": [
             {
-                "name": "Mgr. Milan  Volf",
-                "role": "předseda grémia"
-            },
-            {
                 "name": "Ing. Přemysl  Mužík",
                 "role": "místopředseda grémia"
             },
             {
                 "name": "Ing. Věra Kučerová",
                 "role": "místopředseda grémia"
+            },
+            {
+                "name": "Mgr. Milan  Volf",
+                "role": "předseda grémia"
             }
         ],
         "type": "party",
@@ -5211,55 +5169,23 @@
         "address": "360 09 Karlovy Vary, Kvapilova 419/5",
         "people": [
             {
-                "name": "Bc. Monika Makkiehová, DiS.",
-                "role": "předsedkyně"
-            },
-            {
-                "name": "Václav  Král",
-                "role": "výkonný místopředseda"
-            },
-            {
-                "name": "Ing. Tomáš Matějček",
-                "role": "druhý místopředseda"
-            },
-            {
-                "name": "Jaroslav Jirák",
-                "role": "člen"
-            },
-            {
-                "name": "Pavel Cipov",
-                "role": "člen"
-            },
-            {
                 "name": "Antonín Prachar",
                 "role": "člen"
             },
             {
-                "name": "Pavel Ondrejcsik",
-                "role": "člen"
-            },
-            {
-                "name": "Martin Šolín",
-                "role": "člen"
-            },
-            {
-                "name": "Marcel  Kosec",
-                "role": "člen"
-            },
-            {
-                "name": "Ivana  Sytařová",
-                "role": "členka"
-            },
-            {
-                "name": "Kristina Schneiderová",
-                "role": "členka"
+                "name": "Bc. Monika Makkiehová, DiS.",
+                "role": "předsedkyně"
             },
             {
                 "name": "Eva Šarmírová",
                 "role": "členka"
             },
             {
-                "name": "Štěpánka Dostalová",
+                "name": "Ing. Tomáš Matějček",
+                "role": "druhý místopředseda"
+            },
+            {
+                "name": "Ivana  Sytařová",
                 "role": "členka"
             },
             {
@@ -5267,15 +5193,47 @@
                 "role": "členka"
             },
             {
-                "name": "Marie Kosecová",
+                "name": "Jaroslav Jirák",
+                "role": "člen"
+            },
+            {
+                "name": "Kristina Schneiderová",
                 "role": "členka"
+            },
+            {
+                "name": "Marcel  Kosec",
+                "role": "člen"
             },
             {
                 "name": "Marie Jandová",
                 "role": "členka"
             },
             {
+                "name": "Marie Kosecová",
+                "role": "členka"
+            },
+            {
+                "name": "Martin Šolín",
+                "role": "člen"
+            },
+            {
+                "name": "Pavel Cipov",
+                "role": "člen"
+            },
+            {
+                "name": "Pavel Ondrejcsik",
+                "role": "člen"
+            },
+            {
                 "name": "Radka Cipová",
+                "role": "členka"
+            },
+            {
+                "name": "Václav  Král",
+                "role": "výkonný místopředseda"
+            },
+            {
+                "name": "Štěpánka Dostalová",
                 "role": "členka"
             }
         ],
@@ -5295,12 +5253,12 @@
                 "role": "předseda"
             },
             {
-                "name": "Mgr. Marian Keremidský",
-                "role": "1. místopředseda"
-            },
-            {
                 "name": "Ing. Miloslav Soušek",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Marian Keremidský",
+                "role": "1. místopředseda"
             }
         ],
         "type": "party",
@@ -5315,16 +5273,16 @@
         "address": "628 00 Brno, Podbělová 2716/4",
         "people": [
             {
+                "name": "Ing. Martin  Mach",
+                "role": "místopředseda"
+            },
+            {
                 "name": "Miroslav Zajdák",
                 "role": "předseda"
             },
             {
                 "name": "Tomáš Havelka",
                 "role": "1. místopředseda"
-            },
-            {
-                "name": "Ing. Martin  Mach",
-                "role": "místopředseda"
             }
         ],
         "type": "party",
@@ -5350,48 +5308,36 @@
         "address": "110 00 Praha, Opletalova 1603/57",
         "people": [
             {
-                "name": "Markéta  Pekarová Adamová",
-                "role": "předsedkyně"
-            },
-            {
-                "name": "Miroslav Kalousek",
-                "role": "předseda Klubu poslanců"
-            },
-            {
-                "name": "Tomáš Czernin",
-                "role": "1. místopředseda"
-            },
-            {
-                "name": "Karel Schwarzenberg",
-                "role": "čestný předseda"
-            },
-            {
-                "name": "Petr Novotný",
-                "role": "předseda Klubu starostů TOP 09, z.s."
-            },
-            {
-                "name": "Luděk Niedermayer",
-                "role": "vedoucí národní delegace v poslaneckém klubu Evropského parlamentu"
+                "name": "Herbert Pavera",
+                "role": "místopředseda"
             },
             {
                 "name": "Jan Jakob",
                 "role": "místopředseda"
             },
             {
+                "name": "Karel Schwarzenberg",
+                "role": "čestný předseda"
+            },
+            {
+                "name": "Luděk Niedermayer",
+                "role": "vedoucí národní delegace v poslaneckém klubu Evropského parlamentu"
+            },
+            {
                 "name": "Lukáš Otys",
                 "role": "místopředseda"
             },
             {
-                "name": "Herbert Pavera",
-                "role": "místopředseda"
+                "name": "Markéta  Pekarová Adamová",
+                "role": "předsedkyně"
             },
             {
-                "name": "Vlastimil Válek",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Radovan Auer",
+                "name": "Michal Pilař",
                 "role": "člen předsednictva"
+            },
+            {
+                "name": "Miroslav Kalousek",
+                "role": "předseda Klubu poslanců"
             },
             {
                 "name": "Ondřej Kolář",
@@ -5402,12 +5348,24 @@
                 "role": "člen předsednictva"
             },
             {
-                "name": "Michal Pilař",
+                "name": "Petr Novotný",
+                "role": "předseda Klubu starostů TOP 09, z.s."
+            },
+            {
+                "name": "Radovan Auer",
                 "role": "člen předsednictva"
+            },
+            {
+                "name": "Tomáš Czernin",
+                "role": "1. místopředseda"
             },
             {
                 "name": "Tomáš Tesař",
                 "role": "člen předsednictva"
+            },
+            {
+                "name": "Vlastimil Válek",
+                "role": "místopředseda"
             }
         ],
         "type": "party",
@@ -5422,24 +5380,24 @@
         "address": "128 00 Praha, Na Moráni 360/3",
         "people": [
             {
-                "name": "PhDr. Ivan Bartoš, Ph.D.",
-                "role": "předseda"
-            },
-            {
-                "name": "PhDr. Olga Richterová, Ph.D.",
-                "role": "1.místopředsedkyně"
-            },
-            {
                 "name": "Bc. Vojtěch Pikal",
                 "role": "2. místopředseda"
+            },
+            {
+                "name": "Mgr. Martin Kučera",
+                "role": "4. místopředseda"
             },
             {
                 "name": "Mgr. Radek Holomčík",
                 "role": "3. místopředseda"
             },
             {
-                "name": "Mgr. Martin Kučera",
-                "role": "4. místopředseda"
+                "name": "PhDr. Ivan Bartoš, Ph.D.",
+                "role": "předseda"
+            },
+            {
+                "name": "PhDr. Olga Richterová, Ph.D.",
+                "role": "1.místopředsedkyně"
             }
         ],
         "type": "party",
@@ -5470,20 +5428,20 @@
         "address": "140 21 Praha, 5. května 1640/65",
         "people": [
             {
-                "name": "Petr  Havlík",
-                "role": "předseda"
-            },
-            {
-                "name": "Marcela Roche",
-                "role": "místopředsedkyně"
-            },
-            {
                 "name": "Ing. Libor Halman",
                 "role": "místopředseda"
             },
             {
                 "name": "Ivan Pilný",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Marcela Roche",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Petr  Havlík",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -5498,7 +5456,7 @@
         "address": "110 00 Praha, Václavské náměstí 846/1",
         "people": [
             {
-                "name": "Jana Vaňková",
+                "name": "Bohumil Veselý",
                 "role": "člen"
             },
             {
@@ -5506,11 +5464,11 @@
                 "role": "člen"
             },
             {
-                "name": "Josef Nový",
+                "name": "Jana Vaňková",
                 "role": "člen"
             },
             {
-                "name": "Bohumil Veselý",
+                "name": "Josef Nový",
                 "role": "člen"
             }
         ],
@@ -5526,32 +5484,8 @@
         "address": "534 01 Holice, náměstí T. G. Masaryka 24",
         "people": [
             {
-                "name": "Petr Bajer",
-                "role": "předseda"
-            },
-            {
-                "name": "Ladislav Linek",
-                "role": "1. místopředseda"
-            },
-            {
-                "name": "Petr Thaisz",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Ing. Jiří Hojgr",
                 "role": "místopředseda"
-            },
-            {
-                "name": "RNDr. Otto Jarolímek",
-                "role": "člen"
-            },
-            {
-                "name": "Jan Baránek",
-                "role": "člen"
-            },
-            {
-                "name": "Petr Jurča",
-                "role": "člen"
             },
             {
                 "name": "Ing. Míchal Dvouletý",
@@ -5559,6 +5493,30 @@
             },
             {
                 "name": "Ivana  Snítilová",
+                "role": "člen"
+            },
+            {
+                "name": "Jan Baránek",
+                "role": "člen"
+            },
+            {
+                "name": "Ladislav Linek",
+                "role": "1. místopředseda"
+            },
+            {
+                "name": "Petr Bajer",
+                "role": "předseda"
+            },
+            {
+                "name": "Petr Jurča",
+                "role": "člen"
+            },
+            {
+                "name": "Petr Thaisz",
+                "role": "místopředseda"
+            },
+            {
+                "name": "RNDr. Otto Jarolímek",
                 "role": "člen"
             }
         ],
@@ -5590,11 +5548,7 @@
         "address": "120 00 Praha, Perucká 2196/14",
         "people": [
             {
-                "name": "Mgr. Libor Vondráček",
-                "role": "předseda"
-            },
-            {
-                "name": "Jan Dočekal",
+                "name": "Ing. Alois Sečkár",
                 "role": "místopředseda"
             },
             {
@@ -5602,11 +5556,15 @@
                 "role": "místopředseda"
             },
             {
-                "name": "Mgr. Luboš Zálom",
+                "name": "Jan Dočekal",
                 "role": "místopředseda"
             },
             {
-                "name": "Ing. Alois Sečkár",
+                "name": "Mgr. Libor Vondráček",
+                "role": "předseda"
+            },
+            {
+                "name": "Mgr. Luboš Zálom",
                 "role": "místopředseda"
             }
         ],
@@ -5674,20 +5632,20 @@
         "address": "263 01 Dobříš, U Ovčína 1452",
         "people": [
             {
-                "name": "Milan Tichý",
-                "role": "předseda"
-            },
-            {
-                "name": "JUDr. Jaroslav Musil",
-                "role": "místopředseda"
+                "name": "Dagmar  Drncová",
+                "role": "člen předsednictva"
             },
             {
                 "name": "Ing. Jiří Šebek",
                 "role": "člen předsednictva"
             },
             {
-                "name": "Dagmar  Drncová",
-                "role": "člen předsednictva"
+                "name": "JUDr. Jaroslav Musil",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Milan Tichý",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -5706,12 +5664,12 @@
                 "role": "předseda"
             },
             {
-                "name": "RNDr. Václav Šrámek",
-                "role": "1. místopředseda"
-            },
-            {
                 "name": "Jaroslav Čapek",
                 "role": "místopředseda"
+            },
+            {
+                "name": "RNDr. Václav Šrámek",
+                "role": "1. místopředseda"
             }
         ],
         "type": "party",
@@ -5726,12 +5684,12 @@
         "address": "403 40 Ústí nad Labem 86",
         "people": [
             {
-                "name": "Ing. David  Tirpák",
-                "role": "předseda"
-            },
-            {
                 "name": "Heřman  Král",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Ing. David  Tirpák",
+                "role": "předseda"
             },
             {
                 "name": "Mgr. Anna Vernerová",
@@ -5750,11 +5708,11 @@
         "address": "620 00 Brno, V aleji 263/105",
         "people": [
             {
-                "name": "JUDr. Anna Haisová",
-                "role": "předseda"
+                "name": "Anděla  Plevová",
+                "role": "člen"
             },
             {
-                "name": "Anděla  Plevová",
+                "name": "Emil Šibor",
                 "role": "člen"
             },
             {
@@ -5762,8 +5720,8 @@
                 "role": "člen"
             },
             {
-                "name": "Emil Šibor",
-                "role": "člen"
+                "name": "JUDr. Anna Haisová",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -5778,12 +5736,12 @@
         "address": "664 51 Šlapanice, Dlouhá 560/22",
         "people": [
             {
-                "name": "Ing. Jan Střechovský",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Andrea  Hudlíková",
                 "role": "člen"
+            },
+            {
+                "name": "Ing. Jan Střechovský",
+                "role": "předseda"
             },
             {
                 "name": "Mgr. Lubomír Konečný",
@@ -5818,6 +5776,10 @@
         "address": "400 01 Ústí nad Labem, Pařížská 538/19",
         "people": [
             {
+                "name": "Bc. Zuzana Jiříková",
+                "role": "členka"
+            },
+            {
                 "name": "Ing. Bronislav Schwarz",
                 "role": "předseda"
             },
@@ -5830,20 +5792,16 @@
                 "role": "místopředseda"
             },
             {
-                "name": "Lukas Wünsch",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Jaroslav Doubrava",
                 "role": "člen"
             },
             {
-                "name": "Radek Slavík",
-                "role": "člen"
+                "name": "Lukas Wünsch",
+                "role": "místopředseda"
             },
             {
-                "name": "Bc. Zuzana Jiříková",
-                "role": "členka"
+                "name": "Radek Slavík",
+                "role": "člen"
             }
         ],
         "type": "movement",
@@ -5858,26 +5816,6 @@
         "address": "463 34 Hrádek nad Nisou, Turistická 197",
         "people": [
             {
-                "name": "Martin  Půta",
-                "role": "předseda"
-            },
-            {
-                "name": "Lena Mlejnková",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "Mgr. Jan Berki, Ph. D.",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Mgr. Jiří Ulvr",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Jiří Černý",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Ing. Jan Sviták",
                 "role": "místopředseda"
             },
@@ -5886,11 +5824,31 @@
                 "role": "místopředseda"
             },
             {
+                "name": "Ing. Radek Lípa",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Jiří Černý",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Lena Mlejnková",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Martin  Půta",
+                "role": "předseda"
+            },
+            {
                 "name": "Mgr. Daniel David",
                 "role": "místopředseda"
             },
             {
-                "name": "Ing. Radek Lípa",
+                "name": "Mgr. Jan Berki, Ph. D.",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Jiří Ulvr",
                 "role": "místopředseda"
             }
         ],
@@ -5926,16 +5884,16 @@
                 "role": "předseda"
             },
             {
-                "name": "MUDr. Pavel Škapík",
-                "role": "místopředseda"
-            },
-            {
                 "name": "MUDr. Berenika Podzemská",
                 "role": "místopředseda"
             },
             {
                 "name": "MUDr. Jaroslav Žák",
                 "role": "člen"
+            },
+            {
+                "name": "MUDr. Pavel Škapík",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -5970,20 +5928,20 @@
         "address": "120 00 Praha, Ječná 529/29",
         "people": [
             {
-                "name": "Taťana Fischerová",
-                "role": "předseda"
-            },
-            {
                 "name": "Barbora Seifertová",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Monika Šatavová",
+                "role": "členka"
             },
             {
                 "name": "Ondřej  Louka",
                 "role": "člen"
             },
             {
-                "name": "Monika Šatavová",
-                "role": "členka"
+                "name": "Taťana Fischerová",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -6014,16 +5972,16 @@
         "address": "430 21 Chomutov, Nerudova 63/16",
         "people": [
             {
-                "name": "Petr  Kindermann",
-                "role": "předseda"
+                "name": "Anna Häcklová",
+                "role": "člen"
             },
             {
                 "name": "PaedDr. Marie Kindermannová",
                 "role": "místopředseda"
             },
             {
-                "name": "Anna Häcklová",
-                "role": "člen"
+                "name": "Petr  Kindermann",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -6053,10 +6011,6 @@
                 "role": "předseda"
             },
             {
-                "name": "PhDr. Šárka Zdeňková",
-                "role": "místopředsedkyně"
-            },
-            {
                 "name": "Ing. Ladislav Kos",
                 "role": "člen výboru"
             },
@@ -6065,16 +6019,20 @@
                 "role": "člen výboru"
             },
             {
-                "name": "Václav Tejkl",
-                "role": "člen výboru"
+                "name": "Mgr. Ivana Hovorková",
+                "role": "členka výboru"
+            },
+            {
+                "name": "PhDr. Šárka Zdeňková",
+                "role": "místopředsedkyně"
             },
             {
                 "name": "RNDr. Kateřina Zelenková",
                 "role": "členka výboru"
             },
             {
-                "name": "Mgr. Ivana Hovorková",
-                "role": "členka výboru"
+                "name": "Václav Tejkl",
+                "role": "člen výboru"
             }
         ],
         "type": "movement",
@@ -6109,11 +6067,11 @@
                 "role": "předseda"
             },
             {
-                "name": "Jiří  Bartoš",
+                "name": "František Petrtýl",
                 "role": "místopředseda"
             },
             {
-                "name": "František Petrtýl",
+                "name": "Jiří  Bartoš",
                 "role": "místopředseda"
             }
         ],
@@ -6145,12 +6103,12 @@
         "address": "390 02 Tábor, Husovo nám. 529/6",
         "people": [
             {
-                "name": "Mgr. Tibor Stano",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Zdeněk  Havlůj",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Tibor Stano",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -6259,16 +6217,16 @@
         "address": "400 01 Ústí nad Labem, Moskevská 1590/38",
         "people": [
             {
-                "name": "Ing. Josef Vejlupek",
-                "role": "předseda"
+                "name": "Bc. Juliána Provazníková",
+                "role": "hospodář"
             },
             {
                 "name": "Ing. Jiří Štesl",
                 "role": "místopředseda"
             },
             {
-                "name": "Bc. Juliána Provazníková",
-                "role": "hospodář"
+                "name": "Ing. Josef Vejlupek",
+                "role": "předseda"
             },
             {
                 "name": "Miroslav Salava",
@@ -6305,12 +6263,7 @@
         "reg_number": "VS-4739/SDR/1-2006",
         "reg_date": "2006-07-07",
         "address": "163 00 Praha, Španielova 1273/42",
-        "people": [
-            {
-                "name": "Platí od:  6/30/2015",
-                "role": "předseda"
-            }
-        ],
+        "people": [],
         "type": "movement",
         "is_active": false
     },
@@ -6327,12 +6280,12 @@
                 "role": "předsedkyně"
             },
             {
-                "name": "Zdeněk  Slába",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Soňa Toufarová",
                 "role": "pokladník"
+            },
+            {
+                "name": "Zdeněk  Slába",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -6347,16 +6300,16 @@
         "address": "565 01 Choceň, K. H. Borovského 672",
         "people": [
             {
-                "name": "Věra  Uhlířová",
-                "role": "předsedkyně"
-            },
-            {
                 "name": "David Šimek",
                 "role": "místopředseda"
             },
             {
                 "name": "Petr Hájek",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Věra  Uhlířová",
+                "role": "předsedkyně"
             }
         ],
         "type": "movement",
@@ -6371,15 +6324,15 @@
         "address": "466 01 Jablonec nad Nisou, Jarní 2970/14",
         "people": [
             {
+                "name": "MUDr. Jan  Brandejský",
+                "role": "Místopředseda"
+            },
+            {
                 "name": "Mgr. Jiří Rudolf",
                 "role": "Předseda"
             },
             {
                 "name": "PaedDr. František Vízek",
-                "role": "Místopředseda"
-            },
-            {
-                "name": "MUDr. Jan  Brandejský",
                 "role": "Místopředseda"
             }
         ],
@@ -6431,20 +6384,20 @@
                 "role": "předseda"
             },
             {
-                "name": "Tomáš Tožička",
-                "role": "místopředseda"
-            },
-            {
-                "name": "doc. PhDr. Olga Lomová",
-                "role": "místopředseda"
+                "name": "Milan  Smrž",
+                "role": "člen"
             },
             {
                 "name": "Mojmír  Koščo",
                 "role": "člen"
             },
             {
-                "name": "Milan  Smrž",
-                "role": "člen"
+                "name": "Tomáš Tožička",
+                "role": "místopředseda"
+            },
+            {
+                "name": "doc. PhDr. Olga Lomová",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -6463,12 +6416,12 @@
                 "role": "předseda"
             },
             {
-                "name": "PaedDr. Lubomír Mácha",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Jaroslava  Němcová",
                 "role": "vedoucí regionu Praha"
+            },
+            {
+                "name": "PaedDr. Lubomír Mácha",
+                "role": "místopředseda"
             }
         ],
         "type": "party",
@@ -6542,32 +6495,32 @@
         "address": "181 00 Praha, Dolákova 528/34",
         "people": [
             {
-                "name": "Zdenka Ulmannová",
-                "role": "předseda"
-            },
-            {
-                "name": "MUDr. Eva Báčová",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "Táňa  Šedivá",
-                "role": "místopředsedkyně"
+                "name": "Darina Neméthová",
+                "role": "členka"
             },
             {
                 "name": "Iveta Burgetová",
                 "role": "členka"
             },
             {
+                "name": "Lada Sitová",
+                "role": "členka"
+            },
+            {
+                "name": "MUDr. Eva Báčová",
+                "role": "místopředsedkyně"
+            },
+            {
                 "name": "Marika Kňavová",
                 "role": "členka"
             },
             {
-                "name": "Darina Neméthová",
-                "role": "členka"
+                "name": "Táňa  Šedivá",
+                "role": "místopředsedkyně"
             },
             {
-                "name": "Lada Sitová",
-                "role": "členka"
+                "name": "Zdenka Ulmannová",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -6598,16 +6551,16 @@
         "address": "637 00 Brno, Pivoňkova 530/11",
         "people": [
             {
+                "name": "Božena  Rosenbergová",
+                "role": "člen předsednictva"
+            },
+            {
                 "name": "Dr. Miroslav Lejsek",
                 "role": "předseda"
             },
             {
                 "name": "Ing. Luděk Pecho",
                 "role": "místopředseda"
-            },
-            {
-                "name": "Božena  Rosenbergová",
-                "role": "člen předsednictva"
             }
         ],
         "type": "movement",
@@ -6622,6 +6575,18 @@
         "address": "407 47 Varnsdorf, Národní  1133",
         "people": [
             {
+                "name": "František Kabát",
+                "role": "člen VR"
+            },
+            {
+                "name": "Jan Teichmann",
+                "role": "člen VR"
+            },
+            {
+                "name": "Kateřina Teichmannová",
+                "role": "místopředseda"
+            },
+            {
                 "name": "Ladislav Houžvička",
                 "role": "předseda"
             },
@@ -6630,19 +6595,7 @@
                 "role": "1. místopředseda"
             },
             {
-                "name": "Kateřina Teichmannová",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Zdeněk Janoušek",
-                "role": "člen VR"
-            },
-            {
-                "name": "František Kabát",
-                "role": "člen VR"
-            },
-            {
-                "name": "Jan Teichmann",
                 "role": "člen VR"
             }
         ],
@@ -6658,24 +6611,24 @@
         "address": "739 91 Jablunkov, Plk. Velebnovského 70",
         "people": [
             {
-                "name": "Mgr. Jan  Szotkowski",
-                "role": "předseda"
-            },
-            {
-                "name": "Václav Říha",
-                "role": "místopředseda"
+                "name": "Antonín Tomica",
+                "role": "člen"
             },
             {
                 "name": "Květoslava Landecká",
                 "role": "člen"
             },
             {
-                "name": "Antonín Tomica",
+                "name": "Martin Tomica",
                 "role": "člen"
             },
             {
-                "name": "Martin Tomica",
-                "role": "člen"
+                "name": "Mgr. Jan  Szotkowski",
+                "role": "předseda"
+            },
+            {
+                "name": "Václav Říha",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -6690,56 +6643,56 @@
         "address": "118 00 Praha, Malostranské náměstí  266/5",
         "people": [
             {
-                "name": "Vít Rakušan",
-                "role": "předseda"
-            },
-            {
                 "name": "Jan Farský",
                 "role": "1. místopředseda"
-            },
-            {
-                "name": "Petr Gazdík",
-                "role": "2. místopředseda"
-            },
-            {
-                "name": "Věra Kovářová",
-                "role": "3. místopředsedkyně"
-            },
-            {
-                "name": "Radim Sršeň",
-                "role": "4. místopředseda"
-            },
-            {
-                "name": "Petr Hlubuček",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Zdeněk Hraba",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Stanislav Polčák",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Lukáš Vlček",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Pavel Čížek",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Věslav Michalík",
-                "role": "člen předsednictva"
             },
             {
                 "name": "Jana Krutáková",
                 "role": "členka předsednictva"
             },
             {
+                "name": "Lukáš Vlček",
+                "role": "člen předsednictva"
+            },
+            {
                 "name": "Michaela Matoušková",
                 "role": "členka předsednictva"
+            },
+            {
+                "name": "Pavel Čížek",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Petr Gazdík",
+                "role": "2. místopředseda"
+            },
+            {
+                "name": "Petr Hlubuček",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Radim Sršeň",
+                "role": "4. místopředseda"
+            },
+            {
+                "name": "Stanislav Polčák",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Vít Rakušan",
+                "role": "předseda"
+            },
+            {
+                "name": "Věra Kovářová",
+                "role": "3. místopředsedkyně"
+            },
+            {
+                "name": "Věslav Michalík",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Zdeněk Hraba",
+                "role": "člen předsednictva"
             }
         ],
         "type": "movement",
@@ -6770,12 +6723,12 @@
         "address": "110 00 Praha, Ve Smečkách 597/32",
         "people": [
             {
-                "name": "Jiří Heller",
-                "role": "předseda"
-            },
-            {
                 "name": "Barbora Beníšková",
                 "role": "místopředsedkyně"
+            },
+            {
+                "name": "Jiří Heller",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -6790,12 +6743,12 @@
         "address": "772 00 Olomouc, Zámečnická 497/3A",
         "people": [
             {
-                "name": "Dr. Ing. Eva  Kriegrová",
-                "role": "předseda"
-            },
-            {
                 "name": "Dita Palaščáková",
                 "role": "místopředseda pro řízení"
+            },
+            {
+                "name": "Dr. Ing. Eva  Kriegrová",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -6893,12 +6846,12 @@
                 "role": "předseda"
             },
             {
-                "name": "Mgr. Leona Žáková",
-                "role": "první místopředsedkyně"
-            },
-            {
                 "name": "MUDr. Ladislav Šamlot",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Leona Žáková",
+                "role": "první místopředsedkyně"
             }
         ],
         "type": "movement",
@@ -6913,12 +6866,12 @@
         "address": "161 00 Praha, Ciolkovského 853/1",
         "people": [
             {
-                "name": "Tomáš Vandas",
-                "role": "předseda"
-            },
-            {
                 "name": "Jiří Štěpánek",
                 "role": "výkonný místopředseda"
+            },
+            {
+                "name": "Tomáš Vandas",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -6949,8 +6902,16 @@
         "address": "735 41 Petřvald, Dolní 706",
         "people": [
             {
+                "name": "Eva Zwyrteková",
+                "role": "člen představenstva"
+            },
+            {
                 "name": "Ing. Vladislav Novara",
                 "role": "předseda"
+            },
+            {
+                "name": "Lenka Havelková",
+                "role": "člen představenstva"
             },
             {
                 "name": "Pavlína Vojtěchová",
@@ -6961,19 +6922,11 @@
                 "role": "místopředseda"
             },
             {
-                "name": "Lenka Havelková",
-                "role": "člen představenstva"
-            },
-            {
-                "name": "Vladimír Slezák",
-                "role": "člen představenstva"
-            },
-            {
                 "name": "Stanislav Stadník",
                 "role": "člen představenstva"
             },
             {
-                "name": "Eva Zwyrteková",
+                "name": "Vladimír Slezák",
                 "role": "člen představenstva"
             }
         ],
@@ -6989,12 +6942,12 @@
         "address": "161 00 Praha 6, Ciolkovského  853",
         "people": [
             {
-                "name": "Tomáš Vandas",
-                "role": "předseda"
-            },
-            {
                 "name": "Jiří  Štěpánek",
                 "role": "1. místopředseda"
+            },
+            {
+                "name": "Tomáš Vandas",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -7084,24 +7037,20 @@
         "address": "431 11 Jirkov, Krušnohorská 1661",
         "people": [
             {
-                "name": "Platí od:",
-                "role": "předseda"
-            },
-            {
-                "name": "Renata Fotrová",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "MVDr. Pavel Klier",
-                "role": "člen"
+                "name": "Ing. Miroslava Neubertová",
+                "role": "členka"
             },
             {
                 "name": "Jiří  Sadílek",
                 "role": "člen"
             },
             {
-                "name": "Ing. Miroslava Neubertová",
-                "role": "členka"
+                "name": "MVDr. Pavel Klier",
+                "role": "člen"
+            },
+            {
+                "name": "Renata Fotrová",
+                "role": "místopředsedkyně"
             }
         ],
         "type": "party",
@@ -7116,8 +7065,24 @@
         "address": "140 00 Praha, Jaurisova 515/4",
         "people": [
             {
+                "name": "David Kádner",
+                "role": "místopředseda"
+            },
+            {
                 "name": "Ing. Jiří Kohout",
                 "role": "předseda"
+            },
+            {
+                "name": "Jan Ježovica",
+                "role": "místopředseda"
+            },
+            {
+                "name": "MUDr. Alice Čečilová",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "MUDr. Miroslav Malchar",
+                "role": "místopředseda"
             },
             {
                 "name": "Olga Havlová",
@@ -7126,22 +7091,6 @@
             {
                 "name": "Simona Chytrová",
                 "role": "místopředsedkyně"
-            },
-            {
-                "name": "MUDr. Alice Čečilová",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "Jan Ježovica",
-                "role": "místopředseda"
-            },
-            {
-                "name": "David Kádner",
-                "role": "místopředseda"
-            },
-            {
-                "name": "MUDr. Miroslav Malchar",
-                "role": "místopředseda"
             }
         ],
         "type": "party",
@@ -7156,6 +7105,10 @@
         "address": "140 00 Praha, Lounských 791/10",
         "people": [
             {
+                "name": "Dana Tichá",
+                "role": "členka předsednictva"
+            },
+            {
                 "name": "Eva  Štěpánková",
                 "role": "předsedkyně"
             },
@@ -7164,20 +7117,16 @@
                 "role": "místopředsedkyně"
             },
             {
+                "name": "Kateřina Schwarzová",
+                "role": "členka předsednictva"
+            },
+            {
                 "name": "Lukáš Kačmařík",
                 "role": "člen předsednictva"
             },
             {
                 "name": "Petr Heinzl",
                 "role": "člen předsednictva"
-            },
-            {
-                "name": "Kateřina Schwarzová",
-                "role": "členka předsednictva"
-            },
-            {
-                "name": "Dana Tichá",
-                "role": "členka předsednictva"
             }
         ],
         "type": "party",
@@ -7192,12 +7141,12 @@
         "address": "400 01 Ústí nad Labem, Vaníčkova 835/9",
         "people": [
             {
-                "name": "Mgr. Helena Kubcová",
-                "role": "předsedkyně"
-            },
-            {
                 "name": "Mgr. David Cihlář",
                 "role": "statutární místopředseda"
+            },
+            {
+                "name": "Mgr. Helena Kubcová",
+                "role": "předsedkyně"
             }
         ],
         "type": "party",
@@ -7212,20 +7161,20 @@
         "address": "272 04 Kladno, Vašíčkova 505",
         "people": [
             {
-                "name": "Pavel Krešne",
-                "role": "předseda"
-            },
-            {
-                "name": "Jiří Lebeda",
-                "role": "místopředseda"
+                "name": "Ivana  Červenková",
+                "role": "jednatel"
             },
             {
                 "name": "Jan  Kerula",
                 "role": "člen"
             },
             {
-                "name": "Ivana  Červenková",
-                "role": "jednatel"
+                "name": "Jiří Lebeda",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Pavel Krešne",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -7244,10 +7193,6 @@
                 "role": "geniální guvernér"
             },
             {
-                "name": "Petr Borka",
-                "role": "člen předsednictva"
-            },
-            {
                 "name": "Mgr. Ivan Fried",
                 "role": "člen předsednictva"
             },
@@ -7257,6 +7202,10 @@
             },
             {
                 "name": "Pavel Marek",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Petr Borka",
                 "role": "člen předsednictva"
             }
         ],
@@ -7288,12 +7237,12 @@
         "address": "158 00 Praha - Košíře, Jinonická  804/80",
         "people": [
             {
-                "name": "Pavel  Weiss",
-                "role": "předseda"
-            },
-            {
                 "name": "Derek Pilous",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Pavel  Weiss",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -7328,20 +7277,20 @@
         "address": "118 00 Praha, Saská 520/3",
         "people": [
             {
-                "name": "JUD. Vladimír Hruška",
-                "role": "předseda"
+                "name": "Alena  Šimková",
+                "role": "člen výboru"
             },
             {
                 "name": "Hana Sieglová",
                 "role": "člen výboru"
             },
             {
-                "name": "Alena  Šimková",
+                "name": "Ing. arch. Jitka Veselá",
                 "role": "člen výboru"
             },
             {
-                "name": "Ing. arch. Jitka Veselá",
-                "role": "člen výboru"
+                "name": "JUD. Vladimír Hruška",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -7372,12 +7321,12 @@
         "address": "110 00 Praha, Na poříčí 1041/12",
         "people": [
             {
-                "name": "PhDr. Monika  Pajerová",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing., MUDr. Petr Fiala",
                 "role": "místopředseda"
+            },
+            {
+                "name": "PhDr. Monika  Pajerová",
+                "role": "předseda"
             },
             {
                 "name": "PhDr. Slavomil Hubálek",
@@ -7396,20 +7345,24 @@
         "address": "150 00 Praha, Švédská 1538/22",
         "people": [
             {
-                "name": "Jiří Lobkowicz",
-                "role": "předseda"
-            },
-            {
-                "name": "Helena  Frankenbergerová",
-                "role": "1. místopředseda"
+                "name": "Bořek Severa",
+                "role": "člen VR"
             },
             {
                 "name": "František  Bachan",
                 "role": "člen VR"
             },
             {
+                "name": "Helena  Frankenbergerová",
+                "role": "1. místopředseda"
+            },
+            {
                 "name": "Jiří Eisenvort",
                 "role": "člen VR"
+            },
+            {
+                "name": "Jiří Lobkowicz",
+                "role": "předseda"
             },
             {
                 "name": "Kateřina Poslední",
@@ -7417,10 +7370,6 @@
             },
             {
                 "name": "Václav Prokůpek",
-                "role": "člen VR"
-            },
-            {
-                "name": "Bořek Severa",
                 "role": "člen VR"
             }
         ],
@@ -7476,16 +7425,16 @@
         "address": "460 01 Liberec, Dr. Milady Horákové 339/12",
         "people": [
             {
-                "name": "Jaroslav Kotrman",
-                "role": "úřadující místopředseda"
+                "name": "David  Hrubec",
+                "role": "člen předsednictva"
             },
             {
                 "name": "Ing. Jana  Filipová",
                 "role": "člen předsednictva"
             },
             {
-                "name": "David  Hrubec",
-                "role": "člen předsednictva"
+                "name": "Jaroslav Kotrman",
+                "role": "úřadující místopředseda"
             },
             {
                 "name": "Ján Chimal",
@@ -7528,23 +7477,11 @@
         "address": "530 21 Pardubice, Pernštýnské náměstí 117",
         "people": [
             {
-                "name": "René  Živný",
-                "role": "předseda"
-            },
-            {
-                "name": "Zdeňka Marková",
-                "role": "1.místopředsedkyně"
-            },
-            {
-                "name": "Stanislav Boloňský",
-                "role": "2. místopředseda"
-            },
-            {
-                "name": "Pavel Prejda",
+                "name": "Jiří Witzany",
                 "role": "člen"
             },
             {
-                "name": "Jiří Witzany",
+                "name": "Pavel Prejda",
                 "role": "člen"
             },
             {
@@ -7554,6 +7491,18 @@
             {
                 "name": "Petr Řezníček",
                 "role": "člen"
+            },
+            {
+                "name": "René  Živný",
+                "role": "předseda"
+            },
+            {
+                "name": "Stanislav Boloňský",
+                "role": "2. místopředseda"
+            },
+            {
+                "name": "Zdeňka Marková",
+                "role": "1.místopředsedkyně"
             }
         ],
         "type": "party",
@@ -7627,16 +7576,16 @@
         "address": "252 25 Jinočany, Náměstí 5. května 24",
         "people": [
             {
-                "name": "Stanislav Brázda",
-                "role": "předseda NH"
+                "name": "Kateřina Kocevová",
+                "role": "člen RVNH"
             },
             {
                 "name": "Libor  Paskovský",
                 "role": "místopředseda NH"
             },
             {
-                "name": "Kateřina Kocevová",
-                "role": "člen RVNH"
+                "name": "Stanislav Brázda",
+                "role": "předseda NH"
             }
         ],
         "type": "movement",
@@ -7649,12 +7598,7 @@
         "reg_number": "VS/1-1/4424/1999",
         "reg_date": "1999-09-01",
         "address": "180 00 Praha, Primátorská 296/38",
-        "people": [
-            {
-                "name": "Platí od:  8/1/2020",
-                "role": "předseda"
-            }
-        ],
+        "people": [],
         "type": "movement",
         "is_active": true
     },
@@ -7683,24 +7627,24 @@
         "address": "466 01 Jablonec nad Nisou, Skřivánčí 1982/26",
         "people": [
             {
-                "name": "Zbyněk Štěpán",
-                "role": "předseda"
-            },
-            {
-                "name": "Pavel Kruliš",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Jiří Richter",
                 "role": "člen předsednictva"
+            },
+            {
+                "name": "Lenka Štefanová-Křížková",
+                "role": "členka předsednictva"
             },
             {
                 "name": "Miroslav Frost",
                 "role": "člen předsednictva"
             },
             {
-                "name": "Lenka Štefanová-Křížková",
-                "role": "členka předsednictva"
+                "name": "Pavel Kruliš",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Zbyněk Štěpán",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -7751,16 +7695,16 @@
         "address": "434 01 Most, U Stadionu 1563/2",
         "people": [
             {
+                "name": "František Uhlíř",
+                "role": "manažer"
+            },
+            {
                 "name": "Ing. Luděk Traxmandl",
                 "role": "předseda"
             },
             {
                 "name": "Jaroslav Kozel",
                 "role": "místopředseda"
-            },
-            {
-                "name": "František Uhlíř",
-                "role": "manažer"
             }
         ],
         "type": "movement",
@@ -7791,12 +7735,12 @@
         "address": "678 01 Blansko, Svitavská 425/8",
         "people": [
             {
-                "name": "Mgr. Michal Král",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Pavel  Čípek",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Michal Král",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -7811,24 +7755,24 @@
         "address": "184 00 Praha , Hrušovanské nám. 1",
         "people": [
             {
-                "name": "Ing. Dalibor  Stejskal",
-                "role": "předseda"
+                "name": "Antonín  Matějka",
+                "role": "člen představenstva"
             },
             {
-                "name": "Miroslav Vokurka",
-                "role": "místopředseda"
+                "name": "Ing. Dalibor  Stejskal",
+                "role": "předseda"
             },
             {
                 "name": "Ing. Michael  Bohin",
                 "role": "člen představenstva"
             },
             {
-                "name": "Antonín  Matějka",
+                "name": "Jaroslava  Plevová",
                 "role": "člen představenstva"
             },
             {
-                "name": "Jaroslava  Plevová",
-                "role": "člen představenstva"
+                "name": "Miroslav Vokurka",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -7859,20 +7803,16 @@
         "address": "407 52 Varnsdorf 243",
         "people": [
             {
-                "name": "Ing. Vladimír Bartoň",
-                "role": "předseda"
+                "name": "Ilona Smítková",
+                "role": "člen ŘR"
             },
             {
                 "name": "Ing. Josef Hora",
                 "role": "místopředseda"
             },
             {
-                "name": "Mgr. Michal Dlask",
-                "role": "hlavní pokladník"
-            },
-            {
-                "name": "Ilona Smítková",
-                "role": "člen ŘR"
+                "name": "Ing. Vladimír Bartoň",
+                "role": "předseda"
             },
             {
                 "name": "Josef Zoser",
@@ -7885,6 +7825,10 @@
             {
                 "name": "Martin Louka",
                 "role": "člen ŘR"
+            },
+            {
+                "name": "Mgr. Michal Dlask",
+                "role": "hlavní pokladník"
             }
         ],
         "type": "movement",
@@ -7899,12 +7843,12 @@
         "address": "300 00 Plzeň, Na Mazinách 112/16",
         "people": [
             {
-                "name": "Ing. Vladimír Duchek, Ph.D.",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Jan  Anderle",
                 "role": "člen"
+            },
+            {
+                "name": "Ing. Vladimír Duchek, Ph.D.",
+                "role": "předseda"
             },
             {
                 "name": "Mgr. Stanislav Frank",
@@ -7923,19 +7867,19 @@
         "address": "460 01 Liberec , Štefánikovo nám.  780/5",
         "people": [
             {
-                "name": "Otto Gudas",
-                "role": "předseda"
-            },
-            {
                 "name": "Alena Kovačičová",
                 "role": "místopředseda"
             },
             {
-                "name": "Radek Haltuf",
+                "name": "Jaroslav Pavlas",
                 "role": "člen RPV"
             },
             {
-                "name": "Jaroslav Pavlas",
+                "name": "Otto Gudas",
+                "role": "předseda"
+            },
+            {
+                "name": "Radek Haltuf",
                 "role": "člen RPV"
             }
         ],
@@ -7951,16 +7895,16 @@
         "address": "500 03 Hradec Králové, Orlická 163/18",
         "people": [
             {
-                "name": "Mgr. Miroslav Půža, Ph.D.",
-                "role": "předseda"
-            },
-            {
                 "name": "JUDr. Jiří Všetečka",
                 "role": "člen výboru"
             },
             {
                 "name": "JUDr. Milena  Dušková",
                 "role": "členka výboru"
+            },
+            {
+                "name": "Mgr. Miroslav Půža, Ph.D.",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -7979,11 +7923,7 @@
                 "role": "předseda představenstva"
             },
             {
-                "name": "Ludvík Pavlištík",
-                "role": "místopředseda představenstva"
-            },
-            {
-                "name": "Mgr. Kateřina  Francová",
+                "name": "Jaromír Šebík",
                 "role": "člen"
             },
             {
@@ -7991,7 +7931,11 @@
                 "role": "člen"
             },
             {
-                "name": "Jaromír Šebík",
+                "name": "Ludvík Pavlištík",
+                "role": "místopředseda představenstva"
+            },
+            {
+                "name": "Mgr. Kateřina  Francová",
                 "role": "člen"
             }
         ],
@@ -8054,32 +7998,32 @@
         "address": "120 00 Praha, Římská 678/26",
         "people": [
             {
-                "name": "Zuzana  Bönischová",
-                "role": "předseda"
-            },
-            {
                 "name": "MUDr. Miroslav Beňo",
                 "role": "místopředseda"
-            },
-            {
-                "name": "RNDr. Čestmír Hofhanzl",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Mgr. Jan Kubalčík",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Martin Rejman",
-                "role": "kancléř"
             },
             {
                 "name": "MUDr. Roman Jech",
                 "role": "člen"
             },
             {
+                "name": "Martin Rejman",
+                "role": "kancléř"
+            },
+            {
+                "name": "Mgr. Jan Kubalčík",
+                "role": "místopředseda"
+            },
+            {
                 "name": "Nataša Šturmová",
                 "role": "člen"
+            },
+            {
+                "name": "RNDr. Čestmír Hofhanzl",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Zuzana  Bönischová",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -8094,12 +8038,12 @@
         "address": "120 00 Praha 2, Náměstí míru  9",
         "people": [
             {
-                "name": "Mgr. Jozef Wagner",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Jan Trhlík",
                 "role": "první místopředseda"
+            },
+            {
+                "name": "Mgr. Jozef Wagner",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -8130,16 +8074,36 @@
         "address": "120 00 Praha, Rumunská 1798/1",
         "people": [
             {
-                "name": "MVDr. Jan Černý",
-                "role": "předseda"
+                "name": "Bc. Martin  Vysoudil",
+                "role": "člen RV"
             },
             {
-                "name": "Mgr. Martin  Píša",
-                "role": "1. místopředseda"
+                "name": "František Vaněček",
+                "role": "místopředseda"
             },
             {
-                "name": "Mgr. Lenka Černá",
-                "role": "místopředsedkyně"
+                "name": "Ing. Ivan Dort",
+                "role": "člen VR"
+            },
+            {
+                "name": "Ing. Jan Mega",
+                "role": "člen RV"
+            },
+            {
+                "name": "Ing. Jaromír Barák",
+                "role": "člen RV"
+            },
+            {
+                "name": "Ing. Libor Picka",
+                "role": "člen RV"
+            },
+            {
+                "name": "Ing. Luboš Matek",
+                "role": "člen RV"
+            },
+            {
+                "name": "Ing. Miroslav Zábranský",
+                "role": "člen VR"
             },
             {
                 "name": "Ing. Ondřej Veselý",
@@ -8154,35 +8118,7 @@
                 "role": "místopředseda"
             },
             {
-                "name": "František Vaněček",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Ing. Ivan Dort",
-                "role": "člen VR"
-            },
-            {
-                "name": "Iva Mazíková",
-                "role": "člen VR"
-            },
-            {
-                "name": "Ing. Miroslav Zábranský",
-                "role": "člen VR"
-            },
-            {
-                "name": "MUDr. Karola Haasová",
-                "role": "člen VR"
-            },
-            {
-                "name": "Mgr. Tomáš  Jančařík",
-                "role": "člen VR"
-            },
-            {
-                "name": "Michael  Jankovič",
-                "role": "člen RV"
-            },
-            {
-                "name": "Mgr. Tomáš Kopecký",
+                "name": "Ing. Tomáš Trnobranský",
                 "role": "člen RV"
             },
             {
@@ -8190,27 +8126,11 @@
                 "role": "člen RV"
             },
             {
+                "name": "Iva Mazíková",
+                "role": "člen VR"
+            },
+            {
                 "name": "Ivan Kunetka",
-                "role": "člen RV"
-            },
-            {
-                "name": "Ing. Jan Mega",
-                "role": "člen RV"
-            },
-            {
-                "name": "Ing. Libor Picka",
-                "role": "člen RV"
-            },
-            {
-                "name": "Václav  Šíma",
-                "role": "člen RV"
-            },
-            {
-                "name": "Martin  Bohdálek",
-                "role": "člen RV"
-            },
-            {
-                "name": "Jiří Miroslav Knedlík",
                 "role": "člen RV"
             },
             {
@@ -8218,11 +8138,47 @@
                 "role": "člen RV"
             },
             {
-                "name": "Oldřich Ballák",
+                "name": "Jiří Miroslav Knedlík",
                 "role": "člen RV"
             },
             {
-                "name": "Ing. Jaromír Barák",
+                "name": "MUDr. Karola Haasová",
+                "role": "člen VR"
+            },
+            {
+                "name": "MVDr. Jan Černý",
+                "role": "předseda"
+            },
+            {
+                "name": "Martin  Bohdálek",
+                "role": "člen RV"
+            },
+            {
+                "name": "Mgr. Lenka Černá",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Mgr. Martin  Píša",
+                "role": "1. místopředseda"
+            },
+            {
+                "name": "Mgr. Tomáš  Jančařík",
+                "role": "člen VR"
+            },
+            {
+                "name": "Mgr. Tomáš Kopecký",
+                "role": "člen RV"
+            },
+            {
+                "name": "Mgr. Zuzana Peterová",
+                "role": "člen RV"
+            },
+            {
+                "name": "Michael  Jankovič",
+                "role": "člen RV"
+            },
+            {
+                "name": "Oldřich Ballák",
                 "role": "člen RV"
             },
             {
@@ -8230,23 +8186,11 @@
                 "role": "člen RV"
             },
             {
-                "name": "Ing. Luboš Matek",
-                "role": "člen RV"
-            },
-            {
-                "name": "Bc. Martin  Vysoudil",
-                "role": "člen RV"
-            },
-            {
-                "name": "Ing. Tomáš Trnobranský",
+                "name": "Václav  Šíma",
                 "role": "člen RV"
             },
             {
                 "name": "Zdeněk Renc",
-                "role": "člen RV"
-            },
-            {
-                "name": "Mgr. Zuzana Peterová",
                 "role": "člen RV"
             }
         ],
@@ -8278,15 +8222,15 @@
         "address": "128 00 Praha , Na slupi 5",
         "people": [
             {
+                "name": "Hynek Opolecký",
+                "role": "místopředseda"
+            },
+            {
                 "name": "Ing. Jan Tamáš",
                 "role": "předseda"
             },
             {
                 "name": "Jan Bednář",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Hynek Opolecký",
                 "role": "místopředseda"
             }
         ],
@@ -8334,12 +8278,12 @@
         "address": "Praha",
         "people": [
             {
-                "name": "Marek  Tomčala",
-                "role": "předseda"
-            },
-            {
                 "name": "Jana  Šebestová",
                 "role": "1. místopředseda"
+            },
+            {
+                "name": "Marek  Tomčala",
+                "role": "předseda"
             },
             {
                 "name": "Robert Snášel",
@@ -8358,12 +8302,12 @@
         "address": "Brno, Josefská 15",
         "people": [
             {
-                "name": "Ing. Lotar Indruch",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Ladislav Volf",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Ing. Lotar Indruch",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -8378,6 +8322,18 @@
         "address": "182 00 Praha, Štíbrova 1216/12",
         "people": [
             {
+                "name": "Antonín Mastík",
+                "role": "člen předsednictva ÚV"
+            },
+            {
+                "name": "Jindřich Skařupa",
+                "role": "člen předsednictva ÚV"
+            },
+            {
+                "name": "Jiří Grünbauer",
+                "role": "tajemník předsednictva ÚV"
+            },
+            {
                 "name": "Jiří Vábr",
                 "role": "generální tajemník"
             },
@@ -8386,8 +8342,16 @@
                 "role": "zástupce generálního tajemníka"
             },
             {
+                "name": "Ján Herák",
+                "role": "člen předsednictva ÚV"
+            },
+            {
                 "name": "Miroslav Holler",
                 "role": "člen předsednictva ÚV"
+            },
+            {
+                "name": "Roman Blaško",
+                "role": "jednatel"
             },
             {
                 "name": "Václav Novák",
@@ -8398,28 +8362,8 @@
                 "role": "člen předsednictva ÚV"
             },
             {
-                "name": "Jindřich Skařupa",
-                "role": "člen předsednictva ÚV"
-            },
-            {
-                "name": "Antonín Mastík",
-                "role": "člen předsednictva ÚV"
-            },
-            {
-                "name": "Ján Herák",
-                "role": "člen předsednictva ÚV"
-            },
-            {
-                "name": "Roman Blaško",
-                "role": "jednatel"
-            },
-            {
                 "name": "Věra Hollerová",
                 "role": "tajemnice předsednictva ÚV"
-            },
-            {
-                "name": "Jiří Grünbauer",
-                "role": "tajemník předsednictva ÚV"
             }
         ],
         "type": "party",
@@ -8445,20 +8389,20 @@
         "address": "České Budějovice, 0",
         "people": [
             {
-                "name": "PhDr. Jaromír  Procházka",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Roman  Skočdopole",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Jiří Milisdörfer",
+                "role": "jednatel"
             },
             {
                 "name": "Miroslav Pokorný",
                 "role": "pokladník"
             },
             {
-                "name": "Jiří Milisdörfer",
-                "role": "jednatel"
+                "name": "PhDr. Jaromír  Procházka",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -8473,19 +8417,11 @@
         "address": "709 00 Ostrava, Raisova 1066/6",
         "people": [
             {
-                "name": "Mgr. Patrik Hujdus",
-                "role": "předseda"
-            },
-            {
-                "name": "Ing. arch. Liana Janáčková",
-                "role": "místopředsedkyně"
-            },
-            {
                 "name": "Bc. Martin Polášek",
                 "role": "místopředseda"
             },
             {
-                "name": "Mgr. Miroslav Chlubna",
+                "name": "Ing. Karel Poukar",
                 "role": "člen RR"
             },
             {
@@ -8493,12 +8429,20 @@
                 "role": "člen RR"
             },
             {
+                "name": "Ing. arch. Liana Janáčková",
+                "role": "místopředsedkyně"
+            },
+            {
                 "name": "Jiří Lizák",
                 "role": "člen RR"
             },
             {
-                "name": "Ing. Karel Poukar",
+                "name": "Mgr. Miroslav Chlubna",
                 "role": "člen RR"
+            },
+            {
+                "name": "Mgr. Patrik Hujdus",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -8513,20 +8457,20 @@
         "address": "110 00 Praha, Provaznická 400/9",
         "people": [
             {
-                "name": "Mgr. Michal Vostřez",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Miroslava Svitáková",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Michal Caban",
                 "role": "místopředseda"
             },
             {
                 "name": "MVDr. Alexandr Bulský",
                 "role": "člen RV"
+            },
+            {
+                "name": "Mgr. Michal Vostřez",
+                "role": "předseda"
+            },
+            {
+                "name": "Michal Caban",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -8541,23 +8485,23 @@
         "address": "Praha , 0",
         "people": [
             {
-                "name": "Miroslav Kulhavý",
-                "role": "předseda"
+                "name": "Ing. Miloš Jiřík",
+                "role": "člen VR"
             },
             {
                 "name": "Mgr. Mário  Faturík",
                 "role": "místopředseda"
             },
             {
-                "name": "Zuzana  Semelová",
-                "role": "člen VR"
-            },
-            {
-                "name": "Ing. Miloš Jiřík",
-                "role": "člen VR"
+                "name": "Miroslav Kulhavý",
+                "role": "předseda"
             },
             {
                 "name": "Václav  Zapp",
+                "role": "člen VR"
+            },
+            {
+                "name": "Zuzana  Semelová",
                 "role": "člen VR"
             }
         ],
@@ -8573,12 +8517,12 @@
         "address": "660 87 Brno, Malinovského náměstí 603/4",
         "people": [
             {
-                "name": "Tomáš Ingr",
-                "role": "předseda"
-            },
-            {
                 "name": "Petr Bystřický",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Tomáš Ingr",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -8675,10 +8619,6 @@
             {
                 "name": "Jaroslav  Vojtek",
                 "role": "předseda"
-            },
-            {
-                "name": "Platí od:  10/30/2019",
-                "role": "tajemník"
             }
         ],
         "type": "party",
@@ -8693,7 +8633,7 @@
         "address": "101 00 Praha, Přípotoční 869/19",
         "people": [
             {
-                "name": "RNDr. Milan  Neubert",
+                "name": "Andrej Bóna",
                 "role": "člen"
             },
             {
@@ -8701,15 +8641,11 @@
                 "role": "člen"
             },
             {
-                "name": "Andrej Bóna",
-                "role": "člen"
+                "name": "Markéta Juřicová",
+                "role": "členka"
             },
             {
                 "name": "Mikuláš Falber",
-                "role": "člen"
-            },
-            {
-                "name": "Vladimír Farana",
                 "role": "člen"
             },
             {
@@ -8717,12 +8653,16 @@
                 "role": "člen"
             },
             {
-                "name": "Vojtěch Roček",
+                "name": "RNDr. Milan  Neubert",
                 "role": "člen"
             },
             {
-                "name": "Markéta Juřicová",
-                "role": "členka"
+                "name": "Vladimír Farana",
+                "role": "člen"
+            },
+            {
+                "name": "Vojtěch Roček",
+                "role": "člen"
             }
         ],
         "type": "party",
@@ -8737,24 +8677,24 @@
         "address": "750 02 Přerov, Alšova 2891/2A",
         "people": [
             {
-                "name": "MUDr. Michal Chromec",
-                "role": "předseda"
-            },
-            {
-                "name": "Mgr. Tomáš Chromec",
-                "role": "1. místopředseda"
-            },
-            {
-                "name": "Mgr. Jiří  Sekyra",
-                "role": "2. místopředseda"
-            },
-            {
                 "name": "Bc. Jindřich  Bluma",
                 "role": "člen"
             },
             {
                 "name": "Jaroslav Mutl",
                 "role": "člen"
+            },
+            {
+                "name": "MUDr. Michal Chromec",
+                "role": "předseda"
+            },
+            {
+                "name": "Mgr. Jiří  Sekyra",
+                "role": "2. místopředseda"
+            },
+            {
+                "name": "Mgr. Tomáš Chromec",
+                "role": "1. místopředseda"
             }
         ],
         "type": "party",
@@ -8769,12 +8709,12 @@
         "address": "251 66 Mirošovice, Spojovací 78",
         "people": [
             {
-                "name": "Vladislav Svoboda",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Václav Kupka",
                 "role": "statutární místopředseda"
+            },
+            {
+                "name": "Vladislav Svoboda",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -8789,16 +8729,16 @@
         "address": "Praha",
         "people": [
             {
-                "name": "Stanislav Musil",
-                "role": "předseda"
-            },
-            {
                 "name": "Miroslav  Janatka",
                 "role": "člen představenstva"
             },
             {
                 "name": "RNDr. Mirko  Vaněček",
                 "role": "člen představenstva"
+            },
+            {
+                "name": "Stanislav Musil",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -8813,20 +8753,20 @@
         "address": "120 00 Praha, Mikovcova 476/10",
         "people": [
             {
-                "name": "Rudolf Baránek",
-                "role": "předseda"
+                "name": "Ing. Rostislav Senjuk",
+                "role": "první místopředseda"
             },
             {
                 "name": "Jiří  Novák",
                 "role": "předseda strany"
             },
             {
-                "name": "Ing. Rostislav Senjuk",
-                "role": "první místopředseda"
-            },
-            {
                 "name": "Josef Veselý",
                 "role": "výkonný místopředseda"
+            },
+            {
+                "name": "Rudolf Baránek",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -8879,24 +8819,16 @@
         "address": "120 00 Praha, Karlovo náměstí 317/5",
         "people": [
             {
+                "name": "Ing. Jan Bartošek",
+                "role": "místopředseda a předseda klubu poslanců"
+            },
+            {
                 "name": "Ing. Marian Jurečka",
                 "role": "předseda"
             },
             {
                 "name": "Ing. Petr Šilar",
                 "role": "předseda klubu senátorů"
-            },
-            {
-                "name": "Mgr. Šárka Jelínková",
-                "role": "1.místopředsedkyně"
-            },
-            {
-                "name": "Mgr. Petr Hladík",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Mgr. Tomáš Zdechovský",
-                "role": "místopředseda"
             },
             {
                 "name": "Mgr. Ondřej Benešík",
@@ -8907,8 +8839,16 @@
                 "role": "generální sekretář"
             },
             {
-                "name": "Ing. Jan Bartošek",
-                "role": "místopředseda a předseda klubu poslanců"
+                "name": "Mgr. Petr Hladík",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Tomáš Zdechovský",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Šárka Jelínková",
+                "role": "1.místopředsedkyně"
             }
         ],
         "type": "party",
@@ -8923,20 +8863,20 @@
         "address": "110 00 Praha, Rybná 716/24",
         "people": [
             {
-                "name": "RNDr. Radim Špaček",
-                "role": "předseda"
+                "name": "Dorry Sarkisjan",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Ing. Libor Novák",
+                "role": "člen předsednictva"
             },
             {
                 "name": "JUDr. Petr Krátký",
                 "role": "místopředseda"
             },
             {
-                "name": "Svatopluk Novotný",
-                "role": "český zemský hejtman"
-            },
-            {
-                "name": "MVDr. Jiří Čížek",
-                "role": "moravský zemský hejtman"
+                "name": "Jan Drnek",
+                "role": "člen předsednictva"
             },
             {
                 "name": "Jaroslav Vavříček",
@@ -8947,11 +8887,15 @@
                 "role": "člen předsednictva"
             },
             {
-                "name": "Matěj Čadil",
+                "name": "Luboš Samuel Tomek",
                 "role": "člen předsednictva"
             },
             {
-                "name": "Ing. Libor Novák",
+                "name": "MVDr. Jiří Čížek",
+                "role": "moravský zemský hejtman"
+            },
+            {
+                "name": "Matěj Čadil",
                 "role": "člen předsednictva"
             },
             {
@@ -8959,16 +8903,12 @@
                 "role": "člen předsednictva"
             },
             {
-                "name": "Dorry Sarkisjan",
-                "role": "člen předsednictva"
+                "name": "RNDr. Radim Špaček",
+                "role": "předseda"
             },
             {
-                "name": "Luboš Samuel Tomek",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Jan Drnek",
-                "role": "člen předsednictva"
+                "name": "Svatopluk Novotný",
+                "role": "český zemský hejtman"
             },
             {
                 "name": "Vojtěch Círus",
@@ -8987,31 +8927,19 @@
         "address": "110 00 Praha, Truhlářská 1106/9",
         "people": [
             {
-                "name": "prof. PhDr. Petr Fiala, Ph.D., LL.M.",
-                "role": "předseda"
+                "name": "Ing. Jan Zahradil",
+                "role": "předseda klubu poslanců EP"
             },
             {
                 "name": "Ing. Zbyněk  Stanjura",
                 "role": "1. místopředseda"
             },
             {
-                "name": "brig. gen. v.v. Mgr. Martin  Červíček",
-                "role": "předseda senátního klubu"
-            },
-            {
                 "name": "Ing. Zbyněk Stanjura",
                 "role": "předseda poslaneckého klubu"
             },
             {
-                "name": "Ing. Jan Zahradil",
-                "role": "předseda klubu poslanců EP"
-            },
-            {
                 "name": "Mgr. Martin  Baxa",
-                "role": "místopředseda"
-            },
-            {
-                "name": "RNDr. Miloš  Vystrčil",
                 "role": "místopředseda"
             },
             {
@@ -9021,6 +8949,18 @@
             {
                 "name": "RNDr. Alexandr  Vondra",
                 "role": "místopředseda"
+            },
+            {
+                "name": "RNDr. Miloš  Vystrčil",
+                "role": "místopředseda"
+            },
+            {
+                "name": "brig. gen. v.v. Mgr. Martin  Červíček",
+                "role": "předseda senátního klubu"
+            },
+            {
+                "name": "prof. PhDr. Petr Fiala, Ph.D., LL.M.",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -9098,39 +9038,15 @@
         "address": "110 00 Praha, Politických vězňů 1531/9",
         "people": [
             {
-                "name": "Vojtěch Filip",
-                "role": "předseda ÚV KSČM"
+                "name": "Dana Lysáková",
+                "role": "členka VV ÚV KSČM"
             },
             {
-                "name": "Petr Šimůnek",
-                "role": "1. místopředseda ÚV KSČM"
-            },
-            {
-                "name": "Stanislav Grospič",
-                "role": "místopředseda ÚV KSČM"
-            },
-            {
-                "name": "Václav Ort",
-                "role": "místopředseda ÚV KSČM"
-            },
-            {
-                "name": "Kateřina  Konečná",
-                "role": "místopředsedkyně ÚV KSČM"
+                "name": "Filip Zachariaš",
+                "role": "člen VV ÚV KSČM"
             },
             {
                 "name": "Jaroslav Procházka",
-                "role": "člen VV ÚV KSČM"
-            },
-            {
-                "name": "Václav Snopek",
-                "role": "člen VV ÚV KSČM"
-            },
-            {
-                "name": "Viktor Pázler",
-                "role": "člen VV ÚV KSČM"
-            },
-            {
-                "name": "Pavel Vodseďálek",
                 "role": "člen VV ÚV KSČM"
             },
             {
@@ -9138,31 +9054,23 @@
                 "role": "člen VV ÚV KSČM"
             },
             {
-                "name": "Filip Zachariaš",
+                "name": "Josef Číž",
                 "role": "člen VV ÚV KSČM"
             },
             {
-                "name": "Petr Žáček",
-                "role": "člen VV ÚV KSČM"
+                "name": "Kateřina  Konečná",
+                "role": "místopředsedkyně ÚV KSČM"
             },
             {
                 "name": "Ludvík Šulda",
                 "role": "člen VV ÚV KSČM"
             },
             {
-                "name": "Josef Číž",
-                "role": "člen VV ÚV KSČM"
+                "name": "Miloslava Vostrá",
+                "role": "členka VV ÚV KSČM"
             },
             {
                 "name": "Oleg Kalaš",
-                "role": "člen VV ÚV KSČM"
-            },
-            {
-                "name": "Zdeněk Ondráček",
-                "role": "člen VV ÚV KSČM"
-            },
-            {
-                "name": "Petr  Braný",
                 "role": "člen VV ÚV KSČM"
             },
             {
@@ -9170,12 +9078,44 @@
                 "role": "člen VV ÚV KSČM"
             },
             {
-                "name": "Dana Lysáková",
-                "role": "členka VV ÚV KSČM"
+                "name": "Pavel Vodseďálek",
+                "role": "člen VV ÚV KSČM"
             },
             {
-                "name": "Miloslava Vostrá",
-                "role": "členka VV ÚV KSČM"
+                "name": "Petr  Braný",
+                "role": "člen VV ÚV KSČM"
+            },
+            {
+                "name": "Petr Šimůnek",
+                "role": "1. místopředseda ÚV KSČM"
+            },
+            {
+                "name": "Petr Žáček",
+                "role": "člen VV ÚV KSČM"
+            },
+            {
+                "name": "Stanislav Grospič",
+                "role": "místopředseda ÚV KSČM"
+            },
+            {
+                "name": "Viktor Pázler",
+                "role": "člen VV ÚV KSČM"
+            },
+            {
+                "name": "Vojtěch Filip",
+                "role": "předseda ÚV KSČM"
+            },
+            {
+                "name": "Václav Ort",
+                "role": "místopředseda ÚV KSČM"
+            },
+            {
+                "name": "Václav Snopek",
+                "role": "člen VV ÚV KSČM"
+            },
+            {
+                "name": "Zdeněk Ondráček",
+                "role": "člen VV ÚV KSČM"
             }
         ],
         "type": "party",
@@ -9217,12 +9157,12 @@
         "address": "250 87 Mochov, 5. května 67",
         "people": [
             {
-                "name": "David  Kocour",
-                "role": "předseda"
-            },
-            {
                 "name": "Alena Mucková",
                 "role": "místopředseda"
+            },
+            {
+                "name": "David  Kocour",
+                "role": "předseda"
             },
             {
                 "name": "Luděk Hlinka",
@@ -9257,6 +9197,10 @@
         "address": "152 00 Praha, Klínecká 1224/14",
         "people": [
             {
+                "name": "Bc. Marcel Miška",
+                "role": "místopředseda"
+            },
+            {
                 "name": "Ing. František Laudát",
                 "role": "předseda"
             },
@@ -9266,10 +9210,6 @@
             },
             {
                 "name": "Ing. Miroslav Matějka",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Bc. Marcel Miška",
                 "role": "místopředseda"
             }
         ],
@@ -9351,16 +9291,12 @@
         "address": "110 00 Praha, Novotného lávka 200/5",
         "people": [
             {
-                "name": "Jiří  Křemen",
-                "role": "předseda"
-            },
-            {
                 "name": "JUDr. Vladimír Musílek",
                 "role": "1. místopředseda"
             },
             {
-                "name": "Miloš Kubík",
-                "role": "2. místopředseda"
+                "name": "Jiří  Křemen",
+                "role": "předseda"
             },
             {
                 "name": "Jiří Schwarzer",
@@ -9369,6 +9305,10 @@
             {
                 "name": "Mgr. Jan Pánek",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Miloš Kubík",
+                "role": "2. místopředseda"
             },
             {
                 "name": "Petr Pešek",
@@ -9407,12 +9347,12 @@
                 "role": "předseda"
             },
             {
-                "name": "doc. dr. Ján Liguš",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Julius Kolín",
                 "role": "tajemník"
+            },
+            {
+                "name": "doc. dr. Ján Liguš",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -9438,12 +9378,12 @@
         "address": "110 00 Praha, Klimentská 1209/14",
         "people": [
             {
-                "name": "Josef Žrout",
-                "role": "předseda"
-            },
-            {
                 "name": "Alena  Kabeláková",
                 "role": "člen"
+            },
+            {
+                "name": "Josef Žrout",
+                "role": "předseda"
             },
             {
                 "name": "Petra Kneditová",
@@ -9462,32 +9402,32 @@
         "address": "110 00 Praha, Rybná 716/24",
         "people": [
             {
-                "name": "RNDr. Jan Kubalčík, Ph.D.",
-                "role": "předseda"
-            },
-            {
-                "name": "Mgr. Ing. Michal Struha",
-                "role": "místopředseda"
+                "name": "Dušan Stuchlík",
+                "role": "člen předsednictva"
             },
             {
                 "name": "Ing. Jan Mega",
                 "role": "kancléř"
             },
             {
-                "name": "RNDr. Čestmír Hofhanzl",
-                "role": "člen předsednictva"
+                "name": "Ing. Kristina Holíková",
+                "role": "členka předsednictva"
             },
             {
                 "name": "Mgr. Cyril Modra",
                 "role": "člen předsednictva"
             },
             {
-                "name": "Dušan Stuchlík",
-                "role": "člen předsednictva"
+                "name": "Mgr. Ing. Michal Struha",
+                "role": "místopředseda"
             },
             {
-                "name": "Ing. Kristina Holíková",
-                "role": "členka předsednictva"
+                "name": "RNDr. Jan Kubalčík, Ph.D.",
+                "role": "předseda"
+            },
+            {
+                "name": "RNDr. Čestmír Hofhanzl",
+                "role": "člen předsednictva"
             }
         ],
         "type": "party",
@@ -9502,12 +9442,12 @@
         "address": "Brno, 0",
         "people": [
             {
-                "name": "Ilona Tůmová",
-                "role": "předseda"
-            },
-            {
                 "name": "Hana  Brožovská",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Ilona Tůmová",
+                "role": "předseda"
             },
             {
                 "name": "Miroslav Frayer",
@@ -9546,24 +9486,24 @@
         "address": "120 00 Praha, Trojická 437/20",
         "people": [
             {
-                "name": "Mgr. Marcela Kozerová",
-                "role": "předseda"
-            },
-            {
-                "name": "Miroslav Neubert",
-                "role": "1. místopředseda"
+                "name": "Ing. Alexej Weiss",
+                "role": "místopředseda"
             },
             {
                 "name": "Ing. Zdeněk Mašek, CSc.",
                 "role": "místopředseda"
             },
             {
-                "name": "Ing. Alexej Weiss",
-                "role": "místopředseda"
+                "name": "Mgr. Marcela Kozerová",
+                "role": "předseda"
             },
             {
                 "name": "Mgr. Miroslava Zatloukalová",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Miroslav Neubert",
+                "role": "1. místopředseda"
             }
         ],
         "type": "party",
@@ -9620,15 +9560,7 @@
         "address": "140 00 Praha, U Společenské zahrady 319/6",
         "people": [
             {
-                "name": "RNDr. Jiřina Nováková, CSc.",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Petr Bašík",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Mário Jaromír Císař",
                 "role": "místopředseda"
             },
             {
@@ -9636,8 +9568,16 @@
                 "role": "člen"
             },
             {
+                "name": "Mário Jaromír Císař",
+                "role": "místopředseda"
+            },
+            {
                 "name": "PhDr. Jakub Cháb",
                 "role": "člen"
+            },
+            {
+                "name": "RNDr. Jiřina Nováková, CSc.",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -9706,19 +9646,27 @@
         "address": "160 00 Praha, U Vorlíků 367/3",
         "people": [
             {
-                "name": "PhDr. Richard Knot",
-                "role": "předseda"
+                "name": "Jitka Krňanská",
+                "role": "členka"
+            },
+            {
+                "name": "Jiří Pop",
+                "role": "člen"
             },
             {
                 "name": "Jiří Skála",
                 "role": "první místopředseda"
             },
             {
-                "name": "Mgr. Jaroslav Pech",
+                "name": "Karel Neumann",
                 "role": "místopředseda"
             },
             {
-                "name": "Karel Neumann",
+                "name": "Mgr. Ivan  Laube",
+                "role": "člen"
+            },
+            {
+                "name": "Mgr. Jaroslav Pech",
                 "role": "místopředseda"
             },
             {
@@ -9726,20 +9674,12 @@
                 "role": "člen"
             },
             {
-                "name": "Mgr. Ivan  Laube",
-                "role": "člen"
-            },
-            {
-                "name": "Jiří Pop",
-                "role": "člen"
+                "name": "PhDr. Richard Knot",
+                "role": "předseda"
             },
             {
                 "name": "Václav Filip",
                 "role": "člen"
-            },
-            {
-                "name": "Jitka Krňanská",
-                "role": "členka"
             }
         ],
         "type": "party",
@@ -9785,20 +9725,20 @@
         "address": "130 00 Praha, náměstí Winstona Churchilla 1800/2",
         "people": [
             {
-                "name": "BcA. Michal Berg",
-                "role": "Spolupředseda"
-            },
-            {
-                "name": "Mgr. Magdaléna  Davis, Ph.D.",
-                "role": "Spolupředsedkyně"
-            },
-            {
                 "name": "Bc. Anna Gümplová",
                 "role": "1.místopředsedkyně"
             },
             {
                 "name": "Bc. Petr Globočník, DiS.",
                 "role": "2. místopředseda"
+            },
+            {
+                "name": "BcA. Michal Berg",
+                "role": "Spolupředseda"
+            },
+            {
+                "name": "Mgr. Magdaléna  Davis, Ph.D.",
+                "role": "Spolupředsedkyně"
             }
         ],
         "type": "party",
