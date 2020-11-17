@@ -297,7 +297,7 @@
         "address": "147 00 Praha, Mikuleckého 1311/8",
         "people": [],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "JSI PRO? Jistota Solidarita Investice pro budoucnost",
