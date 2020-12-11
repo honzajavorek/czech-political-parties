@@ -1,5 +1,16 @@
 [
     {
+        "name": "LIDÉ PRO",
+        "code": "LPRO",
+        "id": "09742719",
+        "reg_number": "MV-188904-2/OV-2020",
+        "reg_date": "2020-12-10",
+        "address": "101 00 Praha, Říčanská 2399/3",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "SENIOŘI 21",
         "code": "SENIOŘI",
         "id": "09607684",
@@ -82,24 +93,20 @@
         "address": "538 36 Žumberk 132",
         "people": [
             {
+                "name": "Barbora Doubková",
+                "role": "místopředsedkyně"
+            },
+            {
                 "name": "Bc. Petr Žampach",
                 "role": "předseda"
             },
             {
                 "name": "Ing. Milan Sýs, Ph.D.",
-                "role": "1. místopředseda"
-            },
-            {
-                "name": "Josef Ročeň",
                 "role": "místopředseda"
             },
             {
-                "name": "Martina Baťová",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "Martina Ročková",
-                "role": "místopředsedkyně"
+                "name": "Josef Ročeň",
+                "role": "1. místopředseda"
             }
         ],
         "type": "movement",
@@ -832,11 +839,11 @@
         "address": "625 00 Brno, Ukrajinská 544/17",
         "people": [
             {
-                "name": "Ivan Holoubek",
+                "name": "Ing. arch. Zdeněk Duřpekt",
                 "role": "místopředseda"
             },
             {
-                "name": "Mgr. Jiří Němec",
+                "name": "Ivan Holoubek",
                 "role": "místopředseda"
             },
             {
