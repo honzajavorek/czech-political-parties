@@ -1,5 +1,16 @@
 [
     {
+        "name": "OBČANSKÉ HNUTÍ",
+        "code": "OH",
+        "id": "09780734",
+        "reg_number": "MV-188862-4/OV-2020",
+        "reg_date": "2020-12-28",
+        "address": "101 00 Praha, Korunní 2569/108G",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "LIDÉ PRO",
         "code": "LPRO",
         "id": "09742719",
@@ -5909,7 +5920,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Demokracie",
