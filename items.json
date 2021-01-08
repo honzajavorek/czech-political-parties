@@ -3380,27 +3380,27 @@
         "is_active": true
     },
     {
-        "name": "evropani.cz",
-        "code": "evropani",
+        "name": "START21",
+        "code": "START",
         "id": "71443690",
         "reg_number": "MV-17186-4/VS-2014",
         "reg_date": "2014-02-12",
-        "address": "165 00 Praha, Vysokoškolská 522/5",
+        "address": "130 00 Praha, Korunní 1065/107",
         "people": [
             {
                 "name": "JUDr. Petr Jantač",
                 "role": "předseda"
             },
             {
-                "name": "Jana Vodrhánková",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "Josef Břečka",
+                "name": "Michal Hájek",
                 "role": "místopředseda"
             },
             {
                 "name": "Pavel Krnáč",
+                "role": "místopředseda"
+            },
+            {
+                "name": "PhDr. Mgr. Daniel Novopacký",
                 "role": "místopředseda"
             },
             {
