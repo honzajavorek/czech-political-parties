@@ -163,7 +163,28 @@
         "reg_number": "MV-90266-2/OV-2020",
         "reg_date": "2020-06-09",
         "address": "638 00 Brno, Soběšická 1472/128A",
-        "people": [],
+        "people": [
+            {
+                "name": "Andrea Suzovičová",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Jan Schneider",
+                "role": "člen"
+            },
+            {
+                "name": "Lukáš Karnet",
+                "role": "člen"
+            },
+            {
+                "name": "Veronika Nováková",
+                "role": "členka"
+            },
+            {
+                "name": "Vojtěch Vašák",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -9447,10 +9468,6 @@
             {
                 "name": "RNDr. Jan Kubalčík, Ph.D.",
                 "role": "předseda"
-            },
-            {
-                "name": "RNDr. Čestmír Hofhanzl",
-                "role": "člen předsednictva"
             }
         ],
         "type": "party",
