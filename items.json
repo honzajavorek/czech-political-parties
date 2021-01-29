@@ -621,7 +621,7 @@
         "id": "07289731",
         "reg_number": "MV-78356-2/VS-2018",
         "reg_date": "2018-07-16",
-        "address": "284 03 Kutná Hora, Starosedlecká 14",
+        "address": "284 01 Kutná Hora, Fučíkova 336/3",
         "people": [
             {
                 "name": "Daniela Závurková",
@@ -1899,7 +1899,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Česká národní fronta",
