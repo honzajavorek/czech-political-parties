@@ -3130,19 +3130,27 @@
         "id": "03016242",
         "reg_number": "MV-59511-5/VS-2014",
         "reg_date": "2014-05-21",
-        "address": "430 04 Chomutov, Březenecká 4689",
+        "address": "430 01 Chomutov, Chelčického 255",
         "people": [
+            {
+                "name": "David Dinda",
+                "role": "člen"
+            },
+            {
+                "name": "Ing. Miroslav Legner",
+                "role": "člen"
+            },
             {
                 "name": "Karel Lipmann",
                 "role": "předseda"
             },
             {
-                "name": "Mgr. Milan Štefanov",
+                "name": "Mgr. Milan Märc",
                 "role": "místopředseda"
             },
             {
-                "name": "PaedDr. Jan Micka",
-                "role": "člen"
+                "name": "Mgr. Milan Štefanov",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -4481,8 +4489,8 @@
         "is_active": false
     },
     {
-        "name": "Česká Suverenita",
-        "code": "ČS",
+        "name": "VOLNÝ blok - Česká suverenita",
+        "code": "VOLNÝ blok",
         "id": "71443240",
         "reg_number": "MV-2810-5/VS-2011",
         "reg_date": "2011-01-21",
