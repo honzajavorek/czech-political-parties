@@ -2813,8 +2813,8 @@
         "address": "360 06 Karlovy Vary, Chebská 355/49",
         "people": [
             {
-                "name": "JUDr. Hana  Zemanová",
-                "role": "členka"
+                "name": "JUDr. Hana Zakreničná",
+                "role": "místopředsedkyně"
             },
             {
                 "name": "Jakub Žikeš",
@@ -2825,12 +2825,8 @@
                 "role": "člen"
             },
             {
-                "name": "MUDr. Josef März",
-                "role": "předseda"
-            },
-            {
                 "name": "Miroslav Vaněk",
-                "role": "místopředseda"
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -3449,12 +3445,12 @@
         "address": "181 00 Praha, Řešovská 519/1",
         "people": [
             {
-                "name": "Jan Neuman",
-                "role": "člen"
+                "name": "Bc. Michal Švarc",
+                "role": "1. místopředseda"
             },
             {
-                "name": "Leoš Prokeš",
-                "role": "předseda"
+                "name": "Jan Neuman",
+                "role": "člen"
             },
             {
                 "name": "Mgr. Václav Šmíd",
@@ -3462,7 +3458,7 @@
             },
             {
                 "name": "Petr Duchek",
-                "role": "1. místopředseda"
+                "role": "předseda"
             }
         ],
         "type": "party",
