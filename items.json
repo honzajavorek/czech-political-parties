@@ -6,7 +6,16 @@
         "reg_number": "MV-188862-4/OV-2020",
         "reg_date": "2020-12-28",
         "address": "101 00 Praha, Korunní 2569/108G",
-        "people": [],
+        "people": [
+            {
+                "name": "Pavel Krejčí",
+                "role": "předseda"
+            },
+            {
+                "name": "Pavel Mašek",
+                "role": "místopředseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -1239,7 +1248,7 @@
         "address": "143 00 Praha, Na Cikorce 1607/18",
         "people": [],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Radostné Česko",
