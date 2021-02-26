@@ -4661,16 +4661,24 @@
         "is_active": false
     },
     {
-        "name": "Zdravé Hradiště",
-        "code": "ZH",
+        "name": "Švýcarská demokracie",
+        "code": "SVD",
         "id": "71443177",
         "reg_number": "MV-69200-5/VS-2010",
         "reg_date": "2010-07-21",
-        "address": "686 05 Uherské Hradiště, Sadová 893/4",
+        "address": "708 00 Ostrava, Alšovo náměstí 691/4",
         "people": [
             {
-                "name": "Petr Myslikovjan",
+                "name": "Bc. Igor Čech",
+                "role": "2. místopředseda"
+            },
+            {
+                "name": "Ing. Tomáš Raždík",
                 "role": "předseda"
+            },
+            {
+                "name": "Tomáš Šimko",
+                "role": "1. místopředseda"
             }
         ],
         "type": "movement",
