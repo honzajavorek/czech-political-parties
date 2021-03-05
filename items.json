@@ -1,5 +1,16 @@
 [
     {
+        "name": "Otevřeme Česko - Chcípl Pes",
+        "code": "OČCHP",
+        "id": "09983503",
+        "reg_number": "MV-27071-5/OV-2021",
+        "reg_date": "2021-03-04",
+        "address": "262 23 Jince, Eškova 33",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "DOST",
         "code": "DOST",
         "id": "09977023",
@@ -1526,12 +1537,12 @@
         "is_active": true
     },
     {
-        "name": "Občanská demokratická aliance",
-        "code": "ODA",
+        "name": "Aliance pro budoucnost",
+        "code": "APB",
         "id": "05402450",
         "reg_number": "MV-96933-7/VS-2016",
         "reg_date": "2016-09-19",
-        "address": "110 00 Praha, Masarykovo nábřeží 235/28",
+        "address": "140 00 Praha, Pacovská 2104/1",
         "people": [
             {
                 "name": "Ing. Jiří Staněk",
@@ -1550,12 +1561,12 @@
                 "role": "člen"
             },
             {
-                "name": "Zdeněk Somr",
+                "name": "Jiří Kudláček",
                 "role": "člen"
             },
             {
-                "name": "Zdeňka Kapičková",
-                "role": "členka"
+                "name": "Zdeněk Somr",
+                "role": "místopředseda"
             }
         ],
         "type": "party",
@@ -5628,11 +5639,11 @@
                 "role": "místopředseda"
             },
             {
-                "name": "Ing. David Pokorný",
+                "name": "Jan Dočekal",
                 "role": "místopředseda"
             },
             {
-                "name": "Jan Dočekal",
+                "name": "MUDr. Miroslav Havrda",
                 "role": "místopředseda"
             },
             {
