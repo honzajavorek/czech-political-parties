@@ -8596,7 +8596,7 @@
         "is_active": false
     },
     {
-        "name": "Moravané, pro zachování Moravy se při sčítání lidu 2021 opět přihlasme k moravské národnosti",
+        "name": "Moravané",
         "code": "Moravané",
         "id": "60556625",
         "reg_number": "II/s-OS/1-462/94",
@@ -8604,12 +8604,12 @@
         "address": "660 87 Brno, Malinovského náměstí 603/4",
         "people": [
             {
-                "name": "Petr Bystřický",
-                "role": "místopředseda"
+                "name": "MUDr. Ctirad Musil",
+                "role": "předseda"
             },
             {
-                "name": "Tomáš Ingr",
-                "role": "předseda"
+                "name": "Petr Bystřický",
+                "role": "místopředseda"
             }
         ],
         "type": "party",
