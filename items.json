@@ -17,7 +17,20 @@
         "reg_number": "MV-23724-4/OV-2021",
         "reg_date": "2021-03-03",
         "address": "196 00 Praha, Machnova 242/16",
-        "people": [],
+        "people": [
+            {
+                "name": "Jiří Miksa",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Miroslav Bušovský",
+                "role": "předseda"
+            },
+            {
+                "name": "Monika Bušovská",
+                "role": "místopředsedkyně"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -600,7 +613,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Naše Obec",
