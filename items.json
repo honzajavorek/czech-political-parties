@@ -1,5 +1,16 @@
 [
     {
+        "name": "PŘÍSAHA - občanské hnutí Roberta Šlachty",
+        "code": "PŘÍSAHA Roberta Šlachty",
+        "id": "10742409",
+        "reg_number": "MV- 54127-2/OV-2021",
+        "reg_date": "2021-04-08",
+        "address": "158 00 Praha, Sluneční náměstí 2583/11",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Otevřeme Česko - Chcípl Pes",
         "code": "OČCHP",
         "id": "09983503",
@@ -182,7 +193,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "ZA OBČANY",
@@ -363,12 +374,7 @@
         "reg_number": "MV-82512-4/VS-2019",
         "reg_date": "2019-06-25",
         "address": "118 00 Praha, Malostranské náměstí 5/28",
-        "people": [
-            {
-                "name": "Mgr. Václav Klaus",
-                "role": "předseda"
-            }
-        ],
+        "people": [],
         "type": "movement",
         "is_active": true
     },
