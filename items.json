@@ -265,7 +265,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Budoucnost",
@@ -2707,8 +2707,8 @@
                 "role": "člen"
             },
             {
-                "name": "Petr Rybín",
-                "role": "člen"
+                "name": "Petra Hilmarová",
+                "role": "členka"
             }
         ],
         "type": "movement",
@@ -4535,8 +4535,8 @@
         "is_active": false
     },
     {
-        "name": "VOLNÝ blok - Česká suverenita",
-        "code": "VOLNÝ blok",
+        "name": "VOLNÝ blok",
+        "code": "Volný blok",
         "id": "71443240",
         "reg_number": "MV-2810-5/VS-2011",
         "reg_date": "2011-01-21",
