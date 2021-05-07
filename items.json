@@ -1297,7 +1297,7 @@
         "id": "06339875",
         "reg_number": "MV-94196-4/VS-2017",
         "reg_date": "2017-08-10",
-        "address": "104 00 Praha, Saturnova 1197/1",
+        "address": "169 00 Praha, Rozýnova 2080/8",
         "people": [
             {
                 "name": "Boleslav Buzek",
@@ -4710,16 +4710,16 @@
         "address": "708 00 Ostrava, Alšovo náměstí 691/4",
         "people": [
             {
-                "name": "Bc. Igor Čech",
+                "name": "Ing. Mgr. Luděk Šarman",
                 "role": "2. místopředseda"
+            },
+            {
+                "name": "Ing. Mgr. Pynelopi  Cimprichová",
+                "role": "1.místopředsedkyně"
             },
             {
                 "name": "Ing. Tomáš Raždík",
                 "role": "předseda"
-            },
-            {
-                "name": "Tomáš Šimko",
-                "role": "1. místopředseda"
             }
         ],
         "type": "movement",
@@ -5442,10 +5442,6 @@
                 "role": "člen předsednictva"
             },
             {
-                "name": "Miroslav Kalousek",
-                "role": "předseda Klubu poslanců"
-            },
-            {
                 "name": "Ondřej Kolář",
                 "role": "člen předsednictva"
             },
@@ -5471,7 +5467,7 @@
             },
             {
                 "name": "Vlastimil Válek",
-                "role": "místopředseda"
+                "role": "předseda Klubu poslanců"
             }
         ],
         "type": "party",
