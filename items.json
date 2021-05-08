@@ -5467,7 +5467,7 @@
             },
             {
                 "name": "Vlastimil Válek",
-                "role": "předseda Klubu poslanců"
+                "role": "předseda Klubu poslanců a místopředseda"
             }
         ],
         "type": "party",
@@ -8739,7 +8739,11 @@
                 "role": "člen"
             },
             {
-                "name": "JUDr. Lubomír Ledl",
+                "name": "Antonín Hořčica",
+                "role": "člen"
+            },
+            {
+                "name": "František Otta",
                 "role": "člen"
             },
             {
@@ -8747,15 +8751,11 @@
                 "role": "členka"
             },
             {
-                "name": "Mikuláš Falber",
+                "name": "Martin Švec",
                 "role": "člen"
             },
             {
-                "name": "Petr Pávek",
-                "role": "člen"
-            },
-            {
-                "name": "RNDr. Milan  Neubert",
+                "name": "Tomáš Ulrich",
                 "role": "člen"
             },
             {
