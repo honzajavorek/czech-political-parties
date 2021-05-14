@@ -4489,7 +4489,7 @@
         "id": "71443274",
         "reg_number": "MV-75240-2/VS-2011",
         "reg_date": "2011-07-04",
-        "address": "120 00 Praha, Legerova 1854/22",
+        "address": "102 00 Praha, Chudenická 1059/30",
         "people": [
             {
                 "name": "JUDr. Karel Hais",
@@ -8735,15 +8735,15 @@
         "address": "101 00 Praha, Přípotoční 869/19",
         "people": [
             {
-                "name": "Andrej Bóna",
-                "role": "člen"
-            },
-            {
                 "name": "Antonín Hořčica",
                 "role": "člen"
             },
             {
                 "name": "František Otta",
+                "role": "člen"
+            },
+            {
+                "name": "Jiří Hudeček",
                 "role": "člen"
             },
             {
