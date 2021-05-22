@@ -374,7 +374,12 @@
         "reg_number": "MV-82512-4/VS-2019",
         "reg_date": "2019-06-25",
         "address": "118 00 Praha, Malostranské náměstí 5/28",
-        "people": [],
+        "people": [
+            {
+                "name": "Zuzana Majerová Zahradníková",
+                "role": "předsedkyně"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
