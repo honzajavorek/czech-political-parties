@@ -4131,7 +4131,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "ZVUK 12",
@@ -8966,20 +8966,12 @@
         "address": "110 00 Praha, Rybná 716/24",
         "people": [
             {
-                "name": "Dorry Sarkisjan",
-                "role": "člen předsednictva"
-            },
-            {
                 "name": "Ing. Libor Novák",
                 "role": "člen předsednictva"
             },
             {
                 "name": "JUDr. Petr Krátký",
                 "role": "místopředseda"
-            },
-            {
-                "name": "Jan Drnek",
-                "role": "člen předsednictva"
             },
             {
                 "name": "Jaroslav Vavříček",
@@ -9008,10 +9000,6 @@
             {
                 "name": "RNDr. Radim Špaček",
                 "role": "předseda"
-            },
-            {
-                "name": "Svatopluk Novotný",
-                "role": "český zemský hejtman"
             },
             {
                 "name": "Vojtěch Círus",
