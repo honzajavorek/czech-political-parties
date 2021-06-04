@@ -1,5 +1,16 @@
 [
     {
+        "name": "Občanský Manifest - Pravá Svoboda a Prosperita",
+        "code": "Manifest.cz",
+        "id": "10922202",
+        "reg_number": "MV-49205-4/OV-2021",
+        "reg_date": "2021-06-03",
+        "address": "741 01 Nový Jičín 1267/37",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "PŘÍSAHA - občanské hnutí Roberta Šlachty",
         "code": "PŘÍSAHA Roberta Šlachty",
         "id": "10742409",
@@ -368,8 +379,8 @@
         "is_active": true
     },
     {
-        "name": "Trikolóra hnutí občanů",
-        "code": "Trikolóra",
+        "name": "Trikolora Svobodní Soukromníci",
+        "code": "TSS",
         "id": "08288909",
         "reg_number": "MV-82512-4/VS-2019",
         "reg_date": "2019-06-25",
@@ -999,8 +1010,8 @@
         "is_active": true
     },
     {
-        "name": "Brněnští senioři",
-        "code": "BSen",
+        "name": "Pro Brno, starostové+",
+        "code": "BS",
         "id": "07195389",
         "reg_number": "MV-60585-2/VS-2018",
         "reg_date": "2018-06-07",
