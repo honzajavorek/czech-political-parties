@@ -33,13 +33,34 @@
         "is_active": true
     },
     {
-        "name": "Otevřeme Česko - Chcípl Pes",
-        "code": "OČCHP",
+        "name": "Otevřeme Česko normálnímu životu",
+        "code": "OtČe",
         "id": "09983503",
         "reg_number": "MV-27071-5/OV-2021",
         "reg_date": "2021-03-04",
         "address": "262 23 Jince, Eškova 33",
-        "people": [],
+        "people": [
+            {
+                "name": "Jakub Olbert",
+                "role": "předseda"
+            },
+            {
+                "name": "Jiří Janeček",
+                "role": "1. místopředseda"
+            },
+            {
+                "name": "Jiří Stuchlík",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Marcel Huml",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Radek Žďárecký",
+                "role": "místopředseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -521,24 +542,24 @@
         "address": "170 00 Praha, Dělnická 213/12",
         "people": [
             {
+                "name": "Daniel Chlad",
+                "role": "předseda"
+            },
+            {
                 "name": "Ing. Kateřina Novotná",
                 "role": "místopředsedkyně"
             },
             {
-                "name": "Ing. Petr Ježek",
+                "name": "Ing. Michal Ruman",
                 "role": "místopředseda"
             },
             {
-                "name": "JUDr. Pavel Telička",
-                "role": "předseda"
-            },
-            {
                 "name": "Mgr. Martin Převrátil",
-                "role": "2. místopředseda"
+                "role": "místopředseda"
             },
             {
-                "name": "PhDr. Mgr. Mona Nechvátalová",
-                "role": "1.místopředsedkyně"
+                "name": "Otto Sixtus Libal",
+                "role": "1. místopředseda"
             }
         ],
         "type": "movement",
