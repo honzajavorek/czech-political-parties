@@ -2056,7 +2056,7 @@
         "is_active": true
     },
     {
-        "name": "VOK - Volba pro kraj",
+        "name": "Volba pro kraj",
         "code": "VOK",
         "id": "04616421",
         "reg_number": "MV-169487-4/VS-2015",
@@ -2066,10 +2066,6 @@
             {
                 "name": "Ing. Michal  Soukup",
                 "role": "předseda"
-            },
-            {
-                "name": "Ing. Miloslav Vrána",
-                "role": "místopředseda"
             }
         ],
         "type": "movement",
