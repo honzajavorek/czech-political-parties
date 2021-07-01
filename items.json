@@ -1,5 +1,16 @@
 [
     {
+        "name": "Trikolora - spojená pravice",
+        "code": "Triko",
+        "id": "10997113",
+        "reg_number": "MV-102844-2/OV-2021",
+        "reg_date": "2021-06-30",
+        "address": "150 00 Praha, Janáčkovo nábřeží 476/43",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Fakt Brno",
         "code": "Fakt Brno",
         "id": "10954899",
@@ -2493,20 +2504,16 @@
         "address": "330 27 Vejprnice, Na Hruškách 1032",
         "people": [
             {
-                "name": "Doc. MUDr. Zdeněk Novotný, CSc.",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Ing. Jan Strobach",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Ing. Petr  Pešík",
-                "role": "místopředseda"
+                "name": "Doc. MUDr. Zdeněk  Novotný, CSc.",
+                "role": "1. místopředseda"
             },
             {
                 "name": "Jan Fischer",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Martina Šubrtová",
+                "role": "předsedkyně"
             }
         ],
         "type": "movement",
@@ -4746,8 +4753,8 @@
         "is_active": false
     },
     {
-        "name": "Švýcarská demokracie",
-        "code": "SVD",
+        "name": "Švýcarská demokracie (www.svycarska-demokracie.cz)",
+        "code": "Švýcarská demokracie",
         "id": "71443177",
         "reg_number": "MV-69200-5/VS-2010",
         "reg_date": "2010-07-21",
