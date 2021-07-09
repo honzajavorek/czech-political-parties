@@ -7630,14 +7630,6 @@
         "address": "530 21 Pardubice, Pernštýnské náměstí 117",
         "people": [
             {
-                "name": "Jiří Witzany",
-                "role": "člen"
-            },
-            {
-                "name": "Pavel Prejda",
-                "role": "člen"
-            },
-            {
                 "name": "Petr Dvořák",
                 "role": "člen"
             },
@@ -7651,11 +7643,11 @@
             },
             {
                 "name": "Stanislav Boloňský",
-                "role": "2. místopředseda"
+                "role": "člen"
             },
             {
                 "name": "Zdeňka Marková",
-                "role": "1.místopředsedkyně"
+                "role": "místopředsedkyně"
             }
         ],
         "type": "party",
