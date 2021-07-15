@@ -1,5 +1,16 @@
 [
     {
+        "name": "Strana národní svobody",
+        "code": "SNS",
+        "id": "11661704",
+        "reg_number": "MV-100439-4/OV-2021",
+        "reg_date": "2021-07-14",
+        "address": "284 03 Kutná Hora, U Nadjezdu 368",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "Trikolora - spojená pravice",
         "code": "Triko",
         "id": "10997113",
