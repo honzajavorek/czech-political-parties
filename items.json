@@ -50,7 +50,20 @@
         "reg_number": "MV- 54127-2/OV-2021",
         "reg_date": "2021-04-08",
         "address": "158 00 Praha, Sluneční náměstí 2583/11",
-        "people": [],
+        "people": [
+            {
+                "name": "Mgr. Jaroslav Pelc",
+                "role": "2. Místopředseda"
+            },
+            {
+                "name": "Mgr. Róbert Šlachta",
+                "role": "předseda"
+            },
+            {
+                "name": "Mgr. Tomáš Sochr",
+                "role": "1. Místopředseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -194,12 +207,12 @@
         "address": "411 56 Bohušovice nad Ohří, U Stadionu 297",
         "people": [
             {
-                "name": "Bc. Anna Voříšková",
-                "role": "výkonný tajemník"
-            },
-            {
                 "name": "Bc. Jan  Vondouš",
                 "role": "předseda"
+            },
+            {
+                "name": "Vlasta Kaulerová",
+                "role": "výkonný tajemník"
             }
         ],
         "type": "party",
@@ -1097,11 +1110,11 @@
         "people": [
             {
                 "name": "Ing. Lubomír Noga, Ph.D., MBA",
-                "role": "místopředseda"
+                "role": "předseda"
             },
             {
-                "name": "Mgr. Iveta Vojtěchovská",
-                "role": "předsedkyně"
+                "name": "Mgr. Kamil Horák",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -4554,7 +4567,7 @@
         "address": "102 00 Praha, Chudenická 1059/30",
         "people": [
             {
-                "name": "JUDr. Karel Hais",
+                "name": "Marek Adam",
                 "role": "1. místopředseda"
             },
             {
