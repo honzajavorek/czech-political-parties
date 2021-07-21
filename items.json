@@ -1,5 +1,29 @@
 [
     {
+        "name": "Urza.cz: Nechceme vaše hlasy; ke svobodě se nelze provolit. Odmítneme každou politickou funkci; nechceme totiž lidem nařizovat, jak mají žít. Máme jinou vizi. Jdeme jinou cestou - najdete ji na webu www.urza.cz",
+        "code": "Nevolte Urza.cz.",
+        "id": "11677309",
+        "reg_number": "MV-113572-2/OV-2021",
+        "reg_date": "2021-07-20",
+        "address": "272 01 Kladno, V Bažantnici 2654",
+        "people": [
+            {
+                "name": "Anna Honzíková",
+                "role": "členka"
+            },
+            {
+                "name": "Martin Urza",
+                "role": "člen"
+            },
+            {
+                "name": "Tereza Urzová",
+                "role": "členka"
+            }
+        ],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "Strana národní svobody",
         "code": "SNS",
         "id": "11661704",
