@@ -57,13 +57,42 @@
         "is_active": true
     },
     {
-        "name": "Občanský Manifest - Pravá Svoboda a Prosperita",
+        "name": "Manifest.cz - Pravá Svoboda a Prosperita",
         "code": "Manifest.cz",
         "id": "10922202",
         "reg_number": "MV-49205-4/OV-2021",
         "reg_date": "2021-06-03",
-        "address": "741 01 Nový Jičín, Hřbitovní 1267/37",
-        "people": [],
+        "address": "101 00 Praha, U vršovického nádraží 99/24",
+        "people": [
+            {
+                "name": "Alena Vokálková",
+                "role": "6. místopředseda"
+            },
+            {
+                "name": "David Tesař",
+                "role": "předseda"
+            },
+            {
+                "name": "Karen Pumrová",
+                "role": "3. místopředseda"
+            },
+            {
+                "name": "Lukáš Neterda",
+                "role": "2. místopředseda"
+            },
+            {
+                "name": "Lukáš Podlucký",
+                "role": "4. místopředseda"
+            },
+            {
+                "name": "Martin Kolenovský",
+                "role": "1. místopředseda"
+            },
+            {
+                "name": "Veronika Vágnerová",
+                "role": "5. místopředseda"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
@@ -251,8 +280,8 @@
         "address": "594 01 Velké Meziříčí, Markova 1964/4",
         "people": [
             {
-                "name": "Ing. Bc. Ivana Horká",
-                "role": "předsedkyně"
+                "name": "Bc. Aleš Horký",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -1644,7 +1673,7 @@
         "id": "05598966",
         "reg_number": "MV-153951-2/VS-2016",
         "reg_date": "2016-11-30",
-        "address": "130 00 Praha, Řehořova 992/10",
+        "address": "130 00 Praha, Seifertova 455/17",
         "people": [
             {
                 "name": "Jiří Masopust",
