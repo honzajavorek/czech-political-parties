@@ -216,16 +216,16 @@
         "address": "708 00 Ostrava, Slavíkova 1390/4",
         "people": [
             {
+                "name": "JUDr. Jaroslav  Pollák",
+                "role": "místopředseda"
+            },
+            {
                 "name": "JUDr. Jaroslav Šikula",
                 "role": "1. místopředseda"
             },
             {
                 "name": "Jaromír Fojtík",
                 "role": "předseda"
-            },
-            {
-                "name": "Milan Váňa",
-                "role": "místopředseda"
             },
             {
                 "name": "Miroslav Pitrof",
@@ -2191,10 +2191,6 @@
         "reg_date": "2015-10-23",
         "address": "621 00 Brno, Žitná 1475/5",
         "people": [
-            {
-                "name": "JUDr. Jaroslav Pollák",
-                "role": "místopředseda"
-            },
             {
                 "name": "JUDr. Jiří Doubek",
                 "role": "místopředseda"
