@@ -52,7 +52,16 @@
         "reg_number": "MV-83415-4/OV-2021",
         "reg_date": "2021-06-16",
         "address": "613 00 Brno, Merhautova 836/64",
-        "people": [],
+        "people": [
+            {
+                "name": "Bc. Marek Šoška",
+                "role": "tajemník hnutí"
+            },
+            {
+                "name": "Ing. David Pokorný",
+                "role": "lídr hnutí"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
