@@ -6882,12 +6882,20 @@
                 "role": "členka předsednictva"
             },
             {
+                "name": "Josef Suchánek",
+                "role": "člen předsednictva"
+            },
+            {
                 "name": "Lukáš Vlček",
                 "role": "člen předsednictva"
             },
             {
                 "name": "Michaela Matoušková",
                 "role": "členka předsednictva"
+            },
+            {
+                "name": "Miroslav Balatka",
+                "role": "člen předsednictva"
             },
             {
                 "name": "Pavel Čížek",
@@ -6902,12 +6910,8 @@
                 "role": "člen předsednictva"
             },
             {
-                "name": "Radim Sršeň",
-                "role": "4. místopředseda"
-            },
-            {
                 "name": "Stanislav Polčák",
-                "role": "člen předsednictva"
+                "role": "5. místopředseda"
             },
             {
                 "name": "Vít Rakušan",
@@ -6919,11 +6923,7 @@
             },
             {
                 "name": "Věslav Michalík",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Zdeněk Hraba",
-                "role": "člen předsednictva"
+                "role": "4. místopředseda"
             }
         ],
         "type": "movement",
