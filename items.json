@@ -643,15 +643,7 @@
                 "role": "předseda"
             },
             {
-                "name": "Ing. Kateřina Novotná",
-                "role": "místopředsedkyně"
-            },
-            {
                 "name": "Ing. Michal Ruman",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Mgr. Martin Převrátil",
                 "role": "místopředseda"
             },
             {
@@ -5696,10 +5688,6 @@
             },
             {
                 "name": "Jana Vaňková",
-                "role": "člen"
-            },
-            {
-                "name": "Josef Nový",
                 "role": "člen"
             }
         ],
