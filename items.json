@@ -4562,32 +4562,8 @@
         "address": "155 00 Praha, Radlická 505/58",
         "people": [
             {
-                "name": "Doc. PhDr. et PaedDr. Zbyněk Holub, Ph.D.",
-                "role": "místopředseda"
-            },
-            {
                 "name": "JUDr. Jaroslav Král",
                 "role": "předseda"
-            },
-            {
-                "name": "Lukáš Bouma",
-                "role": "člen"
-            },
-            {
-                "name": "PhDr. Lubomír Novotný",
-                "role": "člen"
-            },
-            {
-                "name": "PhDr. Vladimír Pelc",
-                "role": "člen"
-            },
-            {
-                "name": "Přemysl Votava",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Stanislav Vondráček",
-                "role": "místopředseda"
             }
         ],
         "type": "party",
