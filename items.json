@@ -6334,15 +6334,15 @@
         "address": "513 01 Semily, Riegrovo náměstí 16",
         "people": [
             {
+                "name": "Bc. Tereza Horáková",
+                "role": "členka"
+            },
+            {
                 "name": "Ing. Martin  Klodner",
                 "role": "předseda"
             },
             {
                 "name": "Ing. Zuzana  Klodnerová",
-                "role": "člen"
-            },
-            {
-                "name": "Monika Dolenská",
                 "role": "člen"
             }
         ],
@@ -9871,10 +9871,6 @@
         "reg_date": "1990-02-09",
         "address": "110 00 Praha, Hybernská 1033/7",
         "people": [
-            {
-                "name": "Jan Hamáček",
-                "role": "předseda"
-            },
             {
                 "name": "Roman Onderka",
                 "role": "statutární místopředseda"
