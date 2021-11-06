@@ -9217,10 +9217,6 @@
                 "role": "člen VV ÚV KSČM"
             },
             {
-                "name": "Ivan Bělohlávek",
-                "role": "člen VV ÚV KSČM"
-            },
-            {
                 "name": "Ivan Hrůza",
                 "role": "člen VV ÚV KSČM"
             },
@@ -9233,23 +9229,27 @@
                 "role": "člen VV ÚV KSČM"
             },
             {
+                "name": "Kateřina Konečná",
+                "role": "předsedkyně ÚV KSČM"
+            },
+            {
+                "name": "Leo Luzar",
+                "role": "místopředseda ÚV KSČM"
+            },
+            {
                 "name": "Ludvík Šulda",
                 "role": "člen VV ÚV KSČM"
+            },
+            {
+                "name": "Marie Pěnčíková",
+                "role": "místopředsedkyně ÚV KSČM"
             },
             {
                 "name": "Milan Krajča",
                 "role": "místopředseda ÚV KSČM"
             },
             {
-                "name": "Miloslava Vostrá",
-                "role": "členka VV ÚV KSČM"
-            },
-            {
                 "name": "Miroslav Kavij",
-                "role": "člen VV ÚV KSČM"
-            },
-            {
-                "name": "Pavel  Kováčik",
                 "role": "člen VV ÚV KSČM"
             },
             {
@@ -9265,27 +9265,19 @@
                 "role": "1. místopředseda ÚV KSČM"
             },
             {
-                "name": "Stanislav Grospič",
-                "role": "místopředseda ÚV KSČM"
-            },
-            {
-                "name": "Tomeš Vytiska",
-                "role": "člen VV ÚV KSČM"
-            },
-            {
-                "name": "Vojtěch Filip",
-                "role": "předseda ÚV KSČM"
-            },
-            {
                 "name": "Václav Ort",
-                "role": "místopředseda ÚV KSČM"
+                "role": "člen VV ÚV KSČM"
             },
             {
                 "name": "Václav Sloup",
                 "role": "člen VV ÚV KSČM"
             },
             {
-                "name": "Zdeněk Ondráček",
+                "name": "Václav Snopek",
+                "role": "člen VV ÚV KSČM"
+            },
+            {
+                "name": "Zdeněk Štefek",
                 "role": "člen VV ÚV KSČM"
             }
         ],
