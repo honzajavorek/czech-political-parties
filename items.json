@@ -2570,12 +2570,12 @@
         "is_active": false
     },
     {
-        "name": "NOVÁ PLZEŇ s Jiřím Strobachem",
-        "code": "NPJS",
+        "name": "NOVÁ PLZEŇ",
+        "code": "NOPL",
         "id": "03219208",
         "reg_number": "MV-92350-4/VS-2014",
         "reg_date": "2014-07-22",
-        "address": "330 27 Vejprnice, Na Hruškách 1032",
+        "address": "301 00 Plzeň, Otýlie Beníškové 339/1",
         "people": [
             {
                 "name": "Doc. MUDr. Zdeněk  Novotný, CSc.",
