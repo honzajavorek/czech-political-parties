@@ -896,7 +896,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Hnutí nezávislých, PRO-Kdyňsko",
@@ -1160,7 +1160,7 @@
         "id": "07174101",
         "reg_number": "MV-56551-4/VS-2018",
         "reg_date": "2018-05-31",
-        "address": "710 00 Ostrava, U Staré elektrárny 1881/2",
+        "address": "713 00 Ostrava, Koněvova 789/81",
         "people": [
             {
                 "name": "Ing. Lubomír Noga, Ph.D., MBA",
