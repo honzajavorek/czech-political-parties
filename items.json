@@ -6467,15 +6467,15 @@
         "address": "360 01 Karlovy Vary, Zámecký vrch 674/37",
         "people": [
             {
+                "name": "Adam Klsák",
+                "role": "pokladník"
+            },
+            {
                 "name": "Michaela Tůmová",
                 "role": "předsedkyně"
             },
             {
-                "name": "Soňa Toufarová",
-                "role": "pokladník"
-            },
-            {
-                "name": "Zdeněk  Slába",
+                "name": "Pavel Žemlička",
                 "role": "místopředseda"
             }
         ],
