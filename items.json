@@ -46,26 +46,6 @@
         "is_active": true
     },
     {
-        "name": "Fakt Brno",
-        "code": "Fakt Brno",
-        "id": "10954899",
-        "reg_number": "MV-83415-4/OV-2021",
-        "reg_date": "2021-06-16",
-        "address": "613 00 Brno, Merhautova 836/64",
-        "people": [
-            {
-                "name": "Bc. Marek Šoška",
-                "role": "tajemník hnutí"
-            },
-            {
-                "name": "Ing. David Pokorný",
-                "role": "lídr hnutí"
-            }
-        ],
-        "type": "movement",
-        "is_active": true
-    },
-    {
         "name": "Manifest.cz - Pravá Svoboda a Prosperita",
         "code": "Manifest.cz",
         "id": "10922202",
@@ -352,38 +332,6 @@
         "is_active": true
     },
     {
-        "name": "Hnutí Idealisté",
-        "code": "Idealisté",
-        "id": "09233229",
-        "reg_number": "MV-90266-2/OV-2020",
-        "reg_date": "2020-06-09",
-        "address": "638 00 Brno, Soběšická 1472/128A",
-        "people": [
-            {
-                "name": "Andrea Suzovičová",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "Jan Schneider",
-                "role": "člen"
-            },
-            {
-                "name": "Lukáš Karnet",
-                "role": "člen"
-            },
-            {
-                "name": "Veronika Nováková",
-                "role": "členka"
-            },
-            {
-                "name": "Vojtěch Vašák",
-                "role": "předseda"
-            }
-        ],
-        "type": "movement",
-        "is_active": true
-    },
-    {
         "name": "Alternativa pro nezávislé kandidáty 2020 - ANK 2020",
         "code": "ANK 2020",
         "id": "09227041",
@@ -631,30 +579,6 @@
         "is_active": true
     },
     {
-        "name": "HLAS",
-        "code": "Hlas",
-        "id": "07921331",
-        "reg_number": "MV-25390-2/VS-2019",
-        "reg_date": "2019-02-22",
-        "address": "170 00 Praha, Dělnická 213/12",
-        "people": [
-            {
-                "name": "Daniel Chlad",
-                "role": "předseda"
-            },
-            {
-                "name": "Ing. Michal Ruman",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Otto Sixtus Libal",
-                "role": "1. místopředseda"
-            }
-        ],
-        "type": "movement",
-        "is_active": true
-    },
-    {
         "name": "Evropa společně",
         "code": "ESO",
         "id": "07882467",
@@ -869,46 +793,6 @@
             {
                 "name": "Vladimír Diviš",
                 "role": "místopředseda"
-            }
-        ],
-        "type": "movement",
-        "is_active": true
-    },
-    {
-        "name": "Hnutí 2018",
-        "code": "H2018",
-        "id": "07283202",
-        "reg_number": "MV-71489-4/VS-2018",
-        "reg_date": "2018-07-11",
-        "address": "350 02 Cheb, Blanická 166/20",
-        "people": [
-            {
-                "name": "Lukáš Hofrajtr",
-                "role": "člen"
-            },
-            {
-                "name": "Pavel Pagáč",
-                "role": "člen"
-            },
-            {
-                "name": "RNDr. Gabriela Licková, Ph.D.",
-                "role": "předsedkyně"
-            }
-        ],
-        "type": "movement",
-        "is_active": false
-    },
-    {
-        "name": "Hnutí nezávislých, PRO-Kdyňsko",
-        "code": "PRO-Kdyňsko",
-        "id": "07283652",
-        "reg_number": "MV-73180-4/VS-2018",
-        "reg_date": "2018-07-11",
-        "address": "345 06 Kdyně, Rýzmberská 702",
-        "people": [
-            {
-                "name": "Ing. Věra Říhová",
-                "role": "předsedkyně"
             }
         ],
         "type": "movement",
@@ -1392,30 +1276,6 @@
         ],
         "type": "movement",
         "is_active": true
-    },
-    {
-        "name": "Havířovský družstevník",
-        "code": "HD",
-        "id": "06576095",
-        "reg_number": "MV-115930-4/VS-2017",
-        "reg_date": "2017-11-02",
-        "address": "735 64 Havířov, Hornosušská 1041/2",
-        "people": [
-            {
-                "name": "Jana Zamrazilová",
-                "role": "členka"
-            },
-            {
-                "name": "Roman Kolodziej",
-                "role": "člen"
-            },
-            {
-                "name": "Václav Lolek",
-                "role": "člen"
-            }
-        ],
-        "type": "movement",
-        "is_active": false
     },
     {
         "name": "Tak jo!",
@@ -2161,30 +2021,6 @@
         "is_active": true
     },
     {
-        "name": "HNUTÍ OBČANŮ KRAJE",
-        "code": "HOK",
-        "id": "04537556",
-        "reg_number": "MV-128844-5/VS-2015",
-        "reg_date": "2015-11-04",
-        "address": "539 01 Hlinsko, Rataje 1008",
-        "people": [
-            {
-                "name": "Aleš Meloun",
-                "role": "předseda"
-            },
-            {
-                "name": "Petr Svoboda",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Renáta Plíšková",
-                "role": "místopředsedkyně"
-            }
-        ],
-        "type": "movement",
-        "is_active": false
-    },
-    {
         "name": "Národ Sobě",
         "code": "NáS",
         "id": "04510526",
@@ -2430,17 +2266,6 @@
         ],
         "type": "movement",
         "is_active": true
-    },
-    {
-        "name": "Hnutí občanů Prahy",
-        "code": "HOP",
-        "id": "03247856",
-        "reg_number": "MV-99060-4/VS-2014",
-        "reg_date": "2014-07-30",
-        "address": "186 00 Praha, Březinova 492/13",
-        "people": [],
-        "type": "movement",
-        "is_active": false
     },
     {
         "name": "Volyně v dolyně",
@@ -2858,26 +2683,6 @@
             {
                 "name": "Mgr. Vladislav Lipovský",
                 "role": "člen"
-            }
-        ],
-        "type": "movement",
-        "is_active": true
-    },
-    {
-        "name": "Frýdečané a Místečané",
-        "code": "FraM",
-        "id": "03168786",
-        "reg_number": "MV-66587-4/VS-2014",
-        "reg_date": "2014-07-03",
-        "address": "738 01 Frýdek-Místek, F. Čejky 434",
-        "people": [
-            {
-                "name": "Ing. Ludmila Buzková",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "PhDr. Zdeněk Stolař",
-                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -4111,22 +3916,6 @@
         "is_active": false
     },
     {
-        "name": "Hnutí FAIR PLAY",
-        "code": "HnutiFairPlay.cz",
-        "id": "71443479",
-        "reg_number": "MV-83873-4/VS-2012",
-        "reg_date": "2012-08-03",
-        "address": "106 00 Praha, Žirovnická 3133/6",
-        "people": [
-            {
-                "name": "Mgr. Filip Sedlák",
-                "role": "předseda"
-            }
-        ],
-        "type": "party",
-        "is_active": true
-    },
-    {
         "name": "Volba lidu 21.století",
         "code": "VL21",
         "id": "71443461",
@@ -4908,30 +4697,6 @@
         "is_active": false
     },
     {
-        "name": "Hnutí O co jim jde?!",
-        "code": "OCJJ",
-        "id": "71340017",
-        "reg_number": "MV-64740-6/VS-2010",
-        "reg_date": "2010-07-13",
-        "address": "360 01 Karlovy Vary, Plzeňská 1428/105",
-        "people": [
-            {
-                "name": "Ing. Otmar Homolka",
-                "role": "předseda"
-            },
-            {
-                "name": "Jaroslav Fujdiar",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Mgr. Jindřich  Čermák",
-                "role": "pokladník"
-            }
-        ],
-        "type": "movement",
-        "is_active": true
-    },
-    {
         "name": "Pražané za svá práva",
         "code": "PP",
         "id": "71340050",
@@ -4990,30 +4755,6 @@
             {
                 "name": "Miroslav Kotrč",
                 "role": "člen rady"
-            }
-        ],
-        "type": "movement",
-        "is_active": true
-    },
-    {
-        "name": "Hnutí nezávislých za všestranný rozvoj Slatiny",
-        "code": "HNVRS",
-        "id": "71339990",
-        "reg_number": "MV-63899-4/VS-2010",
-        "reg_date": "2010-06-29",
-        "address": "627 00 Brno, Tuřanka 1260/1",
-        "people": [
-            {
-                "name": "Ing. Václav Klajsner",
-                "role": "předseda"
-            },
-            {
-                "name": "Jan  Čech",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Miroslav Smutný",
-                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -6270,22 +6011,6 @@
         "is_active": true
     },
     {
-        "name": "HLAVU VZHŮRU - volební blok",
-        "code": "HLAVU VZHŮRU",
-        "id": "27038611",
-        "reg_number": "VS-5552/SDR/1-2006",
-        "reg_date": "2006-07-28",
-        "address": "109 00 Praha , Za Zahradami  391/9",
-        "people": [
-            {
-                "name": "Ing. Jana Bobošíková",
-                "role": "Předsedkyně"
-            }
-        ],
-        "type": "party",
-        "is_active": false
-    },
-    {
         "name": "MĚSTO I MLÁDEŽI",
         "code": "MIM",
         "id": "27038530",
@@ -6444,17 +6169,6 @@
                 "role": "místopředseda"
             }
         ],
-        "type": "movement",
-        "is_active": false
-    },
-    {
-        "name": "Hnutí LEPŠÍ ŘEPY",
-        "code": "HLŘ",
-        "id": "27038106",
-        "reg_number": "VS-4739/SDR/1-2006",
-        "reg_date": "2006-07-07",
-        "address": "163 00 Praha, Španielova 1273/42",
-        "people": [],
         "type": "movement",
         "is_active": false
     },
@@ -6734,30 +6448,6 @@
         "is_active": false
     },
     {
-        "name": "Folklor i Společnost",
-        "code": "FiS",
-        "id": "26986311",
-        "reg_number": "VS-8954/SDR/1-2004",
-        "reg_date": "2004-12-30",
-        "address": "637 00 Brno, Pivoňkova 530/11",
-        "people": [
-            {
-                "name": "Božena  Rosenbergová",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Dr. Miroslav Lejsek",
-                "role": "předseda"
-            },
-            {
-                "name": "Ing. Luděk Pecho",
-                "role": "místopředseda"
-            }
-        ],
-        "type": "movement",
-        "is_active": false
-    },
-    {
         "name": "Občanské demokratické hnutí",
         "code": "ODH",
         "id": "26679850",
@@ -6788,38 +6478,6 @@
             {
                 "name": "Zdeněk Janoušek",
                 "role": "člen VR"
-            }
-        ],
-        "type": "movement",
-        "is_active": false
-    },
-    {
-        "name": "Fair play - HNPD",
-        "code": "HNPD",
-        "id": "26673851",
-        "reg_number": "VS-6010/SDR/1-2004",
-        "reg_date": "2004-08-31",
-        "address": "739 91 Jablunkov, Plk. Velebnovského 70",
-        "people": [
-            {
-                "name": "Antonín Tomica",
-                "role": "člen"
-            },
-            {
-                "name": "Květoslava Landecká",
-                "role": "člen"
-            },
-            {
-                "name": "Martin Tomica",
-                "role": "člen"
-            },
-            {
-                "name": "Mgr. Jan  Szotkowski",
-                "role": "předseda"
-            },
-            {
-                "name": "Václav Říha",
-                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -6904,26 +6562,6 @@
         ],
         "type": "party",
         "is_active": false
-    },
-    {
-        "name": "Evropská strana důstojného stáří",
-        "code": "ESDS",
-        "id": "26668904",
-        "reg_number": "VS-5108/SDR/1-2004",
-        "reg_date": "2004-07-02",
-        "address": "110 00 Praha, Ve Smečkách 597/32",
-        "people": [
-            {
-                "name": "Barbora Beníšková",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "Jiří Heller",
-                "role": "předseda"
-            }
-        ],
-        "type": "party",
-        "is_active": true
     },
     {
         "name": "NEZÁVISLÁ VOLBA",
@@ -7154,22 +6792,6 @@
         "people": [
             {
                 "name": "Mgr. Petra Edelmannová",
-                "role": "předseda"
-            }
-        ],
-        "type": "party",
-        "is_active": false
-    },
-    {
-        "name": "Helax - Ostrava se baví",
-        "code": "HOB",
-        "id": "26600978",
-        "reg_number": "VS-4979/SDR/1-2002",
-        "reg_date": "2002-08-21",
-        "address": "702 00 Ostrava, Stodolní 876/8",
-        "people": [
-            {
-                "name": "Gabriela Zimermanová",
                 "role": "předseda"
             }
         ],
@@ -9148,42 +8770,6 @@
         ],
         "type": "party",
         "is_active": true
-    },
-    {
-        "name": "Hnutí angažovaných Romů",
-        "code": "HAR",
-        "id": "15271471",
-        "reg_number": "VSP/1-342/91",
-        "reg_date": "1991-01-30",
-        "address": "370 00 České Budějovice, Pražská 1",
-        "people": [
-            {
-                "name": "Juraj  Markovič",
-                "role": "předseda"
-            }
-        ],
-        "type": "movement",
-        "is_active": false
-    },
-    {
-        "name": "Hnutí 90",
-        "code": "H 90",
-        "id": null,
-        "reg_number": "VSP/1-3848/90",
-        "reg_date": "1991-01-24",
-        "address": "102 00 Praha, Azalková 1216/29",
-        "people": [
-            {
-                "name": "Ing. Pavel  Poláček, CSc.",
-                "role": "předseda"
-            },
-            {
-                "name": "MUDr. Zdeněk  Pinta",
-                "role": "1. místopředseda"
-            }
-        ],
-        "type": "movement",
-        "is_active": false
     },
     {
         "name": "Politická strana žen a matek Československa",
