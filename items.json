@@ -130,8 +130,8 @@
         "is_active": true
     },
     {
-        "name": "Otevřeme Česko normálnímu životu",
-        "code": "OtČe",
+        "name": "Chcípl PES",
+        "code": "Chcípl PES",
         "id": "09983503",
         "reg_number": "MV-27071-5/OV-2021",
         "reg_date": "2021-03-04",
@@ -3621,19 +3621,15 @@
         "people": [
             {
                 "name": "Bc. Michal Švarc",
-                "role": "1. místopředseda"
-            },
-            {
-                "name": "Jan Neuman",
                 "role": "člen"
             },
             {
-                "name": "Mgr. Václav Šmíd",
-                "role": "člen"
+                "name": "Jiří Vítek",
+                "role": "předseda"
             },
             {
                 "name": "Petr Duchek",
-                "role": "předseda"
+                "role": "1. místopředseda"
             }
         ],
         "type": "party",
@@ -3859,24 +3855,24 @@
         "address": "463 02 Liberec, Tolstého 279",
         "people": [
             {
-                "name": "Ing. Mgr. Petr Černý",
+                "name": "Jan Nový",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Jaroslava Nová",
+                "role": "1.místopředsedkyně"
+            },
+            {
+                "name": "Kateřina Klámrtová",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Pavel Klámrt",
                 "role": "předseda"
             },
             {
-                "name": "Martin Gumulák",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Michal Bezucha",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Petr Stanovský",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Tomáš Hnízdil",
-                "role": "1. místopředseda"
+                "name": "Vlasta Klámrtová",
+                "role": "místopředsedkyně"
             }
         ],
         "type": "party",
@@ -5317,7 +5313,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "VOLBA PRO KLADNO",
@@ -5511,8 +5507,20 @@
                 "role": "místopředseda"
             },
             {
+                "name": "Jakub Lepš",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Jan Jakob",
+                "role": "předseda Klubu poslanců"
+            },
+            {
                 "name": "Jan Jakob",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Jiří Blažek",
+                "role": "člen předsednictva"
             },
             {
                 "name": "Karel Schwarzenberg",
@@ -5523,15 +5531,23 @@
                 "role": "vedoucí národní delegace v poslaneckém klubu Evropského parlamentu"
             },
             {
-                "name": "Lukáš Otys",
-                "role": "místopředseda"
+                "name": "Lukáš Řádek",
+                "role": "člen předsednictva"
             },
             {
                 "name": "Markéta  Pekarová Adamová",
                 "role": "předsedkyně"
             },
             {
-                "name": "Michal Pilař",
+                "name": "Martin Chroust",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Michal Kučera",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Michal Vozobule",
                 "role": "člen předsednictva"
             },
             {
@@ -5539,11 +5555,7 @@
                 "role": "člen předsednictva"
             },
             {
-                "name": "Pavel Nalezený",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Petr Novotný",
+                "name": "Pavel Janda",
                 "role": "předseda Klubu starostů TOP 09, z.s."
             },
             {
@@ -5555,12 +5567,8 @@
                 "role": "1. místopředseda"
             },
             {
-                "name": "Tomáš Tesař",
-                "role": "člen předsednictva"
-            },
-            {
                 "name": "Vlastimil Válek",
-                "role": "předseda Klubu poslanců a místopředseda"
+                "role": "místopředseda"
             }
         ],
         "type": "party",
@@ -7440,7 +7448,7 @@
         "is_active": false
     },
     {
-        "name": "ROZUMNÍ – Petr Hannig – za spravedlnost a životní jistoty",
+        "name": "ROZUMNÍ",
         "code": "Rozumní",
         "id": "26585979",
         "reg_number": "VS-756/SDR/2002",
