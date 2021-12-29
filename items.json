@@ -1075,16 +1075,16 @@
         "address": "625 00 Brno, Ukrajinská 544/17",
         "people": [
             {
-                "name": "Ing. arch. Zdeněk Duřpekt",
-                "role": "místopředseda"
+                "name": "Jaroslav  Dittrich",
+                "role": "člen"
             },
             {
-                "name": "Ivan Holoubek",
-                "role": "místopředseda"
+                "name": "Mgr. Ing. Robert  Kotzian, Ph.D.",
+                "role": "předseda"
             },
             {
-                "name": "Petra Zapletalová",
-                "role": "předsedkyně"
+                "name": "Mgr. et Bc. Richard  Duřpekt, EFA",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -3080,16 +3080,16 @@
         "address": "613 00 Brno, Zemědělská 1714/72",
         "people": [
             {
-                "name": "Bc. Matěj  Hollan",
-                "role": "1. místopředseda"
-            },
-            {
                 "name": "Martin Freund",
                 "role": "2. místopředseda"
             },
             {
-                "name": "Mgr. Barbora Antonová",
-                "role": "předsedkyně"
+                "name": "Michal Sadílek",
+                "role": "1. místopředseda"
+            },
+            {
+                "name": "Petr Kalousek",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -9269,6 +9269,10 @@
                 "role": "1. místopředseda ÚV KSČM"
             },
             {
+                "name": "Tomeš Vytiska",
+                "role": "člen VV ÚV KSČM"
+            },
+            {
                 "name": "Václav Ort",
                 "role": "člen VV ÚV KSČM"
             },
@@ -9868,8 +9872,12 @@
         "address": "110 00 Praha, Hybernská 1033/7",
         "people": [
             {
-                "name": "Roman Onderka",
+                "name": "Igor Bruzl",
                 "role": "statutární místopředseda"
+            },
+            {
+                "name": "Michal Šmarda",
+                "role": "předseda"
             }
         ],
         "type": "party",
