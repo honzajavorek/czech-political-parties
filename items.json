@@ -822,10 +822,6 @@
         "address": "284 01 Kutná Hora, Fučíkova 336/3",
         "people": [
             {
-                "name": "Daniela Závurková",
-                "role": "členka"
-            },
-            {
                 "name": "Ing. Lukáš Jelínek",
                 "role": "člen"
             },
@@ -836,10 +832,6 @@
             {
                 "name": "Mgr. Tomáš Morawski",
                 "role": "předseda"
-            },
-            {
-                "name": "Václav Zimmermann",
-                "role": "člen"
             }
         ],
         "type": "movement",
