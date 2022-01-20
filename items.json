@@ -1293,11 +1293,15 @@
         "address": "380 01 Dačice, Na Vyhlídce 89",
         "people": [
             {
-                "name": "Ing. Vladan Ševčík",
-                "role": "místopředseda"
+                "name": "Bohumil Šuhaj",
+                "role": "člen"
             },
             {
-                "name": "JUDr. Jaroslav Kupka",
+                "name": "Ing. Vladan  Ševčík",
+                "role": "člen"
+            },
+            {
+                "name": "Jiří Kacetl",
                 "role": "člen"
             },
             {
@@ -1305,19 +1309,15 @@
                 "role": "člen"
             },
             {
-                "name": "Mgr. Lada Bastlová",
-                "role": "členka"
-            },
-            {
                 "name": "Mgr. Ondřej Hýsek, Ph.D.",
                 "role": "předseda"
             },
             {
                 "name": "Pavel Trčala, MA",
-                "role": "člen"
+                "role": "místopředseda"
             },
             {
-                "name": "doc. PhDr. Bohuslav Klíma, CSc.",
+                "name": "Petr Chňoupek",
                 "role": "člen"
             }
         ],
