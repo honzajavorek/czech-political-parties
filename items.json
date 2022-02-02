@@ -1,5 +1,16 @@
 [
     {
+        "name": "Občanské fórum Beskydy",
+        "code": "OFB",
+        "id": "14212129",
+        "reg_number": "MV- 11561-5/OV-2022",
+        "reg_date": "2022-02-01",
+        "address": "739 12 Čeladná 791",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Bezpečná země",
         "code": "BZ",
         "id": "14179792",
@@ -3993,28 +4004,32 @@
         "address": "162 00 Praha, Křenova 438/7",
         "people": [
             {
+                "name": "Dalibor Stach",
+                "role": "1. místopředseda"
+            },
+            {
+                "name": "Ing. Lenka Trepešová",
+                "role": "členka"
+            },
+            {
                 "name": "Jaroslav Ježek",
-                "role": "člen"
+                "role": "předseda"
             },
             {
                 "name": "Jindřich Kalda",
                 "role": "člen"
             },
             {
-                "name": "Josef Kronych",
+                "name": "Josef Barta",
                 "role": "člen"
             },
             {
-                "name": "Marek Veselý",
-                "role": "místopředseda"
+                "name": "Josef Kronych",
+                "role": "2. místopředseda"
             },
             {
                 "name": "Petr Šimon",
                 "role": "člen"
-            },
-            {
-                "name": "Radka Říhová",
-                "role": "členka"
             }
         ],
         "type": "party",
