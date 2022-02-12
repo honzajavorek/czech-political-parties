@@ -541,8 +541,8 @@
         "is_active": true
     },
     {
-        "name": "Trikolora Svobodní Soukromníci",
-        "code": "TSS",
+        "name": "Trikolora",
+        "code": "Trikolora",
         "id": "08288909",
         "reg_number": "MV-82512-4/VS-2019",
         "reg_date": "2019-06-25",
@@ -553,7 +553,7 @@
                 "role": "předsedkyně"
             }
         ],
-        "type": "movement",
+        "type": "party",
         "is_active": true
     },
     {
@@ -648,16 +648,32 @@
         "is_active": true
     },
     {
-        "name": "INSTITUT",
-        "code": "IN",
+        "name": "DOMOV",
+        "code": "DOMOV",
         "id": "07972733",
         "reg_number": "MV-16230-6/VS-2019",
         "reg_date": "2019-03-11",
-        "address": "186 00 Praha, Pernerova 250/19",
+        "address": "120 00 Praha, Sarajevská 1051/10",
         "people": [
             {
-                "name": "Jana Míčková",
-                "role": "předsedkyně"
+                "name": "Daniel Šváb",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. David Tygr Ploc MBA",
+                "role": "předseda"
+            },
+            {
+                "name": "Michaela Teyrovská",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Petr Hajdušek",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Radek Nováček",
+                "role": "statutární místopředseda"
             }
         ],
         "type": "party",
