@@ -1,5 +1,16 @@
 [
     {
+        "name": "JISTOTA A BUDOUCNOST",
+        "code": "JAB",
+        "id": "14290910",
+        "reg_number": "MV-40377-2/OV-2022",
+        "reg_date": "2022-02-24",
+        "address": "267 51 Zdice, Čs. armády 71",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "ROMA LUMA",
         "code": "LUMA",
         "id": "14257734",
