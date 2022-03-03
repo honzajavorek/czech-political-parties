@@ -4534,44 +4534,56 @@
                 "role": "předseda"
             },
             {
-                "name": "Jan  Volný",
-                "role": "člen"
+                "name": "Ing. Jan Volný",
+                "role": "člen předsednictva"
             },
             {
-                "name": "Jana Pastuchová",
-                "role": "členka"
+                "name": "Ing. Radim Holiš",
+                "role": "člen předsednictva"
             },
             {
-                "name": "Jaroslava Pokorná Jermanová",
+                "name": "Ing. Roman Kubíček, Ph.D.",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "JUDr. Alena Schillerová, Ph.D.",
                 "role": "místopředsedkyně"
             },
             {
                 "name": "Ladislav Okleštěk",
-                "role": "člen"
+                "role": "člen předsednictva"
             },
             {
-                "name": "Martin Kukla",
-                "role": "člen"
+                "name": "MUDr. David Kasal, MHA",
+                "role": "člen předsednictva"
             },
             {
                 "name": "Mgr. Jana Mračková Vildumetzová",
-                "role": "členka"
+                "role": "členka předsednictva"
             },
             {
-                "name": "Radek Vondráček",
+                "name": "Mgr. Jana Pastuchová",
+                "role": "členka předsednictva"
+            },
+            {
+                "name": "Mgr. Jaroslav Bžoch",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Mgr. Radek Vondráček",
                 "role": "místopředseda"
             },
             {
-                "name": "Richard Brabec",
+                "name": "Mgr. Richard Brabec",
                 "role": "místopředseda"
             },
             {
-                "name": "Roman Kubíček",
-                "role": "člen"
+                "name": "doc. Ing. Karel Havlíček, Ph.D., MBA",
+                "role": "1. místopředseda"
             },
             {
-                "name": "Tomáš Macura",
-                "role": "člen"
+                "name": "prof. Ing. Ivo Vondrák, Csc.",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
