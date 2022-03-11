@@ -1,5 +1,16 @@
 [
     {
+        "name": "Budoucnost pro občany",
+        "code": "BUPO",
+        "id": "14334887",
+        "reg_number": "MV-33014-5/OV-2022",
+        "reg_date": "2022-03-10",
+        "address": "435 11 Lom, nám. Republiky 367/2A",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "JISTOTA A BUDOUCNOST",
         "code": "JAB",
         "id": "14290910",
