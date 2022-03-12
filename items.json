@@ -1572,12 +1572,12 @@
                 "role": "výkonný tajemník"
             },
             {
-                "name": "Vlastimil  Sehnal",
+                "name": "Miroslav Procházka",
                 "role": "předseda"
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Občané za spokojené bydlení",
@@ -3657,12 +3657,7 @@
         "reg_number": "MV-15241-4/VS-2014",
         "reg_date": "2014-02-17",
         "address": "149 00 Praha, Zimákova 2355/11",
-        "people": [
-            {
-                "name": "Barbora Štěpánková",
-                "role": "předsedkyně"
-            }
-        ],
+        "people": [],
         "type": "party",
         "is_active": true
     },
@@ -4521,8 +4516,8 @@
         "address": "356 01 Sokolov, Boženy Němcové 703",
         "people": [
             {
-                "name": "Josef Zickler",
-                "role": "předseda"
+                "name": "Michaela Rojtová",
+                "role": "předsedkyně"
             }
         ],
         "type": "party",
@@ -4906,16 +4901,16 @@
         "address": "708 00 Ostrava, Alšovo náměstí 691/4",
         "people": [
             {
-                "name": "Ing. Luděk Šarman",
-                "role": "2. místopředseda"
+                "name": "Ing. Luděk  Šarman",
+                "role": "předseda"
             },
             {
                 "name": "Ing. Mgr. Pynelopi  Cimprichová",
                 "role": "1.místopředsedkyně"
             },
             {
-                "name": "Ing. Tomáš Raždík",
-                "role": "předseda"
+                "name": "Ing. Tomáš  Raždík",
+                "role": "2. místopředseda"
             }
         ],
         "type": "movement",
