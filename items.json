@@ -1473,7 +1473,7 @@
         "is_active": true
     },
     {
-        "name": "SENÁTOR 21",
+        "name": "SEN 21",
         "code": "SEN 21",
         "id": "06695205",
         "reg_number": "MV-133520-6/VS-2017",
@@ -1481,8 +1481,16 @@
         "address": "150 00 Praha, Štefánikova 1/65",
         "people": [
             {
+                "name": "Mgr. Lukáš Kostínek",
+                "role": "místopředseda"
+            },
+            {
                 "name": "Mgr. Václav Láska",
                 "role": "předseda"
+            },
+            {
+                "name": "Monika Shaw Salajová MSc.",
+                "role": "1.místopředsedkyně"
             }
         ],
         "type": "movement",
