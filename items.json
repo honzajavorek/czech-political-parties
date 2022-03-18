@@ -1,5 +1,16 @@
 [
     {
+        "name": "ProPce21",
+        "code": "PP21",
+        "id": "14356813",
+        "reg_number": "MV- 40334-4/OV-2022",
+        "reg_date": "2022-03-17",
+        "address": "530 03 Pardubice, Husova 1782",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "Budoucnost pro občany",
         "code": "BUPO",
         "id": "14334887",
@@ -39,7 +50,20 @@
         "reg_number": "MV- 11561-5/OV-2022",
         "reg_date": "2022-02-01",
         "address": "739 12 Čeladná 791",
-        "people": [],
+        "people": [
+            {
+                "name": "Ing. Jiří Švrček, MBA",
+                "role": "předseda"
+            },
+            {
+                "name": "Ing. Michaela Židková",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Oldřich Uher",
+                "role": "člen"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -3211,6 +3235,10 @@
                 "role": "člen"
             },
             {
+                "name": "Mgr. Elena Peňázová",
+                "role": "členka"
+            },
+            {
                 "name": "Mgr. Martin  Maleček",
                 "role": "předseda"
             },
@@ -3221,10 +3249,6 @@
             {
                 "name": "PhDr. Karla Hofmannová",
                 "role": "místopředsedkyně"
-            },
-            {
-                "name": "Prof. Michal Košut, Ph.D.",
-                "role": "člen"
             },
             {
                 "name": "doc. Ing. Pavel Máchal, CSc, prof.h.c.",
