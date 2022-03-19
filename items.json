@@ -6,8 +6,21 @@
         "reg_number": "MV- 40334-4/OV-2022",
         "reg_date": "2022-03-17",
         "address": "530 03 Pardubice, Husova 1782",
-        "people": [],
-        "type": "party",
+        "people": [
+            {
+                "name": "Ing. Simona Mokrá",
+                "role": "členka"
+            },
+            {
+                "name": "Ludmila Ministrová",
+                "role": "členka"
+            },
+            {
+                "name": "Otakar Janecký",
+                "role": "člen"
+            }
+        ],
+        "type": "movement",
         "is_active": true
     },
     {
