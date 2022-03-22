@@ -5890,10 +5890,6 @@
         "address": "120 00 Praha, Perucká 2196/14",
         "people": [
             {
-                "name": "Ing. Alois Sečkár",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Jan Dočekal",
                 "role": "místopředseda"
             },
@@ -5907,6 +5903,10 @@
             },
             {
                 "name": "Mgr. Luboš Zálom",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Tomáš Macek",
                 "role": "místopředseda"
             }
         ],
