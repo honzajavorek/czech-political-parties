@@ -1,5 +1,16 @@
 [
     {
+        "name": "A DOST! PRO LEPŠÍ BUDOUCNOST",
+        "code": "AD PRO LB",
+        "id": "14369664",
+        "reg_number": "MV-46277-4/OV-2022",
+        "reg_date": "2022-03-22",
+        "address": "373 12 Borovany, Nová 356",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "ProPce21",
         "code": "PP21",
         "id": "14356813",
