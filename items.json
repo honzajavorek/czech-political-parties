@@ -10039,19 +10039,19 @@
         "id": "00409740",
         "reg_number": "AVS/1-260/90",
         "reg_date": "1990-02-03",
-        "address": "130 00 Praha, náměstí Winstona Churchilla 1800/2",
+        "address": "140 00 Praha, náměstí Hrdinů 1125/8",
         "people": [
-            {
-                "name": "Bc. Anna Gümplová",
-                "role": "1.místopředsedkyně"
-            },
-            {
-                "name": "Bc. Petr Globočník, DiS.",
-                "role": "2. místopředseda"
-            },
             {
                 "name": "BcA. Michal Berg",
                 "role": "Spolupředseda"
+            },
+            {
+                "name": "Ing. Jitka Nesrstová",
+                "role": "1.místopředsedkyně"
+            },
+            {
+                "name": "Mgr. Jakub Varvařovský",
+                "role": "2. místopředseda"
             },
             {
                 "name": "Mgr. Magdaléna  Davis, Ph.D.",
