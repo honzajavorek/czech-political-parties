@@ -672,7 +672,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "LIST JAROMÍRA SOUKUPA",
@@ -819,7 +819,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "PRVNÍ REPUBLIKA",
@@ -991,7 +991,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Nezávislí – Naše Čtrnáctka",
@@ -3679,8 +3679,8 @@
         "is_active": false
     },
     {
-        "name": "Hnutí Prameny",
-        "code": "PRAMENY",
+        "name": "Hnutí Dobrých Proměn",
+        "code": "HDP",
         "id": "02674831",
         "reg_number": "MV-20651-2/VS-2014",
         "reg_date": "2014-02-19",
@@ -4142,7 +4142,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Sdružení nezávislých občanů Prahy",
