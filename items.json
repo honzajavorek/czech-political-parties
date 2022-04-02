@@ -98,7 +98,20 @@
         "reg_number": "MV-91891-4/OV-2021",
         "reg_date": "2022-01-21",
         "address": "735 14 Orlová, Březová 1044",
-        "people": [],
+        "people": [
+            {
+                "name": "Kamil Wicherek",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Martin Mazur",
+                "role": "předseda"
+            },
+            {
+                "name": "Tomáš Kuča",
+                "role": "první místopředseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -2040,8 +2053,8 @@
         "is_active": true
     },
     {
-        "name": "Sdružení nezávislých kandidátů 1 – Starostové našeho kraje",
-        "code": "SNK1 - Starostové našeho kraje",
+        "name": "SNK 1 – Starostové našeho kraje",
+        "code": "SNK 1 - SNK",
         "id": "05081068",
         "reg_number": "MV-70811-2/VS-2016",
         "reg_date": "2016-05-13",
@@ -3823,7 +3836,7 @@
             }
         ],
         "type": "party",
-        "is_active": false
+        "is_active": true
     },
     {
         "name": "ANTIBURSÍK - STOP EKOTERORU !",
