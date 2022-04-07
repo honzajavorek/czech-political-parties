@@ -1610,7 +1610,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Unie Hrdosti, Aktivity, Vlastenectví, Empatie a Lidskosti 2017",
@@ -9030,14 +9030,6 @@
         "reg_date": "1992-05-25",
         "address": "750 02 Přerov, Alšova 2891/2A",
         "people": [
-            {
-                "name": "Bc. Jindřich  Bluma",
-                "role": "člen"
-            },
-            {
-                "name": "Jaroslav Mutl",
-                "role": "člen"
-            },
             {
                 "name": "MUDr. Michal Chromec",
                 "role": "předseda"
