@@ -189,7 +189,12 @@
         "reg_number": "MV-102844-2/OV-2021",
         "reg_date": "2021-06-30",
         "address": "150 00 Praha, Janáčkovo nábřeží 476/43",
-        "people": [],
+        "people": [
+            {
+                "name": "Mgr. Libor Kůs",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -1749,15 +1754,7 @@
         "address": "102 00 Praha, Gercenova 856/3",
         "people": [
             {
-                "name": "Anita Beganyová",
-                "role": "Členka Předsednictva"
-            },
-            {
-                "name": "Antonín Baudyš",
-                "role": "Místopředseda"
-            },
-            {
-                "name": "Jan Dubanič",
+                "name": "Jan Hrdina",
                 "role": "Člen Předsednictva"
             },
             {
@@ -1765,16 +1762,16 @@
                 "role": "Předseda"
             },
             {
-                "name": "Luděk Bolcek",
-                "role": "1. Místopředseda"
+                "name": "Lenka Zimmermannová Bolcková",
+                "role": "1.místopředsedkyně"
             },
             {
                 "name": "Oldřich Zima",
-                "role": "Členka Předsednictva"
+                "role": "Člen Předsednictva"
             },
             {
-                "name": "Vojtěch Drahoňovský",
-                "role": "Místopředseda"
+                "name": "Simona Šnajdrová",
+                "role": "místopředsedkyně"
             }
         ],
         "type": "movement",
@@ -2226,7 +2223,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Změna pro lidi",
@@ -5155,8 +5152,8 @@
         "is_active": true
     },
     {
-        "name": "Hnutí nezávislých za všestranný rozvoj Slatiny",
-        "code": "HNVRS",
+        "name": "SLATINŠTÍ NEZÁVISLÍ",
+        "code": "SN SLATINA",
         "id": "71339990",
         "reg_number": "MV-63899-4/VS-2010",
         "reg_date": "2010-06-29",
@@ -5167,7 +5164,7 @@
                 "role": "předseda"
             },
             {
-                "name": "Jan  Čech",
+                "name": "Ing. Zdeněk Vilím",
                 "role": "místopředseda"
             },
             {
@@ -8150,11 +8147,11 @@
     },
     {
         "name": "MÍSTNÍ HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST",
-        "code": "HNHRM",
+        "code": "MHNHRM",
         "id": "68455941",
         "reg_number": "VS/1-1/4524/98",
         "reg_date": "1998-08-05",
-        "address": "407 52 Varnsdorf 243",
+        "address": "357 35 Chodov, Staroměstská 1105",
         "people": [
             {
                 "name": "Ilona Smítková",
@@ -8162,27 +8159,23 @@
             },
             {
                 "name": "Ing. Josef Hora",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Ing. Vladimír Bartoň",
                 "role": "předseda"
             },
             {
                 "name": "Josef Zoser",
-                "role": "člen ŘR"
+                "role": "místopředseda"
             },
             {
                 "name": "Martin  Zvěřina",
                 "role": "člen ŘR"
             },
             {
-                "name": "Martin Louka",
-                "role": "člen ŘR"
+                "name": "Patrik Pizinger",
+                "role": "hlavní pokladník"
             },
             {
-                "name": "Mgr. Michal Dlask",
-                "role": "hlavní pokladník"
+                "name": "Pavel Kundrát",
+                "role": "člen ŘR"
             }
         ],
         "type": "movement",
@@ -9638,7 +9631,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Demokratická strana Československa",
