@@ -853,7 +853,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Moravská a Slezská pirátská strana",
@@ -1117,7 +1117,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "KOLONÁDA – HNUTÍ PATRIOTŮ",
@@ -4268,7 +4268,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Volba lidu 21.století",
@@ -4996,7 +4996,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Konzervativní aliance 2014",
@@ -5604,10 +5604,6 @@
         "address": "101 00 Praha, Nad Vinným potokem 1148/4",
         "people": [
             {
-                "name": "Bc. Martin Šulc",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Miloslav Soušek",
                 "role": "místopředseda"
             },
@@ -5832,7 +5828,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Strana soukromníků České republiky",
@@ -7951,7 +7947,7 @@
         "address": "180 00 Praha, Primátorská 296/38",
         "people": [],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Českobudějovická nezávislá nová volba",
@@ -8167,6 +8163,10 @@
             },
             {
                 "name": "Martin  Zvěřina",
+                "role": "člen ŘR"
+            },
+            {
+                "name": "Miroslav Egert",
                 "role": "člen ŘR"
             },
             {
@@ -8410,7 +8410,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Unie svobody - Demokratická unie",
