@@ -5739,24 +5739,24 @@
         "address": "128 00 Praha, Na Moráni 360/3",
         "people": [
             {
-                "name": "Bc. Vojtěch Pikal",
-                "role": "2. místopředseda"
+                "name": "Bc. Blanka Charvátová",
+                "role": "3. místopředsedkyně"
             },
             {
-                "name": "Mgr. Martin Kučera",
+                "name": "Bc. Marcel Kolaja",
+                "role": "1. místopředseda"
+            },
+            {
+                "name": "Ing. Martin Jiránek",
                 "role": "4. místopředseda"
             },
             {
-                "name": "Mgr. Radek Holomčík",
-                "role": "3. místopředseda"
+                "name": "Mgr. Hana Hajnová",
+                "role": "2. místopředsedkyně"
             },
             {
                 "name": "PhDr. Ivan Bartoš, Ph.D.",
                 "role": "předseda"
-            },
-            {
-                "name": "PhDr. Olga Richterová, Ph.D.",
-                "role": "1.místopředsedkyně"
             }
         ],
         "type": "party",
