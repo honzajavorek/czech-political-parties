@@ -458,7 +458,7 @@
         "address": "397 01 Písek, Tyršova 681/38",
         "people": [],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Mladí pro Pardubický kraj",
@@ -8953,7 +8953,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Československá strana socialistická",
