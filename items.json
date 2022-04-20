@@ -1,5 +1,16 @@
 [
     {
+        "name": "VOLNÝ blok",
+        "code": "VOLNÝ blok",
+        "id": "17055512",
+        "reg_number": "MV-38015-6/OV-2022",
+        "reg_date": "2022-04-19",
+        "address": "747 14 Ludgeřovice 809/9",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "A DOST! PRO LEPŠÍ BUDOUCNOST",
         "code": "AD PRO LB",
         "id": "14369664",
@@ -1169,7 +1180,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Hnutí PRO Hodonín",
@@ -1983,7 +1994,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "ALTERNATIVA PRO ČESKOU POLITIKU",
@@ -2661,7 +2672,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "RESTART",
@@ -4757,8 +4768,8 @@
         "is_active": true
     },
     {
-        "name": "NÁRODNÍ FRONTA",
-        "code": "NF",
+        "name": "BEZPEČNÉ ULICE",
+        "code": "BEZ-UL",
         "id": "71443266",
         "reg_number": "MV-37556-4/VS-2011",
         "reg_date": "2011-05-09",
@@ -9299,7 +9310,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Hnutí angažovaných Romů",
