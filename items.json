@@ -6429,16 +6429,16 @@
         "address": "293 01 Mladá Boleslav, Blahoslavova 186/8",
         "people": [
             {
+                "name": "Aleš Juranka",
+                "role": "místopředseda"
+            },
+            {
                 "name": "Bohumil  Rosenkranz",
                 "role": "předseda"
             },
             {
-                "name": "František Petrtýl",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Jiří  Bartoš",
-                "role": "místopředseda"
+                "name": "Jana Hladíková",
+                "role": "místopředsedkyně"
             }
         ],
         "type": "movement",
