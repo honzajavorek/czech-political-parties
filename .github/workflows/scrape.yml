@@ -30,6 +30,9 @@ jobs:
       - name: Scrape
         run: scrapy crawl czech-political-parties
 
+      - name: Check that data got exported
+        run: [ -s items.json ] || exit 1
+
       - name: Save to Git
         uses: EndBug/add-and-commit@v4
         with:
