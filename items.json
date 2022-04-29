@@ -1981,7 +1981,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Politické hnutí PRO 2016",
@@ -2484,7 +2484,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "KOMUNISTICKÁ STRANA ČESKÁ 21",
@@ -2508,7 +2508,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "DOMA",
