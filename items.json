@@ -1,5 +1,16 @@
 [
     {
+        "name": "KRÁSNÁ KOPŘIVNICE",
+        "code": "KK",
+        "id": "17095107",
+        "reg_number": "MV-63048-4/OV-2022",
+        "reg_date": "2022-04-29",
+        "address": "742 21 Kopřivnice, Záhumenní 1358/30C",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Právo Respekt Odbornost",
         "code": "PRO 2022",
         "id": "17085438",
