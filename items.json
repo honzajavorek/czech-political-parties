@@ -9094,7 +9094,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Česká strana národně sociální",
