@@ -77,14 +77,22 @@
         "people": [
             {
                 "name": "Ing. Simona Mokrá",
-                "role": "členka"
+                "role": "místopředsedkyně"
             },
             {
                 "name": "Ludmila Ministrová",
+                "role": "předsedkyně"
+            },
+            {
+                "name": "Marcela Nováčková",
                 "role": "členka"
             },
             {
-                "name": "Otakar Janecký",
+                "name": "Otakar  Janecký",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Roman Mette",
                 "role": "člen"
             }
         ],
@@ -424,7 +432,7 @@
         "address": "101 00 Praha, Říčanská 2399/3",
         "people": [],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "SENIOŘI 21",
@@ -3890,7 +3898,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "ANTIBURSÍK - STOP EKOTERORU !",
@@ -6281,7 +6289,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Doktoři (za uzdravení společnosti)",
