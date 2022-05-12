@@ -1,5 +1,16 @@
 [
     {
+        "name": "Občané SPOLU",
+        "code": "O. SPOLU",
+        "id": "17133742",
+        "reg_number": "MV-69463-6/OV-2022",
+        "reg_date": "2022-05-11",
+        "address": "571 01 Moravská Třebová, Nerudova 1384/76",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "KRÁSNÁ KOPŘIVNICE",
         "code": "KK",
         "id": "17095107",
@@ -1357,16 +1368,16 @@
         "is_active": true
     },
     {
-        "name": "Pro Brno, starostové+",
-        "code": "BS",
+        "name": "Vaši starostové",
+        "code": "Vas",
         "id": "07195389",
         "reg_number": "MV-60585-2/VS-2018",
         "reg_date": "2018-06-07",
         "address": "614 00 Brno, Cacovická 1595/66A",
         "people": [
             {
-                "name": "Libor Matouš",
-                "role": "1. místopředseda"
+                "name": "Lucie Pokorná",
+                "role": "1.místopředsedkyně"
             },
             {
                 "name": "Martin Kopuletý",
@@ -7553,23 +7564,19 @@
         "is_active": true
     },
     {
-        "name": "Starostové pro kraj",
-        "code": "Starostové",
+        "name": "Praha bez chaosu",
+        "code": "Praha bez chaosu",
         "id": "26592118",
         "reg_number": "VS-2402/SDR/1-2002",
         "reg_date": "2002-04-22",
-        "address": "400 01 Ústí nad Labem, Vaníčkova 835/9",
+        "address": "140 00 Praha, Pacovská 2104/1",
         "people": [
-            {
-                "name": "Mgr. David Cihlář",
-                "role": "statutární místopředseda"
-            },
             {
                 "name": "Mgr. Helena Kubcová",
                 "role": "předsedkyně"
             }
         ],
-        "type": "party",
+        "type": "movement",
         "is_active": true
     },
     {
