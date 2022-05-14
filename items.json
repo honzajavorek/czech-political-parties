@@ -9226,16 +9226,24 @@
         "address": "120 00 Praha, Karlovo náměstí 317/5",
         "people": [
             {
-                "name": "Ing. Jan Bartošek",
-                "role": "místopředseda a předseda klubu poslanců"
+                "name": "Ing. Jan  Bartošek",
+                "role": "1. místopředseda"
             },
             {
                 "name": "Ing. Marian Jurečka",
                 "role": "předseda"
             },
             {
-                "name": "Mgr. Ondřej Benešík",
+                "name": "MUDr. Tom Philipp, Ph.D., MBA",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Lukáš Curylo",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Marek Výborný",
+                "role": "předseda poslaneckého klubu"
             },
             {
                 "name": "Mgr. Pavel Hořava",
@@ -9246,12 +9254,8 @@
                 "role": "místopředseda"
             },
             {
-                "name": "Mgr. Tomáš Zdechovský",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Mgr. Šárka Jelínková",
-                "role": "1.místopředsedkyně a předsedkyně klubu senátorů"
+                "name": "Mgr. Šárka  Jelínková",
+                "role": "místopředsedkyně a předsedkyně klubů senátorů"
             }
         ],
         "type": "party",
@@ -9326,12 +9330,12 @@
                 "role": "1. místopředseda"
             },
             {
-                "name": "Ing. Zbyněk Stanjura",
-                "role": "předseda poslaneckého klubu"
-            },
-            {
                 "name": "Ing. Zdeněk Nytra",
                 "role": "předseda senátorského klubu"
+            },
+            {
+                "name": "Marek Benda",
+                "role": "předseda poslaneckého klubu"
             },
             {
                 "name": "Mgr. Martin  Baxa",
@@ -9346,7 +9350,7 @@
                 "role": "místopředseda"
             },
             {
-                "name": "RNDr. Miloš  Vystrčil",
+                "name": "Zdeněk Zajíček",
                 "role": "místopředseda"
             },
             {
