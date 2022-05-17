@@ -128,7 +128,16 @@
         "reg_number": "MV-40377-2/OV-2022",
         "reg_date": "2022-02-24",
         "address": "267 51 Zdice, Čs. armády 71",
-        "people": [],
+        "people": [
+            {
+                "name": "Miloš Petera",
+                "role": "předseda"
+            },
+            {
+                "name": "Richard Dolejš",
+                "role": "první místopředseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -3995,8 +4004,8 @@
         "address": "118 00 Praha, Sněmovní 174/7",
         "people": [
             {
-                "name": "RNDr. Martin Bursík",
-                "role": "předseda"
+                "name": "MUDr. Džamila Stehlíková",
+                "role": "předsedkyně"
             }
         ],
         "type": "party",
