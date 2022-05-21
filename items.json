@@ -50,7 +50,12 @@
         "reg_number": "MV-38015-6/OV-2022",
         "reg_date": "2022-04-19",
         "address": "747 14 Ludgeřovice 809/9",
-        "people": [],
+        "people": [
+            {
+                "name": "Mgr. Lubomír Volný",
+                "role": "předseda"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
