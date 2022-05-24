@@ -153,7 +153,28 @@
         "reg_number": "MV-18148-4/OV-2022",
         "reg_date": "2022-02-15",
         "address": "588 13 Polná, Husovo náměstí 48",
-        "people": [],
+        "people": [
+            {
+                "name": "Dana Chromeková",
+                "role": "členka"
+            },
+            {
+                "name": "Emil Zajac",
+                "role": "předseda"
+            },
+            {
+                "name": "Marco Cavali",
+                "role": "předseda"
+            },
+            {
+                "name": "Petr Tancoš",
+                "role": "člen"
+            },
+            {
+                "name": "Vojtěch Demeter",
+                "role": "člen"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
