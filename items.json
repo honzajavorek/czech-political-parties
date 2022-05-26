@@ -1,5 +1,16 @@
 [
     {
+        "name": "LEPŠÍ SEVER",
+        "code": "LS",
+        "id": "17177782",
+        "reg_number": "MV-82621-4/OV-2022",
+        "reg_date": "2022-05-25",
+        "address": "435 13 Meziboří, Okružní 350",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Občané SPOLU",
         "code": "O. SPOLU",
         "id": "17133742",
