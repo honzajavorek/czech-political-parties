@@ -1,5 +1,16 @@
 [
     {
+        "name": "Libeňský mourek",
+        "code": "Libeňský mourek",
+        "id": "17187087",
+        "reg_number": "MV-96390-2/OV-2022",
+        "reg_date": "2022-05-27",
+        "address": "180 00 Praha, Františka Kadlece 2378/32",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "LEPŠÍ SEVER",
         "code": "LS",
         "id": "17177782",
@@ -1438,7 +1449,7 @@
         "is_active": true
     },
     {
-        "name": "Slezská pro život",
+        "name": "Slezská lidem",
         "code": "Slezská",
         "id": "07174101",
         "reg_number": "MV-56551-4/VS-2018",
