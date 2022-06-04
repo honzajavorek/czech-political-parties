@@ -1863,16 +1863,16 @@
         "address": "118 00 Praha, Thunovská 183/18",
         "people": [
             {
-                "name": "Dr. Ing. Richard Hartmann",
-                "role": "předseda"
-            },
-            {
-                "name": "Ing. Roman Malach",
+                "name": "Dr. Ing. Richard  Hartmann",
                 "role": "člen"
             },
             {
                 "name": "Mgr. Ondřej Pecák",
                 "role": "člen"
+            },
+            {
+                "name": "Mgr. Petr Macinka",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -4856,7 +4856,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Strana Globální Odpovědnosti",
@@ -6929,7 +6929,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Hnutí pro Těšín",
