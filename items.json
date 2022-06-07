@@ -1,5 +1,27 @@
 [
     {
+        "name": "SPOLEK ZA ZDRAVOU JIHLAVU",
+        "code": "SZZJ",
+        "id": "17212596",
+        "reg_number": "MV-89769-4/OV-2022",
+        "reg_date": "2022-06-06",
+        "address": "586 01 Jihlava, Sokolovská 2294/108",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "Změna pro Prahu 12",
+        "code": "ZZP 12",
+        "id": "17213754",
+        "reg_number": "MV-98667-3/OV-2022",
+        "reg_date": "2022-06-06",
+        "address": "143 00 Praha, K dolům 73/65",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Libeňský mourek",
         "code": "Libeňský mourek",
         "id": "17187087",
@@ -9324,7 +9346,7 @@
         "id": "44266740",
         "reg_number": "VSC/1-3275/91",
         "reg_date": "1991-08-29",
-        "address": "110 00 Praha, Rybná 716/24",
+        "address": "110 00 Praha, Revoluční 1082/8",
         "people": [
             {
                 "name": "Ing. Libor Novák",
