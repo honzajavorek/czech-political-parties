@@ -83,7 +83,20 @@
         "reg_number": "MV-99816-10/OV-2021",
         "reg_date": "2022-04-27",
         "address": "430 03 Chomutov, Dobrovského 5706",
-        "people": [],
+        "people": [
+            {
+                "name": "Ing. Miloň Houda",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Ing. Pavel Umlauf",
+                "role": "předseda"
+            },
+            {
+                "name": "MUDr. Ota Staňo",
+                "role": "místopředseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -5280,27 +5293,19 @@
         "id": "71340009",
         "reg_number": "MV-57411-6/VS-2010",
         "reg_date": "2010-07-08",
-        "address": "386 01 Strakonice, Velké náměstí 142",
+        "address": "386 01 Strakonice, Velké náměstí 149",
         "people": [
             {
                 "name": "František Christelbauer",
                 "role": "místopředseda"
             },
             {
-                "name": "Ivana  Hrdličková",
-                "role": "pokladník"
-            },
-            {
-                "name": "Martin Horský",
+                "name": "Ivana Hrdličková",
                 "role": "archivář"
             },
             {
                 "name": "Mgr. Břetislav  Hrdlička",
                 "role": "předseda"
-            },
-            {
-                "name": "Miroslav Kotrč",
-                "role": "člen rady"
             }
         ],
         "type": "movement",
