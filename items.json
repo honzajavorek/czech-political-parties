@@ -1,5 +1,16 @@
 [
     {
+        "name": "PATRIOTI NÁCHODA",
+        "code": "PaN",
+        "id": "17239800",
+        "reg_number": "MV-93824-4/OV-2022",
+        "reg_date": "2022-06-14",
+        "address": "547 01 Náchod, Palackého 920",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "SPOLEK ZA ZDRAVOU JIHLAVU",
         "code": "SZZJ",
         "id": "17212596",
@@ -1890,8 +1901,8 @@
         "is_active": true
     },
     {
-        "name": "Strana nezávislosti České republiky",
-        "code": "SNČR",
+        "name": "Motoristé sobě",
+        "code": "AUTO",
         "id": "05989175",
         "reg_number": "MV-41233-3/VS-2017",
         "reg_date": "2017-04-04",
