@@ -1,5 +1,16 @@
 [
     {
+        "name": "ROZVÍJÍME HRADEC",
+        "code": "RH",
+        "id": "17254353",
+        "reg_number": "MV-96389-4/OV-2022",
+        "reg_date": "2022-06-17",
+        "address": "500 03 Hradec Králové, Eliščino nábřeží 280/23",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "PATRIOTI NÁCHODA",
         "code": "PaN",
         "id": "17239800",
