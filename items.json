@@ -1,5 +1,40 @@
 [
     {
+        "name": "Osmička žije",
+        "code": "8žije",
+        "id": "17262984",
+        "reg_number": "MV-107204-5/OV-2022",
+        "reg_date": "2022-06-21",
+        "address": "182 00 Praha, Mirovická 1116/29",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
+        "name": "Za naše města",
+        "code": "ZNM",
+        "id": "17263581",
+        "reg_number": "MV-100498-4/OV-2022",
+        "reg_date": "2022-06-21",
+        "address": "751 31 Lipník nad Bečvou 92/5",
+        "people": [
+            {
+                "name": "Miroslav Lukačko",
+                "role": "člen"
+            },
+            {
+                "name": "Ondřej Nevrlý",
+                "role": "člen"
+            },
+            {
+                "name": "Pavel Šoltys",
+                "role": "člen"
+            }
+        ],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "ROZVÍJÍME HRADEC",
         "code": "RH",
         "id": "17254353",
@@ -473,8 +508,8 @@
         "is_active": true
     },
     {
-        "name": "Chcípl PES",
-        "code": "Chcípl PES",
+        "name": "Hnutí PES",
+        "code": "PES",
         "id": "09983503",
         "reg_number": "MV-27071-5/OV-2021",
         "reg_date": "2021-03-04",
@@ -9231,7 +9266,7 @@
             }
         ],
         "type": "party",
-        "is_active": false
+        "is_active": true
     },
     {
         "name": "Demokraté 92",
