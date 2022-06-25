@@ -74,7 +74,20 @@
         "reg_number": "MV-98667-3/OV-2022",
         "reg_date": "2022-06-06",
         "address": "143 00 Praha, K dolům 73/65",
-        "people": [],
+        "people": [
+            {
+                "name": "Ing. Jindřich Bašta",
+                "role": "člen"
+            },
+            {
+                "name": "Ing. Jiří Flieger",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Michael Valášek, prof.",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -85,7 +98,20 @@
         "reg_number": "MV-96390-2/OV-2022",
         "reg_date": "2022-05-27",
         "address": "180 00 Praha, Františka Kadlece 2378/32",
-        "people": [],
+        "people": [
+            {
+                "name": "Kristina Špringr",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Ondřej Havlena",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Petr Špringr",
+                "role": "předseda"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
@@ -4639,7 +4665,7 @@
                 "role": "předseda"
             },
             {
-                "name": "Mgr. Pavel Stojar",
+                "name": "Ondřej Daníček",
                 "role": "člen"
             },
             {
@@ -5187,10 +5213,6 @@
         "reg_date": "2010-07-21",
         "address": "708 00 Ostrava, Alšovo náměstí 691/4",
         "people": [
-            {
-                "name": "Ing. Luděk  Šarman",
-                "role": "předseda"
-            },
             {
                 "name": "Ing. Mgr. Pynelopi  Cimprichová",
                 "role": "1.místopředsedkyně"
