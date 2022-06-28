@@ -1,5 +1,27 @@
 [
     {
+        "name": "HRADEČÁCI",
+        "code": "HK",
+        "id": "17280583",
+        "reg_number": "MV-111173-4/OV-2022",
+        "reg_date": "2022-06-27",
+        "address": "500 03 Hradec Králové, Vážní 1171",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "SRDCEM PRO ...",
+        "code": "SRDCEM PRO ...",
+        "id": "17280451",
+        "reg_number": "MV-102857-4/OV-2022",
+        "reg_date": "2022-06-27",
+        "address": "360 01 Karlovy Vary 496/26",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Osmička žije",
         "code": "8žije",
         "id": "17262984",
