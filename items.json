@@ -16,7 +16,7 @@
         "id": "17280451",
         "reg_number": "MV-102857-4/OV-2022",
         "reg_date": "2022-06-27",
-        "address": "360 01 Karlovy Vary 496/26",
+        "address": "360 01 Karlovy Vary, Na Vyhlídce 496/26",
         "people": [],
         "type": "movement",
         "is_active": true
@@ -38,7 +38,7 @@
         "id": "17263581",
         "reg_number": "MV-100498-4/OV-2022",
         "reg_date": "2022-06-21",
-        "address": "751 31 Lipník nad Bečvou 92/5",
+        "address": "751 31 Lipník nad Bečvou, náměstí T. G. Masaryka 92/5",
         "people": [
             {
                 "name": "Miroslav Lukačko",
@@ -211,7 +211,7 @@
         "id": "17055512",
         "reg_number": "MV-38015-6/OV-2022",
         "reg_date": "2022-04-19",
-        "address": "747 14 Ludgeřovice 809/9",
+        "address": "747 14 Ludgeřovice, Lesní 809/9",
         "people": [
             {
                 "name": "Mgr. Lubomír Volný",
@@ -1285,8 +1285,8 @@
         "is_active": false
     },
     {
-        "name": "Nezávislí – Naše Čtrnáctka",
-        "code": "NN14",
+        "name": "NAŠE Čtrnáctka",
+        "code": "N14",
         "id": "07286210",
         "reg_number": "MV-75588-4/VS-2018",
         "reg_date": "2018-07-12",
@@ -1295,6 +1295,10 @@
             {
                 "name": "Ing. Miroslav Froněk",
                 "role": "první místopředseda"
+            },
+            {
+                "name": "Ing. Miroslav Jungwirth",
+                "role": "místopředseda"
             },
             {
                 "name": "Soňa Tománková",
