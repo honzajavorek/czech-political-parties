@@ -1,5 +1,16 @@
 [
     {
+        "name": "Volt",
+        "code": "VČR",
+        "id": "17290775",
+        "reg_number": "MV-109613-4/OV-2022",
+        "reg_date": "2022-06-29",
+        "address": "160 00 Praha, Na dlouhém lánu 343/34",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "HRADEČÁCI",
         "code": "HK",
         "id": "17280583",
@@ -85,7 +96,36 @@
         "reg_number": "MV-89769-4/OV-2022",
         "reg_date": "2022-06-06",
         "address": "586 01 Jihlava, Sokolovská 2294/108",
-        "people": [],
+        "people": [
+            {
+                "name": "Aleš Beďač",
+                "role": "člen"
+            },
+            {
+                "name": "Bc. Libor Novák, DBA, MBA",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Hana Borská",
+                "role": "členka"
+            },
+            {
+                "name": "Ing. Jan Kubát",
+                "role": "člen"
+            },
+            {
+                "name": "MUDr. Vít Pávek",
+                "role": "člen"
+            },
+            {
+                "name": "Milan Matějka",
+                "role": "předseda"
+            },
+            {
+                "name": "Olga Poukarová",
+                "role": "členka"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -9125,12 +9165,12 @@
         "address": "660 87 Brno, Malinovského náměstí 603/4",
         "people": [
             {
-                "name": "MUDr. Ctirad Musil",
-                "role": "předseda"
+                "name": "Aleš Sekanina",
+                "role": "místopředseda"
             },
             {
-                "name": "Petr Bystřický",
-                "role": "místopředseda"
+                "name": "MUDr. Ctirad Musil",
+                "role": "předseda"
             }
         ],
         "type": "party",
