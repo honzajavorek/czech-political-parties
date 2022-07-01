@@ -496,15 +496,15 @@
         "is_active": true
     },
     {
-        "name": "Trikolora - spojená pravice",
-        "code": "Triko",
+        "name": "Parta",
+        "code": "Parta",
         "id": "10997113",
         "reg_number": "MV-102844-2/OV-2021",
         "reg_date": "2021-06-30",
         "address": "150 00 Praha, Janáčkovo nábřeží 476/43",
         "people": [
             {
-                "name": "Mgr. Libor Kůs",
+                "name": "Ing. Daniel Januj",
                 "role": "předseda"
             }
         ],
