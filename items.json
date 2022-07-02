@@ -217,7 +217,12 @@
         "reg_number": "MV-71883-4/OV-2022",
         "reg_date": "2022-04-27",
         "address": "171 00 Praha, Povltavská  829/36A",
-        "people": [],
+        "people": [
+            {
+                "name": "Jindřich Rajchl",
+                "role": "předseda"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
