@@ -1,5 +1,27 @@
 [
     {
+        "name": "SLAVIČÍN 2018 - sdružení nezávislých kandidátů",
+        "code": "SLAVIČÍN 2018",
+        "id": "17313155",
+        "reg_number": "MV-114294-4/OV-2022",
+        "reg_date": "2022-07-08",
+        "address": "763 21 Slavičín, Cihlářská 776",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
+        "name": "ZA SPORT A ZDRAVÝ MĚLNÍK",
+        "code": "ZSZME",
+        "id": "17313813",
+        "reg_number": "MV-112005-5/OV-2022",
+        "reg_date": "2022-07-08",
+        "address": "276 01 Mělník, Palackého 138/1",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Volt",
         "code": "VČR",
         "id": "17290775",
@@ -206,7 +228,28 @@
         "reg_number": "MV-63048-4/OV-2022",
         "reg_date": "2022-04-29",
         "address": "742 21 Kopřivnice, Záhumenní 1358/30C",
-        "people": [],
+        "people": [
+            {
+                "name": "Bc. Adam Hanus",
+                "role": "předseda"
+            },
+            {
+                "name": "Bc. Jakub Kletenský",
+                "role": "člen výboru"
+            },
+            {
+                "name": "Bc. Václav Kocián",
+                "role": "člen výboru"
+            },
+            {
+                "name": "Mgr. Jiří Lípový",
+                "role": "člen výboru"
+            },
+            {
+                "name": "doc. Ing. arch. Kamil Mrva, Ph.D.",
+                "role": "místopředseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
