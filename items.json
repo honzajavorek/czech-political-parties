@@ -39,7 +39,20 @@
         "reg_number": "MV-111173-4/OV-2022",
         "reg_date": "2022-06-27",
         "address": "500 03 Hradec Králové, Vážní 1171",
-        "people": [],
+        "people": [
+            {
+                "name": "Jakub Andrys",
+                "role": "předseda"
+            },
+            {
+                "name": "Jiří Tuček",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Jiří Šrámek",
+                "role": "tajemník"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -107,7 +120,28 @@
         "reg_number": "MV-93824-4/OV-2022",
         "reg_date": "2022-06-14",
         "address": "547 01 Náchod, Palackého 920",
-        "people": [],
+        "people": [
+            {
+                "name": "Ing. Iva Cvetanova",
+                "role": "členka"
+            },
+            {
+                "name": "Ing. Milan Vik",
+                "role": "mluvčí"
+            },
+            {
+                "name": "Ing. Robert Patzelt",
+                "role": "člen"
+            },
+            {
+                "name": "MUDr. Tomáš Žďárský",
+                "role": "člen"
+            },
+            {
+                "name": "Martin Malý",
+                "role": "mluvčí"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -206,7 +240,12 @@
         "reg_number": "MV-82621-4/OV-2022",
         "reg_date": "2022-05-25",
         "address": "435 13 Meziboří, Okružní 350",
-        "people": [],
+        "people": [
+            {
+                "name": "Martin Havelka",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
