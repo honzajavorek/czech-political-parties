@@ -1,5 +1,16 @@
 [
     {
+        "name": "Hnutí pro Žabiny",
+        "code": "HpŽ",
+        "id": "17331722",
+        "reg_number": "MV-114749-4/OV-2022",
+        "reg_date": "2022-07-14",
+        "address": "616 00 Brno, Navrátilova 87/22",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "SLAVIČÍN 2018 - sdružení nezávislých kandidátů",
         "code": "SLAVIČÍN 2018",
         "id": "17313155",
@@ -87,15 +98,23 @@
         "address": "751 31 Lipník nad Bečvou, náměstí T. G. Masaryka 92/5",
         "people": [
             {
-                "name": "Miroslav Lukačko",
-                "role": "člen"
+                "name": "Bc. Pavel Šoltys, Dis",
+                "role": "předseda"
+            },
+            {
+                "name": "Kateřina Dvorská",
+                "role": "členka"
+            },
+            {
+                "name": "MUDr. Martina Dvořáková",
+                "role": "členka"
             },
             {
                 "name": "Ondřej Nevrlý",
-                "role": "člen"
+                "role": "místopředseda"
             },
             {
-                "name": "Pavel Šoltys",
+                "name": "Pavel Svoboda",
                 "role": "člen"
             }
         ],
