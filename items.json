@@ -1,5 +1,27 @@
 [
     {
+        "name": "Hnutí NEJ",
+        "code": "NEJ",
+        "id": "17333709",
+        "reg_number": "MV-103442-6/OV-2022",
+        "reg_date": "2022-07-15",
+        "address": "739 91 Jablunkov, Nádražní 52",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "Malá strana velkých cílů",
+        "code": "MSVC",
+        "id": "17334799",
+        "reg_number": "MV-118517-7/OV-2022",
+        "reg_date": "2022-07-15",
+        "address": "586 01 Jihlava, Polní 4144/4",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "Hnutí pro Žabiny",
         "code": "HpŽ",
         "id": "17331722",
@@ -17,7 +39,20 @@
         "reg_number": "MV-114294-4/OV-2022",
         "reg_date": "2022-07-08",
         "address": "763 21 Slavičín, Cihlářská 776",
-        "people": [],
+        "people": [
+            {
+                "name": "Bc. Marie Studeníková",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Ing. Zuzana Matulová",
+                "role": "předsedkyně"
+            },
+            {
+                "name": "Jaroslav Mana",
+                "role": "místopředseda"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
