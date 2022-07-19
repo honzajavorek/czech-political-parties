@@ -1,5 +1,16 @@
 [
     {
+        "name": "HNUTÍ SPRÁVNÁ CESTA",
+        "code": "SPRÁVNÁ CESTA",
+        "id": "17335191",
+        "reg_number": "MV-113882-6/OV-2022",
+        "reg_date": "2022-07-18",
+        "address": "349 01 Stříbro, Tovární 541",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Hnutí NEJ",
         "code": "NEJ",
         "id": "17333709",
@@ -28,7 +39,12 @@
         "reg_number": "MV-114749-4/OV-2022",
         "reg_date": "2022-07-14",
         "address": "616 00 Brno, Navrátilova 87/22",
-        "people": [],
+        "people": [
+            {
+                "name": "Mgr. Vladimír Paneš",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -74,7 +90,20 @@
         "reg_number": "MV-109613-4/OV-2022",
         "reg_date": "2022-06-29",
         "address": "160 00 Praha, Na dlouhém lánu 343/34",
-        "people": [],
+        "people": [
+            {
+                "name": "Adam Felix",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Adam Hanka",
+                "role": "předseda"
+            },
+            {
+                "name": "Jan Klátil",
+                "role": "místopředseda"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
@@ -163,7 +192,20 @@
         "reg_number": "MV-96389-4/OV-2022",
         "reg_date": "2022-06-17",
         "address": "500 03 Hradec Králové, Eliščino nábřeží 280/23",
-        "people": [],
+        "people": [
+            {
+                "name": "Ing. Petr Nebeský",
+                "role": "člen"
+            },
+            {
+                "name": "JUDr. Jan Holásek. LL.M.",
+                "role": "předseda"
+            },
+            {
+                "name": "Mgr. Ilona Dvořáková",
+                "role": "místopředsedkyně"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
