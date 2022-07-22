@@ -352,7 +352,12 @@
         "reg_number": "MV-69463-6/OV-2022",
         "reg_date": "2022-05-11",
         "address": "571 01 Moravská Třebová, Nerudova 1384/76",
-        "people": [],
+        "people": [
+            {
+                "name": "Jiří Bárta",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
