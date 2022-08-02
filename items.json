@@ -79,7 +79,20 @@
         "reg_number": "MV-112005-5/OV-2022",
         "reg_date": "2022-07-08",
         "address": "276 01 Mělník, Palackého 138/1",
-        "people": [],
+        "people": [
+            {
+                "name": "Ing. Martin Spurný",
+                "role": "předseda"
+            },
+            {
+                "name": "Milan Němec",
+                "role": "předseda"
+            },
+            {
+                "name": "Rudolf Kraj",
+                "role": "člen"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -623,7 +636,20 @@
         "reg_number": "MV-183376-4/OV-2021",
         "reg_date": "2022-01-06",
         "address": "695 01 Hodonín, Nádražní řádek 1268/20",
-        "people": [],
+        "people": [
+            {
+                "name": "Martin Kočí",
+                "role": "předseda"
+            },
+            {
+                "name": "Pavlína Schenelová",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Terézia Mlýnková Išková",
+                "role": "místopředsedkyně"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -5497,7 +5523,7 @@
             }
         ],
         "type": "movement",
-        "is_active": false
+        "is_active": true
     },
     {
         "name": "Konzervativní aliance 2014",
