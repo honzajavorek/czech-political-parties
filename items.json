@@ -7565,7 +7565,7 @@
                 "role": "3. místopředsedkyně"
             },
             {
-                "name": "Věslav Michalík",
+                "name": "Věslav Michalik",
                 "role": "4. místopředseda"
             }
         ],
@@ -9193,27 +9193,27 @@
             },
             {
                 "name": "Jiří Grünbauer",
-                "role": "tajemník předsednictva ÚV"
-            },
-            {
-                "name": "Jiří Vábr",
-                "role": "generální tajemník"
+                "role": "zástupce generálního tajemníka"
             },
             {
                 "name": "Jozef Servista",
-                "role": "zástupce generálního tajemníka"
+                "role": "člen předsednictva ÚV"
             },
             {
                 "name": "Ján Herák",
                 "role": "člen předsednictva ÚV"
             },
             {
-                "name": "Miroslav Holler",
-                "role": "člen předsednictva ÚV"
+                "name": "Robert Mašek",
+                "role": "tajemník předsednictva ÚV"
             },
             {
                 "name": "Roman Blaško",
-                "role": "jednatel"
+                "role": "Generální tajemník"
+            },
+            {
+                "name": "Vladimír Sedláček",
+                "role": "člen předsednictva ÚV"
             },
             {
                 "name": "Václav Novák",
@@ -9224,8 +9224,8 @@
                 "role": "člen předsednictva ÚV"
             },
             {
-                "name": "Věra Hollerová",
-                "role": "tajemnice předsednictva ÚV"
+                "name": "Zbyšek Kupský",
+                "role": "člen předsednictva ÚV"
             }
         ],
         "type": "party",
