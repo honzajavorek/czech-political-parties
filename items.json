@@ -6,7 +6,12 @@
         "reg_number": "MV-113882-6/OV-2022",
         "reg_date": "2022-07-18",
         "address": "349 01 Stříbro, Tovární 541",
-        "people": [],
+        "people": [
+            {
+                "name": "Václav Kozák",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -7518,11 +7523,15 @@
         "people": [
             {
                 "name": "Jan Farský",
-                "role": "1. místopředseda"
+                "role": "2. místopředseda"
             },
             {
-                "name": "Jana Krutáková",
-                "role": "členka předsednictva"
+                "name": "Jan Kuchař",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Jan Lacina",
+                "role": "5. místopředseda"
             },
             {
                 "name": "Josef Suchánek",
@@ -7530,6 +7539,10 @@
             },
             {
                 "name": "Lukáš Vlček",
+                "role": "1. místopředseda"
+            },
+            {
+                "name": "Matěj Hlavatý",
                 "role": "člen předsednictva"
             },
             {
@@ -7537,24 +7550,24 @@
                 "role": "členka předsednictva"
             },
             {
-                "name": "Miroslav Balatka",
+                "name": "Michaela Šebelová",
+                "role": "3. místopředseda"
+            },
+            {
+                "name": "Mikuláš Bek",
                 "role": "člen předsednictva"
             },
             {
                 "name": "Pavel Čížek",
+                "role": "4. místopředseda"
+            },
+            {
+                "name": "Petra Pecková",
+                "role": "členka předsednictva"
+            },
+            {
+                "name": "Viktor Vojtko",
                 "role": "člen předsednictva"
-            },
-            {
-                "name": "Petr Gazdík",
-                "role": "2. místopředseda"
-            },
-            {
-                "name": "Petr Hlubuček",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Stanislav Polčák",
-                "role": "5. místopředseda"
             },
             {
                 "name": "Vít Rakušan",
@@ -7562,11 +7575,7 @@
             },
             {
                 "name": "Věra Kovářová",
-                "role": "3. místopředsedkyně"
-            },
-            {
-                "name": "Věslav Michalik",
-                "role": "4. místopředseda"
+                "role": "členka předsednictva"
             }
         ],
         "type": "movement",
