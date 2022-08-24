@@ -6363,14 +6363,6 @@
         "address": "534 01 Holice, náměstí T. G. Masaryka 24",
         "people": [
             {
-                "name": "Ing. Jiří Hojgr",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Ing. Míchal Dvouletý",
-                "role": "člen"
-            },
-            {
                 "name": "Ivana  Snítilová",
                 "role": "člen"
             },
@@ -6381,6 +6373,10 @@
             {
                 "name": "Ladislav Linek",
                 "role": "1. místopředseda"
+            },
+            {
+                "name": "Michal Ing. Dvouletý",
+                "role": "místopředseda"
             },
             {
                 "name": "Petr Bajer",
