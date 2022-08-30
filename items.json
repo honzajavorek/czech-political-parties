@@ -2266,16 +2266,16 @@
         "address": "118 00 Praha, Thunovská 183/18",
         "people": [
             {
-                "name": "Dr. Ing. Richard  Hartmann",
-                "role": "člen"
-            },
-            {
                 "name": "Mgr. Ondřej Pecák",
                 "role": "člen"
             },
             {
                 "name": "Mgr. Petr Macinka",
                 "role": "předseda"
+            },
+            {
+                "name": "Pavel Sýkora",
+                "role": "člen"
             }
         ],
         "type": "party",
@@ -6363,6 +6363,10 @@
         "address": "534 01 Holice, náměstí T. G. Masaryka 24",
         "people": [
             {
+                "name": "Ing. Michal Dvouletý",
+                "role": "místopředseda"
+            },
+            {
                 "name": "Ivana  Snítilová",
                 "role": "člen"
             },
@@ -6373,10 +6377,6 @@
             {
                 "name": "Ladislav Linek",
                 "role": "1. místopředseda"
-            },
-            {
-                "name": "Michal Ing. Dvouletý",
-                "role": "místopředseda"
             },
             {
                 "name": "Petr Bajer",
@@ -9743,6 +9743,10 @@
             },
             {
                 "name": "Matěj Čadil",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Miloš Kánský",
                 "role": "člen předsednictva"
             },
             {
