@@ -167,7 +167,16 @@
         "reg_number": "MV-107204-5/OV-2022",
         "reg_date": "2022-06-21",
         "address": "182 00 Praha, Mirovická 1116/29",
-        "people": [],
+        "people": [
+            {
+                "name": "Ilona Tůmová",
+                "role": "1.místopředsedkyně"
+            },
+            {
+                "name": "Tomáš Němeček",
+                "role": "předseda"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
@@ -9499,10 +9508,6 @@
         "reg_date": "1993-08-18",
         "address": "101 00 Praha, Petrohradská 216/3",
         "people": [
-            {
-                "name": "Antonín Hořčica",
-                "role": "člen"
-            },
             {
                 "name": "Jiří Hudeček",
                 "role": "člen"
