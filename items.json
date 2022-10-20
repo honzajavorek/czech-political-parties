@@ -22,7 +22,20 @@
         "reg_number": "MV-103442-6/OV-2022",
         "reg_date": "2022-07-15",
         "address": "739 91 Jablunkov, Nádražní 52",
-        "people": [],
+        "people": [
+            {
+                "name": "Luboš Čmiel",
+                "role": "předseda"
+            },
+            {
+                "name": "Petr Hamrozi",
+                "role": "člen výkonného výboru"
+            },
+            {
+                "name": "Robert Kawulok",
+                "role": "člen výkonného výboru"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
