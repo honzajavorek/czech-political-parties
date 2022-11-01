@@ -552,7 +552,20 @@
         "reg_number": "MV-33014-5/OV-2022",
         "reg_date": "2022-03-10",
         "address": "435 11 Lom, nám. Republiky 367/2A",
-        "people": [],
+        "people": [
+            {
+                "name": "Adam Renka",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Ing. Libor Žemlička",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Zdeněk Bureš",
+                "role": "předseda"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
@@ -7745,10 +7758,6 @@
             {
                 "name": "MUDr. Ladislav Šamlot",
                 "role": "místopředseda"
-            },
-            {
-                "name": "Mgr. Leona Žáková",
-                "role": "první místopředsedkyně"
             }
         ],
         "type": "movement",
