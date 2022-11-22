@@ -8003,28 +8003,28 @@
         "address": "140 00 Praha, Lounských 791/10",
         "people": [
             {
+                "name": "Alena Dernerová",
+                "role": "předsedkyně"
+            },
+            {
                 "name": "Dana Tichá",
                 "role": "členka předsednictva"
             },
             {
-                "name": "Eva  Štěpánková",
-                "role": "předsedkyně"
-            },
-            {
                 "name": "Iveta Mayerová",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "Kateřina Schwarzová",
                 "role": "členka předsednictva"
             },
             {
-                "name": "Lukáš Kačmařík",
-                "role": "člen předsednictva"
+                "name": "Lenka Konečná",
+                "role": "členka předsednictva"
             },
             {
                 "name": "Petr Heinzl",
-                "role": "člen předsednictva"
+                "role": "místopředseda"
+            },
+            {
+                "name": "Zuzana Jiříková",
+                "role": "členka předsednictva"
             }
         ],
         "type": "party",
