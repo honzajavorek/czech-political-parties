@@ -835,15 +835,11 @@
         "people": [
             {
                 "name": "Mgr. Jaroslav Pelc",
-                "role": "2. Místopředseda"
+                "role": "1. Místopředseda"
             },
             {
                 "name": "Mgr. Róbert Šlachta",
                 "role": "předseda"
-            },
-            {
-                "name": "Mgr. Tomáš Sochr",
-                "role": "1. Místopředseda"
             }
         ],
         "type": "movement",
