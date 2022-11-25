@@ -1808,7 +1808,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "ŽIVÁ PRAHA 5",
