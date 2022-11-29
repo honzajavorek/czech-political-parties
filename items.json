@@ -4291,24 +4291,16 @@
         "address": "130 00 Praha, Korunní 1065/107",
         "people": [
             {
-                "name": "JUDr. Petr Jantač",
+                "name": "Bc. Antonín Bárta MBA",
                 "role": "předseda"
+            },
+            {
+                "name": "Ing. Robert Koželský LL.M., DBA",
+                "role": "tajemník"
             },
             {
                 "name": "Michal Hájek",
                 "role": "místopředseda"
-            },
-            {
-                "name": "Pavel Krnáč",
-                "role": "místopředseda"
-            },
-            {
-                "name": "PhDr. Mgr. Daniel Novopacký",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Robert Koželský",
-                "role": "tajemník"
             }
         ],
         "type": "party",
@@ -7948,7 +7940,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Věci veřejné",
