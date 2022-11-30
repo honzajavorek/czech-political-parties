@@ -826,13 +826,17 @@
         "is_active": true
     },
     {
-        "name": "PŘÍSAHA - občanské hnutí Roberta Šlachty",
-        "code": "PŘÍSAHA Roberta Šlachty",
+        "name": "PŘÍSAHA občanské hnutí",
+        "code": "PŘÍSAHA",
         "id": "10742409",
         "reg_number": "MV- 54127-2/OV-2021",
         "reg_date": "2021-04-08",
         "address": "158 00 Praha, Sluneční náměstí 2583/11",
         "people": [
+            {
+                "name": "Karolína Kubisková",
+                "role": "místopředsedkyně"
+            },
             {
                 "name": "Mgr. Jaroslav Pelc",
                 "role": "1. Místopředseda"
@@ -840,6 +844,10 @@
             {
                 "name": "Mgr. Róbert Šlachta",
                 "role": "předseda"
+            },
+            {
+                "name": "Petr Denk",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
