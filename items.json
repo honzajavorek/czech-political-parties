@@ -115,17 +115,13 @@
         "is_active": true
     },
     {
-        "name": "Volt",
-        "code": "VČR",
+        "name": "Volt Česko",
+        "code": "Volt",
         "id": "17290775",
         "reg_number": "MV-109613-4/OV-2022",
         "reg_date": "2022-06-29",
         "address": "160 00 Praha, Na dlouhém lánu 343/34",
         "people": [
-            {
-                "name": "Adam Felix",
-                "role": "místopředseda"
-            },
             {
                 "name": "Adam Hanka",
                 "role": "předseda"
@@ -133,6 +129,10 @@
             {
                 "name": "Jan Klátil",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Lucie Michel Lekešová",
+                "role": "místopředsedkyně"
             }
         ],
         "type": "party",
@@ -941,20 +941,16 @@
         "address": "708 00 Ostrava, Slavíkova 1390/4",
         "people": [
             {
-                "name": "JUDr. Jaroslav  Pollák",
+                "name": "Ing. Pavel Trávníček",
                 "role": "místopředseda"
             },
             {
-                "name": "JUDr. Jaroslav Šikula",
-                "role": "1. místopředseda"
-            },
-            {
-                "name": "Jaromír Fojtík",
+                "name": "JUDr. Jaroslav Pollák",
                 "role": "předseda"
             },
             {
-                "name": "Miroslav Pitrof",
-                "role": "místopředseda"
+                "name": "JUDr. Miroslav Kabát",
+                "role": "1. místopředseda"
             }
         ],
         "type": "movement",
