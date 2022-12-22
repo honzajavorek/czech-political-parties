@@ -6378,20 +6378,12 @@
         "address": "534 01 Holice, náměstí T. G. Masaryka 24",
         "people": [
             {
-                "name": "Ing. Michal Dvouletý",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Ivana  Snítilová",
-                "role": "člen"
-            },
-            {
-                "name": "Jan Baránek",
-                "role": "člen"
-            },
-            {
-                "name": "Ladislav Linek",
+                "name": "Ing. Ladislav Linek",
                 "role": "1. místopředseda"
+            },
+            {
+                "name": "Jan  Baránek",
+                "role": "místopředseda"
             },
             {
                 "name": "Petr Bajer",
@@ -6399,14 +6391,10 @@
             },
             {
                 "name": "Petr Jurča",
-                "role": "člen"
-            },
-            {
-                "name": "Petr Thaisz",
                 "role": "místopředseda"
             },
             {
-                "name": "RNDr. Otto Jarolímek",
+                "name": "Petr Thaisz",
                 "role": "člen"
             }
         ],
