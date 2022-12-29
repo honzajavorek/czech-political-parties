@@ -7013,16 +7013,16 @@
         "address": "513 01 Semily, Riegrovo náměstí 16",
         "people": [
             {
-                "name": "Bc. Tereza Horáková",
-                "role": "členka"
-            },
-            {
-                "name": "Ing. Martin  Klodner",
+                "name": "Bc. Adam Kuršel",
                 "role": "předseda"
             },
             {
-                "name": "Ing. Zuzana  Klodnerová",
+                "name": "Ing. Sebastian Kuršel",
                 "role": "člen"
+            },
+            {
+                "name": "MDDr. Anežka Buriánková",
+                "role": "členka"
             }
         ],
         "type": "party",
@@ -8007,12 +8007,12 @@
         "is_active": true
     },
     {
-        "name": "Praha bez chaosu",
-        "code": "Praha bez chaosu",
+        "name": "Koalice PRO kraj",
+        "code": "Koalice PRO kraj",
         "id": "26592118",
         "reg_number": "VS-2402/SDR/1-2002",
         "reg_date": "2002-04-22",
-        "address": "140 00 Praha, Pacovská 2104/1",
+        "address": "400 01 Ústí nad Labem, Vaníčkova 835/9",
         "people": [
             {
                 "name": "Mgr. Helena Kubcová",
