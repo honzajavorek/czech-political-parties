@@ -933,12 +933,12 @@
         "is_active": false
     },
     {
-        "name": "SENIOŘI 21",
-        "code": "SENIOŘI",
+        "name": "SENIOŘI SOBĚ",
+        "code": "SESO",
         "id": "09607684",
         "reg_number": "MV-140218-4/OV-2020",
         "reg_date": "2020-10-15",
-        "address": "708 00 Ostrava, Slavíkova 1390/4",
+        "address": "130 00 Praha, Koněvova 2660/141",
         "people": [
             {
                 "name": "Ing. Pavel Trávníček",
