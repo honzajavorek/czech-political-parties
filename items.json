@@ -9669,6 +9669,10 @@
                 "role": "1. místopředseda"
             },
             {
+                "name": "Ing. Josef Klement",
+                "role": "předseda senátního klubu"
+            },
+            {
                 "name": "Ing. Marian Jurečka",
                 "role": "předseda"
             },
@@ -9693,8 +9697,12 @@
                 "role": "místopředseda"
             },
             {
+                "name": "Mgr. Tomáš Zdechovský",
+                "role": "předseda národní delegace KDU-ČSL v Evropském parlamentu"
+            },
+            {
                 "name": "Mgr. Šárka  Jelínková",
-                "role": "místopředsedkyně a předsedkyně klubů senátorů"
+                "role": "místopředsedkyně"
             }
         ],
         "type": "party",
