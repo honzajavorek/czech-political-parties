@@ -3981,7 +3981,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "SPOLU",
@@ -9716,6 +9716,10 @@
         "reg_date": "1991-08-29",
         "address": "110 00 Praha, Revoluční 1082/8",
         "people": [
+            {
+                "name": "Gabriel-Max Nathaniel Filip Aras",
+                "role": "člen představenstva"
+            },
             {
                 "name": "Ing. Libor Novák",
                 "role": "člen předsednictva"
