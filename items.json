@@ -46,7 +46,12 @@
         "reg_number": "MV-118517-7/OV-2022",
         "reg_date": "2022-07-15",
         "address": "586 01 Jihlava, Polní 4144/4",
-        "people": [],
+        "people": [
+            {
+                "name": "Bohumír Šlapal",
+                "role": "předseda"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
