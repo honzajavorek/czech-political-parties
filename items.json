@@ -1709,7 +1709,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Společně pro Strakonice",
