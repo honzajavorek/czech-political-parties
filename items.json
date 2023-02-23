@@ -1077,24 +1077,16 @@
         "address": "638 00 Brno, Soběšická 1472/128A",
         "people": [
             {
-                "name": "Andrea Suzovičová",
-                "role": "místopředsedkyně"
+                "name": "Jan Schneider",
+                "role": "předseda"
             },
             {
-                "name": "Jan Schneider",
-                "role": "člen"
+                "name": "Kristýna Hvižďová",
+                "role": "místopředsedkyně"
             },
             {
                 "name": "Lukáš Karnet",
                 "role": "člen"
-            },
-            {
-                "name": "Veronika Nováková",
-                "role": "členka"
-            },
-            {
-                "name": "Vojtěch Vašák",
-                "role": "předseda"
             }
         ],
         "type": "movement",
