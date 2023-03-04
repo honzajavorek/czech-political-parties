@@ -2426,16 +2426,16 @@
                 "role": "člen"
             },
             {
-                "name": "Ing. arch. Ladislav Opletal",
-                "role": "člen"
-            },
-            {
                 "name": "Jiří Kudláček",
                 "role": "člen"
             },
             {
-                "name": "Zdeněk Somr",
-                "role": "místopředseda"
+                "name": "Mgr. Jiří Bílek",
+                "role": "člen"
+            },
+            {
+                "name": "RNDr. Zdeněk Somr",
+                "role": "člen"
             }
         ],
         "type": "party",
@@ -2744,12 +2744,7 @@
         "reg_number": "MV-5836-4/VS-2016",
         "reg_date": "2016-01-27",
         "address": "430 01 Chomutov, Spořická 4751",
-        "people": [
-            {
-                "name": "Markéta Brhelová",
-                "role": "předsedkyně"
-            }
-        ],
+        "people": [],
         "type": "movement",
         "is_active": true
     },
@@ -4588,10 +4583,6 @@
         "people": [
             {
                 "name": "Jiří Koutský",
-                "role": "člen"
-            },
-            {
-                "name": "Kamil Papež",
                 "role": "člen"
             },
             {
