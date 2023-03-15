@@ -8698,7 +8698,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Demokratická regionální strana",
