@@ -3508,15 +3508,7 @@
                 "role": "místopředseda"
             },
             {
-                "name": "Ivana Kabelová",
-                "role": "členka"
-            },
-            {
                 "name": "Jaroslav Kokeš",
-                "role": "člen"
-            },
-            {
-                "name": "Josef Majer",
                 "role": "člen"
             },
             {
@@ -3525,6 +3517,14 @@
             },
             {
                 "name": "Milan Matoušek",
+                "role": "člen"
+            },
+            {
+                "name": "Ondřej Nováček",
+                "role": "člen"
+            },
+            {
+                "name": "Petr Mozola",
                 "role": "člen"
             },
             {
@@ -10541,10 +10541,6 @@
             {
                 "name": "BcA. Michal Berg",
                 "role": "Spolupředseda"
-            },
-            {
-                "name": "Ing. Jitka Nesrstová",
-                "role": "1.místopředsedkyně"
             },
             {
                 "name": "Mgr. Jakub Varvařovský",
