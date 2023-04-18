@@ -4076,19 +4076,19 @@
                 "role": "členka"
             },
             {
-                "name": "Jakub Dort",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Jiří Winkelhöfer",
                 "role": "místopředseda"
             },
             {
-                "name": "Mgr. Radek Mráz",
+                "name": "Mgr. Radek Mráz, MBA",
                 "role": "předseda"
             },
             {
                 "name": "Michael Sinkule",
+                "role": "místopředseda"
+            },
+            {
+                "name": "PhDr. Mgr. Petr Maule, MBA",
                 "role": "místopředseda"
             }
         ],
@@ -9464,7 +9464,7 @@
         "id": "49628089",
         "reg_number": "VS/1-1447/93",
         "reg_date": "1993-08-18",
-        "address": "101 00 Praha, Petrohradská 216/3",
+        "address": "106 00 Praha, Žirovnická 3133/6",
         "people": [
             {
                 "name": "Jiří Hudeček",
