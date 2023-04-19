@@ -239,16 +239,16 @@
         "address": "500 03 Hradec Králové, Eliščino nábřeží 280/23",
         "people": [
             {
-                "name": "Ing. Petr Nebeský",
+                "name": "In. Michal Skaunic",
                 "role": "člen"
+            },
+            {
+                "name": "Ing. Petr  Nebeský",
+                "role": "místopředseda"
             },
             {
                 "name": "JUDr. Jan Holásek. LL.M.",
                 "role": "předseda"
-            },
-            {
-                "name": "Mgr. Ilona Dvořáková",
-                "role": "místopředsedkyně"
             }
         ],
         "type": "movement",
@@ -2426,8 +2426,8 @@
                 "role": "člen"
             },
             {
-                "name": "RNDr. Zdeněk Somr",
-                "role": "člen"
+                "name": "RNDr. Zdeněk  Somr",
+                "role": "místopředseda"
             }
         ],
         "type": "party",
@@ -6124,7 +6124,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "STOP",
