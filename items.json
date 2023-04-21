@@ -4072,8 +4072,8 @@
                 "role": "místopředseda"
             },
             {
-                "name": "Irena Vítovcová",
-                "role": "členka"
+                "name": "Jiří Uhlík, MBA",
+                "role": "člen"
             },
             {
                 "name": "Jiří Winkelhöfer",
@@ -4090,6 +4090,10 @@
             {
                 "name": "PhDr. Mgr. Petr Maule, MBA",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Roman Andrlík",
+                "role": "člen"
             }
         ],
         "type": "movement",
