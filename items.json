@@ -3577,7 +3577,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Podpora občanů",
@@ -6101,10 +6101,6 @@
             {
                 "name": "Václav  Král",
                 "role": "výkonný místopředseda"
-            },
-            {
-                "name": "Štěpánka Dostalová",
-                "role": "členka"
             }
         ],
         "type": "party",
@@ -10228,11 +10224,15 @@
                 "role": "člen předsednictva"
             },
             {
+                "name": "Gabriela Sedláčková",
+                "role": "členka předsednictva"
+            },
+            {
                 "name": "Ing. Jan Mega",
                 "role": "kancléř"
             },
             {
-                "name": "Ing. Kristina Holíková",
+                "name": "Ing. Kristina Štefanová Holíková",
                 "role": "členka předsednictva"
             },
             {
