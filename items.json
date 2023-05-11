@@ -2618,7 +2618,7 @@
         "address": "779 00 Olomouc, Horní náměstí 14/17",
         "people": [
             {
-                "name": "Mgr. Silvie Sofková",
+                "name": "Mgr. Silvie Šrotíř Sofková",
                 "role": "předsedkyně"
             }
         ],
@@ -2682,7 +2682,7 @@
                 "role": "předseda"
             },
             {
-                "name": "Šárka Zimová Dostálová",
+                "name": "Šárka Ludmila Podrábská",
                 "role": "místopředsedkyně"
             }
         ],
@@ -3171,7 +3171,7 @@
                 "role": "místopředsedkyně"
             },
             {
-                "name": "Mgr. Petra Tíková",
+                "name": "Mgr. Petra Mrkvičková",
                 "role": "členka"
             },
             {
@@ -3544,7 +3544,7 @@
         "address": "149 00 Praha, Nad úpadem 413/23",
         "people": [
             {
-                "name": "Kristýna Svobodová",
+                "name": "Kristýna Soukupová",
                 "role": "místopředsedkyně"
             },
             {
@@ -3771,10 +3771,6 @@
         "reg_date": "2014-06-25",
         "address": "613 00 Brno, Zemědělská 1714/72",
         "people": [
-            {
-                "name": "Martin Freund",
-                "role": "2. místopředseda"
-            },
             {
                 "name": "Michal Sadílek",
                 "role": "1. místopředseda"
@@ -9467,7 +9463,7 @@
         "address": "106 00 Praha, Žirovnická 3133/6",
         "people": [
             {
-                "name": "Jiří Hudeček",
+                "name": "Jakub Višňák",
                 "role": "člen"
             },
             {
@@ -9475,23 +9471,15 @@
                 "role": "členka"
             },
             {
-                "name": "Martin Švec",
-                "role": "člen"
-            },
-            {
-                "name": "Matúš Bóna",
-                "role": "člen"
-            },
-            {
-                "name": "Tomáš Ulrich",
-                "role": "člen"
-            },
-            {
                 "name": "Vladimír Farana",
                 "role": "člen"
             },
             {
                 "name": "Vojtěch Juřica",
+                "role": "člen"
+            },
+            {
+                "name": "Vítek Prokop",
                 "role": "člen"
             }
         ],
