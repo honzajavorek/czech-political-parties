@@ -600,7 +600,7 @@
         "id": "14257734",
         "reg_number": "MV-18148-4/OV-2022",
         "reg_date": "2022-02-15",
-        "address": "588 13 Polná, Husovo náměstí 48",
+        "address": "193 00 Praha, Náchodská 116/208",
         "people": [
             {
                 "name": "Dana Chromeková",
@@ -611,12 +611,12 @@
                 "role": "předseda"
             },
             {
-                "name": "Marco Cavali",
-                "role": "předseda"
+                "name": "Jan Jarka",
+                "role": "člen"
             },
             {
-                "name": "Petr Tancoš",
-                "role": "člen"
+                "name": "Marco Cavali",
+                "role": "předseda"
             },
             {
                 "name": "Vojtěch Demeter",
@@ -5711,7 +5711,7 @@
         "address": "612 00 Brno, Kociánka 67/18",
         "people": [
             {
-                "name": "René  Pelán",
+                "name": "Iva Tejkalová",
                 "role": "předseda"
             }
         ],
@@ -5764,7 +5764,7 @@
         "id": "71339922",
         "reg_number": "MV-57833-6/VS-2010",
         "reg_date": "2010-06-24",
-        "address": "690 06 Břeclav, Lednická 554/32",
+        "address": "779 00 Olomouc, Pekařská 490/11",
         "people": [
             {
                 "name": "Ing. Pavel Mužný",
@@ -8112,7 +8112,7 @@
         "id": "26599210",
         "reg_number": "VS-4561/SDR/1-2002",
         "reg_date": "2002-02-19",
-        "address": "118 00 Praha, Saská 520/3",
+        "address": "110 00 Praha, Skořepka 423/9",
         "people": [
             {
                 "name": "Alena  Šimková",
