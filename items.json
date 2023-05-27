@@ -5029,10 +5029,6 @@
         "address": "460 07 Liberec, 1. máje 97/25",
         "people": [
             {
-                "name": "Dalibor Halátek",
-                "role": "člen"
-            },
-            {
                 "name": "Ing. Libor  Witassek",
                 "role": "člen"
             },
@@ -5041,20 +5037,12 @@
                 "role": "člen"
             },
             {
-                "name": "Ing. arch. František Křelina",
-                "role": "člen"
-            },
-            {
-                "name": "Jan Korytář",
-                "role": "předseda"
-            },
-            {
                 "name": "Jiří Římánek",
                 "role": "člen"
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "VÝCHODOČEŠI",
