@@ -1125,6 +1125,10 @@
         "address": "130 00 Praha, Čajkovského 1671/25",
         "people": [
             {
+                "name": "Ing. Štěpán  Pavlík",
+                "role": "předseda"
+            },
+            {
                 "name": "Sára Herrmannová",
                 "role": "Spolupředsedkyně"
             }
@@ -8111,7 +8115,7 @@
                 "role": "člen výboru"
             },
             {
-                "name": "JUD. Vladimír Hruška",
+                "name": "JUDr. Vladimír Hruška",
                 "role": "předseda"
             }
         ],
@@ -8125,12 +8129,7 @@
         "reg_number": "VS-709/SDR/1-2002",
         "reg_date": "2002-02-14",
         "address": "390 01 Tábor, Pražská 223/6",
-        "people": [
-            {
-                "name": "Ing. Petr Havránek",
-                "role": "předseda"
-            }
-        ],
+        "people": [],
         "type": "movement",
         "is_active": true
     },
