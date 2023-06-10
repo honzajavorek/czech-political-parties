@@ -1125,10 +1125,6 @@
         "address": "130 00 Praha, Čajkovského 1671/25",
         "people": [
             {
-                "name": "Ing. Štěpán  Pavlík",
-                "role": "předseda"
-            },
-            {
                 "name": "Sára Herrmannová",
                 "role": "Spolupředsedkyně"
             }
@@ -7581,7 +7577,7 @@
                 "role": "místopředseda pro řízení"
             },
             {
-                "name": "Dr. Ing. Eva  Kriegrová",
+                "name": "Dr. Ing. Eva  Kriegová",
                 "role": "předseda"
             }
         ],
@@ -8129,7 +8125,12 @@
         "reg_number": "VS-709/SDR/1-2002",
         "reg_date": "2002-02-14",
         "address": "390 01 Tábor, Pražská 223/6",
-        "people": [],
+        "people": [
+            {
+                "name": "Ing. Štěpán  Pavlík",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
