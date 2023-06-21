@@ -4563,7 +4563,7 @@
         "id": "71443568",
         "reg_number": "MV-75567-2/VS-2013",
         "reg_date": "2013-06-17",
-        "address": "110 00 Praha, Panská 891/5",
+        "address": "Praha",
         "people": [
             {
                 "name": "Jiří Koutský",
@@ -6323,7 +6323,7 @@
         "id": "71339655",
         "reg_number": "MV-15624-6/VS-2009",
         "reg_date": "2009-03-13",
-        "address": "534 01 Holice, náměstí T. G. Masaryka 24",
+        "address": "130 00 Praha, náměstí Winstona Churchilla 1800/2",
         "people": [
             {
                 "name": "Ing. Ladislav Linek",
@@ -6332,6 +6332,14 @@
             {
                 "name": "Jan  Baránek",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Jaroslav Sojka",
+                "role": "člen"
+            },
+            {
+                "name": "Ladislav Marek",
+                "role": "člen"
             },
             {
                 "name": "Petr Bajer",
@@ -9657,20 +9665,12 @@
         "address": "110 00 Praha, Revoluční 1082/8",
         "people": [
             {
-                "name": "Gabriel-Max Nathaniel Filip Aras",
-                "role": "člen představenstva"
-            },
-            {
-                "name": "Ing. Libor Novák",
+                "name": "Ing. Jan Konrád",
                 "role": "člen předsednictva"
             },
             {
-                "name": "JUDr. Petr Krátký",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Jaroslav Vavříček",
-                "role": "slezský zemský hejtman"
+                "name": "JUDr. Kateřina Boušková",
+                "role": "Generální sekretář"
             },
             {
                 "name": "Jindřich Holub",
@@ -9681,28 +9681,28 @@
                 "role": "český zemský hejtman"
             },
             {
-                "name": "MVDr. Jiří Čížek",
+                "name": "MUDr. Pavel Andrš",
                 "role": "moravský zemský hejtman"
+            },
+            {
+                "name": "MVDr. Jiří Čížek",
+                "role": "člen předsednictva"
             },
             {
                 "name": "Matěj Čadil",
                 "role": "člen předsednictva"
             },
             {
-                "name": "Miloš Kánský",
-                "role": "člen předsednictva"
+                "name": "Mgr. Vojtěch Círus",
+                "role": "předseda"
             },
             {
                 "name": "Miroslav Pošvář",
                 "role": "člen předsednictva"
             },
             {
-                "name": "RNDr. Radim Špaček",
-                "role": "předseda"
-            },
-            {
-                "name": "Vojtěch Círus",
-                "role": "člen předsednictva a generální sekretář"
+                "name": "Romana Philippová Hegrová",
+                "role": "slezský zemský hejtman"
             }
         ],
         "type": "party",
