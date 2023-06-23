@@ -4638,10 +4638,6 @@
         "address": "162 00 Praha, Křenova 438/7",
         "people": [
             {
-                "name": "Dalibor Stach",
-                "role": "1. místopředseda"
-            },
-            {
                 "name": "Ing. Lenka Trepešová",
                 "role": "členka"
             },
@@ -4651,10 +4647,6 @@
             },
             {
                 "name": "Jindřich Kalda",
-                "role": "člen"
-            },
-            {
-                "name": "Josef Barta",
                 "role": "člen"
             },
             {
@@ -6069,10 +6061,6 @@
             {
                 "name": "Pavel Ondrejcsik",
                 "role": "člen"
-            },
-            {
-                "name": "Radka Cipová",
-                "role": "členka"
             },
             {
                 "name": "Václav  Král",
@@ -10479,8 +10467,8 @@
         "is_active": false
     },
     {
-        "name": "Česká strana sociálně demokratická",
-        "code": "ČSSD",
+        "name": "Sociální demokracie",
+        "code": "SOCDEM",
         "id": "00409171",
         "reg_number": "AVS/1-83/90",
         "reg_date": "1990-02-09",
