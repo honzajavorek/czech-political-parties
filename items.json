@@ -799,32 +799,16 @@
         "address": "101 00 Praha, U vršovického nádraží 99/24",
         "people": [
             {
-                "name": "Alena Vokálková",
-                "role": "6. místopředseda"
+                "name": "Bc. Lukáš Neterda",
+                "role": "1. místopředseda"
             },
             {
                 "name": "David Tesař",
                 "role": "předseda"
             },
             {
-                "name": "Karen Pumrová",
-                "role": "3. místopředseda"
-            },
-            {
-                "name": "Lukáš Neterda",
-                "role": "2. místopředseda"
-            },
-            {
-                "name": "Lukáš Podlucký",
-                "role": "4. místopředseda"
-            },
-            {
-                "name": "Martin Kolenovský",
-                "role": "1. místopředseda"
-            },
-            {
-                "name": "Veronika Vágnerová",
-                "role": "5. místopředseda"
+                "name": "MUDr. Karen  Pumrová",
+                "role": "2. místopředsedkyně"
             }
         ],
         "type": "party",
@@ -9609,12 +9593,12 @@
                 "role": "místopředseda"
             },
             {
-                "name": "Mgr. Lukáš Curylo",
-                "role": "místopředseda"
+                "name": "Mgr. Aleš Dufek",
+                "role": "předseda poslaneckého klubu"
             },
             {
-                "name": "Mgr. Marek Výborný",
-                "role": "předseda poslaneckého klubu"
+                "name": "Mgr. Lukáš Curylo",
+                "role": "místopředseda"
             },
             {
                 "name": "Mgr. Pavel Hořava",
