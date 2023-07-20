@@ -3768,10 +3768,6 @@
         "address": "638 00 Brno, Ježkova 242/8",
         "people": [
             {
-                "name": "Ing. Jiří Sekora",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Ing. Martin Cibula",
                 "role": "člen"
             },
@@ -3784,16 +3780,12 @@
                 "role": "předseda"
             },
             {
-                "name": "Mgr. Tomáš Kohoutek",
+                "name": "Mgr. Tomáš Kohoutek, Ph.D.",
                 "role": "člen"
             },
             {
                 "name": "PhDr. Karla Hofmannová",
                 "role": "místopředsedkyně"
-            },
-            {
-                "name": "doc. Ing. Pavel Máchal, CSc, prof.h.c.",
-                "role": "člen"
             }
         ],
         "type": "movement",
@@ -4268,15 +4260,11 @@
         "people": [
             {
                 "name": "Bc. Michal Švarc",
-                "role": "člen"
+                "role": "1. místopředseda"
             },
             {
                 "name": "Jiří Vítek",
                 "role": "předseda"
-            },
-            {
-                "name": "Petr Duchek",
-                "role": "1. místopředseda"
             }
         ],
         "type": "party",
