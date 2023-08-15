@@ -4235,16 +4235,16 @@
         "address": "130 00 Praha, Korunní 1065/107",
         "people": [
             {
-                "name": "Bc. Antonín Bárta MBA",
-                "role": "předseda"
-            },
-            {
                 "name": "Ing. Robert Koželský LL.M., DBA",
                 "role": "tajemník"
             },
             {
                 "name": "Michal Hájek",
                 "role": "místopředseda"
+            },
+            {
+                "name": "PhDr. Mgr. Václav Kott, DiS.",
+                "role": "předseda"
             }
         ],
         "type": "party",
