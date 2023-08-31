@@ -1,2 +1,2 @@
-scrapy>=2.4.0
+scrapy>=2.10.1
 arrow>=0.17.0
