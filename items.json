@@ -4498,12 +4498,12 @@
                 "role": "místopředsedkyně"
             },
             {
-                "name": "Pavel Klámrt",
-                "role": "předseda"
-            },
-            {
                 "name": "Vlasta Klámrtová",
                 "role": "místopředsedkyně"
+            },
+            {
+                "name": "Zbyněk Hromek",
+                "role": "předseda"
             }
         ],
         "type": "party",
