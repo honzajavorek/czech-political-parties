@@ -4662,24 +4662,24 @@
         "is_active": true
     },
     {
-        "name": "Zdraví Sport Prosperita",
+        "name": "Zdraví Sport Vzdělání 2012",
         "code": "PRO Zdraví",
         "id": "71443509",
         "reg_number": "MV-145991-2/VS-2012",
         "reg_date": "2012-12-21",
-        "address": "400 11 Ústí nad Labem, Na Vyhlídce 2340/11",
+        "address": "110 00 Praha, Václavské náměstí  57",
         "people": [
             {
-                "name": "Ing. Van Sang Tran",
-                "role": "místopředseda"
-            },
-            {
-                "name": "MUDr. Klára Pohanková",
-                "role": "první místopředsedkyně"
-            },
-            {
-                "name": "Mgr. Zdeněk Kubec",
+                "name": "Ing. Van Sang  Tran",
                 "role": "předseda"
+            },
+            {
+                "name": "MUDr. Klára  Pohanková",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Mgr. Zdeněk  Kubec",
+                "role": "první místopředseda"
             }
         ],
         "type": "movement",
