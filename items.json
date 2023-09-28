@@ -5009,6 +5009,10 @@
                 "role": "pokladník"
             },
             {
+                "name": "Ing. Aleš Maloch",
+                "role": "místopředseda"
+            },
+            {
                 "name": "Ing. Ondřej Hlaváč",
                 "role": "místopředseda"
             },
@@ -5017,12 +5021,8 @@
                 "role": "členka"
             },
             {
-                "name": "Mgr. Martina Berdychová",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "Milan Maček",
-                "role": "předseda"
+                "name": "Mgr. Martina  Berdychová",
+                "role": "předsedkyně"
             }
         ],
         "type": "movement",
