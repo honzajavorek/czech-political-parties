@@ -17,7 +17,16 @@
         "reg_number": "MV-169694-6/OV-2023",
         "reg_date": "2023-11-01",
         "address": "790 84 Mikulovice, Kolnovice 25",
-        "people": [],
+        "people": [
+            {
+                "name": "Petr Bílý",
+                "role": "1. místopředseda"
+            },
+            {
+                "name": "Václav Sogel",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
