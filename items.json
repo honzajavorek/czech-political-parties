@@ -1,5 +1,16 @@
 [
     {
+        "name": "Hnutí občanů a podnikatelů",
+        "code": "HOP Hydra",
+        "id": "19946368",
+        "reg_number": "MV-184593-4/OV-2023",
+        "reg_date": "2023-11-22",
+        "address": "512 63 Troskovice 72",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Plán Česká republika na 1. místě!",
         "code": "PlánČR1",
         "id": "19882149",
