@@ -6,7 +6,16 @@
         "reg_number": "MV-184593-4/OV-2023",
         "reg_date": "2023-11-22",
         "address": "512 63 Troskovice 72",
-        "people": [],
+        "people": [
+            {
+                "name": "Jaroslav Linek",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Libor Maleček",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
