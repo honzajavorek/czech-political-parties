@@ -26,7 +26,12 @@
         "reg_number": "MV-170342-4/OV-2023",
         "reg_date": "2023-11-01",
         "address": "149 00 Praha, Divišovská 2307/14",
-        "people": [],
+        "people": [
+            {
+                "name": "Ladislav Vrabel",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -6149,6 +6154,14 @@
                 "role": "člen předsednictva"
             },
             {
+                "name": "Jakub Lepš",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Jan Jakob",
+                "role": "předseda Klubu poslanců"
+            },
+            {
                 "name": "Luděk Niedermayer",
                 "role": "vedoucí národní delegace v poslaneckém klubu Evropského parlamentu"
             },
@@ -6169,6 +6182,10 @@
                 "role": "místopředseda"
             },
             {
+                "name": "Michal Vozobule",
+                "role": "člen předsednictva"
+            },
+            {
                 "name": "Pavel Klíma",
                 "role": "člen předsednictva"
             },
@@ -6178,6 +6195,10 @@
             },
             {
                 "name": "Pavel Svoboda",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Radovan Auer",
                 "role": "člen předsednictva"
             },
             {
