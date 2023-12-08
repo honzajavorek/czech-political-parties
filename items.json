@@ -4546,24 +4546,24 @@
         "address": "466 01 Jablonec nad Nisou, Lípová 3525/8",
         "people": [
             {
-                "name": "Jan Nový",
+                "name": "Lukáš Dora",
                 "role": "místopředseda"
             },
             {
-                "name": "Jaroslava Nová",
-                "role": "1.místopředsedkyně"
+                "name": "Mgr. Štěpán Prokop",
+                "role": "1. místopředseda"
             },
             {
-                "name": "Kateřina Klámrtová",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "Vlasta Klámrtová",
+                "name": "Naděžda Holešová",
                 "role": "místopředsedkyně"
             },
             {
                 "name": "Zbyněk Hromek",
                 "role": "předseda"
+            },
+            {
+                "name": "Zuzana Kurimský",
+                "role": "místopředsedkyně"
             }
         ],
         "type": "party",
