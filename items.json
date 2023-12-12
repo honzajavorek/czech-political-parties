@@ -1,5 +1,37 @@
 [
     {
+        "name": "Jasný Signál Nezávislých",
+        "code": "JaSaN",
+        "id": "21005826",
+        "reg_number": "MV-191280-4/OV-2023",
+        "reg_date": "2023-12-11",
+        "address": "120 00 Praha 647/48",
+        "people": [
+            {
+                "name": "Ing. Bronislav  Sedláček",
+                "role": "člen"
+            },
+            {
+                "name": "Ing. Vladimír  Štěpán",
+                "role": "předseda"
+            },
+            {
+                "name": "Ing. Zdeněk  Jandejsek",
+                "role": "výkonný místopředseda"
+            },
+            {
+                "name": "Mgr. Bc. Dimiter  Petrov",
+                "role": "člen"
+            },
+            {
+                "name": "Zdeňka Niklová",
+                "role": "členka"
+            }
+        ],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Hnutí občanů a podnikatelů",
         "code": "HOP Hydra",
         "id": "19946368",
