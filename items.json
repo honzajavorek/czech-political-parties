@@ -5,7 +5,7 @@
         "id": "21005826",
         "reg_number": "MV-191280-4/OV-2023",
         "reg_date": "2023-12-11",
-        "address": "120 00 Praha 647/48",
+        "address": "120 00 Praha, Lublaňská 647/48",
         "people": [
             {
                 "name": "Ing. Bronislav  Sedláček",
@@ -2236,12 +2236,7 @@
         "reg_number": "MV-93734-4/VS-2017",
         "reg_date": "2017-08-09",
         "address": "181 00 Praha, Čimická 269/102",
-        "people": [
-            {
-                "name": "Vladimír Havel Šedivý",
-                "role": "předseda"
-            }
-        ],
+        "people": [],
         "type": "movement",
         "is_active": true
     },
