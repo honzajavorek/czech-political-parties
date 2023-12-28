@@ -771,16 +771,16 @@
         "address": "695 01 Hodonín, Nádražní řádek 1268/20",
         "people": [
             {
-                "name": "Martin Kočí",
-                "role": "předseda"
+                "name": "František Náhlík",
+                "role": "místopředseda"
             },
             {
-                "name": "Pavlína Schenelová",
-                "role": "místopředsedkyně"
+                "name": "Mgr.Terézia  Mlýnková Išková",
+                "role": "předsedkyně"
             },
             {
-                "name": "Terézia Mlýnková Išková",
-                "role": "místopředsedkyně"
+                "name": "Radek Mlček",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -3828,7 +3828,7 @@
         "id": "03136922",
         "reg_number": "MV-62081-6/VS-2014",
         "reg_date": "2014-06-25",
-        "address": "613 00 Brno, Zemědělská 1714/72",
+        "address": "602 00 Brno, Trýbova 961/8",
         "people": [
             {
                 "name": "Michal Sadílek",
@@ -3837,6 +3837,10 @@
             {
                 "name": "Petr Kalousek",
                 "role": "předseda"
+            },
+            {
+                "name": "Radim Horák",
+                "role": "2. místopředseda"
             }
         ],
         "type": "movement",
