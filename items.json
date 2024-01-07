@@ -1,5 +1,37 @@
 [
     {
+        "name": "Vize pro Karlovarský kraj",
+        "code": "Vize KVK",
+        "id": "21072116",
+        "reg_number": "MV-195466-6/OV-2023",
+        "reg_date": "2024-01-03",
+        "address": "363 01 Hájek 9",
+        "people": [
+            {
+                "name": "Aleš Labík",
+                "role": "člen"
+            },
+            {
+                "name": "Michaela Holubcová",
+                "role": "členka"
+            },
+            {
+                "name": "Petr Kvasnička",
+                "role": "člen"
+            },
+            {
+                "name": "Vlastimil Ondra",
+                "role": "člen"
+            },
+            {
+                "name": "Vít Hromádko",
+                "role": "člen"
+            }
+        ],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Jasný Signál Nezávislých",
         "code": "JaSaN",
         "id": "21005826",
@@ -2701,12 +2733,12 @@
                 "role": "2. místopředseda"
             },
             {
-                "name": "Mgr. René Pastrňák, Ph.D. in BA",
-                "role": "1. místopředseda"
-            },
-            {
                 "name": "Pavol Lukša",
                 "role": "předseda"
+            },
+            {
+                "name": "Roman Pastor",
+                "role": "1. místopředseda"
             }
         ],
         "type": "party",
@@ -6928,8 +6960,8 @@
                 "role": "předseda"
             },
             {
-                "name": "Jana Hladíková",
-                "role": "místopředsedkyně"
+                "name": "Ing. Ondřej Rameš",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
