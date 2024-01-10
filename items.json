@@ -2402,7 +2402,7 @@
             },
             {
                 "name": "Lenka Zimmermannová Bolcková",
-                "role": "1.místopředsedkyně"
+                "role": "Členka Předsednictva"
             },
             {
                 "name": "Oldřich Zima",
@@ -5445,7 +5445,7 @@
         "address": "702 00 Ostrava, Brandlova 1267/6",
         "people": [
             {
-                "name": "Ing. Eva Schwarzová",
+                "name": "Ing. Petra Bernfeldová",
                 "role": "místopředsedkyně"
             },
             {
@@ -5843,7 +5843,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Občané městu, město občanům",
