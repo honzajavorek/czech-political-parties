@@ -988,7 +988,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "DOST",
@@ -2833,7 +2833,7 @@
         "address": "430 01 Chomutov, Spořická 4751",
         "people": [],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Slušní lidé",
