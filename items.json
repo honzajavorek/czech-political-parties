@@ -2369,16 +2369,16 @@
         "address": "118 00 Praha, Thunovská 183/18",
         "people": [
             {
-                "name": "Mgr. Ondřej Pecák",
-                "role": "člen"
-            },
-            {
                 "name": "Mgr. Petr Macinka",
                 "role": "předseda"
             },
             {
                 "name": "Pavel Sýkora",
                 "role": "člen"
+            },
+            {
+                "name": "Renata Maršíková",
+                "role": "členka"
             }
         ],
         "type": "party",
@@ -9899,16 +9899,16 @@
                 "role": "členka VV ÚV KSČM"
             },
             {
-                "name": "Josef Číž",
-                "role": "člen VV ÚV KSČM"
-            },
-            {
                 "name": "Kateřina Konečná",
                 "role": "předsedkyně ÚV KSČM"
             },
             {
                 "name": "Ludvík Šulda",
                 "role": "místopředseda ÚV KSČM"
+            },
+            {
+                "name": "Marie Chánová",
+                "role": "členka VV ÚV KSČM"
             },
             {
                 "name": "Marie Pěnčíková",
