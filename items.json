@@ -1,5 +1,16 @@
 [
     {
+        "name": "Liberální aliance nezávislých občanů",
+        "code": "LANO",
+        "id": "21196559",
+        "reg_number": "MV-2255-4/OV-2024",
+        "reg_date": "2024-01-31",
+        "address": "160 00 Praha, Mařákova 303/11",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "Vize pro Karlovarský kraj",
         "code": "Vize KVK",
         "id": "21072116",
@@ -4965,7 +4976,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Strana Češi",
@@ -5008,12 +5019,12 @@
                 "role": "předseda"
             },
             {
-                "name": "Ondřej Daníček",
-                "role": "člen"
+                "name": "Martin Hassa",
+                "role": "1. místopředseda"
             },
             {
-                "name": "PhDr. Ivo Frolec",
-                "role": "1. místopředseda"
+                "name": "Ondřej Daníček",
+                "role": "člen"
             },
             {
                 "name": "Stanislava Pulkrábková",
@@ -9495,7 +9506,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Levice",
