@@ -1039,7 +1039,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "LIDÉ PRO",
@@ -1110,7 +1110,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Nezávislá kandidátka",
@@ -1396,7 +1396,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "TVŮJ KANDIDÁT",
@@ -2369,7 +2369,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Motoristé sobě",
@@ -2380,16 +2380,16 @@
         "address": "118 00 Praha, Thunovská 183/18",
         "people": [
             {
-                "name": "Mgr. Petr Macinka",
-                "role": "předseda"
+                "name": "Bc. Renata Maršíková",
+                "role": "členka"
             },
             {
-                "name": "Pavel Sýkora",
+                "name": "Mgr. Jiří Barták",
                 "role": "člen"
             },
             {
-                "name": "Renata Maršíková",
-                "role": "členka"
+                "name": "Mgr. Petr Macinka",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -3442,14 +3442,6 @@
             {
                 "name": "Mgr. Michal Rádl",
                 "role": "člen"
-            },
-            {
-                "name": "Michal Vencovský",
-                "role": "člen"
-            },
-            {
-                "name": "Petr Skokan",
-                "role": "výkonný místopředseda"
             }
         ],
         "type": "movement",
@@ -3533,7 +3525,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Karviňáci s Adámkem",
