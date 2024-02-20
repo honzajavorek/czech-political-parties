@@ -6,7 +6,12 @@
         "reg_number": "MV-2255-4/OV-2024",
         "reg_date": "2024-01-31",
         "address": "160 00 Praha, Mařákova 303/11",
-        "people": [],
+        "people": [
+            {
+                "name": "Šimon Hlinovský",
+                "role": "předseda"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
@@ -3891,7 +3896,7 @@
         "people": [
             {
                 "name": "Ing. Martin Cibula",
-                "role": "člen"
+                "role": "místopředseda"
             },
             {
                 "name": "Mgr. Elena Peňázová",
@@ -3903,11 +3908,11 @@
             },
             {
                 "name": "Mgr. Tomáš Kohoutek, Ph.D.",
-                "role": "člen"
+                "role": "místopředseda"
             },
             {
                 "name": "PhDr. Karla Hofmannová",
-                "role": "místopředsedkyně"
+                "role": "členka"
             }
         ],
         "type": "movement",
@@ -5496,7 +5501,7 @@
         "address": "370 01 České Budějovice, Riegrova 1804/11",
         "people": [
             {
-                "name": "Ivo  Moravec",
+                "name": "Juraj Thoma",
                 "role": "předseda"
             }
         ],
