@@ -2286,7 +2286,7 @@
         "address": "181 00 Praha, Čimická 269/102",
         "people": [],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "SPORTOVCI",
