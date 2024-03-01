@@ -1,5 +1,16 @@
 [
     {
+        "name": "Osobnosti pro kraj",
+        "code": "OK",
+        "id": "21311188",
+        "reg_number": "MV-24128-4/OV-2024",
+        "reg_date": "2024-02-29",
+        "address": "709 00 Ostrava, Výstavní 2224/8",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Liberální aliance nezávislých občanů",
         "code": "LANO",
         "id": "21196559",
@@ -24,24 +35,16 @@
         "address": "363 01 Hájek 9",
         "people": [
             {
-                "name": "Aleš Labík",
-                "role": "člen"
+                "name": "Ing. Vít Hromádko",
+                "role": "předseda"
             },
             {
                 "name": "Michaela Holubcová",
-                "role": "členka"
-            },
-            {
-                "name": "Petr Kvasnička",
-                "role": "člen"
+                "role": "místopředsedkyně"
             },
             {
                 "name": "Vlastimil Ondra",
-                "role": "člen"
-            },
-            {
-                "name": "Vít Hromádko",
-                "role": "člen"
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -773,10 +776,6 @@
             {
                 "name": "Ing. Jiří Švrček, MBA",
                 "role": "předseda"
-            },
-            {
-                "name": "Ing. Michaela Židková",
-                "role": "místopředsedkyně"
             },
             {
                 "name": "Oldřich Uher",
@@ -2181,10 +2180,6 @@
             {
                 "name": "Jiří Koreník",
                 "role": "1. místopředseda"
-            },
-            {
-                "name": "Kamil Ručil",
-                "role": "místopředseda"
             },
             {
                 "name": "Miroslav Kořistka",
@@ -4958,20 +4953,7 @@
         "reg_number": "MV-77900-4/VS-2012",
         "reg_date": "2012-07-20",
         "address": "547 01 Náchod, Vítkova 368",
-        "people": [
-            {
-                "name": "Bc. Hana Nedvědová",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "Ing. Petr  Pakosta",
-                "role": "předseda"
-            },
-            {
-                "name": "Ing. Tomáš Šubert",
-                "role": "člen"
-            }
-        ],
+        "people": [],
         "type": "movement",
         "is_active": false
     },
@@ -5184,7 +5166,7 @@
                 "role": "předseda"
             },
             {
-                "name": "Ing. Jan Volný",
+                "name": "Ing. Josef Bělica, MBA",
                 "role": "člen předsednictva"
             },
             {
@@ -5192,7 +5174,7 @@
                 "role": "člen předsednictva"
             },
             {
-                "name": "Ing. Roman Kubíček, Ph.D.",
+                "name": "Ing. Roman Kubíček, Ph.D., MBA",
                 "role": "člen předsednictva"
             },
             {
@@ -5208,10 +5190,6 @@
                 "role": "člen předsednictva"
             },
             {
-                "name": "Mgr. Jana Mračková Vildumetzová",
-                "role": "členka předsednictva"
-            },
-            {
                 "name": "Mgr. Jana Pastuchová",
                 "role": "členka předsednictva"
             },
@@ -5225,6 +5203,14 @@
             },
             {
                 "name": "Mgr. Richard Brabec",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Roman Zarzycký",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Robert Králíček",
                 "role": "místopředseda"
             },
             {
@@ -5894,15 +5880,7 @@
                 "role": "předseda"
             },
             {
-                "name": "Ing. Ludmila Běťáková",
-                "role": "člen"
-            },
-            {
                 "name": "Ing. Miroslava Šromková",
-                "role": "člen"
-            },
-            {
-                "name": "Ing. Roman Koutný",
                 "role": "člen"
             },
             {
