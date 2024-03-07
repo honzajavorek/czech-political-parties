@@ -5360,12 +5360,24 @@
         "address": "170 00 Praha , U Průhonu  1201/23",
         "people": [
             {
-                "name": "Mgr. Jana  Volfová",
-                "role": "předsedkyně"
+                "name": "Bc. Pavel Havránek",
+                "role": "místopředseda"
             },
             {
-                "name": "Pavel  Havránek",
-                "role": "statutární místopředseda"
+                "name": "Ing. Jiří Paroubek",
+                "role": "předseda"
+            },
+            {
+                "name": "Ing. Petr Benda",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Jana Volfová",
+                "role": "statutární místopředsedkyně"
+            },
+            {
+                "name": "Petr Gawlas",
+                "role": "místopředseda"
             }
         ],
         "type": "party",
