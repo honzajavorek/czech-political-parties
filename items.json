@@ -1467,7 +1467,7 @@
         "is_active": true
     },
     {
-        "name": "HLAS",
+        "name": "HLAS za uzákonění EUTAZIE, HLAS za rovnoprávnost ŽEN, HLAS za bezpečnou a spolupracující EVROPU! (www.hnutihlas.cz)",
         "code": "Hlas",
         "id": "07921331",
         "reg_number": "MV-25390-2/VS-2019",
@@ -1481,10 +1481,6 @@
             {
                 "name": "Ing. Michal Ruman",
                 "role": "místopředseda"
-            },
-            {
-                "name": "Otto Sixtus Libal",
-                "role": "1. místopředseda"
             }
         ],
         "type": "movement",
@@ -2332,12 +2328,48 @@
         "address": "170 00 Praha, Šmeralova 198/25",
         "people": [
             {
-                "name": "Kryštof Přemysl Kozák",
+                "name": "Adam Scheinherr",
+                "role": "člen"
+            },
+            {
+                "name": "Antonín Kokeš",
+                "role": "člen"
+            },
+            {
+                "name": "Damián Koch",
+                "role": "člen"
+            },
+            {
+                "name": "David Bouz",
+                "role": "člen"
+            },
+            {
+                "name": "Hana Třeštíková",
+                "role": "členka"
+            },
+            {
+                "name": "Jan Jaroš",
+                "role": "člen"
+            },
+            {
+                "name": "Jan Čižinský",
                 "role": "lídr"
+            },
+            {
+                "name": "Kristýna Drápalová",
+                "role": "členka"
+            },
+            {
+                "name": "Lucie Boudová",
+                "role": "členka"
             },
             {
                 "name": "Martin Tománek",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Pavel Zelenka",
+                "role": "člen"
             }
         ],
         "type": "party",
