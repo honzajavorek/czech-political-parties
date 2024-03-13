@@ -6475,10 +6475,6 @@
         "address": "120 00 Praha, Perucká 2196/14",
         "people": [
             {
-                "name": "Jan Dočekal",
-                "role": "místopředseda"
-            },
-            {
                 "name": "MUDr. Miroslav Havrda",
                 "role": "místopředseda"
             },
@@ -6488,10 +6484,6 @@
             },
             {
                 "name": "Mgr. Luboš Zálom",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Tomáš Macek",
                 "role": "místopředseda"
             }
         ],
@@ -8522,23 +8514,15 @@
         "address": "466 01 Jablonec nad Nisou, Skřivánčí 1982/26",
         "people": [
             {
-                "name": "Jiří Richter",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Lenka Štefanová-Křížková",
-                "role": "členka předsednictva"
-            },
-            {
-                "name": "Miroslav Frost",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Pavel Kruliš",
+                "name": "Alan Černohous",
                 "role": "místopředseda"
             },
             {
-                "name": "Zbyněk Štěpán",
+                "name": "Pavel Křivka",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Pavel May",
                 "role": "předseda"
             }
         ],
