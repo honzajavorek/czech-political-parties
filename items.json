@@ -1608,12 +1608,7 @@
         "reg_number": "MV- 74479-4/VS-2018",
         "reg_date": "2018-07-23",
         "address": "109 00 Praha, Boloňská 602",
-        "people": [
-            {
-                "name": "Ingr. Miroslav Buchel",
-                "role": "předseda"
-            }
-        ],
+        "people": [],
         "type": "movement",
         "is_active": true
     },
