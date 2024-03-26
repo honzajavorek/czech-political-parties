@@ -1,12 +1,17 @@
 [
     {
-        "name": "PATRIOTI Z RAKOVNICKA",
-        "code": "PATRIOTI Z RAKOVNICKA",
+        "name": "ANO LEPŠÍ EU S MIMOZEMŠŤANY (zastavíme drahotu a válku)",
+        "code": "mimozemstani.eu",
         "id": "21359890",
         "reg_number": "MV-38205-4/OV-2024",
         "reg_date": "2024-03-13",
         "address": "270 54 Milý 78",
-        "people": [],
+        "people": [
+            {
+                "name": "Tomáš Franěk",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
