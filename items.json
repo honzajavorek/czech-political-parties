@@ -119,22 +119,6 @@
         "is_active": true
     },
     {
-        "name": "Plán Česká republika na 1. místě!",
-        "code": "PlánČR1",
-        "id": "19882149",
-        "reg_number": "MV-170342-4/OV-2023",
-        "reg_date": "2023-11-01",
-        "address": "149 00 Praha, Divišovská 2307/14",
-        "people": [
-            {
-                "name": "Ladislav Vrabel",
-                "role": "předseda"
-            }
-        ],
-        "type": "movement",
-        "is_active": true
-    },
-    {
         "name": "REFERENDUM - Hlas Lidu",
         "code": "REFERENDUM",
         "id": "19882653",
@@ -148,6 +132,22 @@
             },
             {
                 "name": "Václav Sogel",
+                "role": "předseda"
+            }
+        ],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "Česká republika na 1. místě!",
+        "code": "ČR1",
+        "id": "19882149",
+        "reg_number": "MV-170342-4/OV-2023",
+        "reg_date": "2023-11-01",
+        "address": "149 00 Praha, Divišovská 2307/14",
+        "people": [
+            {
+                "name": "Ladislav Vrabel",
                 "role": "předseda"
             }
         ],
