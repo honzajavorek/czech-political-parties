@@ -283,7 +283,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Volt Česko",
@@ -782,11 +782,15 @@
             },
             {
                 "name": "Roman Samko",
-                "role": "předseda"
+                "role": "člen"
             },
             {
                 "name": "Vojtěch Demeter",
                 "role": "člen"
+            },
+            {
+                "name": "Zuzana Pilná",
+                "role": "předsedkyně"
             }
         ],
         "type": "party",
@@ -2838,8 +2842,8 @@
                 "role": "předseda"
             },
             {
-                "name": "Šárka Ludmila Podrábská",
-                "role": "místopředsedkyně"
+                "name": "MgA. Pavel Skála",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -10582,16 +10586,20 @@
         "address": "140 00 Praha, náměstí Hrdinů 1125/8",
         "people": [
             {
+                "name": "Anna Junková",
+                "role": "místopředsedkyně"
+            },
+            {
                 "name": "BcA. Michal Berg",
                 "role": "Spolupředseda"
             },
             {
-                "name": "Mgr. Jakub Varvařovský",
-                "role": "2. místopředseda"
-            },
-            {
                 "name": "Mgr. Magdaléna  Davis, Ph.D.",
                 "role": "Spolupředsedkyně"
+            },
+            {
+                "name": "Tomáš Mígl",
+                "role": "místopředseda"
             }
         ],
         "type": "party",
