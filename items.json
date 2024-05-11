@@ -6,7 +6,20 @@
         "reg_number": "MV-51200-4/OV-2024",
         "reg_date": "2024-04-12",
         "address": "106 00 Praha, Žirovnická 3124/1",
-        "people": [],
+        "people": [
+            {
+                "name": "Daniel Krutý",
+                "role": "předseda"
+            },
+            {
+                "name": "Martin Szetei",
+                "role": "2. místopředseda"
+            },
+            {
+                "name": "Petr Jindřichovský",
+                "role": "1. místopředseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
