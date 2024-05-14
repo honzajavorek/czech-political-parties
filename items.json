@@ -2475,16 +2475,16 @@
                 "role": "Člen Předsednictva"
             },
             {
+                "name": "Jaroslav Kuchař",
+                "role": "1. místopředseda"
+            },
+            {
                 "name": "Lenka Zimmermannová Bolcková",
                 "role": "Členka Předsednictva"
             },
             {
                 "name": "Oldřich Zima",
-                "role": "Člen Předsednictva"
-            },
-            {
-                "name": "Simona Šnajdrová",
-                "role": "místopředsedkyně"
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
