@@ -1,5 +1,16 @@
 [
     {
+        "name": "Tomáš Magnusek do Senátu",
+        "code": "TMS",
+        "id": "21657408",
+        "reg_number": "MV-44421-8/OV-2024",
+        "reg_date": "2024-05-28",
+        "address": "547 01 Náchod, Kladská 445",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Hnutí Generace",
         "code": "Generace",
         "id": "21464961",
