@@ -356,7 +356,20 @@
         "reg_number": "MV-102857-4/OV-2022",
         "reg_date": "2022-06-27",
         "address": "360 01 Karlovy Vary, Na Vyhlídce 496/26",
-        "people": [],
+        "people": [
+            {
+                "name": "Daniel Stehlík",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Petr Ajšman",
+                "role": "předseda"
+            },
+            {
+                "name": "Vladimír Valkoun",
+                "role": "místopředseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -2374,10 +2387,6 @@
                 "role": "člen"
             },
             {
-                "name": "Damián Koch",
-                "role": "člen"
-            },
-            {
                 "name": "David Bouz",
                 "role": "člen"
             },
@@ -2386,8 +2395,8 @@
                 "role": "členka"
             },
             {
-                "name": "Jan Jaroš",
-                "role": "člen"
+                "name": "Jan Čižinský",
+                "role": "místopředseda"
             },
             {
                 "name": "Kristýna Drápalová",
@@ -2398,8 +2407,12 @@
                 "role": "členka"
             },
             {
-                "name": "Martin Tománek",
-                "role": "místopředseda"
+                "name": "Mariana Čapková",
+                "role": "členka"
+            },
+            {
+                "name": "Ondřej Svoboda",
+                "role": "člen"
             },
             {
                 "name": "Pavel Zelenka",
