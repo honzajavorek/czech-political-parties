@@ -1,5 +1,16 @@
 [
     {
+        "name": "Nestraníci pro jižní Moravu - www.nestranici2024.cz",
+        "code": "Nestranici2024.cz",
+        "id": "21676992",
+        "reg_number": "MV-83337-2/OV-2024",
+        "reg_date": "2024-06-03",
+        "address": "695 01 Hodonín, Měšťanská 1687/16",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Tomáš Magnusek do Senátu",
         "code": "TMS",
         "id": "21657408",
@@ -2487,16 +2498,8 @@
                 "role": "Předseda"
             },
             {
-                "name": "Jan Hrdina",
-                "role": "Člen Předsednictva"
-            },
-            {
                 "name": "Jaroslav Kuchař",
                 "role": "1. místopředseda"
-            },
-            {
-                "name": "Lenka Zimmermannová Bolcková",
-                "role": "Členka Předsednictva"
             },
             {
                 "name": "Oldřich Zima",
