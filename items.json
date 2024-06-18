@@ -1,5 +1,16 @@
 [
     {
+        "name": "MÁ VLAST ČECHY MORAVA SLEZSKO",
+        "code": "MÁ VLAST ČMS",
+        "id": "21722803",
+        "reg_number": "MV- 84132-4/OV-2024",
+        "reg_date": "2024-06-17",
+        "address": "586 01 Jihlava, Matky Boží 1182/9",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Nestraníci pro jižní Moravu - www.nestranici2024.cz",
         "code": "Nestranici2024.cz",
         "id": "21676992",
@@ -730,26 +741,18 @@
         "id": "14356813",
         "reg_number": "MV- 40334-4/OV-2022",
         "reg_date": "2022-03-17",
-        "address": "530 03 Pardubice, Husova 1782",
+        "address": "530 02 Pardubice, 17. listopadu 2753",
         "people": [
             {
-                "name": "Ing. Simona Mokrá",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "Ludmila Ministrová",
+                "name": "Marcela Nováčková",
                 "role": "předsedkyně"
             },
             {
-                "name": "Marcela Nováčková",
+                "name": "Markéta Hujerová",
                 "role": "členka"
             },
             {
-                "name": "Otakar  Janecký",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Roman Mette",
+                "name": "Otakar Janecký",
                 "role": "člen"
             }
         ],
