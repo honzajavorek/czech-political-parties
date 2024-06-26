@@ -1,5 +1,16 @@
 [
     {
+        "name": "Nadační občansko-politické hnutí ReMeK",
+        "code": "ReMeK",
+        "id": "21755582",
+        "reg_number": "MV- 94018-4/OV-2024",
+        "reg_date": "2024-06-25",
+        "address": "700 30 Ostrava, Výškovická 2545/58",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "MÁ VLAST ČECHY MORAVA SLEZSKO",
         "code": "MÁ VLAST ČMS",
         "id": "21722803",
