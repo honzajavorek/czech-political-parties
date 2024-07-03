@@ -99,7 +99,24 @@
         "reg_number": "MV-24128-4/OV-2024",
         "reg_date": "2024-02-29",
         "address": "709 00 Ostrava, Výstavní 2224/8",
-        "people": [],
+        "people": [
+            {
+                "name": "Ing. Libor Witassek",
+                "role": "člen"
+            },
+            {
+                "name": "Mgr. Jan Tabášek",
+                "role": "člen"
+            },
+            {
+                "name": "Mgr. Zdeněk Karásek",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Prof. Ing. Ivo Vondrák, CSc.",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -288,7 +305,7 @@
         "address": "616 00 Brno, Navrátilova 87/22",
         "people": [
             {
-                "name": "Ing. Vít Cvrček",
+                "name": "Mgr. Vít Cvrček",
                 "role": "předseda"
             }
         ],
