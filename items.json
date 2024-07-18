@@ -44,7 +44,12 @@
         "reg_number": "MV-83337-2/OV-2024",
         "reg_date": "2024-06-03",
         "address": "695 01 Hodonín, Měšťanská 1687/16",
-        "people": [],
+        "people": [
+            {
+                "name": "Lukáš Gross",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
