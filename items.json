@@ -3623,11 +3623,11 @@
         "address": "152 00 Praha, K Dalejím 1180/6",
         "people": [
             {
-                "name": "Ing. Tomáš  Krčma",
-                "role": "předseda"
+                "name": "JUDr. Lenka Vančatová",
+                "role": "předsedkyně"
             },
             {
-                "name": "Jiří Hurdálek",
+                "name": "Karel Vítek",
                 "role": "místopředseda"
             }
         ],
@@ -4434,7 +4434,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Jižní Město - náš domov",
