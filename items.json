@@ -6,7 +6,20 @@
         "reg_number": "MV-97271-4/OV-2024",
         "reg_date": "2024-07-03",
         "address": "413 01 Roudnice nad Labem, třída T. G. Masaryka 942",
-        "people": [],
+        "people": [
+            {
+                "name": "JUDr. Vladimír Kremlík",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Jan Novák",
+                "role": "předseda"
+            },
+            {
+                "name": "Mgr. Robert Válek",
+                "role": "místopředseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
