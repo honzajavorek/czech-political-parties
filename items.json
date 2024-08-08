@@ -1,5 +1,16 @@
 [
     {
+        "name": "Česká zemědělská strana",
+        "code": "ČZS",
+        "id": "21899011",
+        "reg_number": "MV-102738-5/OV-2024",
+        "reg_date": "2024-08-07",
+        "address": "252 45  Zvole u Prahy, Jarovská  96/96",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "HLAS SAMOSPRÁV",
         "code": "HS",
         "id": "21785295",
