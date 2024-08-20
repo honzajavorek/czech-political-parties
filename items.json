@@ -4201,15 +4201,15 @@
         "address": "400 11 Ústí nad Labem, Pincova 2971/13",
         "people": [
             {
+                "name": "Bc. Lenka Poleníková",
+                "role": "výkonný tajemník"
+            },
+            {
                 "name": "Jindřich Novák",
                 "role": "člen"
             },
             {
-                "name": "Martin Vrtiška",
-                "role": "výkonný tajemník"
-            },
-            {
-                "name": "Milan Poláček",
+                "name": "Ladislav Mrvík",
                 "role": "předseda"
             }
         ],
