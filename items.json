@@ -1,5 +1,16 @@
 [
     {
+        "name": "Národně sociální strana",
+        "code": "NSS",
+        "id": "21940177",
+        "reg_number": "MV-102429-11/OV-2024",
+        "reg_date": "2024-08-20",
+        "address": "252 62 Horoměřice, K Roklím 431",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "Česká zemědělská strana",
         "code": "ČZS",
         "id": "21899011",
