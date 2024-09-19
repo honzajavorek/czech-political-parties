@@ -4152,11 +4152,11 @@
                 "role": "předseda"
             },
             {
-                "name": "Ing. Jaroslava Maříková",
-                "role": "místopředsedkyně"
+                "name": "Ing. Pavel Rödl",
+                "role": "místopředseda"
             },
             {
-                "name": "JUDr. Ludvík Rösch",
+                "name": "Mgr. Václav Chaloupek",
                 "role": "místopředseda"
             }
         ],
@@ -4218,10 +4218,6 @@
             {
                 "name": "Jindřich Novák",
                 "role": "člen"
-            },
-            {
-                "name": "Ladislav Mrvík",
-                "role": "předseda"
             }
         ],
         "type": "movement",
