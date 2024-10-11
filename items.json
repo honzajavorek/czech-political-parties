@@ -1,5 +1,16 @@
 [
     {
+        "name": "Stačilo!",
+        "code": "Stačilo!",
+        "id": "22142631",
+        "reg_number": "MV-141340-4/OV-2024",
+        "reg_date": "2024-10-10",
+        "address": "671 72 Miroslav, Václavov 741/12",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Národně sociální strana",
         "code": "NSS",
         "id": "21940177",
@@ -288,10 +299,6 @@
         "reg_date": "2023-11-01",
         "address": "790 84 Mikulovice, Kolnovice 25",
         "people": [
-            {
-                "name": "Petr Bílý",
-                "role": "1. místopředseda"
-            },
             {
                 "name": "Václav Sogel",
                 "role": "předseda"
@@ -3139,10 +3146,6 @@
             {
                 "name": "Bc. Petr Šrámek",
                 "role": "statutární místopředseda"
-            },
-            {
-                "name": "Ing. Pavel Šrámek, MBA",
-                "role": "předseda"
             }
         ],
         "type": "party",
@@ -3522,20 +3525,20 @@
                 "role": "místopředseda"
             },
             {
-                "name": "JUDr. Arnošt Urban",
-                "role": "místopředseda"
+                "name": "Ing. Romana Dürrerová",
+                "role": "místopředsedkyně"
             },
             {
-                "name": "MUDr. Zdeněk Fink",
+                "name": "JUDr. Arnošt Urban",
                 "role": "1. místopředseda"
+            },
+            {
+                "name": "JUDr. Kamil Podroužek",
+                "role": "místopředseda"
             },
             {
                 "name": "Mgr. et Mgr. Pavlína Springerová, Ph.D.",
                 "role": "předseda"
-            },
-            {
-                "name": "Pharm. Dr. Jiří Sova",
-                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -6469,20 +6472,20 @@
         "address": "128 00 Praha, Na Moráni 360/3",
         "people": [
             {
-                "name": "Bc. Jana Holomčík Leitnerová",
-                "role": "3. místopředsedkyně"
-            },
-            {
                 "name": "Klára Kocmanová",
                 "role": "1.místopředsedkyně"
             },
             {
-                "name": "MgA. Dominika Poživilová Michailidu",
-                "role": "4. místopředsedkyně"
+                "name": "MgA. Dominika  Poživilová Michailidu",
+                "role": "3. místopředsedkyně"
             },
             {
                 "name": "Mgr. Markéta Gregorová",
                 "role": "2. místopředsedkyně"
+            },
+            {
+                "name": "Mgr.Hana Hajnová",
+                "role": "4. místopředsedkyně"
             },
             {
                 "name": "PhDr. Ivan Bartoš, Ph.D.",
@@ -7337,16 +7340,16 @@
         "address": "360 01 Karlovy Vary, Zámecký vrch 674/37",
         "people": [
             {
-                "name": "Adam Klsák",
+                "name": "Ing. Petr Kulhánek",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Tomáš Mašek",
                 "role": "pokladník"
             },
             {
-                "name": "Michaela Tůmová",
-                "role": "předsedkyně"
-            },
-            {
-                "name": "Pavel Žemlička",
-                "role": "místopředseda"
+                "name": "RNDr. Adam  Klsák, Ph.D.",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -7812,7 +7815,7 @@
                 "role": "místopředseda pro řízení"
             },
             {
-                "name": "Dr. Ing. Eva  Kriegová",
+                "name": "Ing. Jiří Rudolf",
                 "role": "předseda"
             }
         ],
