@@ -1,5 +1,16 @@
 [
     {
+        "name": "GEN",
+        "code": "GEN",
+        "id": "22200401",
+        "reg_number": "MV-153832-5/OV-2024",
+        "reg_date": "2024-10-25",
+        "address": "110 00 Praha, U obecního dvora 802/8",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "Stačilo!",
         "code": "Stačilo!",
         "id": "22142631",
@@ -7071,7 +7082,7 @@
         "address": "149 00 Praha, Zakouřilova 776/82",
         "people": [
             {
-                "name": "Marek Milaberský",
+                "name": "Ing. Aleš Kulhánek",
                 "role": "člen výboru"
             },
             {
@@ -7084,7 +7095,7 @@
             },
             {
                 "name": "PhDr. Šárka Zdeňková",
-                "role": "předsedkyně"
+                "role": "předsedkyně/členka výboru"
             },
             {
                 "name": "RNDr. Kateřina Zelenková",
