@@ -9830,44 +9830,44 @@
         "address": "120 00 Praha, Karlovo náměstí 317/5",
         "people": [
             {
-                "name": "Ing. Jan  Bartošek",
-                "role": "1. místopředseda"
-            },
-            {
                 "name": "Ing. Josef Klement",
                 "role": "předseda senátního klubu"
             },
             {
-                "name": "Ing. Marian Jurečka",
-                "role": "předseda"
-            },
-            {
-                "name": "MUDr. Tom Philipp, Ph.D., MBA",
-                "role": "místopředseda"
+                "name": "MVDr. Pavel Bělobrádek, Ph.D., MPA",
+                "role": "1. místopředseda"
             },
             {
                 "name": "Mgr. Aleš Dufek",
                 "role": "předseda poslaneckého klubu"
             },
             {
-                "name": "Mgr. Lukáš Curylo",
+                "name": "Mgr. Eduard Hulicius, M.A.",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Marek Výborný",
+                "role": "předseda"
+            },
+            {
+                "name": "Mgr. Monika Brzesková",
+                "role": "místopředsedkyně"
             },
             {
                 "name": "Mgr. Pavel Hořava",
                 "role": "generální sekretář"
             },
             {
-                "name": "Mgr. Petr Hladík",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Mgr. Tomáš Zdechovský",
                 "role": "předseda národní delegace KDU-ČSL v Evropském parlamentu"
             },
             {
-                "name": "Mgr. Šárka  Jelínková",
-                "role": "místopředsedkyně"
+                "name": "PhDr. Jiří Horák, Ph.D.",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Václav Pláteník, MA LLM",
+                "role": "místopředseda"
             }
         ],
         "type": "party",
