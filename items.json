@@ -1156,7 +1156,7 @@
         "id": "10742409",
         "reg_number": "MV- 54127-2/OV-2021",
         "reg_date": "2021-04-08",
-        "address": "158 00 Praha, Sluneční náměstí 2583/11",
+        "address": "128 00 Praha, Horská 2106/2b",
         "people": [
             {
                 "name": "Karolína Kubisková",
@@ -10736,12 +10736,24 @@
                 "role": "Spolupředseda"
             },
             {
+                "name": "Gabriela Svárovská",
+                "role": "členka"
+            },
+            {
+                "name": "Matěj Pomahač",
+                "role": "člen"
+            },
+            {
                 "name": "Mgr. Magdaléna  Davis, Ph.D.",
                 "role": "Spolupředsedkyně"
             },
             {
                 "name": "Tomáš Mígl",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Vít Masare",
+                "role": "člen"
             }
         ],
         "type": "party",
