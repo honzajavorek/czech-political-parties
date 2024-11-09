@@ -6,7 +6,20 @@
         "reg_number": "MV-153832-5/OV-2024",
         "reg_date": "2024-10-25",
         "address": "110 00 Praha, U obecního dvora 802/8",
-        "people": [],
+        "people": [
+            {
+                "name": "Ondřej Němeček",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Tibor Batthyány",
+                "role": "člen"
+            },
+            {
+                "name": "Vojtěch Ryvola",
+                "role": "předseda"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
@@ -310,6 +323,10 @@
         "reg_date": "2023-11-01",
         "address": "790 84 Mikulovice, Kolnovice 25",
         "people": [
+            {
+                "name": "Julius Gergö",
+                "role": "1. místopředseda"
+            },
             {
                 "name": "Václav Sogel",
                 "role": "předseda"
