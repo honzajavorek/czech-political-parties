@@ -5527,7 +5527,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "BEZPEČNÉ ULICE",
@@ -6496,24 +6496,20 @@
         "address": "128 00 Praha, Na Moráni 360/3",
         "people": [
             {
-                "name": "Klára Kocmanová",
-                "role": "1.místopředsedkyně"
+                "name": "Ing. et Ing. Martin Šmída",
+                "role": "1. místopředseda"
             },
             {
-                "name": "MgA. Dominika  Poživilová Michailidu",
-                "role": "3. místopředsedkyně"
+                "name": "MUDr. Zdeněk Hřib",
+                "role": "předseda"
             },
             {
-                "name": "Mgr. Markéta Gregorová",
+                "name": "Mgr. Hana Hajnová",
                 "role": "2. místopředsedkyně"
             },
             {
-                "name": "Mgr.Hana Hajnová",
-                "role": "4. místopředsedkyně"
-            },
-            {
-                "name": "PhDr. Ivan Bartoš, Ph.D.",
-                "role": "předseda"
+                "name": "Michal Bláha",
+                "role": "3. místopředseda"
             }
         ],
         "type": "party",
