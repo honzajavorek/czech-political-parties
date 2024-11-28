@@ -10737,32 +10737,32 @@
         "address": "140 00 Praha, náměstí Hrdinů 1125/8",
         "people": [
             {
-                "name": "Anna Junková",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "BcA. Michal Berg",
-                "role": "Spolupředseda"
-            },
-            {
                 "name": "Gabriela Svárovská",
-                "role": "členka"
-            },
-            {
-                "name": "Matěj Pomahač",
-                "role": "člen"
-            },
-            {
-                "name": "Mgr. Magdaléna  Davis, Ph.D.",
                 "role": "Spolupředsedkyně"
             },
             {
-                "name": "Tomáš Mígl",
-                "role": "místopředseda"
+                "name": "Jana Krumpholcová",
+                "role": "členka předsednictva"
             },
             {
-                "name": "Vít Masare",
-                "role": "člen"
+                "name": "Jitka Kylišová",
+                "role": "1.místopředsedkyně"
+            },
+            {
+                "name": "Kateřina Kuchtová",
+                "role": "členka předsednictva"
+            },
+            {
+                "name": "Matouš Vencálek",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Matěj Pomahač",
+                "role": "Spolupředseda"
+            },
+            {
+                "name": "Tomáš Mígl",
+                "role": "2. místopředseda"
             }
         ],
         "type": "party",
