@@ -2312,7 +2312,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Moravské zemské hnutí",
@@ -3919,20 +3919,20 @@
                 "role": "člen"
             },
             {
-                "name": "Ing. Vlastimil  Picek",
-                "role": "předseda"
-            },
-            {
-                "name": "Jaroslav Dušek",
-                "role": "člen"
+                "name": "Ing. Vlastimil Picek",
+                "role": "1. místopředseda"
             },
             {
                 "name": "Miluše Zahrádková",
-                "role": "1.místopředsedkyně"
+                "role": "předsedkyně"
             },
             {
                 "name": "Petr Krauskopf",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Tomáš Picek",
+                "role": "člen"
             },
             {
                 "name": "Tomáš Rejzl",
@@ -7357,7 +7357,7 @@
         "id": "27034321",
         "reg_number": "VS-4429/SDR/1-2006",
         "reg_date": "2006-06-21",
-        "address": "360 01 Karlovy Vary, Zámecký vrch 674/37",
+        "address": "360 01 Karlovy Vary, Krokova 262/39",
         "people": [
             {
                 "name": "Ing. Petr Kulhánek",
@@ -7959,7 +7959,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Blok proti islamizaci – Obrana domova",
