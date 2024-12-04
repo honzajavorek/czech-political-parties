@@ -2320,7 +2320,7 @@
         "id": "07027761",
         "reg_number": "MV-16414-4/VS-2018",
         "reg_date": "2018-04-09",
-        "address": "380 01 Dačice, Na Vyhlídce 89",
+        "address": "602 00 Brno, Moravské náměstí 1007/14",
         "people": [
             {
                 "name": "Bohumil Šuhaj",
@@ -2332,6 +2332,10 @@
             },
             {
                 "name": "Mgr. Ing. Jiří Kolářský",
+                "role": "člen"
+            },
+            {
+                "name": "Mgr. MgA. Tomáš Kočko",
                 "role": "člen"
             },
             {
@@ -10210,18 +10214,18 @@
         "id": "00539996",
         "reg_number": "VSP/1-1271/90",
         "reg_date": "1990-05-07",
-        "address": "152 00 Praha, Klínecká 1224/14",
+        "address": "326 00 Plzeň, Slovanská 1970/95",
         "people": [
             {
                 "name": "Ing. František Laudát",
-                "role": "předseda"
-            },
-            {
-                "name": "Ing. Miroslav Matějka",
                 "role": "1. místopředseda"
             },
             {
-                "name": "Klára Glancová, DiS.",
+                "name": "Ing. Miroslav  Matějka",
+                "role": "předseda"
+            },
+            {
+                "name": "Martina Žornová",
                 "role": "místopředsedkyně"
             }
         ],
