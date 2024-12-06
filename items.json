@@ -981,7 +981,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Občanské fórum Beskydy",
@@ -10738,7 +10738,7 @@
         "id": "00409740",
         "reg_number": "AVS/1-260/90",
         "reg_date": "1990-02-03",
-        "address": "140 00 Praha, náměstí Hrdinů 1125/8",
+        "address": "181 00 Praha, Řešovská 495/18",
         "people": [
             {
                 "name": "Gabriela Svárovská",
