@@ -103,7 +103,24 @@
         "reg_number": "MV- 84132-4/OV-2024",
         "reg_date": "2024-06-17",
         "address": "586 01 Jihlava, Matky Boží 1182/9",
-        "people": [],
+        "people": [
+            {
+                "name": "Iveta Dolejší",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Marek Mečíř",
+                "role": "statutární místopředseda"
+            },
+            {
+                "name": "Mgr. Luděk Růžička",
+                "role": "předseda"
+            },
+            {
+                "name": "Vítězslav Hrubec",
+                "role": "místopředseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -2407,10 +2424,6 @@
         "address": "150 00 Praha, Štefánikova 1/65",
         "people": [
             {
-                "name": "Mgr. Lukáš Kostínek",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Mgr. Václav Láska",
                 "role": "předseda"
             },
@@ -3638,7 +3651,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "SPOLEHNUTÍ - SPOLEČNÉ HNUTÍ ČESKOLIPANŮ",
@@ -6510,6 +6523,10 @@
             {
                 "name": "Michal Bláha",
                 "role": "3. místopředseda"
+            },
+            {
+                "name": "PhDr. Olga Richterová, Ph.D.",
+                "role": "4. místopředsedkyně"
             }
         ],
         "type": "party",
@@ -8334,7 +8351,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "SONOB - sdružení ochrany nájemníků a ostatního bydlení",
