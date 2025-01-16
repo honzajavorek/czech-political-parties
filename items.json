@@ -41,7 +41,12 @@
         "reg_number": "MV-102429-11/OV-2024",
         "reg_date": "2024-08-20",
         "address": "252 62 Horoměřice, K Roklím 431",
-        "people": [],
+        "people": [
+            {
+                "name": "Vladislav Svoboda",
+                "role": "předseda"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
@@ -5552,11 +5557,11 @@
         "people": [
             {
                 "name": "Hana Pavlíčková",
-                "role": "předseda"
+                "role": "1.místopředsedkyně"
             },
             {
-                "name": "Tomáš  Hamšík",
-                "role": "1. místopředseda"
+                "name": "Mgr. Jiří Štěpánek",
+                "role": "předseda"
             }
         ],
         "type": "party",
