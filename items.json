@@ -1,5 +1,16 @@
 [
     {
+        "name": "Chomutovská koalice",
+        "code": "Koala",
+        "id": "22534989",
+        "reg_number": "MV-183853-6/OV-2024",
+        "reg_date": "2025-01-30",
+        "address": "430 01 Chomutov 226/6",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Liga nespokojených",
         "code": "Liga",
         "id": "22478787",
@@ -1714,7 +1725,7 @@
         "is_active": true
     },
     {
-        "name": "HLAS za uzákonění EUTANAZIE, HLAS za rovnoprávnost ŽEN, HLAS za bezpečnou a spolupracující EVROPU! (www.hnutihlas.cz)",
+        "name": "Hnutí HLAS",
         "code": "Hlas",
         "id": "07921331",
         "reg_number": "MV-25390-2/VS-2019",
@@ -1723,11 +1734,15 @@
         "people": [
             {
                 "name": "Daniel Chlad",
-                "role": "předseda"
+                "role": "1. místopředseda"
             },
             {
-                "name": "Ing. Michal Ruman",
-                "role": "místopředseda"
+                "name": "Mgr. Michal Truhlář",
+                "role": "2. místopředseda"
+            },
+            {
+                "name": "Petr Hrdý",
+                "role": "předseda"
             }
         ],
         "type": "movement",
