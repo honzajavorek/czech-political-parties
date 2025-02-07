@@ -79,7 +79,20 @@
         "reg_number": "MV-102738-5/OV-2024",
         "reg_date": "2024-08-07",
         "address": "252 45 Ohrobec, Jarovská 96",
-        "people": [],
+        "people": [
+            {
+                "name": "Ing. Tomáš Havlíček",
+                "role": "předseda"
+            },
+            {
+                "name": "Lucie Chmelová",
+                "role": "členka předsednictva"
+            },
+            {
+                "name": "Petr Chmela",
+                "role": "člen předsednictva"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
@@ -3536,10 +3549,6 @@
             {
                 "name": "MgA. Lukáš Černý",
                 "role": "místopředseda"
-            },
-            {
-                "name": "Mgr. Jan Holín",
-                "role": "člen"
             },
             {
                 "name": "Mgr. Jana Křišťanová",
