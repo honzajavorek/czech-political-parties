@@ -9941,7 +9941,7 @@
     },
     {
         "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
-        "code": "Monarchiste.cz",
+        "code": "Koruna Česká",
         "id": "44266740",
         "reg_number": "VSC/1-3275/91",
         "reg_date": "1991-08-29",
@@ -9960,8 +9960,8 @@
                 "role": "člen předsednictva"
             },
             {
-                "name": "Kateřina Boušková",
-                "role": "Generální sekretářka"
+                "name": "Josef Kudrna",
+                "role": "člen předsednictva"
             },
             {
                 "name": "Luboš Samuel  Erbandorf",
@@ -9970,6 +9970,10 @@
             {
                 "name": "Luboš Samuel  Erbandorf",
                 "role": "český zemský hejtman"
+            },
+            {
+                "name": "Martin Váňa",
+                "role": "Generální sekretář"
             },
             {
                 "name": "Matěj Čadil",
