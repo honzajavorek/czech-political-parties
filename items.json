@@ -1233,10 +1233,6 @@
         "address": "128 00 Praha, Horská 2106/2b",
         "people": [
             {
-                "name": "Karolína Kubisková",
-                "role": "místopředsedkyně"
-            },
-            {
                 "name": "Mgr. Jaroslav Pelc",
                 "role": "1. Místopředseda"
             },
@@ -1245,7 +1241,11 @@
                 "role": "předseda"
             },
             {
-                "name": "Petr Denk",
+                "name": "Nikola Bartůšek",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Petr Vokřál",
                 "role": "místopředseda"
             }
         ],
