@@ -1,5 +1,16 @@
 [
     {
+        "name": "Politické hnutí NEZLOMNÍ",
+        "code": "NEZLOMNÍ",
+        "id": "22592989",
+        "reg_number": "MV- 22689-2/OV-2025",
+        "reg_date": "2025-02-13",
+        "address": "258 01 Vlašim, Družstevní 988",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Chomutovská koalice",
         "code": "Koala",
         "id": "22534989",
@@ -861,8 +872,8 @@
         "is_active": true
     },
     {
-        "name": "Právo Respekt Odbornost",
-        "code": "PRO 2022",
+        "name": "PRO Právo Respekt Odbornost",
+        "code": "PRO",
         "id": "17085438",
         "reg_number": "MV-71883-4/OV-2022",
         "reg_date": "2022-04-27",
@@ -5793,7 +5804,7 @@
         "is_active": false
     },
     {
-        "name": "Švýcarská demokracie (www.svycarska-demokracie.cz)",
+        "name": "ŠVÝCARSKÁ DEMOKRACIE - Švýcaři si užívají nejvyšší kvality života na světě - PRŮMĚRNOU MZDU mají v přepočtu zhruba 170 000 Kč (ČR 45 000 Kč), DPH mají pouhých 8% (ČR 21%), STÁTNÍ DLUH dlouhodobě snižují, INFLACI mají nejnižší v Evropě, v posledních krizových letech jen 3% (ČR 17%), KONKURENCESCHOPNÍ jsou nejvíce na světě, JUSTICI mají jednu z nejefektivnějších (přitom nemají ústavní soud), KVALITU ŽIVOTNÍHO PROSTŘEDÍ mají jednu z nejlepších, OCHRANU PRÁV ZVÍŘAT jednu z nejvyšších, OBRANU jednu z nejúčinnějších (organizovanou jako domobranu), IMIGRACI zcela pod kontrolou, přitom nejsou členy EU ani NATO - za to vše vděčí svému originálnímu politickému SYSTÉMU, který stojí na FEDERALISMU, NEUTRALITĚ a PŘÍMÉ DEMOKRACII - 30 let měníme politiky a naše výsledky se zásadně nemění, je tedy POTŘEBA ZMĚNIT SYSTÉM po vzoru Švýcarska, to můžeme učinit jedním velkým krokem, PŘIJETÍM NOVÉ ÚSTAVY, to je náš cíl, je potřeba se učit od úspěšných (svycarska-demokracie.cz)",
         "code": "Švýcarská demokracie",
         "id": "71443177",
         "reg_number": "MV-69200-5/VS-2010",
@@ -6661,7 +6672,7 @@
                 "role": "člen"
             },
             {
-                "name": "Ladislav Marek",
+                "name": "MUDr. Jaroslav Jeníček, CSc.",
                 "role": "člen"
             },
             {
@@ -6673,8 +6684,8 @@
                 "role": "místopředseda"
             },
             {
-                "name": "Petr Thaisz",
-                "role": "člen"
+                "name": "Zora Mlčáková",
+                "role": "členka"
             }
         ],
         "type": "party",
