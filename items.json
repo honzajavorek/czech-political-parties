@@ -594,22 +594,9 @@
         "reg_number": "MV-102857-4/OV-2022",
         "reg_date": "2022-06-27",
         "address": "360 01 Karlovy Vary, Na Vyhlídce 496/26",
-        "people": [
-            {
-                "name": "Daniel Stehlík",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Petr Ajšman",
-                "role": "předseda"
-            },
-            {
-                "name": "Vladimír Valkoun",
-                "role": "místopředseda"
-            }
-        ],
+        "people": [],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Osmička žije",
@@ -3240,7 +3227,11 @@
         "address": "330 16 Všeruby 323",
         "people": [
             {
-                "name": "Bc. Petr Šrámek",
+                "name": "Ing. Pavel Šrámek, MBA",
+                "role": "předseda"
+            },
+            {
+                "name": "Petr Ajšman",
                 "role": "statutární místopředseda"
             }
         ],
@@ -3413,10 +3404,6 @@
             {
                 "name": "Jan Hýsek",
                 "role": "místopředseda"
-            },
-            {
-                "name": "Jiří  Hladík",
-                "role": "předseda"
             },
             {
                 "name": "Leoš Kučera",
@@ -9753,6 +9740,10 @@
         "address": "106 00 Praha, Žirovnická 3133/6",
         "people": [
             {
+                "name": "Anna Mikulenková",
+                "role": "předsedkyně"
+            },
+            {
                 "name": "Jakub Višňák",
                 "role": "člen"
             },
@@ -9762,10 +9753,6 @@
             },
             {
                 "name": "Vladimír Farana",
-                "role": "člen"
-            },
-            {
-                "name": "Vojtěch Juřica",
                 "role": "člen"
             },
             {
