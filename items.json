@@ -63,7 +63,32 @@
         "reg_number": "MV-141340-4/OV-2024",
         "reg_date": "2024-10-10",
         "address": "671 72 Miroslav, Václavov 741/12",
-        "people": [],
+        "people": [
+            {
+                "name": "Dagmar Koníčková",
+                "role": "členka"
+            },
+            {
+                "name": "Dana Kulichová",
+                "role": "členka"
+            },
+            {
+                "name": "Daniel Sterzik",
+                "role": "předseda"
+            },
+            {
+                "name": "Ondřej Dostál",
+                "role": "1. místopředseda"
+            },
+            {
+                "name": "Pavlína Procházková",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Petr Karola",
+                "role": "člen"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -324,16 +349,16 @@
         "address": "363 01 Hájek 9",
         "people": [
             {
+                "name": "Ing. Markéta Sinkulová Moravcová",
+                "role": "místopředsedkyně"
+            },
+            {
                 "name": "Ing. Vít Hromádko",
                 "role": "předseda"
             },
             {
                 "name": "Michaela Holubcová",
                 "role": "místopředsedkyně"
-            },
-            {
-                "name": "Vlastimil Ondra",
-                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -9749,10 +9774,6 @@
             },
             {
                 "name": "Vladimír Farana",
-                "role": "člen"
-            },
-            {
-                "name": "Vítek Prokop",
                 "role": "člen"
             }
         ],
