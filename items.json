@@ -6,7 +6,28 @@
         "reg_number": "MV- 22689-2/OV-2025",
         "reg_date": "2025-02-13",
         "address": "258 01 Vlašim, Družstevní 988",
-        "people": [],
+        "people": [
+            {
+                "name": "Jan Hrabčák",
+                "role": "člen"
+            },
+            {
+                "name": "Michaela Havelková",
+                "role": "členka"
+            },
+            {
+                "name": "Nela Lisková",
+                "role": "předsedkyně"
+            },
+            {
+                "name": "Pavel Šrytr",
+                "role": "místopředseda"
+            },
+            {
+                "name": "René Kaniok",
+                "role": "člen"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
