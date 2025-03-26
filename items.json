@@ -8956,28 +8956,28 @@
                 "role": "člen ŘR"
             },
             {
-                "name": "Ing. Josef Hora",
-                "role": "předseda"
-            },
-            {
-                "name": "Josef Zoser",
-                "role": "místopředseda"
+                "name": "Jakub Altšmíd",
+                "role": "člen ŘR"
             },
             {
                 "name": "Martin  Zvěřina",
                 "role": "člen ŘR"
             },
             {
-                "name": "Miroslav Egert",
+                "name": "Miloš Volek",
                 "role": "člen ŘR"
             },
             {
-                "name": "Patrik Pizinger",
+                "name": "Miroslav Egert",
                 "role": "hlavní pokladník"
             },
             {
+                "name": "Patrik Pizinger",
+                "role": "předseda"
+            },
+            {
                 "name": "Pavel Kundrát",
-                "role": "člen ŘR"
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
