@@ -270,7 +270,7 @@
                 "role": "předseda"
             },
             {
-                "name": "Martin Szetei",
+                "name": "Jiří Pop",
                 "role": "2. místopředseda"
             },
             {
@@ -4464,12 +4464,28 @@
         "address": "323 00 Plzeň, Toužimská 1685/23",
         "people": [
             {
-                "name": "Ing. Tomáš Kotora",
+                "name": "Ing. Lucie Peroutková",
+                "role": "členka"
+            },
+            {
+                "name": "Ing. Tomáš  Kotora",
+                "role": "člen"
+            },
+            {
+                "name": "Ing. Tomáš Morávek",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Jan Šlehofer",
+                "role": "člen"
             },
             {
                 "name": "Jiří Uhlík, MBA",
                 "role": "člen"
+            },
+            {
+                "name": "Mgr. Bc. Nikola Šimlová",
+                "role": "členka"
             },
             {
                 "name": "Mgr. Radek Mráz, MBA",
@@ -4477,11 +4493,7 @@
             },
             {
                 "name": "Michael Sinkule",
-                "role": "místopředseda"
-            },
-            {
-                "name": "PhDr. Mgr. Petr Maule, MBA",
-                "role": "místopředseda"
+                "role": "člen"
             },
             {
                 "name": "Roman Andrlík",
@@ -6686,7 +6698,7 @@
         "id": "71339655",
         "reg_number": "MV-15624-6/VS-2009",
         "reg_date": "2009-03-13",
-        "address": "130 00 Praha, náměstí Winstona Churchilla 1800/2",
+        "address": "110 00 Praha, Školská 660/3",
         "people": [
             {
                 "name": "Ing. Ladislav Linek",
