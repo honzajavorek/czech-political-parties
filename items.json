@@ -455,7 +455,7 @@
         "id": "19882149",
         "reg_number": "MV-170342-4/OV-2023",
         "reg_date": "2023-11-01",
-        "address": "149 00 Praha, Divišovská 2307/14",
+        "address": "170 00 Praha, Jankovcova 1535/2a",
         "people": [
             {
                 "name": "Ladislav Vrabel",
@@ -10167,10 +10167,6 @@
         "address": "110 00 Praha, Politických vězňů 1531/9",
         "people": [
             {
-                "name": "Dana Lysáková",
-                "role": "členka VV ÚV KSČM"
-            },
-            {
                 "name": "Filip Zachariaš",
                 "role": "člen VV ÚV KSČM"
             },
@@ -10228,6 +10224,10 @@
             },
             {
                 "name": "Václav Snopek",
+                "role": "člen VV ÚV KSČM"
+            },
+            {
+                "name": "Václav Větrovec",
                 "role": "člen VV ÚV KSČM"
             },
             {
