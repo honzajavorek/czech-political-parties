@@ -1,5 +1,16 @@
 [
     {
+        "name": "Voluntia, protože dobrovolnost je základním kamenem svobodné, respektující a produktivní společnosti",
+        "code": "Voluntia",
+        "id": "23201703",
+        "reg_number": "MV-52826-4/OV-2025",
+        "reg_date": "2025-04-22",
+        "address": "181 00 Praha, Fořtova 16/3",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "Politické hnutí NEZLOMNÍ",
         "code": "NEZLOMNÍ",
         "id": "22592989",
