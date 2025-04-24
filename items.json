@@ -4859,12 +4859,7 @@
         "reg_number": "MV-107842-4/VS-2013",
         "reg_date": "2013-09-05",
         "address": "118 00 Praha, Sněmovní 174/7",
-        "people": [
-            {
-                "name": "MUDr. Džamila Stehlíková",
-                "role": "předsedkyně"
-            }
-        ],
+        "people": [],
         "type": "party",
         "is_active": true
     },
