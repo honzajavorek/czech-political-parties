@@ -3567,8 +3567,8 @@
         "address": "419 01 Duchcov, Jungmannova 1337/24A",
         "people": [
             {
-                "name": "Ing. Jitka Bártová",
-                "role": "předsedkyně"
+                "name": "Zdeněk Burda",
+                "role": "předseda"
             }
         ],
         "type": "movement",
@@ -6146,10 +6146,6 @@
             {
                 "name": "Ing. Pavel Mužný",
                 "role": "předseda"
-            },
-            {
-                "name": "Jiří Dufek",
-                "role": "1. místopředseda"
             }
         ],
         "type": "party",
