@@ -6,7 +6,12 @@
         "reg_number": "MV-52826-4/OV-2025",
         "reg_date": "2025-04-22",
         "address": "181 00 Praha, Fořtova 16/3",
-        "people": [],
+        "people": [
+            {
+                "name": "Dominik Hais",
+                "role": "statutární zástupce"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
@@ -4343,8 +4348,16 @@
         "address": "400 11 Ústí nad Labem, Pincova 2971/13",
         "people": [
             {
+                "name": "Alena Poláčková",
+                "role": "předsedkyně"
+            },
+            {
                 "name": "Jindřich Novák",
                 "role": "člen"
+            },
+            {
+                "name": "Martin Vrtiška",
+                "role": "výkonný tajemník"
             }
         ],
         "type": "movement",
