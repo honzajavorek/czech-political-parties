@@ -54,7 +54,36 @@
         "reg_number": "MV-183853-6/OV-2024",
         "reg_date": "2025-01-30",
         "address": "430 01 Chomutov, Hálkova 226/6",
-        "people": [],
+        "people": [
+            {
+                "name": "Hana Černá",
+                "role": "hlavní manažerka"
+            },
+            {
+                "name": "JUDr. PhDr. Josef Marcel",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Jakub Klačko",
+                "role": "místopředseda"
+            },
+            {
+                "name": "MUDr. Jiří Binter",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Martin Boček",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Darina Komínková MBA",
+                "role": "1.místopředsedkyně"
+            },
+            {
+                "name": "Mgr. Jiří Richter",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -288,6 +317,10 @@
             {
                 "name": "Jiří Pop",
                 "role": "2. místopředseda"
+            },
+            {
+                "name": "Jonáš Továrek",
+                "role": "člen předsednictva"
             },
             {
                 "name": "Petr Jindřichovský",
