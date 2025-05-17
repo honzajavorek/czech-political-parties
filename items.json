@@ -1,5 +1,16 @@
 [
     {
+        "name": "NE 2025",
+        "code": "NE",
+        "id": "23287420",
+        "reg_number": "MV-59695-6/OV-2025",
+        "reg_date": "2025-05-16",
+        "address": "737 01 Český Těšín, Nádražní 16/10",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Voluntia, protože dobrovolnost je základním kamenem svobodné, respektující a produktivní společnosti",
         "code": "Voluntia",
         "id": "23201703",
