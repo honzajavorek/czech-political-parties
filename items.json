@@ -930,7 +930,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "KRÁSNÁ KOPŘIVNICE",
