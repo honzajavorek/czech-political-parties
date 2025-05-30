@@ -8713,10 +8713,6 @@
         "address": "530 21 Pardubice, Pernštýnské náměstí 117",
         "people": [
             {
-                "name": "Petr Dvořák",
-                "role": "člen"
-            },
-            {
                 "name": "Petr Řezníček",
                 "role": "člen"
             },
@@ -8726,6 +8722,10 @@
             },
             {
                 "name": "Stanislav Boloňský",
+                "role": "člen"
+            },
+            {
+                "name": "Zdeněk Jirsa",
                 "role": "člen"
             },
             {
