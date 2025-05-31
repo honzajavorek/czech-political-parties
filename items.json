@@ -3508,12 +3508,20 @@
         "address": "500 03 Hradec Králové, Buzulucká 1106/18",
         "people": [
             {
-                "name": "Jan Hýsek",
-                "role": "místopředseda"
+                "name": "Alina Mojšová",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Karel Leškovský",
+                "role": "předseda"
             },
             {
                 "name": "Leoš Kučera",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Radka Kučerová",
+                "role": "místopředsedkyně"
             }
         ],
         "type": "movement",
