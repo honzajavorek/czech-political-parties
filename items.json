@@ -7903,48 +7903,60 @@
         "address": "118 00 Praha, Malostranské náměstí  266/5",
         "people": [
             {
-                "name": "Jan Farský",
-                "role": "2. místopředseda"
+                "name": "Hana Naiclerová",
+                "role": "členka předsednictva"
             },
             {
-                "name": "Jan Kuchař",
+                "name": "Jan  Farský",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Jan Papajanovský",
                 "role": "člen předsednictva"
             },
             {
-                "name": "Jan Lacina",
-                "role": "5. místopředseda"
+                "name": "Karel Dvořák",
+                "role": "místopředseda"
             },
             {
-                "name": "Josef Suchánek",
-                "role": "člen předsednictva"
+                "name": "Kateřina Arnotová",
+                "role": "členka předsednictva"
             },
             {
                 "name": "Lukáš Vlček",
                 "role": "1. místopředseda"
             },
             {
-                "name": "Matěj Hlavatý",
+                "name": "Martin Dvořák",
                 "role": "člen předsednictva"
             },
             {
-                "name": "Michaela Matoušková",
-                "role": "členka předsednictva"
-            },
-            {
                 "name": "Michaela Šebelová",
-                "role": "3. místopředseda"
+                "role": "místopředsedkyně"
             },
             {
-                "name": "Mikuláš Bek",
+                "name": "Miroslav Balatka",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Ondřej Lochman",
                 "role": "člen předsednictva"
             },
             {
                 "name": "Pavel Čížek",
-                "role": "4. místopředseda"
+                "role": "místopředseda"
+            },
+            {
+                "name": "Petra Korlaar",
+                "role": "členka předsednictva"
             },
             {
                 "name": "Petra Pecková",
                 "role": "členka předsednictva"
+            },
+            {
+                "name": "Tomáš Dubský",
+                "role": "člen předsednictva"
             },
             {
                 "name": "Viktor Vojtko",
@@ -7953,10 +7965,6 @@
             {
                 "name": "Vít Rakušan",
                 "role": "předseda"
-            },
-            {
-                "name": "Věra Kovářová",
-                "role": "členka předsednictva"
             }
         ],
         "type": "movement",
