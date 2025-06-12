@@ -1,5 +1,16 @@
 [
     {
+        "name": "Strana příznivců demokracie a Tomia Okamury",
+        "code": "SPDTOP",
+        "id": "23377852",
+        "reg_number": "MV-87702-2/OV-2025",
+        "reg_date": "2025-06-11",
+        "address": "190 00 Praha, Kurta Konráda 2457/6",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "NE 2025",
         "code": "NE",
         "id": "23287420",
@@ -3500,34 +3511,6 @@
         "is_active": false
     },
     {
-        "name": "DOMA",
-        "code": "DOMA",
-        "id": "03254658",
-        "reg_number": "MV-97630-6/VS-2014",
-        "reg_date": "2014-07-31",
-        "address": "500 03 Hradec Králové, Buzulucká 1106/18",
-        "people": [
-            {
-                "name": "Alina Mojšová",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "Karel Leškovský",
-                "role": "předseda"
-            },
-            {
-                "name": "Leoš Kučera",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Radka Kučerová",
-                "role": "místopředsedkyně"
-            }
-        ],
-        "type": "movement",
-        "is_active": true
-    },
-    {
         "name": "Moderní společnost",
         "code": "MODES",
         "id": "03254747",
@@ -3590,6 +3573,34 @@
         ],
         "type": "movement",
         "is_active": false
+    },
+    {
+        "name": "SMS – Stát Má Sloužit",
+        "code": "SMSka",
+        "id": "03254658",
+        "reg_number": "MV-97630-6/VS-2014",
+        "reg_date": "2014-07-31",
+        "address": "251 01 Popovičky, Na Stádlech 65",
+        "people": [
+            {
+                "name": "Alina Mojšová",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Karel Leškovský",
+                "role": "předseda"
+            },
+            {
+                "name": "Leoš Kučera",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Radka Kučerová",
+                "role": "místopředsedkyně"
+            }
+        ],
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Solidarita, Vlast a Zákon",
@@ -4708,23 +4719,19 @@
         "is_active": false
     },
     {
-        "name": "Hnutí Dobrých Proměn",
-        "code": "HDP",
+        "name": "Hnutí Správný stát",
+        "code": "HSS",
         "id": "02674831",
         "reg_number": "MV-20651-2/VS-2014",
         "reg_date": "2014-02-19",
-        "address": "551 01 Jaroměř, nám. Československé armády 31",
+        "address": "679 51 Němčice 178",
         "people": [
             {
-                "name": "Aleš Svoboda",
-                "role": "1. místopředseda"
+                "name": "Dita Leitnerová",
+                "role": "1.místopředsedkyně"
             },
             {
-                "name": "Jan Mojžíš",
-                "role": "2. místopředseda"
-            },
-            {
-                "name": "Stanislav  Rudolfský",
+                "name": "František Zoubek",
                 "role": "předseda"
             }
         ],
