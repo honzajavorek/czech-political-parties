@@ -1,5 +1,16 @@
 [
     {
+        "name": "VIZE 2025",
+        "code": "VIZE",
+        "id": "23392771",
+        "reg_number": "MV- 88653-5/OV-2025",
+        "reg_date": "2025-06-16",
+        "address": "394 70 Kamenice nad Lipou, Vackova 104",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "Strana příznivců demokracie a Tomia Okamury",
         "code": "SPDTO",
         "id": "23377852",
