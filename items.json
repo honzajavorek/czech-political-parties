@@ -677,15 +677,15 @@
         "people": [
             {
                 "name": "Adam Hanka",
-                "role": "předseda"
+                "role": "Spolupředseda"
             },
             {
                 "name": "Adam Hruška",
-                "role": "místopředseda"
+                "role": "Místopředseda"
             },
             {
                 "name": "Daniela Dolejší",
-                "role": "místopředsedkyně"
+                "role": "Spolupředsedkyně"
             }
         ],
         "type": "party",
@@ -5902,7 +5902,7 @@
         "address": "370 01 České Budějovice, Riegrova 1804/11",
         "people": [
             {
-                "name": "Juraj Thoma",
+                "name": "Mgr. Tomáš Chovanec, Ph.D.",
                 "role": "předseda"
             }
         ],
