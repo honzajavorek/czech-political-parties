@@ -476,12 +476,20 @@
         "address": "120 00 Praha, Lublaňská 647/48",
         "people": [
             {
-                "name": "Ing. Bronislav  Sedláček",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Ing. Vladimír  Štěpán",
                 "role": "předseda"
+            },
+            {
+                "name": "Martin Havel",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Radomír Marszalek",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Stanislav Kulhavý",
+                "role": "člen předsednictva"
             },
             {
                 "name": "Zdeňka Niklová",
@@ -2409,10 +2417,6 @@
             {
                 "name": "MUDr. Pavel Vychytil",
                 "role": "člen předsednictva"
-            },
-            {
-                "name": "Mgr. Marie Tichá",
-                "role": "místopředsedkyně"
             }
         ],
         "type": "movement",
