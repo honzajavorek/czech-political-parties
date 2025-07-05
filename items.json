@@ -6,7 +6,20 @@
         "reg_number": "MV- 88653-5/OV-2025",
         "reg_date": "2025-06-16",
         "address": "394 70 Kamenice nad Lipou, Vackova 104",
-        "people": [],
+        "people": [
+            {
+                "name": "Ing. David Hochman",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Ing. Karolína Kubisková",
+                "role": "předsedkyně"
+            },
+            {
+                "name": "MUDr. Ing. Petra Fejtová MBA",
+                "role": "místopředsedkyně"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
