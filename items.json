@@ -1,5 +1,21 @@
 [
     {
+        "name": "Rebelové",
+        "code": "Rebelové",
+        "id": "23483105",
+        "reg_number": "MV-88654-4/OV-2025",
+        "reg_date": "2025-07-10",
+        "address": "141 00 Praha, Na líše 726/27",
+        "people": [
+            {
+                "name": "Miloslav Zientek",
+                "role": "Hlavní stratég"
+            }
+        ],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "VIZE 2025",
         "code": "VIZE",
         "id": "23392771",
