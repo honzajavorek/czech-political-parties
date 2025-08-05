@@ -6,7 +6,24 @@
         "reg_number": "MV-113816-4/OV-2025",
         "reg_date": "2025-07-24",
         "address": "289 21 Kostomlaty nad Labem, Pod Sokolovnou 252",
-        "people": [],
+        "people": [
+            {
+                "name": "Klára Kadár",
+                "role": "členka"
+            },
+            {
+                "name": "Marta Martinová",
+                "role": "členka"
+            },
+            {
+                "name": "Michaela Nedory",
+                "role": "členka"
+            },
+            {
+                "name": "Pavla Krausová",
+                "role": "členka"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -1523,7 +1540,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "O vás pro vás",
