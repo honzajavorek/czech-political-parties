@@ -184,7 +184,12 @@
         "reg_number": "MV-160765-8/OV-2024",
         "reg_date": "2025-01-16",
         "address": "667 01 Židlochovice, Nádražní 316",
-        "people": [],
+        "people": [
+            {
+                "name": "Jaroslav Svoboda",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -4165,10 +4170,6 @@
             {
                 "name": "Miluše Zahrádková",
                 "role": "předsedkyně"
-            },
-            {
-                "name": "Petr Krauskopf",
-                "role": "místopředseda"
             },
             {
                 "name": "Tomáš Picek",
