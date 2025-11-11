@@ -3731,10 +3731,6 @@
         "address": "387 01 Volyně 12",
         "people": [
             {
-                "name": "Ing. arch. Veronika Kovářová",
-                "role": "členka"
-            },
-            {
                 "name": "MUDr. Jan Kovář",
                 "role": "člen"
             },
@@ -4939,10 +4935,6 @@
         "address": "738 01 Frýdek-Místek, Josefa Václava Sládka 35",
         "people": [
             {
-                "name": "Ing. Bc. Gabriela Rumíšková",
-                "role": "členka"
-            },
-            {
                 "name": "Ing. Jiří Kajzar",
                 "role": "místopředseda"
             },
@@ -4952,6 +4944,10 @@
             },
             {
                 "name": "Ing. Miroslav Bártek",
+                "role": "člen"
+            },
+            {
+                "name": "Ing. Petr Gaj, MBA",
                 "role": "člen"
             },
             {
@@ -6857,10 +6853,6 @@
             },
             {
                 "name": "Jaroslav Sojka",
-                "role": "člen"
-            },
-            {
-                "name": "MUDr. Jaroslav Jeníček, CSc.",
                 "role": "člen"
             },
             {
@@ -10107,12 +10099,12 @@
         "address": "120 00 Praha, Karlovo náměstí 317/5",
         "people": [
             {
-                "name": "Aleš Dufek",
-                "role": "předseda poslaneckého klubu"
-            },
-            {
                 "name": "Ing. Josef Klement",
                 "role": "předseda senátního klubu"
+            },
+            {
+                "name": "MUDr. Tom Philipp, Ph.D.",
+                "role": "předseda poslaneckého klubu"
             },
             {
                 "name": "MVDr. Pavel Bělobrádek, Ph.D., MPA",
