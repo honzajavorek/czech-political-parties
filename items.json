@@ -3652,19 +3652,15 @@
         "address": "251 01 Popovičky, Na Stádlech 65",
         "people": [
             {
-                "name": "Alina Mojšová",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "Karel Leškovský",
-                "role": "předseda"
-            },
-            {
                 "name": "Leoš Kučera",
                 "role": "místopředseda"
             },
             {
-                "name": "Radka Kučerová",
+                "name": "Mgr. Ing. Karel Leškovský",
+                "role": "předseda"
+            },
+            {
+                "name": "Zuzana Dušková",
                 "role": "místopředsedkyně"
             }
         ],
