@@ -4309,7 +4309,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Žít Brno",
@@ -6752,12 +6752,8 @@
                 "role": "2. místopředsedkyně"
             },
             {
-                "name": "Michal Bláha",
-                "role": "3. místopředseda"
-            },
-            {
                 "name": "PhDr. Olga Richterová, Ph.D.",
-                "role": "4. místopředsedkyně"
+                "role": "3. místopředsedkyně"
             }
         ],
         "type": "party",
