@@ -6676,56 +6676,60 @@
                 "role": "předseda Klubu poslanců"
             },
             {
+                "name": "Jiří Pospíšil",
+                "role": "1. místopředseda"
+            },
+            {
+                "name": "Jiří Slavík",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Kateřina Pastorková",
+                "role": "místopředsedkyně"
+            },
+            {
                 "name": "Luděk Niedermayer",
                 "role": "vedoucí národní delegace v poslaneckém klubu Evropského parlamentu"
             },
             {
-                "name": "Markéta  Pekarová Adamová",
-                "role": "předsedkyně"
+                "name": "Lukáš Otys",
+                "role": "místopředseda"
             },
             {
-                "name": "Martina Ochodnická",
-                "role": "místopředsedkyně"
+                "name": "Marek Ženíšek",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Martin Horák",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Martin Leška",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Martin Neřád",
+                "role": "člen předsednictva"
             },
             {
                 "name": "Matěj Ondřej Havel",
+                "role": "předseda"
+            },
+            {
+                "name": "Ondřej Műller",
                 "role": "místopředseda"
             },
             {
-                "name": "Michal Kučera",
-                "role": "místopředseda"
+                "name": "Radka Vaňousová",
+                "role": "členka předsednictva"
             },
             {
-                "name": "Michal Vozobule",
+                "name": "Tomáš Aberl",
                 "role": "člen předsednictva"
-            },
-            {
-                "name": "Pavel Klíma",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Pavel Kounovský",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Pavel Svoboda",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Radovan Auer",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Tomáš Czernin",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Tomáš Třetina",
-                "role": "předseda Klubu starostů TOP 09, z.s."
             },
             {
                 "name": "Vlastimil Válek",
-                "role": "1. místopředseda"
+                "role": "člen předsednictva"
             }
         ],
         "type": "party",
