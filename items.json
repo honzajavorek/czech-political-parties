@@ -4532,24 +4532,24 @@
         "address": "430 01 Chomutov, Chelčického 255",
         "people": [
             {
-                "name": "David Dinda",
+                "name": "Bc. Jiří Kratochvíl",
                 "role": "člen"
             },
             {
-                "name": "Ing. Miroslav Legner",
-                "role": "člen"
-            },
-            {
-                "name": "Karel Lipmann",
+                "name": "Ing. Martin Bocian",
                 "role": "předseda"
+            },
+            {
+                "name": "Ing. Milan Štefanov",
+                "role": "místopředseda"
             },
             {
                 "name": "Mgr. Milan Märc",
                 "role": "místopředseda"
             },
             {
-                "name": "Mgr. Milan Štefanov",
-                "role": "místopředseda"
+                "name": "PaedDr. Jan Micka",
+                "role": "člen"
             }
         ],
         "type": "movement",
@@ -4988,7 +4988,32 @@
         "reg_number": "MV-107842-4/VS-2013",
         "reg_date": "2013-09-05",
         "address": "118 00 Praha, Sněmovní 174/7",
-        "people": [],
+        "people": [
+            {
+                "name": "Adam Holub",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Jan Balcar",
+                "role": "1. místopředseda"
+            },
+            {
+                "name": "Jiří Vyhnal",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Ladislav Miko",
+                "role": "předseda"
+            },
+            {
+                "name": "Natalie Hoffmann Kocábová",
+                "role": "členka"
+            },
+            {
+                "name": "Roman Haken",
+                "role": "místopředseda"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
