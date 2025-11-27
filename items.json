@@ -1763,19 +1763,27 @@
         "is_active": true
     },
     {
-        "name": "Společně pro kraj",
-        "code": "SproK",
+        "name": "MY",
+        "code": "MY",
         "id": "08431345",
         "reg_number": "MV-104993-4/VS-2019",
         "reg_date": "2019-08-19",
         "address": "561 51 Letohrad, Komenského 275",
         "people": [
             {
+                "name": "JUDr. Martin Netolický, Ph.D.",
+                "role": "člen"
+            },
+            {
                 "name": "Jan Stránský",
                 "role": "člen"
             },
             {
                 "name": "Josef Kozel",
+                "role": "člen"
+            },
+            {
+                "name": "Mgr. Dominik Barták",
                 "role": "člen"
             },
             {
