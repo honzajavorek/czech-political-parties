@@ -1,5 +1,16 @@
 [
     {
+        "name": "Svěží Týniště",
+        "code": "ST",
+        "id": "24011495",
+        "reg_number": "MV-185981-4/OV-2025",
+        "reg_date": "2025-12-01",
+        "address": "517 21 Týniště nad Orlicí, T. G. Masaryka 957",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Hnutí Kruh",
         "code": "Kruh",
         "id": "23528214",
@@ -2870,12 +2881,12 @@
         "address": "118 00 Praha, Thunovská 183/18",
         "people": [
             {
-                "name": "Bc. Renata Maršíková",
-                "role": "členka"
+                "name": "Bc. Renata  Maršíková",
+                "role": "místopředsedkyně"
             },
             {
-                "name": "Mgr. Jiří Barták",
-                "role": "člen"
+                "name": "Mgr. Jiří  Barták",
+                "role": "místopředseda"
             },
             {
                 "name": "Mgr. Petr Macinka",
