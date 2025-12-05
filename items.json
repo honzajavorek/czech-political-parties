@@ -3746,10 +3746,6 @@
         "address": "387 01 Volyně 12",
         "people": [
             {
-                "name": "MUDr. Jan Kovář",
-                "role": "člen"
-            },
-            {
                 "name": "MgA. Lukáš Černý",
                 "role": "místopředseda"
             },
@@ -5644,7 +5640,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "ANO 2011",
