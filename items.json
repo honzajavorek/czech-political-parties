@@ -614,7 +614,7 @@
         "id": "19882149",
         "reg_number": "MV-170342-4/OV-2023",
         "reg_date": "2023-11-01",
-        "address": "170 00 Praha, Jankovcova 1535/2a",
+        "address": "170 00 Praha, Plynární 1032/29",
         "people": [
             {
                 "name": "Ladislav Vrabel",
@@ -6884,11 +6884,11 @@
                 "role": "1. místopředseda"
             },
             {
-                "name": "Jan  Baránek",
-                "role": "místopředseda"
+                "name": "Jaroslav Sojka",
+                "role": "člen"
             },
             {
-                "name": "Jaroslav Sojka",
+                "name": "Otto Jarolímek",
                 "role": "člen"
             },
             {
@@ -6897,6 +6897,10 @@
             },
             {
                 "name": "Petr Jurča",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Robert Kučera",
                 "role": "místopředseda"
             },
             {
