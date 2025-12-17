@@ -1,5 +1,29 @@
 [
     {
+        "name": "Zbrojovka a fotbal zpět za Lužánky",
+        "code": "za Lužánky",
+        "id": "24070408",
+        "reg_number": "MV-191984-6/OV-2025",
+        "reg_date": "2025-12-16",
+        "address": "613 00 Brno, Janouškova 581/7",
+        "people": [
+            {
+                "name": "JUDr. Richard Novák",
+                "role": "člen"
+            },
+            {
+                "name": "Lukáš Winkler",
+                "role": "člen"
+            },
+            {
+                "name": "Michal Žvák",
+                "role": "člen"
+            }
+        ],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Svěží Týniště",
         "code": "ST",
         "id": "24011495",
