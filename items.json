@@ -1,5 +1,16 @@
 [
     {
+        "name": "JSME",
+        "code": "JSME",
+        "id": "24347647",
+        "reg_number": "MV-204059-2/OV-2025",
+        "reg_date": "2026-01-08",
+        "address": "664 91 Biskoupky 66",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Zbrojovka a fotbal zpět za Lužánky",
         "code": "za Lužánky",
         "id": "24070408",
@@ -3770,10 +3781,6 @@
         "address": "387 01 Volyně 12",
         "people": [
             {
-                "name": "MgA. Lukáš Černý",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Mgr. Jana Křišťanová",
                 "role": "místopředsedkyně"
             },
@@ -4267,15 +4274,7 @@
         "address": "360 06 Karlovy Vary, Chebská 355/49",
         "people": [
             {
-                "name": "JUDr. Hana Zakreničná",
-                "role": "místopředsedkyně"
-            },
-            {
                 "name": "Jakub Žikeš",
-                "role": "člen"
-            },
-            {
-                "name": "Josef Kopfstein",
                 "role": "člen"
             },
             {
@@ -11041,12 +11040,12 @@
         "address": "110 00 Praha, Hybernská 1033/7",
         "people": [
             {
-                "name": "Dipl.-Pol. Jana Maláčová, MSc.",
-                "role": "předsedkyně"
+                "name": "Mgr. Bc. Radek Scherfer",
+                "role": "statutární místopředseda"
             },
             {
-                "name": "PhDr. Lubomír Zaorálek",
-                "role": "statutární místopředseda"
+                "name": "Mgr. Jiří Nedvěd",
+                "role": "předseda"
             }
         ],
         "type": "party",
