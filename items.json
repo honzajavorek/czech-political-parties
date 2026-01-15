@@ -131,7 +131,12 @@
         "reg_number": "MV-59695-6/OV-2025",
         "reg_date": "2025-05-16",
         "address": "737 01 Český Těšín, Nádražní 16/10",
-        "people": [],
+        "people": [
+            {
+                "name": "Marian Kuś",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
