@@ -607,16 +607,16 @@
         "address": "120 00 Praha, Lublaňská 647/48",
         "people": [
             {
+                "name": "Bedřich Šmudla",
+                "role": "místopředseda"
+            },
+            {
+                "name": "František Třeštik",
+                "role": "člen předsednictva"
+            },
+            {
                 "name": "Ing. Vladimír  Štěpán",
                 "role": "předseda"
-            },
-            {
-                "name": "Martin Havel",
-                "role": "člen předsednictva"
-            },
-            {
-                "name": "Radomír Marszalek",
-                "role": "člen předsednictva"
             },
             {
                 "name": "Stanislav Kulhavý",
@@ -2180,10 +2180,6 @@
             {
                 "name": "Ing. Lukáš Jelínek",
                 "role": "člen"
-            },
-            {
-                "name": "Mgr. Jana Červená",
-                "role": "členka"
             },
             {
                 "name": "Mgr. Tomáš Morawski",
@@ -4307,6 +4303,10 @@
             {
                 "name": "Miroslav Vaněk",
                 "role": "předseda"
+            },
+            {
+                "name": "Václav Skuhravý",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
