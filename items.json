@@ -1,5 +1,16 @@
 [
     {
+        "name": "PRO NÁŠ KRAJ",
+        "code": "PRO NÁŠ KRAJ",
+        "id": "24449245",
+        "reg_number": "MV-14353-2/OV-2026",
+        "reg_date": "2026-02-02",
+        "address": "312 00 Plzeň, Na Františkově 596/12",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "PATRIOTI HODONÍN",
         "code": "PATRIOTI HODONÍN",
         "id": "24397041",
@@ -6838,6 +6849,10 @@
                 "role": "1. místopředseda"
             },
             {
+                "name": "Jiří Hlavenka",
+                "role": "3. místopředseda"
+            },
+            {
                 "name": "MUDr. Zdeněk Hřib",
                 "role": "předseda"
             },
@@ -6846,8 +6861,12 @@
                 "role": "2. místopředsedkyně"
             },
             {
-                "name": "PhDr. Olga Richterová, Ph.D.",
-                "role": "3. místopředsedkyně"
+                "name": "Mgr. Kateřina Stojanová",
+                "role": "2. místopředsedkyně"
+            },
+            {
+                "name": "PhDr. Olga  Richterová, Ph.D.",
+                "role": "4. místopředsedkyně"
             }
         ],
         "type": "party",
