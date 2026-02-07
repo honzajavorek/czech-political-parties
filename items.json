@@ -28,7 +28,20 @@
         "reg_number": "MV-177083-6/OV-2025",
         "reg_date": "2026-01-20",
         "address": "463 11 Liberec, Pivovarská 337",
-        "people": [],
+        "people": [
+            {
+                "name": "Kryštof Kolomazník",
+                "role": "předseda"
+            },
+            {
+                "name": "Pavel Hrubeš",
+                "role": "1. místopředseda"
+            },
+            {
+                "name": "Tomáš Novák",
+                "role": "2. místopředseda"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
@@ -153,7 +166,12 @@
         "reg_number": "MV-87702-2/OV-2025",
         "reg_date": "2025-06-11",
         "address": "190 00 Praha, Kurta Konráda 2457/6",
-        "people": [],
+        "people": [
+            {
+                "name": "Patricia Fialová",
+                "role": "předsedkyně"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -328,10 +346,6 @@
             {
                 "name": "Pavlína Procházková",
                 "role": "místopředsedkyně"
-            },
-            {
-                "name": "Petr Karola",
-                "role": "člen"
             }
         ],
         "type": "movement",
