@@ -1,5 +1,16 @@
 [
     {
+        "name": "Naši",
+        "code": "Naši",
+        "id": "24480673",
+        "reg_number": "MV-18628-4/OV-2026",
+        "reg_date": "2026-02-09",
+        "address": "697 01 Kyjov, Dvořákova 1450/19",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "PRO NÁŠ KRAJ",
         "code": "PRO NÁŠ KRAJ",
         "id": "24449245",
