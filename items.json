@@ -5745,11 +5745,15 @@
                 "role": "člen předsednictva"
             },
             {
-                "name": "Ing. Radim Holiš",
+                "name": "Ing. Martin Kolovratník",
                 "role": "člen předsednictva"
             },
             {
-                "name": "Ing. Roman Kubíček, Ph.D., MBA",
+                "name": "Ing. Monika Oborná",
+                "role": "členka předsednictva"
+            },
+            {
+                "name": "Ing. Radim Holiš",
                 "role": "člen předsednictva"
             },
             {
@@ -5761,16 +5765,12 @@
                 "role": "člen předsednictva"
             },
             {
-                "name": "MUDr. David Kasal, MHA",
-                "role": "člen předsednictva"
+                "name": "Mgr. Ing. Taťána Malá",
+                "role": "členka předsednictva"
             },
             {
                 "name": "Mgr. Jana Pastuchová",
                 "role": "členka předsednictva"
-            },
-            {
-                "name": "Mgr. Jaroslav Bžoch",
-                "role": "člen předsednictva"
             },
             {
                 "name": "Mgr. Radek Vondráček",
@@ -5781,8 +5781,8 @@
                 "role": "místopředseda"
             },
             {
-                "name": "Mgr. Roman Zarzycký",
-                "role": "člen předsednictva"
+                "name": "Mgr. Zuzana Mrázová",
+                "role": "členka předsednictva"
             },
             {
                 "name": "Robert Králíček",
@@ -10341,12 +10341,8 @@
         "address": "110 00 Praha, Truhlářská 1106/9",
         "people": [
             {
-                "name": "Eva Decroix",
-                "role": "místopředsedkyně"
-            },
-            {
-                "name": "Ing. Zbyněk  Stanjura",
-                "role": "1. místopředseda"
+                "name": "Ing. Veronika Vrecionová",
+                "role": "předsedkyně klubu poslanců EP"
             },
             {
                 "name": "Ing. Zdeněk Nytra",
@@ -10357,24 +10353,28 @@
                 "role": "předseda poslaneckého klubu"
             },
             {
-                "name": "Mgr. Martin  Baxa",
+                "name": "Mgr. Karel Haas",
                 "role": "místopředseda"
             },
             {
-                "name": "Mgr. Martin Kupka",
+                "name": "Mgr. Martin  Kupka",
+                "role": "předseda"
+            },
+            {
+                "name": "Mgr. Pavel Drobil",
                 "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Tomáš Portlík",
+                "role": "1. místopředseda"
             },
             {
                 "name": "RNDr. Alexandr  Vondra",
                 "role": "místopředseda"
             },
             {
-                "name": "Veronika Vrecionová",
-                "role": "předsedkyně klubu poslanců EP"
-            },
-            {
-                "name": "prof. PhDr. Petr Fiala, Ph.D., LL.M.",
-                "role": "předseda"
+                "name": "brig. gen. v. v. Mgr. Martin Červíček",
+                "role": "místopředseda"
             }
         ],
         "type": "party",
