@@ -211,8 +211,8 @@
         "address": "181 00 Praha, Fořtova 16/3",
         "people": [
             {
-                "name": "Dominik Hais",
-                "role": "statutární zástupce"
+                "name": "Jiří Fábera",
+                "role": "předseda"
             }
         ],
         "type": "party",
@@ -224,27 +224,15 @@
         "id": "22592989",
         "reg_number": "MV- 22689-2/OV-2025",
         "reg_date": "2025-02-13",
-        "address": "258 01 Vlašim, Družstevní 988",
+        "address": "466 04 Jablonec nad Nisou, Mechová 3601/21",
         "people": [
             {
-                "name": "Jan Hrabčák",
-                "role": "člen"
-            },
-            {
                 "name": "Michaela Havelková",
-                "role": "členka"
+                "role": "místopředsedkyně"
             },
             {
                 "name": "Nela Lisková",
                 "role": "předsedkyně"
-            },
-            {
-                "name": "Pavel Šrytr",
-                "role": "místopředseda"
-            },
-            {
-                "name": "René Kaniok",
-                "role": "člen"
             }
         ],
         "type": "movement",
@@ -603,8 +591,8 @@
         "address": "160 00 Praha, Mařákova 303/11",
         "people": [
             {
-                "name": "Šimon Hlinovský",
-                "role": "předseda"
+                "name": "Dita Jarošová, DiS.",
+                "role": "předsedkyně"
             }
         ],
         "type": "party",
