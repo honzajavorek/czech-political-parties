@@ -1,5 +1,16 @@
 [
     {
+        "name": "Srdcem a Rozumem",
+        "code": "HSR",
+        "id": "24524719",
+        "reg_number": "MV-22141-4/OV-2026",
+        "reg_date": "2026-02-18",
+        "address": "377 01 Jindřichův Hradec, Panská 90",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Naši",
         "code": "Naši",
         "id": "24480673",
