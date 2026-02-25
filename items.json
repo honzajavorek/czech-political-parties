@@ -17,7 +17,12 @@
         "reg_number": "MV-18628-4/OV-2026",
         "reg_date": "2026-02-09",
         "address": "697 01 Kyjov, Dvořákova 1450/19",
-        "people": [],
+        "people": [
+            {
+                "name": "Matěj Černý",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -28,7 +33,12 @@
         "reg_number": "MV-14353-2/OV-2026",
         "reg_date": "2026-02-02",
         "address": "312 00 Plzeň, Na Františkově 596/12",
-        "people": [],
+        "people": [
+            {
+                "name": "JUDr. PhDr. Petr Maule, MBA",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -39,7 +49,12 @@
         "reg_number": "MV-205465-4/OV-2025",
         "reg_date": "2026-01-20",
         "address": "695 01 Hodonín, Dobrovolského 800/4",
-        "people": [],
+        "people": [
+            {
+                "name": "Zdeněk Pávek",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -238,12 +253,24 @@
         "address": "466 04 Jablonec nad Nisou, Mechová 3601/21",
         "people": [
             {
+                "name": "Martin Bugár",
+                "role": "člen"
+            },
+            {
+                "name": "Martin Vrběcký",
+                "role": "člen"
+            },
+            {
                 "name": "Michaela Havelková",
                 "role": "místopředsedkyně"
             },
             {
                 "name": "Nela Lisková",
                 "role": "předsedkyně"
+            },
+            {
+                "name": "Vladimíra Šimáňová",
+                "role": "členka"
             }
         ],
         "type": "movement",
@@ -1057,12 +1084,12 @@
         "address": "143 00 Praha, K dolům 73/65",
         "people": [
             {
-                "name": "Ing. Jindřich Bašta",
-                "role": "člen"
+                "name": "Ing. Jindřich  Bašta",
+                "role": "místopředseda"
             },
             {
-                "name": "Ing. Jiří Flieger",
-                "role": "místopředseda"
+                "name": "Ing. Jiří  Flieger",
+                "role": "člen"
             },
             {
                 "name": "Michael Valášek, prof.",
