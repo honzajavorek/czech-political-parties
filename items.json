@@ -1,5 +1,25 @@
 [
     {
+        "name": "Česká párty (The Czech Party)",
+        "code": "(CzP)",
+        "id": "24569933",
+        "reg_number": "MV-18628-4/OV-2026",
+        "reg_date": "2026-03-02",
+        "address": "110 00 Praha, Dlouhá 715/38",
+        "people": [
+            {
+                "name": "JUDr. Václav Musílek",
+                "role": "Spolupředseda"
+            },
+            {
+                "name": "Petr Levíček, MBA",
+                "role": "Spolupředseda"
+            }
+        ],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "Srdcem a Rozumem",
         "code": "HSR",
         "id": "24524719",
@@ -1876,7 +1896,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Změna 2020",
