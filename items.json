@@ -1,5 +1,16 @@
 [
     {
+        "name": "HNUTÍ ANTONÍNA ŠVEHLY – HAŠ",
+        "code": "HAŠ",
+        "id": "24580783",
+        "reg_number": "MV-  6074-6/OV-2026",
+        "reg_date": "2026-03-03",
+        "address": "109 00 Praha, V aleji 568",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Česká párty (The Czech Party)",
         "code": "(CzP)",
         "id": "24569933",
