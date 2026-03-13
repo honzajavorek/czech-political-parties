@@ -1,5 +1,29 @@
 [
     {
+        "name": "Naše Česko",
+        "code": "NČ",
+        "id": "24623423",
+        "reg_number": "MV- 37084-4/OV-2026",
+        "reg_date": "2026-03-12",
+        "address": "370 04 České Budějovice, Pražská tř. 2738/94",
+        "people": [
+            {
+                "name": "MUDr. Martin Kuba",
+                "role": "předseda"
+            },
+            {
+                "name": "Petr Maroš",
+                "role": "člen"
+            },
+            {
+                "name": "Zbyněk Sýkora",
+                "role": "člen"
+            }
+        ],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "HNUTÍ ANTONÍNA ŠVEHLY – HAŠ",
         "code": "HAŠ",
         "id": "24580783",
