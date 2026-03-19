@@ -518,7 +518,7 @@
         "is_active": true
     },
     {
-        "name": "Nadační občansko-politické hnutí ReMeK",
+        "name": "Občansko-politické hnutí ReMeK pro zrušení SENÁTU",
         "code": "ReMeK",
         "id": "21755582",
         "reg_number": "MV- 94018-4/OV-2024",
@@ -2669,11 +2669,15 @@
         "address": "118 00 Praha, Pohořelec 110/26",
         "people": [
             {
-                "name": "MUDr. Marek Hilšer",
+                "name": "Ing. Jan Štern",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Ing. Lukáš Wagenknecht",
                 "role": "předseda"
             },
             {
-                "name": "MUDr. Pavel Vychytil",
+                "name": "Ing. Petr Beneš",
                 "role": "člen předsednictva"
             }
         ],
@@ -9950,23 +9954,19 @@
         "address": "709 00 Ostrava, Raisova 1066/6",
         "people": [
             {
-                "name": "Bc. Martin Polášek",
+                "name": "Anna Mašinská",
+                "role": "členka RR"
+            },
+            {
+                "name": "Bc. Petr Drozdík",
                 "role": "místopředseda"
             },
             {
-                "name": "Ing. Karel Poukar",
-                "role": "člen RR"
-            },
-            {
-                "name": "Ing. Libor Gavlas",
+                "name": "Jan Kutáč",
                 "role": "člen RR"
             },
             {
                 "name": "Jiří Lizák",
-                "role": "člen RR"
-            },
-            {
-                "name": "Mgr. Miroslav Chlubna",
                 "role": "člen RR"
             },
             {
