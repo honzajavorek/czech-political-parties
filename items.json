@@ -1,5 +1,37 @@
 [
     {
+        "name": "Brnoklidem",
+        "code": "KLID",
+        "id": "24877727",
+        "reg_number": "MV-46800-5/OV-2026",
+        "reg_date": "2026-03-25",
+        "address": "603 00 Brno, Výstavní 245/6",
+        "people": [
+            {
+                "name": "Karel Kalivoda",
+                "role": "člen"
+            },
+            {
+                "name": "Karin Podivinská",
+                "role": "členka"
+            },
+            {
+                "name": "Kateřina Jarošová",
+                "role": "členka"
+            },
+            {
+                "name": "Petr Bořecký",
+                "role": "člen"
+            },
+            {
+                "name": "Petr Souček",
+                "role": "člen"
+            }
+        ],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Naše Česko",
         "code": "NČ",
         "id": "24623423",
@@ -1350,16 +1382,16 @@
         "address": "530 02 Pardubice, 17. listopadu 2753",
         "people": [
             {
-                "name": "Marcela Nováčková",
-                "role": "předsedkyně"
-            },
-            {
-                "name": "Markéta Hujerová",
-                "role": "členka"
-            },
-            {
-                "name": "Otakar Janecký",
+                "name": "František Němec",
                 "role": "člen"
+            },
+            {
+                "name": "Jakub Rychtecký",
+                "role": "předseda"
+            },
+            {
+                "name": "Marcela Nováčková",
+                "role": "členka"
             }
         ],
         "type": "movement",
@@ -2151,7 +2183,7 @@
         "address": "110 00 Praha, Rybná 716/24",
         "people": [
             {
-                "name": "Daniel Chlad",
+                "name": "Filip Beneš",
                 "role": "1. místopředseda"
             },
             {
