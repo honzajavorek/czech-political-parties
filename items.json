@@ -2702,12 +2702,12 @@
         "is_active": true
     },
     {
-        "name": "Marek Hilšer do Senátu",
-        "code": "MHS",
+        "name": "JSME TEAM",
+        "code": "TEAM",
         "id": "07157029",
         "reg_number": "MV-50348-4/VS-2018",
         "reg_date": "2018-05-25",
-        "address": "118 00 Praha, Pohořelec 110/26",
+        "address": "100 00 Praha, Pod strání 2220/22",
         "people": [
             {
                 "name": "Ing. Jan Štern",
@@ -3674,7 +3674,7 @@
         "is_active": true
     },
     {
-        "name": "Volba pro kraj",
+        "name": "VOK – Volba pro kraj",
         "code": "VOK",
         "id": "04616421",
         "reg_number": "MV-169487-4/VS-2015",
@@ -10087,15 +10087,15 @@
         "address": "660 87 Brno, Malinovského náměstí 603/4",
         "people": [
             {
-                "name": "MUDr. Ctirad Musil",
+                "name": "Ing. Aleš Sekanina",
                 "role": "předseda"
             },
             {
-                "name": "Michal Hozák",
+                "name": "Ing. Mgr. Ondřej Hetmánek",
                 "role": "místopředseda"
             }
         ],
-        "type": "party",
+        "type": "movement",
         "is_active": true
     },
     {
