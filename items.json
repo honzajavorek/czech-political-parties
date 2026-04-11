@@ -1,5 +1,27 @@
 [
     {
+        "name": "Normální",
+        "code": "Normální",
+        "id": "24943011",
+        "reg_number": "MV- 56088-4/OV-2026",
+        "reg_date": "2026-04-10",
+        "address": "149 00 Praha, Nad statkem  174",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
+        "name": "Nové Brno",
+        "code": "NB",
+        "id": "24942910",
+        "reg_number": "MV- 57418-4/OV-2026",
+        "reg_date": "2026-04-10",
+        "address": "602 00 Brno, Kopečná 387/58",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Brnoklidem",
         "code": "KLID",
         "id": "24877727",
