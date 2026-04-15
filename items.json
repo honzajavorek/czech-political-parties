@@ -86,12 +86,12 @@
         "address": "109 00 Praha, V aleji 568",
         "people": [
             {
-                "name": "Milan Wenzl",
+                "name": "František Čihák",
                 "role": "člen"
             },
             {
-                "name": "Pavel Černý",
-                "role": "člen"
+                "name": "Milan Wenzl",
+                "role": "předseda"
             }
         ],
         "type": "movement",
