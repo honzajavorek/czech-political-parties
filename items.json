@@ -225,16 +225,16 @@
         "address": "613 00 Brno, Janouškova 581/7",
         "people": [
             {
-                "name": "JUDr. Richard Novák",
-                "role": "člen"
+                "name": "Lukáš Winkler",
+                "role": "předseda"
             },
             {
-                "name": "Lukáš Winkler",
+                "name": "Marek Fišer",
                 "role": "člen"
             },
             {
                 "name": "Michal Žvák",
-                "role": "člen"
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
