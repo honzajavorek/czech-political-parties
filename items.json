@@ -490,12 +490,8 @@
         "id": "22142631",
         "reg_number": "MV-141340-4/OV-2024",
         "reg_date": "2024-10-10",
-        "address": "671 72 Miroslav, Václavov 741/12",
+        "address": "110 00 Praha, Politických vězňů 1531/9",
         "people": [
-            {
-                "name": "Dagmar Koníčková",
-                "role": "členka"
-            },
             {
                 "name": "Dana Kulichová",
                 "role": "členka"
@@ -505,12 +501,24 @@
                 "role": "předseda"
             },
             {
-                "name": "Ondřej Dostál",
-                "role": "1. místopředseda"
+                "name": "Jana Turoňová",
+                "role": "místopředsedkyně"
             },
             {
-                "name": "Pavlína Procházková",
-                "role": "místopředsedkyně"
+                "name": "Jiří Medula",
+                "role": "člen"
+            },
+            {
+                "name": "Michal Gulyáš",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Pavlína  Procházková",
+                "role": "1.místopředsedkyně"
+            },
+            {
+                "name": "Vítek Prokop",
+                "role": "člen"
             }
         ],
         "type": "movement",
@@ -2009,10 +2017,6 @@
         "reg_date": "2019-12-13",
         "address": "375 01 Týn nad Vltavou, Bohunická 535",
         "people": [
-            {
-                "name": "David Slepička",
-                "role": "2. místopředseda"
-            },
             {
                 "name": "Ing. Stanislav Mrvka",
                 "role": "1. místopředseda"
