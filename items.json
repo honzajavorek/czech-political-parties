@@ -30,24 +30,16 @@
         "address": "603 00 Brno, Výstavní 245/6",
         "people": [
             {
-                "name": "Karel Kalivoda",
-                "role": "člen"
-            },
-            {
-                "name": "Karin Podivinská",
-                "role": "členka"
-            },
-            {
-                "name": "Kateřina Jarošová",
-                "role": "členka"
+                "name": "Karin  Podivinská",
+                "role": "místopředsedkyně"
             },
             {
                 "name": "Petr Bořecký",
-                "role": "člen"
+                "role": "předseda"
             },
             {
                 "name": "Petr Souček",
-                "role": "člen"
+                "role": "1. místopředseda"
             }
         ],
         "type": "movement",
