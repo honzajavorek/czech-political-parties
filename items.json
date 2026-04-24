@@ -1,5 +1,16 @@
 [
     {
+        "name": "rEvoluce",
+        "code": "Evo",
+        "id": "29480931",
+        "reg_number": "MV- 61947-5/OV-2026",
+        "reg_date": "2026-04-24",
+        "address": "738 01 Frýdek-Místek, K Basketpointu 3866",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "Normální",
         "code": "Normální",
         "id": "24943011",
