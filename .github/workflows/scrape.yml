@@ -35,7 +35,7 @@ jobs:
         run: "[ -s items.json ] || exit 1"
 
       - name: Save to Git
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v10
         with:
           add: items.json
           author_name: "scraper"
