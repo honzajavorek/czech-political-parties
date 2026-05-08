@@ -220,8 +220,8 @@
         "is_active": true
     },
     {
-        "name": "Zbrojovka a fotbal zpět za Lužánky",
-        "code": "za Lužánky",
+        "name": "Za Lužánky",
+        "code": "Za Lužánky",
         "id": "24070408",
         "reg_number": "MV-191984-6/OV-2025",
         "reg_date": "2025-12-16",
@@ -233,11 +233,11 @@
             },
             {
                 "name": "Marek Fišer",
-                "role": "člen"
+                "role": "místopředseda"
             },
             {
                 "name": "Michal Žvák",
-                "role": "místopředseda"
+                "role": "statutární místopředseda"
             }
         ],
         "type": "movement",
@@ -10386,23 +10386,27 @@
         "address": "120 00 Praha, Karlovo náměstí 317/5",
         "people": [
             {
+                "name": "Ing. Benjamin Činčila",
+                "role": "místopředseda"
+            },
+            {
                 "name": "Ing. Josef Klement",
                 "role": "předseda senátního klubu"
+            },
+            {
+                "name": "Libuše Hubáčková",
+                "role": "místopředsedkyně"
             },
             {
                 "name": "MUDr. Tom Philipp, Ph.D.",
                 "role": "předseda poslaneckého klubu"
             },
             {
-                "name": "MVDr. Pavel Bělobrádek, Ph.D., MPA",
-                "role": "1. místopředseda"
-            },
-            {
-                "name": "Mgr. Eduard Hulicius, M.A.",
+                "name": "Mgr. František Talíř",
                 "role": "místopředseda"
             },
             {
-                "name": "Mgr. Marek Výborný",
+                "name": "Mgr. Jan Grolich",
                 "role": "předseda"
             },
             {
@@ -10410,15 +10414,7 @@
                 "role": "místopředsedkyně"
             },
             {
-                "name": "Mgr. Pavel Hořava",
-                "role": "generální sekretář"
-            },
-            {
-                "name": "PhDr. Jiří Horák, Ph.D.",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Václav Pláteník, MA LLM",
+                "name": "Václav Pláteník, MA, LL.M.",
                 "role": "místopředseda"
             }
         ],
