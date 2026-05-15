@@ -1,5 +1,16 @@
 [
     {
+        "name": "Hnutí za občanskou spokojenost",
+        "code": "HOSp",
+        "id": "29556937",
+        "reg_number": "MV- 71977-4/OV-2026",
+        "reg_date": "2026-05-14",
+        "address": "104 00 Praha, Před oborou 204 204",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "rEvoluce",
         "code": "Evo",
         "id": "29480931",
@@ -4164,12 +4175,12 @@
         "is_active": true
     },
     {
-        "name": "Společnost proti developerské výstavbě v Prokopském údolí",
-        "code": "SPDV",
+        "name": "Společnost na ochranu Prokopského údolí",
+        "code": "SOPU",
         "id": "03217116",
         "reg_number": "MV-86511-4/VS-2014",
         "reg_date": "2014-07-21",
-        "address": "152 00 Praha, K Dalejím 1180/6",
+        "address": "158 00 Praha, Záluské 94/49",
         "people": [
             {
                 "name": "JUDr. Lenka Vančatová",
