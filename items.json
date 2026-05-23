@@ -1,5 +1,16 @@
 [
     {
+        "name": "NEPLAŠ - Nezávislá PLatforma AŠ",
+        "code": "NEPLAŠ",
+        "id": "29590591",
+        "reg_number": "MV- 75587-5/OV-2026",
+        "reg_date": "2026-05-22",
+        "address": "352 01 Aš, Nemocniční 1897/49",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "Hnutí za občanskou spokojenost",
         "code": "HOSp",
         "id": "29556937",
@@ -5068,17 +5079,13 @@
         "is_active": false
     },
     {
-        "name": "START21",
-        "code": "START",
+        "name": "IMPULS pro Dolní Břežany, Lhotu, Zálepy, Jarov",
+        "code": "IMPULSPRO",
         "id": "71443690",
         "reg_number": "MV-17186-4/VS-2014",
         "reg_date": "2014-02-12",
         "address": "130 00 Praha, Korunní 1065/107",
         "people": [
-            {
-                "name": "Ing. Robert Koželský LL.M., DBA",
-                "role": "tajemník"
-            },
             {
                 "name": "Michal Hájek",
                 "role": "místopředseda"
