@@ -5087,6 +5087,10 @@
         "address": "130 00 Praha, Korunní 1065/107",
         "people": [
             {
+                "name": "Kateřina Sedláčková",
+                "role": "tajemnice"
+            },
+            {
                 "name": "Michal Hájek",
                 "role": "místopředseda"
             },
@@ -10404,12 +10408,12 @@
                 "role": "předseda senátního klubu"
             },
             {
-                "name": "Libuše Hubáčková",
-                "role": "místopředsedkyně"
+                "name": "Ing. Marian  Jurečka",
+                "role": "předseda poslaneckého klubu"
             },
             {
-                "name": "MUDr. Tom Philipp, Ph.D.",
-                "role": "předseda poslaneckého klubu"
+                "name": "Libuše Hubáčková",
+                "role": "místopředsedkyně"
             },
             {
                 "name": "Mgr. František Talíř",
@@ -10969,10 +10973,6 @@
             {
                 "name": "Dušan Stuchlík",
                 "role": "člen předsednictva"
-            },
-            {
-                "name": "Gabriela Sedláčková",
-                "role": "členka předsednictva"
             },
             {
                 "name": "Ing. Jan Mega",
