@@ -1,5 +1,27 @@
 [
     {
+        "name": "Hnutí Šance pro Počernice",
+        "code": "Šance pro Počernice",
+        "id": "29606128",
+        "reg_number": "MV- 81287-2/OV-2026",
+        "reg_date": "2026-05-27",
+        "address": "193 00 Praha, Čechurova 1988/31",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "Otevřené Strakonice",
+        "code": "OST",
+        "id": "29605938",
+        "reg_number": "MV- 74036-4/OV-2026",
+        "reg_date": "2026-05-27",
+        "address": "386 01 Strakonice, Lesní  431",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "NEPLAŠ - Nezávislá PLatforma AŠ",
         "code": "NEPLAŠ",
         "id": "29590591",
@@ -710,7 +732,7 @@
         "is_active": true
     },
     {
-        "name": "ANO LEPŠÍ ČESKO S MIMOZEMŠŤANY A OBČANY MOTORISTY - (dostupnější bydlení, jízdné zdarma školákům a studentům, opravy silnic, rozvoj venkova z dotací, lékařské a zubní pohotovosti v okresech, dostatek mateřských škol, Středočechům dostatek parkování na okraji Prahy zdarma)",
+        "name": "ANO LEPŠÍ ČESKO S MIMOZEMŠŤANY A OBČANY MOTORISTY",
         "code": "mimozemstani.eu",
         "id": "21359890",
         "reg_number": "MV-38205-4/OV-2024",
