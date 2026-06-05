@@ -259,7 +259,20 @@
         "reg_number": "MV-204059-2/OV-2025",
         "reg_date": "2026-01-08",
         "address": "664 91 Biskoupky 66",
-        "people": [],
+        "people": [
+            {
+                "name": "Ing. Jan Hůla",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Kateřina-Šarlota Bartoš Zelinková",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Roman Vilímek",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
