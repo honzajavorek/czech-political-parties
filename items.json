@@ -1,5 +1,16 @@
 [
     {
+        "name": "Nezávislí Berouňáci",
+        "code": "NeBe",
+        "id": "29646961",
+        "reg_number": "MV- 88672-2/OV-2026",
+        "reg_date": "2026-06-05",
+        "address": "266 01 Beroun, Plzeňská 117/46",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Hnutí Šance pro Počernice",
         "code": "Šance pro Počernice",
         "id": "29606128",
@@ -729,16 +740,32 @@
         "address": "106 00 Praha, Žirovnická 3124/1",
         "people": [
             {
+                "name": "Alessandro Bottaro",
+                "role": "člen předsednictva"
+            },
+            {
                 "name": "Daniel Krutý",
                 "role": "předseda"
             },
             {
-                "name": "Jonáš Továrek",
+                "name": "Ing. Vojtěch Sokol",
                 "role": "člen předsednictva"
             },
             {
-                "name": "Petr Jindřichovský",
+                "name": "Jonáš Továrek",
+                "role": "2. místopředseda"
+            },
+            {
+                "name": "Martin Szetei",
                 "role": "1. místopředseda"
+            },
+            {
+                "name": "Petr Nezveda",
+                "role": "člen předsednictva"
+            },
+            {
+                "name": "Tomáš Lejsek",
+                "role": "člen předsednictva"
             }
         ],
         "type": "movement",
@@ -5581,7 +5608,7 @@
         "is_active": true
     },
     {
-        "name": "Zdraví Sport Vzdělání 2012",
+        "name": "Zdraví Sport Vzdělání",
         "code": "PRO Zdraví",
         "id": "71443509",
         "reg_number": "MV-145991-2/VS-2012",
@@ -6256,8 +6283,8 @@
         "is_active": true
     },
     {
-        "name": "Česká strana regionů",
-        "code": "ČSR",
+        "name": "Pardubáci společně",
+        "code": "Parspo",
         "id": "71443207",
         "reg_number": "MV-68061-6/VS-2010",
         "reg_date": "2010-07-29",
@@ -6266,14 +6293,6 @@
             {
                 "name": "František Brendl",
                 "role": "předseda"
-            },
-            {
-                "name": "Klára Hlaváčová",
-                "role": "pokladník"
-            },
-            {
-                "name": "Libor Hlaváč",
-                "role": "místopředseda"
             }
         ],
         "type": "party",
@@ -7819,12 +7838,12 @@
                 "role": "předseda"
             },
             {
-                "name": "Ing. Sebastian Kuršel",
-                "role": "člen"
+                "name": "Ing. Anna Fricová",
+                "role": "členka"
             },
             {
-                "name": "MDDr. Anežka Buriánková",
-                "role": "členka"
+                "name": "Ing. Sebastian Kuršel",
+                "role": "člen"
             }
         ],
         "type": "party",
@@ -8527,15 +8546,19 @@
         "id": "26652242",
         "reg_number": "VS-9837/SDR/1-2003",
         "reg_date": "2004-02-09",
-        "address": "602 00 Brno, Střední 396/12",
+        "address": "669 02 Znojmo 99",
         "people": [
             {
-                "name": "JUDr. Jan Kryčer",
+                "name": "Ing. Jakub Malačka",
                 "role": "předseda"
             },
             {
-                "name": "MUDr. Ladislav Šamlot",
-                "role": "místopředseda"
+                "name": "Ing. Lenka Koprová",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Vlastimil Tima",
+                "role": "první místopředseda"
             }
         ],
         "type": "movement",
