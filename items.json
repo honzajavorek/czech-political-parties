@@ -1,5 +1,38 @@
 [
     {
+        "name": "Občané Dvanáctky",
+        "code": "O12",
+        "id": "29672821",
+        "reg_number": "MV- 79669-4/OV-2026",
+        "reg_date": "2026-06-12",
+        "address": "143 00 Praha, Barunčina 1858/50",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "VIZE pro Most",
+        "code": "VIZE",
+        "id": "29672775",
+        "reg_number": "MV- 89570-2/OV-2026",
+        "reg_date": "2026-06-12",
+        "address": "434 01 Most, Prokopa Holého 2007/11",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "Řepští sousedé",
+        "code": "ŘS",
+        "id": "29672929",
+        "reg_number": "MV- 88706-4/OV-2026",
+        "reg_date": "2026-06-12",
+        "address": "163 00 Praha, Vondroušova 1211/44",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "Nezávislí Berouňáci",
         "code": "NeBe",
         "id": "29646961",
@@ -29,7 +62,7 @@
         "reg_date": "2026-05-27",
         "address": "386 01 Strakonice, Lesní  431",
         "people": [],
-        "type": "party",
+        "type": "movement",
         "is_active": true
     },
     {
@@ -248,16 +281,24 @@
         "address": "463 11 Liberec, Pivovarská 337",
         "people": [
             {
-                "name": "Kryštof Kolomazník",
-                "role": "předseda"
+                "name": "Daniel Skalka",
+                "role": "2. místopředseda"
             },
             {
-                "name": "Pavel Hrubeš",
+                "name": "Nicole Hermanová",
                 "role": "1. místopředseda"
             },
             {
+                "name": "Pavel Hrubeš",
+                "role": "předseda"
+            },
+            {
+                "name": "Petr Juráň",
+                "role": "3. místopředseda"
+            },
+            {
                 "name": "Tomáš Novák",
-                "role": "2. místopředseda"
+                "role": "4. místopředseda"
             }
         ],
         "type": "party",
@@ -6637,7 +6678,7 @@
         "id": "71339922",
         "reg_number": "MV-57833-6/VS-2010",
         "reg_date": "2010-06-24",
-        "address": "779 00 Olomouc, Pekařská 490/11",
+        "address": "735 81 Bohumín, Janáčkova 834",
         "people": [
             {
                 "name": "Ing. Pavel Mužný",
