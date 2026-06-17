@@ -1,5 +1,54 @@
 [
     {
+        "name": "Hnutí Hlas regionů",
+        "code": "HR",
+        "id": "29683874",
+        "reg_number": "MV- 91456-4/OV-2026",
+        "reg_date": "2026-06-16",
+        "address": "405 02 Děčín, 28. října 1027/31",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "MÁME RÁDI CHOMUTOV",
+        "code": "MRCHA",
+        "id": "29684251",
+        "reg_number": "MV- 94587-2/OV-2026",
+        "reg_date": "2026-06-16",
+        "address": "430 04 Chomutov, Kamenný vrch 5433",
+        "people": [
+            {
+                "name": "Bc. Marcela Soukupová",
+                "role": "předsedkyně"
+            }
+        ],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "NOVÁ GENERACE",
+        "code": "NG",
+        "id": "29684773",
+        "reg_number": "MV- 94739-2/OV-2026",
+        "reg_date": "2026-06-16",
+        "address": "739 61 Třinec, Poštovní 244",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "Za Holešov",
+        "code": "ZH",
+        "id": "29685702",
+        "reg_number": "MV- 95708-2/OV-2026",
+        "reg_date": "2026-06-16",
+        "address": "769 01 Holešov, U Letiště 1255/51",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "Občané Dvanáctky",
         "code": "O12",
         "id": "29672821",
@@ -6462,8 +6511,8 @@
         "is_active": true
     },
     {
-        "name": "Bílinští sociální demokraté a nezávislí",
-        "code": "BSDN",
+        "name": "Nezávislí pro Bílinu",
+        "code": "NEZ Bílina",
         "id": "71340068",
         "reg_number": "MV-66764-4/VS-2010",
         "reg_date": "2010-07-15",
@@ -10726,24 +10775,20 @@
                 "role": "člen VV ÚV KSČM"
             },
             {
+                "name": "Ivan Nadberežný",
+                "role": "člen VV ÚV KSČM"
+            },
+            {
                 "name": "Jana Honsová",
                 "role": "členka VV ÚV KSČM"
             },
             {
-                "name": "Kateřina Konečná",
-                "role": "předsedkyně ÚV KSČM"
-            },
-            {
                 "name": "Ludvík Šulda",
-                "role": "místopředseda ÚV KSČM"
+                "role": "člen VV ÚV KSČM"
             },
             {
                 "name": "Marek Nevoral",
                 "role": "člen VV ÚV KSČM"
-            },
-            {
-                "name": "Marie Pěnčíková",
-                "role": "místopředsedkyně ÚV KSČM"
             },
             {
                 "name": "Milan Krajča",
@@ -10766,7 +10811,11 @@
                 "role": "1. místopředseda ÚV KSČM"
             },
             {
-                "name": "Tomeš Vytiska",
+                "name": "Roman Roun",
+                "role": "předseda"
+            },
+            {
+                "name": "Vladimír Dosoudil",
                 "role": "člen VV ÚV KSČM"
             },
             {
@@ -10774,16 +10823,8 @@
                 "role": "člen VV ÚV KSČM"
             },
             {
-                "name": "Václav Snopek",
-                "role": "člen VV ÚV KSČM"
-            },
-            {
                 "name": "Václav Větrovec",
                 "role": "člen VV ÚV KSČM"
-            },
-            {
-                "name": "Věra Vránová",
-                "role": "členka VV ÚV KSČM"
             },
             {
                 "name": "Věra Žižková",
