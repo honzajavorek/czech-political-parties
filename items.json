@@ -49,6 +49,17 @@
         "is_active": true
     },
     {
+        "name": "Lepší město, lepší život",
+        "code": "Lepší město",
+        "id": "29677670",
+        "reg_number": "MV- 90370-5/OV-2026",
+        "reg_date": "2026-06-15",
+        "address": "463 11 Liberec, Dlouhomostecká 1699",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Občané Dvanáctky",
         "code": "O12",
         "id": "29672821",
