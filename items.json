@@ -1,5 +1,32 @@
 [
     {
+        "name": "Naše Praha",
+        "code": "HNP",
+        "id": "29698791",
+        "reg_number": "MV- 94573-4/OV-2026",
+        "reg_date": "2026-06-19",
+        "address": "150 00 Praha, Radlická 298/105",
+        "people": [
+            {
+                "name": "JUDr. Rudolf Blažek",
+                "role": "předseda"
+            }
+        ],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "Nová sociální demokracie",
+        "code": "NSD",
+        "id": "29699070",
+        "reg_number": "MV- 90703-8/OV-2026",
+        "reg_date": "2026-06-19",
+        "address": "160 00 Praha, Verdunská 910/28",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "Hnutí Hlas regionů",
         "code": "HR",
         "id": "29683874",
@@ -165,7 +192,12 @@
         "reg_number": "MV- 56088-4/OV-2026",
         "reg_date": "2026-04-10",
         "address": "149 00 Praha, Nad statkem  174",
-        "people": [],
+        "people": [
+            {
+                "name": "Ivan Křížek",
+                "role": "předseda"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
@@ -3241,36 +3273,36 @@
                 "role": "člen"
             },
             {
-                "name": "Hana Třeštíková",
-                "role": "členka"
+                "name": "Filip Málek",
+                "role": "člen"
             },
             {
                 "name": "Jan Čižinský",
                 "role": "místopředseda"
             },
             {
-                "name": "Kristýna Drápalová",
+                "name": "Jana Bašusová",
                 "role": "členka"
             },
             {
-                "name": "Lucie Boudová",
-                "role": "členka"
-            },
-            {
-                "name": "Mariana Čapková",
-                "role": "členka"
-            },
-            {
-                "name": "Ondřej Svoboda",
+                "name": "Jiří Knitl",
                 "role": "člen"
             },
             {
-                "name": "Pavel Zelenka",
+                "name": "Jonáš Felkel",
                 "role": "člen"
+            },
+            {
+                "name": "Kateřina Linková",
+                "role": "členka"
             },
             {
                 "name": "Petr Zeman",
                 "role": "člen"
+            },
+            {
+                "name": "Radka Šimková",
+                "role": "členka"
             }
         ],
         "type": "party",
