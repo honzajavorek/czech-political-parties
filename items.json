@@ -44,7 +44,20 @@
         "reg_number": "MV- 91456-4/OV-2026",
         "reg_date": "2026-06-16",
         "address": "405 02 Děčín, 28. října 1027/31",
-        "people": [],
+        "people": [
+            {
+                "name": "Filip Ušák",
+                "role": "předseda"
+            },
+            {
+                "name": "Jaroslav Špička",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Lukáš Herich",
+                "role": "člen"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -137,7 +150,20 @@
         "reg_number": "MV- 88672-2/OV-2026",
         "reg_date": "2026-06-05",
         "address": "266 01 Beroun, Plzeňská 117/46",
-        "people": [],
+        "people": [
+            {
+                "name": "Antonín Marx",
+                "role": "předseda"
+            },
+            {
+                "name": "Petr Kubát",
+                "role": "člen"
+            },
+            {
+                "name": "Radek Dolejš",
+                "role": "místopředseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -181,7 +207,20 @@
         "reg_number": "MV- 71977-4/OV-2026",
         "reg_date": "2026-05-14",
         "address": "104 00 Praha, Před oborou 204",
-        "people": [],
+        "people": [
+            {
+                "name": "Alice Končinská",
+                "role": "členka"
+            },
+            {
+                "name": "Hana Vagenknechtová",
+                "role": "předsedkyně"
+            },
+            {
+                "name": "Radim Pokorný",
+                "role": "místopředseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -5305,7 +5344,7 @@
                 "role": "místopředseda"
             },
             {
-                "name": "PhDr. Mgr. Václav Kott, DiS.",
+                "name": "Oldřich Šrámek",
                 "role": "předseda"
             }
         ],
@@ -9759,7 +9798,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Hnutí za prosperitu Brna",
