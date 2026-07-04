@@ -1,5 +1,38 @@
 [
     {
+        "name": "SALON REPUBLIKY 21",
+        "code": "SR21",
+        "id": "29755026",
+        "reg_number": "MV-104695-2/OV-2026",
+        "reg_date": "2026-07-03",
+        "address": "500 03 Hradec Králové, Malé náměstí 3/20",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "Společně pro Černovice",
+        "code": "SPČ",
+        "id": "29754330",
+        "reg_number": "MV-103157-4/OV-2026",
+        "reg_date": "2026-07-03",
+        "address": "618 00 Brno, Olomoucká 1002/138",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "Srdcem pro Pardubice",
+        "code": "SPP",
+        "id": "29753996",
+        "reg_number": "MV-103831-2/OV-2026",
+        "reg_date": "2026-07-03",
+        "address": "530 09 Pardubice, Bělehradská 554",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Volnost Rovnost Bratrství",
         "code": "VRBa",
         "id": "29732531",
@@ -5294,10 +5327,6 @@
             },
             {
                 "name": "Petr Sýkora",
-                "role": "místopředseda"
-            },
-            {
-                "name": "Rostislav Korbel",
                 "role": "místopředseda"
             }
         ],
