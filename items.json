@@ -50,7 +50,28 @@
         "reg_number": "MV- 93713-4/OV-2026",
         "reg_date": "2026-06-24",
         "address": "197 00 Praha, Toužimská 108/39",
-        "people": [],
+        "people": [
+            {
+                "name": "Antonín Zámyslický",
+                "role": "předseda"
+            },
+            {
+                "name": "David Lorenc",
+                "role": "člen"
+            },
+            {
+                "name": "Leoš Biskup",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Mgr. Hynek Vlas",
+                "role": "člen"
+            },
+            {
+                "name": "Mgr. Veronika Krejčí LL.M.",
+                "role": "členka"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -1332,7 +1353,7 @@
         "address": "160 00 Praha, Na dlouhém lánu 343/34",
         "people": [
             {
-                "name": "Adam Hanka",
+                "name": "Adam Le Hanka",
                 "role": "Spolupředseda"
             },
             {
@@ -10699,7 +10720,7 @@
         "people": [
             {
                 "name": "Ing. Benjamin Činčila",
-                "role": "místopředseda"
+                "role": "1. místopředseda"
             },
             {
                 "name": "Ing. Josef Klement",
