@@ -1,5 +1,16 @@
 [
     {
+        "name": "Váš starosta a občané",
+        "code": "VSaO",
+        "id": "29779715",
+        "reg_number": "MV-102969-4/OV-2026",
+        "reg_date": "2026-07-13",
+        "address": "625 00 Brno, Lány 173/9",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "SALON REPUBLIKY 21",
         "code": "SR21",
         "id": "29755026",
@@ -195,7 +206,20 @@
         "reg_number": "MV- 79669-4/OV-2026",
         "reg_date": "2026-06-12",
         "address": "143 00 Praha, Barunčina 1858/50",
-        "people": [],
+        "people": [
+            {
+                "name": "Ing. Zdeněk Ročňák",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Jiří Koláček",
+                "role": "člen"
+            },
+            {
+                "name": "Vladimír Vaněk",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -961,8 +985,8 @@
         "is_active": true
     },
     {
-        "name": "SDRUŽENÍ NESTRANÍKŮ",
-        "code": "SN",
+        "name": "Strana pro právo a prosperitu Česka",
+        "code": "SPPČ",
         "id": "21676992",
         "reg_number": "MV-83337-2/OV-2024",
         "reg_date": "2024-06-03",
@@ -973,7 +997,7 @@
                 "role": "předseda"
             }
         ],
-        "type": "movement",
+        "type": "party",
         "is_active": true
     },
     {
