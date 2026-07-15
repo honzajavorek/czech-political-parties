@@ -1,5 +1,40 @@
 [
     {
+        "name": "JSME SOUSEDÉ",
+        "code": "SOUSEDÉ",
+        "id": "29782953",
+        "reg_number": "MV-106233-4/OV-2026",
+        "reg_date": "2026-07-14",
+        "address": "160 00 Praha, Podbabská 1112/13",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "Odvážné Česko",
+        "code": "HOČ",
+        "id": "29783232",
+        "reg_number": "MV-107656-4/OV-2026",
+        "reg_date": "2026-07-14",
+        "address": "687 07 Tupesy 189",
+        "people": [
+            {
+                "name": "Bc. Aleš Durďák",
+                "role": "první místopředseda"
+            },
+            {
+                "name": "Ing. Kateřina Úlehlová Chytilová",
+                "role": "členka"
+            },
+            {
+                "name": "Mgr. Margita Balaštíková",
+                "role": "předsedkyně"
+            }
+        ],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Váš starosta a občané",
         "code": "VSaO",
         "id": "29779715",
