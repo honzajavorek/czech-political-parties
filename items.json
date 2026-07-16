@@ -322,7 +322,20 @@
         "reg_number": "MV- 74036-4/OV-2026",
         "reg_date": "2026-05-27",
         "address": "386 01 Strakonice, Lesní  431",
-        "people": [],
+        "people": [
+            {
+                "name": "Jaroslav Horejš",
+                "role": "předseda"
+            },
+            {
+                "name": "Rudolf Oberfalcer",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Vít Holeksa",
+                "role": "místopředseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
