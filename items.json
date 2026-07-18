@@ -381,7 +381,12 @@
         "reg_number": "MV- 61947-5/OV-2026",
         "reg_date": "2026-04-24",
         "address": "738 01 Frýdek-Místek, K Basketpointu 3866",
-        "people": [],
+        "people": [
+            {
+                "name": "Ing. Zdeněk Navrátil",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -818,7 +823,7 @@
         "people": [
             {
                 "name": "Hana Černá",
-                "role": "hlavní manažerka"
+                "role": "1.místopředsedkyně"
             },
             {
                 "name": "JUDr. PhDr. Josef Marcel",
@@ -829,20 +834,20 @@
                 "role": "místopředseda"
             },
             {
-                "name": "MUDr. Jiří Binter",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Martin Boček",
                 "role": "místopředseda"
             },
             {
-                "name": "Mgr. Darina Komínková MBA",
-                "role": "1.místopředsedkyně"
-            },
-            {
                 "name": "Mgr. Jiří Richter",
                 "role": "předseda"
+            },
+            {
+                "name": "Mgr. Justinian Popovič",
+                "role": "hlavní manažer"
+            },
+            {
+                "name": "Tomáš Binter",
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -1536,12 +1541,12 @@
         "address": "500 03 Hradec Králové, Eliščino nábřeží 280/23",
         "people": [
             {
-                "name": "In. Michal Skaunic",
-                "role": "člen"
+                "name": "Ing. Martina Hepnerová",
+                "role": "členka"
             },
             {
-                "name": "Ing. Petr  Nebeský",
-                "role": "místopředseda"
+                "name": "Ing. Zuzana Humhalová",
+                "role": "místopředsedkyně"
             },
             {
                 "name": "JUDr. Jan Holásek. LL.M.",
