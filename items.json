@@ -1,5 +1,16 @@
 [
     {
+        "name": "Hnutí PRO Chomutov",
+        "code": "PRO Chomutov",
+        "id": "29801419",
+        "reg_number": "MV-107932-4/OV-2026",
+        "reg_date": "2026-07-20",
+        "address": "430 01 Chomutov, Hálkova 226/6",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "JSME SOUSEDÉ",
         "code": "SOUSEDÉ",
         "id": "29782953",
@@ -195,7 +206,12 @@
         "reg_number": "MV- 94739-2/OV-2026",
         "reg_date": "2026-06-16",
         "address": "739 61 Třinec, Poštovní 244",
-        "people": [],
+        "people": [
+            {
+                "name": "Ing. Lucie Fremrová",
+                "role": "předsedkyně"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -276,7 +292,20 @@
         "reg_number": "MV- 88706-4/OV-2026",
         "reg_date": "2026-06-12",
         "address": "163 00 Praha, Vondroušova 1211/44",
-        "people": [],
+        "people": [
+            {
+                "name": "Lukáš Pokorný",
+                "role": "předseda"
+            },
+            {
+                "name": "Mahulena Vodárková",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Martin Jaroš",
+                "role": "člen"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
@@ -694,7 +723,7 @@
         "is_active": true
     },
     {
-        "name": "Rebelové web: re3elove.cz program-hash: 3wtBw2bAJ621vWSxxgJHFG 1. Do roka dostupné bydlení pro všechny! 2. Snížení Plateb za elektřinu o 25% 3. Snížení DPH na 20% a 10% 4. Průhledné VYÚČTOVÁNÍ VAŠICH DANÍ 5. Konec podvodů s cenami v supermarketech 6. Snížíme počet lidí v exekuci o 50% 7. Zrušení poplatku za TV a rádio 8. Konečně spravedlivé důchody 9. Úředník je váš zaměstnanec 10. Reforma vězeňství aneb práce šlechtí 11. Radikální reforma zastaralého školství 12. Razantní snížení drogové kriminality 13. Odměňování politiků podle výsledků 14. Obecné referendum jako pojistka demokracie 15. Účast ve finále MS ve fotbale do roku 2050",
+        "name": "Rebelové",
         "code": "Rebelové",
         "id": "23483105",
         "reg_number": "MV-88654-4/OV-2025",
