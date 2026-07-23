@@ -1,5 +1,38 @@
 [
     {
+        "name": "24/7",
+        "code": "24/7",
+        "id": "29813671",
+        "reg_number": "MV-111249-4/OV-2026",
+        "reg_date": "2026-07-22",
+        "address": "783 32 Náklo, Mezice 116",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "Budoucnost pro Kolín",
+        "code": "BPK",
+        "id": "29813841",
+        "reg_number": "MV-112250-4/OV-2026",
+        "reg_date": "2026-07-22",
+        "address": "280 02 Kolín, Zborovská 993",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "LEPŠÍ CHOMUTOV",
+        "code": "LCH",
+        "id": "29813514",
+        "reg_number": "MV-107969-6/OV-2026",
+        "reg_date": "2026-07-22",
+        "address": "278 01 Kralupy nad Vltavou, Nad Rybníkem 214",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "Hnutí PRO Chomutov",
         "code": "PRO Chomutov",
         "id": "29801419",
@@ -375,7 +408,12 @@
         "reg_number": "MV- 75587-5/OV-2026",
         "reg_date": "2026-05-22",
         "address": "352 01 Aš, Nemocniční 1897/49",
-        "people": [],
+        "people": [
+            {
+                "name": "Marian Rewczuk",
+                "role": "předseda"
+            }
+        ],
         "type": "party",
         "is_active": true
     },
