@@ -85,7 +85,12 @@
         "reg_number": "MV-102969-4/OV-2026",
         "reg_date": "2026-07-13",
         "address": "625 00 Brno, Lány 173/9",
-        "people": [],
+        "people": [
+            {
+                "name": "Mgr. Břetislav Štefan",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -107,7 +112,12 @@
         "reg_number": "MV-103157-4/OV-2026",
         "reg_date": "2026-07-03",
         "address": "618 00 Brno, Olomoucká 1002/138",
-        "people": [],
+        "people": [
+            {
+                "name": "Ing. Mgr. Ladislav Kotík",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -6819,7 +6829,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Nezávislí pro Bílinu",
@@ -8919,7 +8929,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Demokratická Unie České republiky",
