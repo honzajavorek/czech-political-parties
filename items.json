@@ -1,5 +1,16 @@
 [
     {
+        "name": "ZLÍN SRDCEM",
+        "code": "ZS",
+        "id": "29831474",
+        "reg_number": "MV-115017-5/OV-2026",
+        "reg_date": "2026-07-28",
+        "address": "760 01 Zlín, nám. T. G. Masaryka 1281",
+        "people": [],
+        "type": "movement",
+        "is_active": true
+    },
+    {
         "name": "24/7",
         "code": "24/7",
         "id": "29813671",
@@ -128,7 +139,20 @@
         "reg_number": "MV-103831-2/OV-2026",
         "reg_date": "2026-07-03",
         "address": "530 09 Pardubice, Bělehradská 554",
-        "people": [],
+        "people": [
+            {
+                "name": "Josef Máslo",
+                "role": "místopředseda"
+            },
+            {
+                "name": "MUDr. Vítězslav Novohradský, Ph.D.",
+                "role": "předseda"
+            },
+            {
+                "name": "RNDr. Josef Rak, Ph.D.",
+                "role": "člen"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -383,7 +407,16 @@
         "reg_number": "MV- 81287-2/OV-2026",
         "reg_date": "2026-05-27",
         "address": "193 00 Praha, Čechurova 1988/31",
-        "people": [],
+        "people": [
+            {
+                "name": "Hana Markulinec Moravcová",
+                "role": "předsedkyně"
+            },
+            {
+                "name": "Ing. Alexandra Janáčková",
+                "role": "místopředsedkyně"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -5843,16 +5876,8 @@
         "address": "466 01 Jablonec nad Nisou, Lípová 3525/8",
         "people": [
             {
-                "name": "Lukáš Dora",
-                "role": "místopředseda"
-            },
-            {
                 "name": "Mgr. Štěpán Prokop",
                 "role": "1. místopředseda"
-            },
-            {
-                "name": "Naděžda Holešová",
-                "role": "místopředsedkyně"
             },
             {
                 "name": "Zbyněk Hromek",
