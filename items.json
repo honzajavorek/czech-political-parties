@@ -112,7 +112,20 @@
         "reg_number": "MV-104695-2/OV-2026",
         "reg_date": "2026-07-03",
         "address": "500 03 Hradec Králové, Malé náměstí 3/20",
-        "people": [],
+        "people": [
+            {
+                "name": "Aleš Ditrych",
+                "role": "člen"
+            },
+            {
+                "name": "Mgr. Ilona Dvořáková DBA",
+                "role": "předsedkyně"
+            },
+            {
+                "name": "PaeDr. Jindřich Vedlich",
+                "role": "místopředseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -348,7 +361,20 @@
         "reg_number": "MV- 89570-2/OV-2026",
         "reg_date": "2026-06-12",
         "address": "434 01 Most, Prokopa Holého 2007/11",
-        "people": [],
+        "people": [
+            {
+                "name": "Ing. et Bc. Jiří Nedvěd",
+                "role": "předseda"
+            },
+            {
+                "name": "Jaroslav Pilař",
+                "role": "člen"
+            },
+            {
+                "name": "MUDr. Roman Houska",
+                "role": "člen"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -10735,10 +10761,6 @@
         "reg_date": "1993-08-18",
         "address": "106 00 Praha, Žirovnická 3133/6",
         "people": [
-            {
-                "name": "František Otta",
-                "role": "člen"
-            },
             {
                 "name": "Jakub Višňák",
                 "role": "člen"
