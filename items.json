@@ -17,7 +17,20 @@
         "reg_number": "MV-111249-4/OV-2026",
         "reg_date": "2026-07-22",
         "address": "783 32 Náklo, Mezice 116",
-        "people": [],
+        "people": [
+            {
+                "name": "Jana Kubíčková",
+                "role": "hospodářka"
+            },
+            {
+                "name": "Marek Ošťádal",
+                "role": "předseda"
+            },
+            {
+                "name": "Tomáš Pavelka",
+                "role": "místopředseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -39,7 +52,12 @@
         "reg_number": "MV-107969-6/OV-2026",
         "reg_date": "2026-07-22",
         "address": "278 01 Kralupy nad Vltavou, Nad Rybníkem 214",
-        "people": [],
+        "people": [
+            {
+                "name": "Telman Nersisjan",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -50,7 +68,12 @@
         "reg_number": "MV-107932-4/OV-2026",
         "reg_date": "2026-07-20",
         "address": "430 01 Chomutov, Hálkova 226/6",
-        "people": [],
+        "people": [
+            {
+                "name": "Petr Veverka",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -176,7 +199,16 @@
         "reg_number": "MV-100570-4/OV-2026",
         "reg_date": "2026-06-29",
         "address": "602 00 Brno, Körnerova 219/2",
-        "people": [],
+        "people": [
+            {
+                "name": "Matúš Bóna",
+                "role": "člen výboru"
+            },
+            {
+                "name": "Tomáš Ulrich",
+                "role": "člen výboru"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -302,7 +334,20 @@
         "reg_number": "MV- 95708-2/OV-2026",
         "reg_date": "2026-06-16",
         "address": "769 01 Holešov, U Letiště 1255/51",
-        "people": [],
+        "people": [
+            {
+                "name": "Lukáš Leško",
+                "role": "člen"
+            },
+            {
+                "name": "Vladan Daněk",
+                "role": "předseda"
+            },
+            {
+                "name": "Zdeněk Chytil",
+                "role": "místopředseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
