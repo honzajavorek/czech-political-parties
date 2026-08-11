@@ -95,7 +95,16 @@
         "reg_number": "MV-106233-4/OV-2026",
         "reg_date": "2026-07-14",
         "address": "160 00 Praha, Podbabská 1112/13",
-        "people": [],
+        "people": [
+            {
+                "name": "Christina Nicole Štunda",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Jiří Topinka",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
@@ -9491,10 +9500,6 @@
         "people": [
             {
                 "name": "Alena  Šimková",
-                "role": "člen výboru"
-            },
-            {
-                "name": "Hana Sieglová",
                 "role": "člen výboru"
             },
             {
