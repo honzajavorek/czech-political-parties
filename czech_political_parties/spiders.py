@@ -35,7 +35,7 @@ class CzechPoliticalPartiesSpider(scrapy.Spider):
             )
 
         # A single large page returns every record. If that ever stops being
-        # true, fail loudly instead of silently scraping only the first page.
+        # true, fail loudly instead of silently scraping only the first page
         paging = payload.find('"pagingInfo":')
         if paging and len(data) < paging['itemCount']:
             raise ValueError(
@@ -103,7 +103,7 @@ class FlightPayload:
         if index == -1:
             return None
         # When the needle already contains the value's opening brace (e.g.
-        # ``"data":{"id":``) decode from that brace, otherwise from right after it.
+        # ``"data":{"id":``) decode from that brace, otherwise from right after it
         brace = needle.find('{')
         start = index + (brace if brace != -1 else len(needle))
         value, _ = json.JSONDecoder().raw_decode(self.text[start:])
@@ -120,7 +120,7 @@ class FlightPayload:
             row_id = text[index:colon]
             start = colon + 1
             if start < length and text[start] == 'T':
-                # A length-prefixed text blob: ``T<hexadecimal byte length>,<text>``.
+                # A length-prefixed text blob: ``T<hexadecimal byte length>,<text>``
                 comma = text.find(',', start)
                 size = int(text[start + 1:comma], 16)
                 body = text[comma + 1:].encode('utf-8')[:size].decode('utf-8')

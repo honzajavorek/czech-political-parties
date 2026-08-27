@@ -6,7 +6,7 @@ USER_AGENT = 'czech-political-parties (+https://github.com/honzajavorek/czech-po
 
 # Ask Next.js for the React Flight payload (text/x-component) rather than the
 # full HTML page. It's the same request the site makes when navigating on the
-# client, and it returns the server-rendered data without the surrounding markup.
+# client, and it returns the server-rendered data without the surrounding markup
 DEFAULT_REQUEST_HEADERS = {'RSC': '1'}
 
 FEED_EXPORTERS = {

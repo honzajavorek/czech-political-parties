@@ -10,6 +10,6 @@ Inspired by [@simonw](https://github.com/simonw)'s [git scraping article](https:
 
 The scraper uses my favorite [Scrapy](https://docs.scrapy.org/) framework. So far I scrape only a few fields. If you want to build on top of the data and you're missing something, let me know in [issues](https://github.com/honzajavorek/czech-political-parties/issues). The data is sorted by registration date, so that the newest parties and movements are at the top of the file.
 
-The registry used to live in an old ASP.NET application, but it moved to a new React (Next.js) frontend which renders everything on the client from an internal API that isn't reachable from the outside. Luckily, it server-side renders the same data and serves it through its RSC (React Server Components) endpoint — the very request the site makes when you navigate around it. The scraper asks for that payload (via the `RSC` header), parses the React Flight format it comes in, and reads the data straight out of it: one request for the full list, then one per party for the details.
+The [registry](https://mv.gov.cz/seznam-politickych-stran) is a React (Next.js) app with no public API to call, but it does expose its data through the RSC (React Server Components) endpoint it uses for client-side navigation. The scraper requests that (via the `RSC` header), parses the React Flight payload it returns, and reads the records straight out of it: one request for the full list, then one per party for the details.
 
 I'm curious what changes I'm about to see!
