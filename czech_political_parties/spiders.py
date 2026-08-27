@@ -69,7 +69,7 @@ class CzechPoliticalPartiesSpider(scrapy.Spider):
         yield {
             'name': party['nazev'].strip('"„”“'),
             'code': party['zkratka'].strip('"„”“'),
-            'id': party.get('ico') or None,
+            'id': None if party['ico'] == 'None' else party['ico'],
             'reg_number': party['cisloRegistrace'],
             'reg_date': arrow.get(party['datumRegistrace']).date(),
             'address': party['sidlo'],
