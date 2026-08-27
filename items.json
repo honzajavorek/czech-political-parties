@@ -9855,7 +9855,7 @@
     {
         "name": "Aliance nezávislých občanů",
         "code": "ANO",
-        "id": "None",
+        "id": null,
         "reg_number": "VS/1-1/5029/98",
         "reg_date": "1998-09-08",
         "address": "702 00 Ostrava, Na hradbách  4",
@@ -10147,7 +10147,7 @@
     {
         "name": "Hnutí za prosperitu Brna",
         "code": "HPB",
-        "id": "None",
+        "id": null,
         "reg_number": "VS/1-1/2255/1998",
         "reg_date": "1998-05-04",
         "address": "624 00 Brno, Jundrovská 1035/33",
@@ -10183,7 +10183,7 @@
     {
         "name": "Alternativa 2000",
         "code": "A 2000",
-        "id": "None",
+        "id": null,
         "reg_number": "VS/1-1/1565/98/r",
         "reg_date": "1998-03-30",
         "address": "718 00 Ostrava, Střádalů 26/73",
@@ -10458,7 +10458,7 @@
     {
         "name": "Strana Přírodního Zákona",
         "code": "Přírodní",
-        "id": "None",
+        "id": null,
         "reg_number": "II/s-OS/1-1760/95",
         "reg_date": "1995-12-07",
         "address": "Praha",
@@ -11163,7 +11163,7 @@
     {
         "name": "Hnutí 90",
         "code": "H 90",
-        "id": "None",
+        "id": null,
         "reg_number": "VSP/1-3848/90",
         "reg_date": "1991-01-24",
         "address": "102 00 Praha, Azalková 1216/29",
@@ -11183,7 +11183,7 @@
     {
         "name": "Politická strana žen a matek Československa",
         "code": "NEUVEDENA",
-        "id": "None",
+        "id": null,
         "reg_number": "VSP/1-400/91",
         "reg_date": "1991-01-18",
         "address": "",
@@ -11285,7 +11285,7 @@
     {
         "name": "Strana drobných podnikatelů",
         "code": "SDP",
-        "id": "None",
+        "id": null,
         "reg_number": "VSP/4-2289/90",
         "reg_date": "1990-09-26",
         "address": "160 00 Praha, Bubenečská 382/43",
@@ -11365,7 +11365,7 @@
     {
         "name": "Strana demokratické levice",
         "code": "SDL",
-        "id": "None",
+        "id": null,
         "reg_number": "AVS/1-985/90",
         "reg_date": "1990-04-09",
         "address": "Praha",
@@ -11376,7 +11376,7 @@
     {
         "name": "Strana obrany kultury",
         "code": "SOK",
-        "id": "None",
+        "id": null,
         "reg_number": "AVS/1-997/90",
         "reg_date": "1990-04-09",
         "address": "Praha",
@@ -11507,7 +11507,7 @@
     {
         "name": "Demokratická unie zdraví a sportu",
         "code": "DUZS",
-        "id": "None",
+        "id": null,
         "reg_number": "AVS/1-790/90",
         "reg_date": "1990-03-20",
         "address": "Jablonec nad Nisou",
@@ -11751,7 +11751,7 @@
     {
         "name": "Československá strana Humanistické Internacionály",
         "code": "ČSHI",
-        "id": "None",
+        "id": null,
         "reg_number": "AVS/1-526/90",
         "reg_date": "1990-02-27",
         "address": "Ostrava",
