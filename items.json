@@ -6846,30 +6846,6 @@
         "is_active": true
     },
     {
-        "name": "$28",
-        "code": "Švýcarská demokracie",
-        "id": "71443177",
-        "reg_number": "MV-69200-5/VS-2010",
-        "reg_date": "2010-07-21",
-        "address": "708 00 Ostrava, Alšovo náměstí 691/4",
-        "people": [
-            {
-                "name": "Ing. Mgr. Pynelopi Cimprichová",
-                "role": "předsedkyně"
-            },
-            {
-                "name": "Ing. Tomáš  Raždík",
-                "role": "1. místopředseda"
-            },
-            {
-                "name": "Jiří Fojtík",
-                "role": "2. místopředseda"
-            }
-        ],
-        "type": "movement",
-        "is_active": true
-    },
-    {
         "name": "VLASTENECKÁ STRANA",
         "code": "VS",
         "id": "71443169",
@@ -6892,6 +6868,30 @@
         ],
         "type": "party",
         "is_active": false
+    },
+    {
+        "name": "ŠVÝCARSKÁ DEMOKRACIE - Švýcaři si užívají nejvyšší kvality života na světě - PRŮMĚRNOU MZDU mají v přepočtu zhruba 185 000 Kč (ČR 47 000 Kč), DPH mají pouhých 8 % (ČR 21 %), STÁTNÍ DLUH dlouhodobě snižují (mají ústavou danou povinnost státu hospodařit s VYROVNANÝM ROZPOČTEM), INFLACI mají nejnižší v Evropě, v posledních krizových letech jen 3 % (ČR 17 %), KONKURENCESCHOPNÍ jsou nejvíce na světě, JUSTICI mají jednu z nejefektivnějších (přitom nemají ústavní soud), stát udržují hluboce DECENTRALIZOVANÝ (ústavou mají dánu zásadu SUBSIDIARITY- na stát je delegováno jen to, co nelze nebo není výhodné řešit na nižší politické úrovni, výrazně větší množství peněz daňových poplatníků zůstává na místní úrovni), přímo ústavou chrání svou POTRAVINOVOU SOBĚSTAČNOST, KVALITU ŽIVOTNÍHO PROSTŘEDÍ mají jednu z nejlepších, OCHRANU PRÁV ZVÍŘAT jednu z nejvyšších, OBRANU jednu z nejúčinnějších (organizovanou jako domobranu), IMIGRACI zcela pod kontrolou, přitom nejsou členy EU ani NATO - za vše vděčí svému originálnímu politickému SYSTÉMU, který stojí na FEDERALISMU, NEUTRALITĚ a PŘÍMÉ DEMOKRACII - 30 let měníme politiky a naše výsledky se zásadně nemění, je tedy POTŘEBA ZMĚNIT SYSTÉM po vzoru Švýcarska, to můžeme učinit jedním velkým krokem, PŘIJETÍM NOVÉ ÚSTAVY, to je náš cíl, je potřeba se učit od úspěšných (www.svycarska-demokracie.cz)",
+        "code": "Švýcarská demokracie",
+        "id": "71443177",
+        "reg_number": "MV-69200-5/VS-2010",
+        "reg_date": "2010-07-21",
+        "address": "708 00 Ostrava, Alšovo náměstí 691/4",
+        "people": [
+            {
+                "name": "Ing. Mgr. Pynelopi Cimprichová",
+                "role": "předsedkyně"
+            },
+            {
+                "name": "Ing. Tomáš  Raždík",
+                "role": "1. místopředseda"
+            },
+            {
+                "name": "Jiří Fojtík",
+                "role": "2. místopředseda"
+            }
+        ],
+        "type": "movement",
+        "is_active": true
     },
     {
         "name": "Desítka pro domácí",
@@ -10440,7 +10440,7 @@
         "is_active": false
     },
     {
-        "name": "$28",
+        "name": "Volte Pravý Blok - stranu za snadnou a rychlou ODVOLATELNOST politiků a státních úředníků PŘÍMO OBČANY, za NÍZKÉ daně, VYROVNANÝ rozpočet, MINIMALIZACI byrokracie, SPRAVEDLIVOU a NEZKORUMPOVANOU policii a justici, REFERENDA  a PŘÍMOU demokracii WWW.CIBULKA.NET, kandidující s nejlepším protikriminálním programem PŘÍMÉ demokracie a hlubokého národního, duchovního a mravního obrození VY NEVĚŘÍTE POLITIKŮM A JEJICH NOVINÁŘŮM? NO KONEČNĚ! VĚŘME SAMI SOBĚ!!! - ale i s mnoha dalšími DŮVODY, proč bychom měli jít tentokrát VŠICHNI K VOLBÁM, ale - pokud nechceme být ZNOVU obelháni, podvedeni a okradeni - NEVOLIT ŽÁDNOU PARLAMENTNÍ TUNEL - STRANU vládnoucí (post) komunistické RUSKO - ČESKÉ totalitní FÍZLOKRACIE a jejich likvidační protinárodní politiku ČÍM HŮŘE, TÍM LÉPE!!! - jenž žádá  o volební podporu VŠECHNY ČESKÉ OBČANY a daňové poplatníky, kteří chtějí změnit dnešní kriminální poměry, jejichž jsme všichni obětí, v jejich pravý opak! V BOJI MEZI DOBREM A ZLEM, PRAVDOU A LŽÍ, NELZE BÝT NEUTRÁLNÍ A PŘESTO ZŮSTAT SLUŠNÝ!!! Proto děkujeme za Vaši podporu!!! Nevěříte-li na pokoru u popravčí káry, zdá-li se vám naše kandidátka málo dokonalá nebo postrádáte-li na ní zástupce své obce nebo města a přitom MÁTE ODVAHU v této válce Lidí Dobra s vládnoucími Lidmi Zla povstat z jimi naordinovaného občanského bezvědomí, kterým nás ničí a dnešní DEMOKRATURU, SKRYTOU TOTALITU a OTROKÁŘSTVÍ VYŠŠÍHO ŘÁDU zásadním způsobem změnit, KANDIDUJTE ZA NÁS!!! Kontakt: Volte Pravý Blok www.cibulka.net, PO BOX 595, 170 00 Praha 7",
         "code": "Volte Pravý Blok www.cibulka.net",
         "id": "64933911",
         "reg_number": "II/s-OS/1-1371/96",

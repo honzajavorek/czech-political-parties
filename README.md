@@ -10,4 +10,6 @@ Inspired by [@simonw](https://github.com/simonw)'s [git scraping article](https:
 
 The scraper uses my favorite [Scrapy](https://docs.scrapy.org/) framework. So far I scrape only a few fields. If you want to build on top of the data and you're missing something, let me know in [issues](https://github.com/honzajavorek/czech-political-parties/issues). The data is sorted by registration date, so that the newest parties and movements are at the top of the file.
 
+The registry used to live in an old ASP.NET application, but it moved to a new React (Next.js) frontend which renders everything on the client from an internal API that isn't reachable from the outside. Luckily, it also server-side renders the same data into every page as a dehydrated [react-query](https://tanstack.com/query) cache embedded in the streamed RSC payload (those `self.__next_f.push(...)` scripts). The scraper reconstructs that payload and reads the data straight out of it: one request for the full list, then one per party for the details.
+
 I'm curious what changes I'm about to see!
