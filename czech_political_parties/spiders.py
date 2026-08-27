@@ -1,82 +1,103 @@
 import json
 import re
 from operator import itemgetter
-from urllib.parse import urlencode
+from urllib.parse import parse_qs, urlencode, urlparse
 
 import arrow
 import scrapy
 
 
-BASE_URL = 'https://mv.gov.cz/seznam-politickych-stran'
+# The registry publishes an official open-data dataset with all of the party
+# details we need. It doesn't say whether a record is a party or a movement,
+# nor whether it's still active, so we enrich it with those two fields from the
+# website's own React Server Components (RSC) list endpoint.
+OPEN_DATA_URL = 'https://mv.gov.cz/app/opendata/boards/SPS'
+LIST_URL = 'https://mv.gov.cz/seznam-politickych-stran'
 
-# Numeric enums mirrored from the site's JavaScript bundle
-# `typ`: 0 = party (politická strana), 1 = movement (politické hnutí)
+# Ask Next.js for the React Flight payload (text/x-component) instead of HTML
+RSC_HEADERS = {'RSC': '1'}
+
+# `typ`, mirrored from the site's JavaScript bundle:
+# 0 = party (politická strana), 1 = movement (politické hnutí)
 TYPE_MAPPING = {0: 'party', 1: 'movement'}
-# `stav` (SpsState): 1 = active, 2 = cancelled, 3 = paused, 4 = deleted
-STATE_ACTIVE = 1
-# All of the states, so that we scrape inactive parties and movements too
+# `Stavy` (SpsState) filter values: 1 = active, 2 = cancelled, 3 = paused,
+# 4 = deleted. We list every state to include inactive parties and movements.
 ALL_STATES = '1,2,3,4'
+ACTIVE_STATE = '1'
 
 
 class CzechPoliticalPartiesSpider(scrapy.Spider):
-    # The `RSC` request header (see settings.py) makes every request return the
-    # React Flight payload instead of the full HTML page.
     name = 'czech-political-parties'
-    start_urls = [f'{BASE_URL}?{urlencode({"Stavy": ALL_STATES, "PageSize": 1000, "PageNo": 1})}']
+    start_urls = [OPEN_DATA_URL]
 
     def parse(self, response):
-        payload = FlightPayload(response.text)
+        parties = json.loads(response.text)['strany']
+        # The open data omits the party/movement distinction, so fetch the RSC
+        # list of all records to learn each one's `typ`.
+        yield self._list_request(ALL_STATES, self.parse_types, parties=parties)
 
-        data = payload.find('"politickeStranyList":')
-        if data is None:
+    def parse_types(self, response, parties):
+        types = {party['id']: party['typ'] for party in self._list(response)}
+        # ...and the list filtered to active records tells us which are active.
+        yield self._list_request(
+            ACTIVE_STATE, self.parse_active, parties=parties, types=types
+        )
+
+    def parse_active(self, response, parties, types):
+        active_ids = {party['id'] for party in self._list(response)}
+        for party in parties:
+            yield build_item(party, types, active_ids)
+
+    def _list_request(self, states, callback, **cb_kwargs):
+        query = urlencode({'Stavy': states, 'PageSize': 1000, 'PageNo': 1})
+        return scrapy.Request(
+            f'{LIST_URL}?{query}',
+            headers=RSC_HEADERS,
+            callback=callback,
+            cb_kwargs=cb_kwargs,
+        )
+
+    def _list(self, response):
+        payload = FlightPayload(response.text)
+        parties = payload.find('"politickeStranyList":')
+        if parties is None:
             raise ValueError(
                 f"Couldn't find the list of parties at {response.url}. "
                 "The website's structure has probably changed."
             )
-
-        # A single large page returns every record. If that ever stops being
-        # true, fail loudly instead of silently scraping only the first page
         paging = payload.find('"pagingInfo":')
-        if paging and len(data) < paging['itemCount']:
+        if paging and len(parties) < paging['itemCount']:
             raise ValueError(
-                f"Got only {len(data)} of {paging['itemCount']} records at "
+                f"Got only {len(parties)} of {paging['itemCount']} records at "
                 f"{response.url}. The 'PageSize' is no longer large enough."
             )
+        return parties
 
-        for party in data:
-            yield response.follow(
-                f'{BASE_URL}?{urlencode({"id": party["id"]})}',
-                callback=self.parse_item,
-            )
 
-    def parse_item(self, response):
-        party = FlightPayload(response.text).find('"data":{"id":')
-        if party is None:
-            raise ValueError(
-                f"Couldn't find party details at {response.url}. "
-                "The website's structure has probably changed."
-            )
-
-        people = [
-            {
-                'name': person['cele_jmeno'].strip(),
-                'role': person['typ_osoby'].rstrip(':').strip(),
-            }
-            for person in (party.get('osoby') or [])
-            if not person.get('datum_do') and person['cele_jmeno'].strip()
-        ]
-
-        yield {
-            'name': party['nazev'].strip('"„”“'),
-            'code': party['zkratka'].strip('"„”“'),
-            'id': None if party['ico'] == 'None' else party['ico'],
-            'reg_number': party['cisloRegistrace'],
-            'reg_date': arrow.get(party['datumRegistrace']).date(),
-            'address': party['sidlo'],
-            'people': sorted(people, key=itemgetter('name')),
-            'type': TYPE_MAPPING[party['typ']],
-            'is_active': party['stav'] == STATE_ACTIVE,
+def build_item(party, types, active_ids):
+    party_id = int(parse_qs(urlparse(party['url']).query)['id'][0])
+    people = [
+        {
+            'name': person['jméno'].strip(),
+            'role': person['funkce'].rstrip(':').strip(),
         }
+        for person in (party.get('osoby') or [])
+        if person['jméno'].strip()
+    ]
+    ico = party['identifikační_číslo']
+    return {
+        'name': party['název'].strip('"„”“'),
+        'code': party['zkratka'].strip('"„”“'),
+        # Parties without an IČO come with the literal string "None"; the rest
+        # come without leading zeros, so pad them back to the canonical 8 digits.
+        'id': None if ico == 'None' else ico.zfill(8),
+        'reg_number': party['číslo_registrace'],
+        'reg_date': arrow.get(party['den_registrace']).date(),
+        'address': party['adresa_sídla'],
+        'people': sorted(people, key=itemgetter('name')),
+        'type': TYPE_MAPPING[types[party_id]],
+        'is_active': party_id in active_ids,
+    }
 
 
 class FlightPayload:
