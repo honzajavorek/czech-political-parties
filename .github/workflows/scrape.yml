@@ -31,8 +31,10 @@ jobs:
       - name: Scrape
         run: scrapy crawl czech-political-parties
 
+      # A bare '[ -s items.json ]' check isn't enough: an empty result is still
+      # a valid '[]' file, so use jq to make sure the scraper exported records.
       - name: Check that data got exported
-        run: "[ -s items.json ] || exit 1"
+        run: jq -e 'type == "array" and length > 0' items.json
 
       - name: Save to Git
         uses: EndBug/add-and-commit@v11
