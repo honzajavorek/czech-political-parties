@@ -15,7 +15,7 @@ class SortedJsonItemExporter(BaseItemExporter):
         self.items = []
 
     def export_item(self, item):
-        self.items.append(dict(self._get_serialized_fields(item)))
+        self.items.append(dict(self.get_serialized_fields(item)))
 
     def finish_exporting(self):
         data = self.encoder.encode(sorted(self.items, key=sort_key))
