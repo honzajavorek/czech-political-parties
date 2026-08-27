@@ -14,7 +14,7 @@ import scrapy
 OPEN_DATA_URL = 'https://mv.gov.cz/app/opendata/boards/SPS'
 LIST_URL = 'https://mv.gov.cz/seznam-politickych-stran'
 
-# Ask Next.js for the React Flight payload (text/x-component) instead of HTML.
+# Ask Next.js for the React Flight payload (text/x-component) instead of HTML
 RSC_HEADERS = {'RSC': '1'}
 
 # `typ`, mirrored from the site's JavaScript bundle:
