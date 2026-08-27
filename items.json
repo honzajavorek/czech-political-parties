@@ -1,1 +1,153 @@
-[]
+[
+    {
+        "name": "Tomáš Magnusek do Senátu",
+        "code": "TMS",
+        "id": "21657408",
+        "reg_number": "MV-44421-8/OV-2024",
+        "reg_date": "2024-05-28",
+        "address": "547 01 Náchod, Kladská 445",
+        "people": [
+            {
+                "name": "Tomáš Magnusek",
+                "role": "předseda"
+            }
+        ],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "Moravská a Slezská pirátská strana",
+        "code": "MS Piráti",
+        "id": "07374275",
+        "reg_number": "MV-87779-11/VS-2018",
+        "reg_date": "2018-08-16",
+        "address": "736 01 *Havířov, Želivského 1338/3",
+        "people": [
+            {
+                "name": "Mgr. et Bc. Karel Světnička",
+                "role": "předseda"
+            },
+            {
+                "name": "Michal Drabík",
+                "role": "1. místopředseda"
+            },
+            {
+                "name": "Petra Dofková",
+                "role": "místopředsedkyně"
+            }
+        ],
+        "type": "party",
+        "is_active": false
+    },
+    {
+        "name": "Moderní společnost",
+        "code": "MODES",
+        "id": "03254747",
+        "reg_number": "MV-99055-4/VS-2014",
+        "reg_date": "2014-07-31",
+        "address": "792 01 Bruntál, Horní 1562/9",
+        "people": [
+            {
+                "name": "Ing. Pavla Krupová",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Jiří Krupa",
+                "role": "předseda"
+            },
+            {
+                "name": "Ludmila Hajná",
+                "role": "členka"
+            }
+        ],
+        "type": "party",
+        "is_active": true
+    },
+    {
+        "name": "Mladoboleslavské hnutí nezávislých",
+        "code": "MBN",
+        "id": "03156583",
+        "reg_number": "MV-86489-2/VS-2014",
+        "reg_date": "2014-07-01",
+        "address": "293 01 Mladá Boleslav, Jaselská 167/22",
+        "people": [
+            {
+                "name": "Bc. Filip  Šubr",
+                "role": "předseda"
+            },
+            {
+                "name": "Josef Hladík",
+                "role": "člen"
+            },
+            {
+                "name": "Mgr. Přemysl Siřínek",
+                "role": "místopředseda"
+            },
+            {
+                "name": "Olga Kočová",
+                "role": "členka"
+            },
+            {
+                "name": "PhDr. Pavel Filip",
+                "role": "člen"
+            }
+        ],
+        "type": "movement",
+        "is_active": false
+    },
+    {
+        "name": "Volím Orlovou",
+        "code": "VO",
+        "id": "71339892",
+        "reg_number": "MV-53132-5/VS-2010",
+        "reg_date": "2010-05-31",
+        "address": "735 14 Orlová, Ke Studánce 354",
+        "people": [
+            {
+                "name": "Bc. Naděžda Kubalová",
+                "role": "předseda"
+            },
+            {
+                "name": "Ing. Miroslava Šromková",
+                "role": "člen"
+            },
+            {
+                "name": "Mgr. Pavla Bjalončíková",
+                "role": "místopředsedkyně"
+            }
+        ],
+        "type": "movement",
+        "is_active": true
+    },
+    {
+        "name": "Viktor Kožený - Občanská federální demokracie",
+        "code": "OFD",
+        "id": "26660709",
+        "reg_number": "VS-1962/SDR/1-2004",
+        "reg_date": "2004-04-01",
+        "address": "145 01 Praha, Ohradní 1159/65",
+        "people": [],
+        "type": "party",
+        "is_active": false
+    },
+    {
+        "name": "Moravané",
+        "code": "Moravané",
+        "id": "60556625",
+        "reg_number": "II/s-OS/1-462/94",
+        "reg_date": "1994-06-01",
+        "address": "660 87 Brno, Malinovského náměstí 603/4",
+        "people": [
+            {
+                "name": "Ing. Aleš Sekanina",
+                "role": "předseda"
+            },
+            {
+                "name": "Ing. Mgr. Ondřej Hetmánek",
+                "role": "místopředseda"
+            }
+        ],
+        "type": "movement",
+        "is_active": true
+    }
+]
