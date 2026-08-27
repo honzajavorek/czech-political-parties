@@ -32,7 +32,7 @@ jobs:
         run: scrapy crawl czech-political-parties
 
       - name: Check that data got exported
-        run: "[ -s items.json ] || exit 1"
+        run: jq -e 'type == "array" and length > 0' items.json
 
       - name: Save to Git
         uses: EndBug/add-and-commit@v11
