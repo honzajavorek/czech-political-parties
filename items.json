@@ -52,7 +52,20 @@
         "reg_number": "MV-112250-4/OV-2026",
         "reg_date": "2026-07-22",
         "address": "280 02 Kolín, Zborovská 993",
-        "people": [],
+        "people": [
+            {
+                "name": "Dana Plašilová",
+                "role": "místopředsedkyně"
+            },
+            {
+                "name": "Ing. Ondřej Šafařík",
+                "role": "člen Rady hnutí"
+            },
+            {
+                "name": "Ing. Petr Uhlíř",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
