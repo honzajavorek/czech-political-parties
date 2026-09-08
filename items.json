@@ -6,7 +6,12 @@
         "reg_number": "MV-113858-4/OV-2026",
         "reg_date": "2026-08-04",
         "address": "635 00 Brno, Píškova 585/4",
-        "people": [],
+        "people": [
+            {
+                "name": "doc. Ing. Petr Hluštík",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
