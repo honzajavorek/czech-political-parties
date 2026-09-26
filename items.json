@@ -897,7 +897,7 @@
         "address": "289 21 Kostomlaty nad Labem, Pod Sokolovnou 252",
         "people": [
             {
-                "name": "Klára Kadár",
+                "name": "Lucie Spáčilová",
                 "role": "členka"
             },
             {
@@ -905,11 +905,11 @@
                 "role": "členka"
             },
             {
-                "name": "Michaela Nedory",
+                "name": "Veronika Holcnerová",
                 "role": "členka"
             },
             {
-                "name": "Pavla Krausová",
+                "name": "Zuzana Janková",
                 "role": "členka"
             }
         ],
@@ -1658,11 +1658,11 @@
             },
             {
                 "name": "Kamila Kurníková",
-                "role": "Místopředsedkyně"
+                "role": "Spolupředsedkyně"
             },
             {
-                "name": "Kateřina Šrámková",
-                "role": "Spolupředsedkyně"
+                "name": "Pavel Franc",
+                "role": "místopředseda"
             }
         ],
         "type": "party",
