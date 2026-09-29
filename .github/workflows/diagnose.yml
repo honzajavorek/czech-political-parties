@@ -1,0 +1,103 @@
+name: diagnose
+
+on:
+  push:
+    branches:
+      - claude/ci-failure-investigation-3e9q5r
+
+env:
+  API: https://mv.gov.cz/app/opendata/boards/SPS
+  LIST: https://mv.gov.cz/seznam-politickych-stran?Stavy=1&PageSize=5&PageNo=1
+  CHROME_UA: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+
+jobs:
+  curl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Runner egress IP and DNS
+        run: |
+          curl -sS -m 10 https://api.ipify.org; echo
+          getent ahosts mv.gov.cz || true
+      - name: Plain curl, default UA
+        run: curl -sS -m 25 -o /dev/null -w "%{http_code} %{time_total}s\n" "$API" || true
+      - name: Project UA
+        run: curl -sS -m 25 -o /dev/null -w "%{http_code} %{time_total}s\n" -A "czech-political-parties (+https://github.com/honzajavorek/czech-political-parties)" "$API" || true
+      - name: Browser UA
+        run: curl -sS -m 25 -o /dev/null -w "%{http_code} %{time_total}s\n" -A "$CHROME_UA" "$API" || true
+      - name: Full browser headers
+        run: |
+          curl -sS -m 25 -o /dev/null -w "%{http_code} %{time_total}s\n" "$API" \
+            -A "$CHROME_UA" \
+            -H "Accept: application/json,text/html;q=0.9,*/*;q=0.8" \
+            -H "Accept-Language: cs-CZ,cs;q=0.9,en;q=0.8" \
+            -H "Sec-Fetch-Mode: navigate" -H "Sec-Fetch-Site: none" || true
+      - name: IPv4 only, HTTP/1.1
+        run: curl -4 --http1.1 -sS -m 25 -o /dev/null -w "%{http_code} %{time_total}s\n" -A "$CHROME_UA" "$API" || true
+      - name: IPv6 only
+        run: curl -6 -sS -m 25 -o /dev/null -w "%{http_code} %{time_total}s\n" -A "$CHROME_UA" "$API" || true
+      - name: List page (RSC), browser UA
+        run: curl -sS -m 25 -o /dev/null -w "%{http_code} %{time_total}s\n" -A "$CHROME_UA" -H "RSC: 1" "$LIST" || true
+      - name: Main website homepage
+        run: curl -sS -m 25 -o /dev/null -w "%{http_code} %{time_total}s\n" -A "$CHROME_UA" https://mv.gov.cz/ || true
+      - name: Traceroute to the host
+        run: |
+          sudo apt-get install -y -qq traceroute >/dev/null 2>&1 || true
+          traceroute -n -T -p 443 -w 2 -m 20 mv.gov.cz || true
+
+  impersonate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.11"
+      - run: pip install curl_cffi
+      - name: curl_cffi impersonation
+        run: |
+          python - <<'PY'
+          from curl_cffi import requests
+          for target in ["chrome", "firefox", "safari"]:
+              for name, url in [("api", "https://mv.gov.cz/app/opendata/boards/SPS"),
+                                ("list", "https://mv.gov.cz/seznam-politickych-stran?Stavy=1&PageSize=5&PageNo=1")]:
+                  try:
+                      r = requests.get(url, impersonate=target, timeout=25)
+                      print(target, name, r.status_code, len(r.content), flush=True)
+                  except Exception as e:
+                      print(target, name, "ERR", type(e).__name__, str(e)[:120], flush=True)
+          PY
+
+  browsers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.11"
+      - run: pip install playwright "camoufox[geoip]"
+      - run: playwright install --with-deps chromium
+      - run: python -m camoufox fetch
+      - name: Playwright Chromium
+        run: |
+          python - <<'PY'
+          from playwright.sync_api import sync_playwright
+          with sync_playwright() as p:
+              b = p.chromium.launch()
+              for name, url in [("api", "https://mv.gov.cz/app/opendata/boards/SPS"),
+                                ("home", "https://mv.gov.cz/")]:
+                  try:
+                      r = b.new_page().goto(url, timeout=30000)
+                      print("chromium", name, r.status, flush=True)
+                  except Exception as e:
+                      print("chromium", name, "ERR", str(e)[:150], flush=True)
+          PY
+      - name: Camoufox
+        run: |
+          python - <<'PY'
+          from camoufox.sync_api import Camoufox
+          with Camoufox(headless=True) as b:
+              for name, url in [("api", "https://mv.gov.cz/app/opendata/boards/SPS"),
+                                ("home", "https://mv.gov.cz/")]:
+                  try:
+                      r = b.new_page().goto(url, timeout=30000)
+                      print("camoufox", name, r.status, flush=True)
+                  except Exception as e:
+                      print("camoufox", name, "ERR", str(e)[:150], flush=True)
+          PY
