@@ -36,7 +36,8 @@ jobs:
       - name: IPv6 only
         run: curl -6 -sS -m 25 -o /dev/null -w "%{http_code} %{time_total}s\n" -A "$CHROME_UA" "$API" || true
       - name: List page (RSC), browser UA
-        run: curl -sS -m 25 -o /dev/null -w "%{http_code} %{time_total}s\n" -A "$CHROME_UA" -H "RSC: 1" "$LIST" || true
+        run: |
+          curl -sS -m 25 -o /dev/null -w "%{http_code} %{time_total}s\n" -A "$CHROME_UA" -H "RSC: 1" "$LIST" || true
       - name: Main website homepage
         run: curl -sS -m 25 -o /dev/null -w "%{http_code} %{time_total}s\n" -A "$CHROME_UA" https://mv.gov.cz/ || true
       - name: Traceroute to the host
