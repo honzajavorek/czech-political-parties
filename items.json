@@ -1,5 +1,16 @@
 [
     {
+        "name": "Právo a prosperita",
+        "code": "PP",
+        "id": "30113351",
+        "reg_number": "MV-146483-4/OV-2026",
+        "reg_date": "2026-10-06",
+        "address": "339 01 Klatovy, Otín 1",
+        "people": [],
+        "type": "party",
+        "is_active": true
+    },
+    {
         "name": "Naše Bystrc",
         "code": "NBY",
         "id": "29857741",
