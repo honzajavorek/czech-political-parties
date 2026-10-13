@@ -647,7 +647,20 @@
         "reg_number": "MV- 57418-4/OV-2026",
         "reg_date": "2026-04-10",
         "address": "602 00 Brno, Kopečná 387/58",
-        "people": [],
+        "people": [
+            {
+                "name": "Mgr. Markéta Peringerová",
+                "role": "první místopředsedkyně"
+            },
+            {
+                "name": "Mgr. Milan Šulc",
+                "role": "řadový místopředseda"
+            },
+            {
+                "name": "prof. Ing. arch. Michal Sedláček",
+                "role": "předseda"
+            }
+        ],
         "type": "movement",
         "is_active": true
     },
