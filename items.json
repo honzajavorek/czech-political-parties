@@ -702,11 +702,11 @@
             },
             {
                 "name": "Petr Maroš",
-                "role": "člen"
+                "role": "místopředseda"
             },
             {
                 "name": "Zbyněk Sýkora",
-                "role": "člen"
+                "role": "místopředseda"
             }
         ],
         "type": "movement",
@@ -5500,7 +5500,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Občanské hnutí Můj domov",
