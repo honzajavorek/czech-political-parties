@@ -2702,8 +2702,8 @@
         "address": "561 51 Letohrad, Komenského 275",
         "people": [
             {
-                "name": "JUDr. Martin Netolický, Ph.D.",
-                "role": "člen"
+                "name": "JUDr. Martin  Netolický, Ph.D.",
+                "role": "předseda"
             },
             {
                 "name": "Jan Stránský",
@@ -2720,10 +2720,6 @@
             {
                 "name": "Miroslav Krčil",
                 "role": "člen"
-            },
-            {
-                "name": "Petr Fiala",
-                "role": "předseda"
             },
             {
                 "name": "Václav Kubín",
