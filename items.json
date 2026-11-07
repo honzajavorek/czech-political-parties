@@ -1298,7 +1298,7 @@
             }
         ],
         "type": "party",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Tomáš Magnusek do Senátu",
@@ -2484,7 +2484,7 @@
         "id": "09363149",
         "reg_number": "MV-184938-6/OV-2019",
         "reg_date": "2020-07-27",
-        "address": "370 06 České Budějovice, Pohůrecká 414/3",
+        "address": "110 00 Praha, Školská 660/3",
         "people": [
             {
                 "name": "Jaromír Dušek",
@@ -2699,7 +2699,7 @@
         "id": "08431345",
         "reg_number": "MV-104993-4/VS-2019",
         "reg_date": "2019-08-19",
-        "address": "561 51 Letohrad, Komenského 275",
+        "address": "560 02 Česká Třebová, Hýblova 74",
         "people": [
             {
                 "name": "JUDr. Martin  Netolický, Ph.D.",
@@ -8073,7 +8073,7 @@
             }
         ],
         "type": "movement",
-        "is_active": true
+        "is_active": false
     },
     {
         "name": "Starostové pro Liberecký kraj",
